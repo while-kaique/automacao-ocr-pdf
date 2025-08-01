@@ -1,0 +1,32 @@
+name: OCR PDF on Dispatch
+
+on:
+  workflow_dispatch:
+    inputs:
+      pdf_file:
+        description: 'Caminho do PDF para processar'
+        required: true
+        default: 'NF.pdf'
+
+jobs:
+  ocr:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Instala dependências do sistema
+        run: |
+          sudo apt-get update
+          sudo apt-get install -y tesseract-ocr poppler-utils
+
+      - name: Instala dependências Python
+        run: pip install -r requirements.txt
+
+      - name: Faz OCR no PDF
+        run: python ocr_pdf.py ${{ github.event.inputs.pdf_file }} output.txt
+
+      - name: Faz upload do texto extraído como artefato
+        uses: actions/upload-artifact@v4
+        with:
+          name: texto_extraido
+          path: output.txt
