@@ -21,13 +21,24 @@ jobs:
 
       - name: Instala dependências Python
         run: pip install -r requirements.txt
+      
+      # 1. PASSO DE BUSCA DINÂMICA
+      # Encontra o diretório onde 'por.traineddata' foi realmente instalado
+      # e salva esse caminho em uma variável de ambiente para os próximos passos.
+      - name: Descobrir e Salvar Caminho do Tesseract
+        id: find_tessdata
+        run: |
+          TESSDATA_DIR=$(find /usr/share -name "por.traineddata" | sed 's|\(.*\)/.*|\1|')
+          echo "TESSDATA_PATH_FOUND=$TESSDATA_DIR" >> $GITHUB_ENV
+          echo "Caminho encontrado: $TESSDATA_DIR"
 
+      # 2. USA O CAMINHO ENCONTRADO NO PASSO ANTERIOR
+      # A variável ${{ env.TESSDATA_PATH_FOUND }} foi criada no passo acima.
       - name: Rodar o OCR
         env:
-          TESSDATA_PREFIX: /usr/share/tessdata
+          TESSDATA_PREFIX: ${{ env.TESSDATA_PATH_FOUND }}
         run: python ocr_pdf.py uploads/nf.pdf output.txt
-      - name: Lista arquivos de idioma do Tesseract
-        run: ls /usr/share/tesseract-ocr/5/tessdata
+
       - name: Faz upload do texto extraído como artefato
         uses: actions/upload-artifact@v4
         with:
