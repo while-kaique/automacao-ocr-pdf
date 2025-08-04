@@ -17,14 +17,17 @@ jobs:
       - name: Instala dependências do sistema
         run: |
           sudo apt-get update
-          sudo apt-get install -y tesseract-ocr poppler-utils
+          sudo apt-get install -y tesseract-ocr tesseract-ocr-por poppler-utils
 
       - name: Instala dependências Python
         run: pip install -r requirements.txt
 
-      - name: Faz OCR no PDF
-        run: python ocr_pdf.py ${{ github.event.inputs.pdf_file }} output.txt
-
+      - name: Rodar o OCR
+        env:
+          TESSDATA_PREFIX: /usr/share/tessdata
+        run: python ocr_pdf.py uploads/nf.pdf output.txt
+      - name: Lista arquivos de idioma do Tesseract
+        run: ls /usr/share/tesseract-ocr/5/tessdata
       - name: Faz upload do texto extraído como artefato
         uses: actions/upload-artifact@v4
         with:
