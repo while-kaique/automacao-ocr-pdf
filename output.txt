@@ -1,67 +1,83 @@
 
 --- Página 1 ---
-PREFEITURA DA CIDADE DO RIO DE JANEIRO “0000019
-SECRETARIA MUNICIPAL DE FAZENDA
-NOTA FISCAL DE SERVIÇOS ELETRÔNICA - NFS-e 01/04/2025 20:34:08
-ódigo de Verificação
-- NOTA CARIOCA -
-PRESTADOR DE SERVIÇOS
+MUNICÍPIO DE PRESIDENTE
+N FSe DANFSe v1.0 =. PRUDENTE
+erviço elet Documento Auxiliar da NFS-e ; (18)3902-4414
 
-CPF/CNPJ: 53.081.863/0001-05 Inscrição Municipal: 1.665.893-2 Inscrição Estadual: ---
-Nome/Razão Social: DANIEL ARAGAO LOUZADA LTDA
-Nome Fantasia: DANIEL ARAGAO LOUZADA LTDA Tel.: 24992146033
+Chave de Acesso da NFS-e
+35414062258239035000168000000000001225072299368301
 
-Endereço: AVN JOAO CABRAL DE MELLO NETO 550, APT 807 BLC 1 - BARRA DA TIJUCA - CEP: 22775-057
-Município: RIO DE JANEIRO UF: RJ
+Número da NFS-e Competência da NFS-e Data e Hora da emissão da NFS-e
+12 07/07/2025 07/07/2025 18:14:32
 
-TOMADOR DE SERVIÇOS
-CPF/CNPJ: 22.165.464/0001 -90 Inscrição Municipal: ---- Inscrição Estadual: ----
-Nome/Razão Social: GO COMERCIO DE ARTIGOS ELETRONICOS E ACESSO, RIOS LTDA
+Número da DPS Série da DPS Data e Hora da emissão da DPS dis,
 
-Endereço: RUA PADRE VALDEVINO 2528, SALA 2 - DIONISIO TORRES - CEP: 60135-414 Tel. --—
-Município: FORTALEZA UF: CE E-mail:
-DISCRIMINAÇÃO DOS SERVIÇOS
+12 900 07/07/2025 18:14:31 A autenticidade desta NFS-e pode ser verificada
+pela leitura deste código QR ou pela consulta da
+chave de acesso no portal nacional da NFS-e
 
-Serviços Prestados
+EMITENTE DA NFS-e CNPJ/CPF/NIF Inscrição Municipal Telefone
 
-Daniel Aragão (2/2)
-04 telas de stories
-2 reels com repost no tiktok
+Prestador do Serviço 58.239.035/0001-68 - (1 8) 2104-2679
 
-Dados Bancaçrios:
+Nome / Nome Empresarial E-mail
+58.239.035 ANA CLARA NEGRI SANTOS CONTABILSINDPPOGMAIL.COM
 
-Banco: INTER
+Endereço Município CEP
+PAULO RIBEIRO, 284, RESIDENCIAL VISTA DO VALE Presidente Prudente - SP 19063-841
 
-Age;ncia: 0001
+Simples Nacional na Data de Competência Regime de Apuração Tributária pelo SN
+Optante - Microempreendedor Individual (MEI) -
 
-Conta: 32658646-6
+TOMADOR DO SERVIÇO CNPJ/CPF/NIF Inscrição Municipal Telefone
+22.165.464/0001-90 - -
 
-Tipo de Conta PJ
+Nome / Nome Empresarial E-mail
+GO COMERCIO DE ARTIGOS ELETRONICOS E ACESSORIOS LTDA -
 
-PIX: CNPJ - 53.081.863/0001-05
+Endereço Município CEP
+PADRE VALDEVINO, 2528, SALA 02, DIONISIO TORRES Fortaleza - CE 60135-414
 
-Marca: GoCase
-Valor: R$ 2.000,00
-Vencimento: 31/07/2025
+INTERMEDIÁRIO DO SERVIÇO NÃO IDENTIFICADO NA NFS-e
+SERVIÇO PRESTADO
 
-VALOR DA NOTA = R$ 2.000,00
+Código de Tributação Nacional Código de Tributação Municipal Local da Prestação País da Prestação
+01.03.01 - Processamento de dados, - Presidente Prudente - SP -
+textos, imagens, vídeos, páginas ...
 
-Serviço Prestado
+Descrição do Serviço
+PROCESSAMENTO EM IMAGEM
 
-13.03.01 - Fotografia
+TRIBUTAÇÃO MUNICIPAL
 
-Deduções (R$) Desconto Incond. (R$) |Base de Cálculo (R$) Alíquota (%) Valor do 55 (R$) Crédito p/ IPTU (R$)
-0,00 0,00 0,00
+Tributação do ISSQN País Resultado da Prestação do Serviço Município de Incidência do ISSQN Regime Especial de Tributação
+Operação Tributável - Presidente Prudente - SP Nenhum
 
-OUTRAS INFORMAÇÕES
+Tipo de Imunidade Suspensão da Exigibilidade do ISSQN Número Processo Suspensão Benefício Municipal
+- Não - -
 
-- Esta NFS-e foi emitida com respaldo na Lei nº 5.098 de 15/10/2009 e no Decreto nº 32.250 de 11/05/2010
+Valor do Serviço Desconto Incondicionado Total Deduções/Reduções Cálculo do BM
+R$ 2.084,90 - - -
 
-- PROCON-RJ: Av. Rio Branco nº 25, 5º andar, tel 151: ww. procon.r).gov.br
+BC ISSQN Alíquota Aplicada Retenção do ISSQN ISSQN Apurado
+- Não Retido -
 
-- ISS devido deve ser recolhido por meio de Documento de Arrecadação do Simples Nacional (DAS).
+TRIBUTAÇÃO FEDERAL
+IRRF CP CSLL
 
-- Documento emitido por ME ou EPP optante pelo Simples Nacional. Não gera direito a crédito fiscal de IPI.
+COFINS Retenção do PIS/COFINS TOTAL TRIBUTAÇÃO FEDERAL
 
-- Esta NFS-e não gera crédito para abatimento no IPTU.
+VALOR TOTAL DA NFS-E
+
+Valor do Serviço Desconto Condicionado Desconto Incondicionado ISSQN Retido
+R$ 2.084,90 R$ R$ -
+
+IRRF, CP,CSLL - Retidos PIS/COFINS Retidos Valor Líquido da NFS-e
+R$ 0,00 - R$ 2.084,90
+
+TOTAIS APROXIMADOS DOS TRIBUTOS
+
+Federais Estaduais Municipais
+
+INFORMAÇÕES COMPLEMENTARES
 
