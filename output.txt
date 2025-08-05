@@ -1,0 +1,83 @@
+
+--- Página 1 ---
+MUNICÍPIO DE PRESIDENTE
+N FSe DANFSe v1.0 =. PRUDENTE
+erviço elet Documento Auxiliar da NFS-e ; (18)3902-4414
+
+Chave de Acesso da NFS-e
+35414062258239035000168000000000001225072299368301
+
+Número da NFS-e Competência da NFS-e Data e Hora da emissão da NFS-e
+12 07/07/2025 07/07/2025 18:14:32
+
+Número da DPS Série da DPS Data e Hora da emissão da DPS dis,
+
+12 900 07/07/2025 18:14:31 A autenticidade desta NFS-e pode ser verificada
+pela leitura deste código QR ou pela consulta da
+chave de acesso no portal nacional da NFS-e
+
+EMITENTE DA NFS-e CNPJ/CPF/NIF Inscrição Municipal Telefone
+
+Prestador do Serviço 58.239.035/0001-68 - (1 8) 2104-2679
+
+Nome / Nome Empresarial E-mail
+58.239.035 ANA CLARA NEGRI SANTOS CONTABILSINDPPOGMAIL.COM
+
+Endereço Município CEP
+PAULO RIBEIRO, 284, RESIDENCIAL VISTA DO VALE Presidente Prudente - SP 19063-841
+
+Simples Nacional na Data de Competência Regime de Apuração Tributária pelo SN
+Optante - Microempreendedor Individual (MEI) -
+
+TOMADOR DO SERVIÇO CNPJ/CPF/NIF Inscrição Municipal Telefone
+22.165.464/0001-90 - -
+
+Nome / Nome Empresarial E-mail
+GO COMERCIO DE ARTIGOS ELETRONICOS E ACESSORIOS LTDA -
+
+Endereço Município CEP
+PADRE VALDEVINO, 2528, SALA 02, DIONISIO TORRES Fortaleza - CE 60135-414
+
+INTERMEDIÁRIO DO SERVIÇO NÃO IDENTIFICADO NA NFS-e
+SERVIÇO PRESTADO
+
+Código de Tributação Nacional Código de Tributação Municipal Local da Prestação País da Prestação
+01.03.01 - Processamento de dados, - Presidente Prudente - SP -
+textos, imagens, vídeos, páginas ...
+
+Descrição do Serviço
+PROCESSAMENTO EM IMAGEM
+
+TRIBUTAÇÃO MUNICIPAL
+
+Tributação do ISSQN País Resultado da Prestação do Serviço Município de Incidência do ISSQN Regime Especial de Tributação
+Operação Tributável - Presidente Prudente - SP Nenhum
+
+Tipo de Imunidade Suspensão da Exigibilidade do ISSQN Número Processo Suspensão Benefício Municipal
+- Não - -
+
+Valor do Serviço Desconto Incondicionado Total Deduções/Reduções Cálculo do BM
+R$ 2.084,90 - - -
+
+BC ISSQN Alíquota Aplicada Retenção do ISSQN ISSQN Apurado
+- Não Retido -
+
+TRIBUTAÇÃO FEDERAL
+IRRF CP CSLL
+
+COFINS Retenção do PIS/COFINS TOTAL TRIBUTAÇÃO FEDERAL
+
+VALOR TOTAL DA NFS-E
+
+Valor do Serviço Desconto Condicionado Desconto Incondicionado ISSQN Retido
+R$ 2.084,90 R$ R$ -
+
+IRRF, CP,CSLL - Retidos PIS/COFINS Retidos Valor Líquido da NFS-e
+R$ 0,00 - R$ 2.084,90
+
+TOTAIS APROXIMADOS DOS TRIBUTOS
+
+Federais Estaduais Municipais
+
+INFORMAÇÕES COMPLEMENTARES
+
