@@ -33,7 +33,7 @@ jobs:
         env:
           TESSDATA_PREFIX: ${{ env.TESSDATA_PATH_FOUND }}
         run: python ocr_pdf.py ${{ github.event.inputs.pdf_file }} output.txt
-
+ 
 
       - name: Commita arquivo output.txt no repositório
         uses: EndBug/add-and-commit@v9
