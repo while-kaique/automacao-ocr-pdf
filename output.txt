@@ -1,67 +1,63 @@
 
 --- Página 1 ---
-PREFEITURA DA CIDADE DO RIO DE JANEIRO “0000019
-SECRETARIA MUNICIPAL DE FAZENDA
-NOTA FISCAL DE SERVIÇOS ELETRÔNICA - NFS-e 01/04/2025 20:34:08
-ódigo de Verificação
-- NOTA CARIOCA -
+07/07/2025, 12:42 Usuário: 32.879.031/0001-50 - NF-e - Nota Fiscal Eletrônica de Serviços - São Paulo
+
+Número da Nota
+
+PREFEITURA DO MUNICIPIO DE SAO PAULO 00000059
+
+SECRETARIA MUNICIPAL DA FAZENDA Data e Hora de Emissão
+” 07/07/2025 12:42:13
+NOTA FISCAL ELETRÔNICA DE SERVIÇOS - NFS-e Código de Verificação
+Y3I9-WYBJ
+
 PRESTADOR DE SERVIÇOS
+Inscrição Municipal: 6.209.043-7
+Nome/Razão Social: 32.879.031 ALESSANDRA SAYURI GONCALVES MIYASHIRO
 
-CPF/CNPJ: 53.081.863/0001-05 Inscrição Municipal: 1.665.893-2 Inscrição Estadual: ---
-Nome/Razão Social: DANIEL ARAGAO LOUZADA LTDA
-Nome Fantasia: DANIEL ARAGAO LOUZADA LTDA Tel.: 24992146033
+Endereço: AY AUGUSTO ANTUNES 729, SALA 03 - LIMOEIRO - CEP: 08051-370
+Ur: SP
 
-Endereço: AVN JOAO CABRAL DE MELLO NETO 550, APT 807 BLC 1 - BARRA DA TIJUCA - CEP: 22775-057
-Município: RIO DE JANEIRO UF: RJ
+CPF/CNPJ: 32.879.031/0001-50
+
+Município: São Paulo
 
 TOMADOR DE SERVIÇOS
-CPF/CNPJ: 22.165.464/0001 -90 Inscrição Municipal: ---- Inscrição Estadual: ----
-Nome/Razão Social: GO COMERCIO DE ARTIGOS ELETRONICOS E ACESSO, RIOS LTDA
+Nome/Razão Social: GO COMERCIO DE ARTIGOS ELETRÔNICOS E ACESSÓRIOS LTDA
 
-Endereço: RUA PADRE VALDEVINO 2528, SALA 2 - DIONISIO TORRES - CEP: 60135-414 Tel. --—
-Município: FORTALEZA UF: CE E-mail:
+CPF/CNPJ: 22.165.464/0003-52 Inscrição Municipal: ----
+
+Endereço: RV MG-460 (EST MUNIC HORACIO MARINHO) 350, GALPAQO1 - JARDIM - CEP: 37640-000
+
+Município: Extrema UF: MG E-mail: contabilf Gosldigital.com.br
+INTERMEDIÁRIO DE SERVIÇOS
+
+CPF/CNPJ: —- Nome/Razão Social: --—-
+
 DISCRIMINAÇÃO DOS SERVIÇOS
 
-Serviços Prestados
+Agenciamento em Campanha publicitária com (natingraci JUNHO/25 + Direitos de Imagem + Canal
+Whatsapp
+Dados Bancários:
 
-Daniel Aragão (2/2)
-04 telas de stories
-2 reels com repost no tiktok
+Banco: Inter Ag 0001 C/C: 8222970-8
+PIX assessoria.w7icreatorlgmail.com
 
-Dados Bancaçrios:
+VALOR TOTAL DO SERVIÇO = R$ 4.800,00
+INSS (R$) | IRRF (R$) | CSLL (R$) | COFINS (R$) PIS/PASEP (R$)
 
-Banco: INTER
+Código do Serviço
+02496 - Propaganda e publicidade, promoção de vendas, planejamento de campanhas e materiais publicitários.
 
-Age;ncia: 0001
+Valor Total das Deduções (R$) Base de Cálculo (R$) Alíquota (%) Valor do ISS (R$) Crédito (R$)
+0,00 z i Z
 
-Conta: 32658646-6
-
-Tipo de Conta PJ
-
-PIX: CNPJ - 53.081.863/0001-05
-
-Marca: GoCase
-Valor: R$ 2.000,00
-Vencimento: 31/07/2025
-
-VALOR DA NOTA = R$ 2.000,00
-
-Serviço Prestado
-
-13.03.01 - Fotografia
-
-Deduções (R$) Desconto Incond. (R$) |Base de Cálculo (R$) Alíquota (%) Valor do 55 (R$) Crédito p/ IPTU (R$)
-0,00 0,00 0,00
+Município da Prestação do Serviço Número Inscrição da Obra Valor Aproximado dos Tributos ! Fonte
 
 OUTRAS INFORMAÇÕES
+(1) Esta NFS-e foi emitida com respaldo na Lei nº 14.097/2005; (2) Documento emitido por ME ou EPP optante pelo Simples
+Nacional;
 
-- Esta NFS-e foi emitida com respaldo na Lei nº 5.098 de 15/10/2009 e no Decreto nº 32.250 de 11/05/2010
+0,00
 
-- PROCON-RJ: Av. Rio Branco nº 25, 5º andar, tel 151: ww. procon.r).gov.br
-
-- ISS devido deve ser recolhido por meio de Documento de Arrecadação do Simples Nacional (DAS).
-
-- Documento emitido por ME ou EPP optante pelo Simples Nacional. Não gera direito a crédito fiscal de IPI.
-
-- Esta NFS-e não gera crédito para abatimento no IPTU.
-
+https://nfe.prefeitura.sp.gov.br/contribuinte/notaprint.aspx?nf=59&inscricao=62090437 &email=1&SMS=0&returnurl=nota.aspx%3finscricao%3d62090437 | 1/1
