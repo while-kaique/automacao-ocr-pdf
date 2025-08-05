@@ -22,9 +22,6 @@ jobs:
       - name: Instala dependências Python
         run: pip install -r requirements.txt
       
-      # 1. PASSO DE BUSCA DINÂMICA
-      # Encontra o diretório onde 'por.traineddata' foi realmente instalado
-      # e salva esse caminho em uma variável de ambiente para os próximos passos.
       - name: Descobrir e Salvar Caminho do Tesseract
         id: find_tessdata
         run: |
@@ -32,15 +29,14 @@ jobs:
           echo "TESSDATA_PATH_FOUND=$TESSDATA_DIR" >> $GITHUB_ENV
           echo "Caminho encontrado: $TESSDATA_DIR"
 
-      # 2. USA O CAMINHO ENCONTRADO NO PASSO ANTERIOR
-      # A variável ${{ env.TESSDATA_PATH_FOUND }} foi criada no passo acima.
       - name: Rodar o OCR
         env:
           TESSDATA_PREFIX: ${{ env.TESSDATA_PATH_FOUND }}
         run: python ocr_pdf.py uploads/nf.pdf output.txt
 
-      - name: Faz upload do texto extraído como artefato
-        uses: actions/upload-artifact@v4
+      - name: Commita arquivo output.txt no repositório
+        uses: EndBug/add-and-commit@v9
         with:
-          name: texto_extraido
-          path: output.txt
+          add: 'output.txt'
+          message: 'feat: OCR automático do PDF para texto'
+          default_author: github_actions
