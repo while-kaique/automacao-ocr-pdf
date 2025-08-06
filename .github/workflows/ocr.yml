@@ -7,17 +7,12 @@ on:
         description: 'Caminho do PDF para processar'
         required: true
         default: 'NF.pdf'
-      resumeUrl:
-        description: 'URL do n8n para retomar execução'
-        required: false
 
 jobs:
   ocr:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
-        with:
-          persist-credentials: true
 
       - name: Instala dependências do sistema
         run: |
@@ -38,19 +33,11 @@ jobs:
         env:
           TESSDATA_PREFIX: ${{ env.TESSDATA_PATH_FOUND }}
         run: python ocr_pdf.py ${{ github.event.inputs.pdf_file }} output.txt
+ 
 
-      - name: Retornar resultado para n8n (resumeUrl)
-        if: ${{ github.event.inputs.resumeUrl != '' }}
-        run: |
-          curl -X POST "${{ github.event.inputs.resumeUrl }}" \
-            -H "Content-Type: application/json" \
-            --data-binary @output.txt
-
-      - name: Commita output.txt no repo
-        uses: EndBug/add-and-commit@v7.5.0
+      - name: Commita arquivo output.txt no repositório
+        uses: EndBug/add-and-commit@v9
         with:
-          github_token: ${{ secrets.GITHUB_TOKEN }}
           add: 'output.txt'
-          message: 'feat: OCR automático'
+          message: 'feat: OCR automático do PDF para texto'
           default_author: github_actions
-          pull: true
