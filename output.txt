@@ -1,63 +1,38 @@
 
 --- Página 1 ---
-07/07/2025, 12:42 Usuário: 32.879.031/0001-50 - NF-e - Nota Fiscal Eletrônica de Serviços - São Paulo
+07/07/2025, 16:16 Usuário: 32.879.031/0001-50 - NF-e - Nota Fiscal Eletrônica de Serviços - São Paulo
 
-Número da Nota
-
-PREFEITURA DO MUNICIPIO DE SAO PAULO 00000059
-
+PREFEITURA DO MUNICÍPIO DE SÃO PAULO "anne
+00000060
 SECRETARIA MUNICIPAL DA FAZENDA Data e Hora de Emissão
-” 07/07/2025 12:42:13
+à 07/07/2025 16:16:20
 NOTA FISCAL ELETRÔNICA DE SERVIÇOS - NFS-e Código de Verificação
-Y3I9-WYBJ
-
+I9LK-HJED
 PRESTADOR DE SERVIÇOS
-Inscrição Municipal: 6.209.043-7
+CPF/CNPJ: 32.879.031/0001-50 Inscrição Municipal: 6.209.043-7
 Nome/Razão Social: 32.879.031 ALESSANDRA SAYURI GONCALVES MIYASHIRO
-
 Endereço: AY AUGUSTO ANTUNES 729, SALA 03 - LIMOEIRO - CEP: 08051-370
-Ur: SP
-
-CPF/CNPJ: 32.879.031/0001-50
-
-Município: São Paulo
-
+Município: São Paulo Ur: SP
 TOMADOR DE SERVIÇOS
-Nome/Razão Social: GO COMERCIO DE ARTIGOS ELETRÔNICOS E ACESSÓRIOS LTDA
-
+Nome/Razão Social: GO COMERCIO DE ARTIGOS ELETRONICOS E ACESSORIOS LTDA
 CPF/CNPJ: 22.165.464/0003-52 Inscrição Municipal: ----
-
 Endereço: RV MG-460 (EST MUNIC HORACIO MARINHO) 350, GALPAQO1 - JARDIM - CEP: 37640-000
-
 Município: Extrema UF: MG E-mail: contabilf Gosldigital.com.br
 INTERMEDIÁRIO DE SERVIÇOS
-
-CPF/CNPJ: —- Nome/Razão Social: --—-
-
+CPF/CNPJ: --- Nome/Razão Social: ----
 DISCRIMINAÇÃO DOS SERVIÇOS
-
-Agenciamento em Campanha publicitária com (natingraci JUNHO/25 + Direitos de Imagem + Canal
-Whatsapp
+Campanha publicitária com (bellamiiyva em JUNHO/25
 Dados Bancários:
-
-Banco: Inter Ag 0001 C/C: 8222970-8
-PIX assessoria.w7icreatorlgmail.com
-
-VALOR TOTAL DO SERVIÇO = R$ 4.800,00
+Banco: Inter Ag 0001 C/C: 6222970-8
+PIX assessoria.wicreator(igmail.com
+VALOR TOTAL DO SERVIÇO = R$ 1.200,00
 INSS (R$) | IRRF (R$) | CSLL (R$) | COFINS (R$) PIS/PASEP (R$)
-
 Código do Serviço
 02496 - Propaganda e publicidade, promoção de vendas, planejamento de campanhas e materiais publicitários.
-
 Valor Total das Deduções (R$) Base de Cálculo (R$) Alíquota (%) Valor do ISS (R$) Crédito (R$)
-0,00 z i Z
-
-Município da Prestação do Serviço Número Inscrição da Obra Valor Aproximado dos Tributos ! Fonte
-
+0,00 z z z 0,00
 OUTRAS INFORMAÇÕES
 (1) Esta NFS-e foi emitida com respaldo na Lei nº 14.097/2005; (2) Documento emitido por ME ou EPP optante pelo Simples
 Nacional;
 
-0,00
-
-https://nfe.prefeitura.sp.gov.br/contribuinte/notaprint.aspx?nf=59&inscricao=62090437 &email=1&SMS=0&returnurl=nota.aspx%3finscricao%3d62090437 | 1/1
+https://nfe.prefeitura.sp.gov.br/contribuinte/notaprint.aspx?nf=60&inscricao=62090437 &email=1&SMS=0&returnurl=nota.aspx%3finscricao%3d62090437 | 1/1
