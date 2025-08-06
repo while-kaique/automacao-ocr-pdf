@@ -51,3 +51,4 @@ jobs:
           message: 'feat: OCR automático do PDF para texto'
           default_author: github_actions
           pull: true
+          github_token: ${{ secrets.GITHUB_TOKEN }}
