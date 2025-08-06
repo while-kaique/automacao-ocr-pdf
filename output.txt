@@ -1,175 +1,83 @@
 
 --- Página 1 ---
-DANFSe v1.0
-
-NFS:
-
-Documento Auxiliar da NFS-e
+MUNICÍPIO DE PRESIDENTE
+N FSe DANFSe v1.0 =. PRUDENTE
+erviço elet Documento Auxiliar da NFS-e ; (18)3902-4414
 
 Chave de Acesso da NFS-e
-33045572259301410000115000000000001525076721627694
+35414062258239035000168000000000001225072299368301
 
-Número da NFS-e Competência da NFS-e
-15 01/07/2025
+Número da NFS-e Competência da NFS-e Data e Hora da emissão da NFS-e
+12 07/07/2025 07/07/2025 18:14:32
 
-Número da DPS Série da DPS
-15 900
+Número da DPS Série da DPS Data e Hora da emissão da DPS dis,
 
-Data e Hora da emissão da NFS-e
-01/07/2025 15:39:09
-
-Data e Hora da emissão da DPS
-01/07/2025 15:39:09
-
-A autenticidade desta NFS-e pode ser verificada
+12 900 07/07/2025 18:14:31 A autenticidade desta NFS-e pode ser verificada
 pela leitura deste código QR ou pela consulta da
 chave de acesso no portal nacional da NFS-e
 
-CNPJ/CPF /NIF
-59.301.410/0001-15
+EMITENTE DA NFS-e CNPJ/CPF/NIF Inscrição Municipal Telefone
 
-EMITENTE DA NFS-e
-Prestador do Serviço
+Prestador do Serviço 58.239.035/0001-68 - (1 8) 2104-2679
 
-Nome / Nome Empresarial
-59.301.410 MILENA SCUDERI SALMOIRAGHI
+Nome / Nome Empresarial E-mail
+58.239.035 ANA CLARA NEGRI SANTOS CONTABILSINDPPOGMAIL.COM
 
-Endereço
-AFONSO ARINOS DE MELO FRANCO, 239, BARRA DA TIJUCA
+Endereço Município CEP
+PAULO RIBEIRO, 284, RESIDENCIAL VISTA DO VALE Presidente Prudente - SP 19063-841
 
-Simples Nacional na Data de Competência
-Optante - Microempreendedor Individual (MEI)
+Simples Nacional na Data de Competência Regime de Apuração Tributária pelo SN
+Optante - Microempreendedor Individual (MEI) -
 
-Inscrição Municipal
+TOMADOR DO SERVIÇO CNPJ/CPF/NIF Inscrição Municipal Telefone
+22.165.464/0001-90 - -
 
-E-mail
-MILENASCUDERIGQHOTMAIL.COM
-Município
+Nome / Nome Empresarial E-mail
+GO COMERCIO DE ARTIGOS ELETRONICOS E ACESSORIOS LTDA -
 
-Rio de Janeiro - RJ
-
-Regime de Apuração Tributária pelo SN
-
-Telefone
-(21) 9346-0942
-
-CEP
-22631-455
-
-TOMADOR DO SERVIÇO CNPJ/CPF /NIF
-22.165.464/0001-90
-
-Nome / Nome Empresarial
-GO COMERCIO DE ARTIGOS ELETRONICOS E ACESSORIOS LTDA
-
-Endereço
-PADRE VALDEVINO, 2528, SALA 02, DIONISIO TORRES
-
-Inscrição Municipal
-
-E-mail
-contabilidade(Dgocase.com
-Município
-
-Fortaleza - CE
-
-Telefone
-(85) 9813-0660
-
-CEP
-60135-414
+Endereço Município CEP
+PADRE VALDEVINO, 2528, SALA 02, DIONISIO TORRES Fortaleza - CE 60135-414
 
 INTERMEDIÁRIO DO SERVIÇO NÃO IDENTIFICADO NA NFS-e
-
 SERVIÇO PRESTADO
 
-Código de Tributação Nacional Código de Tributação Municipal
-17.06.01 - Propaganda e publicidade, -
-
-inclusive promoção de vendas, p...
+Código de Tributação Nacional Código de Tributação Municipal Local da Prestação País da Prestação
+01.03.01 - Processamento de dados, - Presidente Prudente - SP -
+textos, imagens, vídeos, páginas ...
 
 Descrição do Serviço
-
-NOTA FISCAL REFERENTE A DIVULGAÇÃO DE JULIA CASTRO CESCHIN
-VALOR: R$2.000,00
-
-BANCO ITAÚ: AG: 3239 CC/ 22673-5 CPF PIX: 131.092.367-10
-
-MILENA SCUDERI SALMOIRAGHI
+PROCESSAMENTO EM IMAGEM
 
 TRIBUTAÇÃO MUNICIPAL
 
-Tributação do ISSQN País Resultado da Prestação do Serviço
-Operação Tributável -
+Tributação do ISSQN País Resultado da Prestação do Serviço Município de Incidência do ISSQN Regime Especial de Tributação
+Operação Tributável - Presidente Prudente - SP Nenhum
 
-Tipo de Imunidade Suspensão da Exigibilidade do ISSQN
+Tipo de Imunidade Suspensão da Exigibilidade do ISSQN Número Processo Suspensão Benefício Municipal
+- Não - -
 
-- Não
+Valor do Serviço Desconto Incondicionado Total Deduções/Reduções Cálculo do BM
+R$ 2.084,90 - - -
 
-Valor do Serviço Desconto Incondicionado
-
-R$ 2.000,00 -
-
-BC ISSQN Alíquota Aplicada
-
-Local da Prestação
-Rio de Janeiro - RJ
-
-Município de Incidência do ISSQN
-Rio de Janeiro - RJ
-
-Número Processo Suspensão
-
-Total Deduções/Reduções
-
-Retenção do ISSQN
-Não Retido
-
-País da Prestação
-
-Regime Especial de Tributação
-Nenhum
-
-Benefício Municipal
-
-Cálculo do BM
-
-ISSQN Apurado
+BC ISSQN Alíquota Aplicada Retenção do ISSQN ISSQN Apurado
+- Não Retido -
 
 TRIBUTAÇÃO FEDERAL
+IRRF CP CSLL
 
-IRRF CP
-
-COFINS
-
-CSLL
-
-Retenção do PIS/COFINS
-
-TOTAL TRIBUTAÇÃO FEDERAL
+COFINS Retenção do PIS/COFINS TOTAL TRIBUTAÇÃO FEDERAL
 
 VALOR TOTAL DA NFS-E
 
-Valor do Serviço Desconto Condicionado
-R$ 2.000,00 R$
+Valor do Serviço Desconto Condicionado Desconto Incondicionado ISSQN Retido
+R$ 2.084,90 R$ R$ -
 
-IRRF, CP,CSLL - Retidos PIS/COFINS Retidos
-R$ 0,00 -
-
-Desconto Incondicionado
-R$
-
-ISSQN Retido
-
-Valor Líquido da NFS-e
-R$ 2.000,00
+IRRF, CP,CSLL - Retidos PIS/COFINS Retidos Valor Líquido da NFS-e
+R$ 0,00 - R$ 2.084,90
 
 TOTAIS APROXIMADOS DOS TRIBUTOS
-Federais
 
-Estaduais
-
-Municipais
+Federais Estaduais Municipais
 
 INFORMAÇÕES COMPLEMENTARES
 
