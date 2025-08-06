@@ -40,9 +40,10 @@ jobs:
       - name: Retornar resultado para n8n (resumeUrl)
         if: ${{ github.event.inputs.resumeUrl != '' && github.event.inputs.resumeUrl != null }}
         run: |
+          TEXT=$(cat output.txt | jq -Rs .)
           curl -X POST "${{ github.event.inputs.resumeUrl }}" \
             -H "Content-Type: application/json" \
-            --data-binary @output.txt
+            -d "{ \"ocr_text\": $TEXT }"
 
       - name: Commita arquivo output.txt no repositório
         uses: EndBug/add-and-commit@v9
