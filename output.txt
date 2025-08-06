@@ -1,81 +1,65 @@
 
 --- Página 1 ---
-N FSe e DANFSe v1.0
-ervico ele Documento Auxiliar da NFS-e
+02/07/2025, 08:25 NFS-e - Nota Fiscal de Serviços Eletrônica de Porto Alegre
 
-Chave de Acesso da NFS-e
-33035002239627538000166000000000005125070889489168
+NFS-e - NOTA FISCAL DE SERVIÇOS ELETRÔNICA
 
-Número da NFS-e Competência da NFS-e Data e Hora da emissão da NFS-e
-51 07/07/2025 07/07/2025 17:52:21
+Emitida em: Competência: Código de Verificação:
+O.
+Nº:2025/20 02/07/2025 5508:23:4 02/07/2025 b69314ba
+ALINE DE OLIVEIRA STEFFENS LTDA
+—s, CPF/CNPJ: 54.713.057/0001-67 Inscrição Municipal: 75003520
+sLogo prestador R LUIZ SIEGMANN, 160, APT 1001, JARDIM LINDOIA - Cep: 91050-325
+Porto Alegre RS
+Telefone: Email:
+Tomador do(s) Serviço(s)
+CPF/CNPJ: 22.165.464/0001-90 Inscrição Municipal: Não Informado
 
-Número da DPS Série da DPS Data e Hora da emissão da DPS lr e
-53 900 07/07/2025 17:52:21 A autenticidade desta NFS-e pode ser verificada
+GO COMERCIO DE ARTIGOS ELETRONICOS E ACESSORIOS LTDA
 
-pela leitura deste código QR ou pela consulta da
-chave de acesso no portal nacional da NFS-e
+R PADRE VALDEVINO, 2528, Sala 02, DIONISIMO TORRES - Cep: 60135-414
 
-EMITENTE DA NFS-e CNPJ /CPF/NIF Inscrição Municipal Telefone
-Prestador do Serviço 39.627.538/0001-66 - (21) 7285-7449
+Porto Alegre RS
 
-Nome / Nome Empresarial E-mail
-LARISSA MONTIJO DE ALMEIDA COELHO 14757507739 LARISSAMONTIJO.C(ODGMAIL.COM
+Telefone: (85)9813-0660 Email: CONTABILIDADEEGOCASE. COM
 
-Endereço Município CEP
-PHILOMENO COELHO, 139, JARDIM SANTA RITA Nova Iguaçu - RJ 26050-020
+Discriminação do(s) Serviço(s)
 
-Simples Nacional na Data de Competência Regime de Apuração Tributária pelo SN
-Optante - Microempreendedor Individual (MEI) -
+publicidade via redes sociais Aline Steffens para GoCase
 
-TOMADOR DO SERVIÇO CNPJ/CPF/NIF Inscrição Municipal Telefone
-22.165.464/0001-90 - -
+Código de Tributação Municipal:
 
-Nome / Nome Empresarial E-mail
-GO COMERCIO DE ARTIGOS ELETRONICOS E ACESSORIOS LTDA -
+170600100 / Propaganda e publicidade, inclusive promoção de vendas, planejamento de campanhas ou sistemas de publicidade,
+elaboração de desenhos, textos e demais materiais publicitários.
 
-Endereço Município CEP
-R PADRE VALDEVINO, 2528, sala 02, DIONISIO TORRES Fortaleza - CE 60135-414
+Subitem Lista de Serviços LC 116/03 / Descrição:
+17.06 / Propaganda e publicidade, inclusive promoção de vendas, planejamento de campanhas ou sistemas de publicidade,
 
-INTERMEDIÁRIO DO SERVIÇO NÃO IDENTIFICADO NA NFS-e
+elaboração de desenhos, textos e demais materiais publicitários.
 
-SERVIÇO PRESTADO
+Cod/Município da incidência do ISSQN: Natureza da Operação:
+4314902 / Porto Alegre Tributação no município
 
-Código de Tributação Nacional Código de Tributação Municipal Local da Prestação País da Prestação
-17.06.01 - Propaganda e publicidade, - Rio de Janeiro - RJ -
-inclusive promoção de vendas, p...
+Regime Especial de Tributação: ME ou EPP do Simples Nacional
 
-Descrição do Serviço
-Propaganda e publicidade de produtos.
+Valor dos serviços: R$ 6.000,00 Valor dos serviços: R$ 6.000,00
 
-TRIBUTAÇÃO MUNICIPAL
+(-) Descontos: R$ 0,00 (-) Deduções: R$ 0,00
 
-Tributação do ISSQN País Resultado da Prestação do Serviço Município de Incidência do ISSQN Regime Especial de Tributação
-Operação Tributável - Nova Iguaçu - RJ Nenhum
+(-) Retenções Federais: R$ 0,00 (-) Desconto Incondicionado: R$ 0,00
 
-Tipo de Imunidade Suspensão da Exigibilidade do ISSQN Número Processo Suspensão Benefício Municipal
-- Não - -
+(:) ISS Retido na Fonte: R$ 0,00 (=) Base de Cálculo: R$ 6.000,00
+(x) Alíquota:
 
-Valor do Serviço Desconto Incondicionado Total Deduções/Reduções Cálculo do BM
-R$ 2.909,92 - - -
+Valor Líquido: R$ 6.000,00
+(=)Valor do ISS: -
 
-BC ISSQN Alíquota Aplicada Retenção do ISSQN ISSQN Apurado
-- - Não Retido -
+Documento emitido por ME ou EPP optante pelo Simples Nacional. Não gera direito a credito fiscal de IPI.
 
-TRIBUTAÇÃO FEDERAL
-IRRF cr CSLL
+Prefeitura de Porto Alegre - Secretaria da Fazenda
 
-COFINS Retenção do PIS/COFINS TOTAL TRIBUTAÇÃO FEDERAL
+Rua Siqueira Campos, 1300 - 4º andar - Bairro Centro Histórico - CEP: 90.010-907 - Porto Alegre RS.
+Tel: 156 (opção 4) ou (51) 3289-0156 (chamadas de outras cidades)
+https://servicos.procempa.com.br
 
-VALOR TOTAL DA NFS-E
-
-Valor do Serviço Desconto Condicionado Desconto Incondicionado ISSQN Retido
-R$ 2.909,92 R$ R$ -
-
-IRRF, CP,CSLL - Retidos PIS/COFINS Retidos Valor Líquido da NFS-e
-R$ 0,00 - R$ 2.909,92
-
-TOTAIS APROXIMADOS DOS TRIBUTOS
-Federais Estaduais Municipais
-
-INFORMAÇÕES COMPLEMENTARES
-
+https://nfe-web.portoalegre.rs.gov.br/nfse/pages/exibicaoNFS-e.jsf
