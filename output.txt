@@ -1,59 +1,62 @@
 
 --- Página 1 ---
-ero da Nota
+04/07/2025, 08:55 Usuário: 26.799.068/0001-76 - NF-e - Nota Fiscal Eletrônica de Serviços - São Paulo
 
-PREFEITURA DO MUNICÍPIO DE SÃO PAULO |"“"“5002671
+[ o Número da Nota
+PREFEITURA DO MUNICIPIO DE SAO PAULO 00000349
+
 SECRETARIA MUNICIPAL DA FAZENDA Data e Hora de Emissão
-a 07/07/2025 19:14:00
+ã 04/07/2025 08:55:32
 NOTA FISCAL ELETRÔNICA DE SERVIÇOS - NFS-e Código de Verificação
-RPS Nº 1793 Série SN, emitido em 07/07/2025 L5CH.9B2G
+
+RIQS-ERYD
 
 PRESTADOR DE SERVIÇOS
-CPFICNPJ: 21.354.637/0001-56 Inscrição Municipal: 5.132.310-9
-NomeiRazão Social: LUPI AGENCIAMENTO DE PROFISSIONAIS LTDA
-Endereço: AV PAULISTA 1636, CONJ 4 - BELA VISTA - CEP: 01310-200
-Municipio: São Paulo UF: SP
+CPF/CNPJ: 26.799.068/0001-76 Inscrição Municipal: 5.620.693-3
+Nome/Razão Social: CORAGE AGENCIAMENTO E ASSESSORIA LTDA.
+Endereço: R SANTO AMARO 361, APT 905 - BELA VISTA - CEP: 01315-001
+Município: São Paulo UF: SP
 
 TOMADOR DE SERVIÇOS
-NomeiRazão Social: G0 COMERCIO DE ARTIGOS ELETRONICOS E ACESSORIOS LTDA
-CPFICNPJ: 22.165.464/0001-90 Inscrição Municipal: ----
-
-Endereço: R PADRE VALDEVIHO 2528, SALA 02 - DIOHISIO TORRES - CEP: 60135-4M4
-Município: Fortaleza ur: CE E-mail: CONTABILIDADEMGOCASE.COM
+Nome/Razão Social: GUDAY PRODUTOS ALIMENTICIOS LTDA
+CPF/CNPJ: 50.415.929/0001-50 Inscrição Municipal: 7.676.342-0
+Endereço: R HADDOCK LOBO 684 - CERQUEIRA CESAR - CEP: 01414-000
+Município: São Paulo UF: SP E-mail:
 
 INTERMEDIÁRIO DE SERVIÇOS
-CPFICNPJ: - Nome/Razão Social: ----
+CPF/CNPJ: --=— Nome/Razão Social: ----
 
 DISCRIMINAÇÃO DOS SERVIÇOS
-Prestacao de servicos para a/o CREATOR (a) LUCA SCARPELLI para o job GOCASE
+INTERMEDIO DA INFLUENCIADORA DANI FREIRE
 
-Banco Itau 341
+Campanha: Guday - Junho
+valor total da NF: R$1.200,00
+vencimento: 31/07/2025
 
-AG: 0061
+Dados para pagamento:
+Banco Nubank
 
-CC: 99470-3
+chave Pix: 26799068000176
+ou
 
-PIX: 21.354.637/0001-56
+Banco Nubank
 
-LUPI AGENCIAMENTO DE PROFISSIONAIS LTDA
-CNPJ 2Z1.354.637/0001-56
+Agência 0001
 
-Vencimento: 30 DIAS APOS EMISSÃO DA NF - 07/08/25
+Conta Corrente 347022343
 
-VALOR TOTAL DO SERVIÇO = R$ 10.200,00
-
-tre
+VALOR TOTAL DO SERVIÇO = R$ 1.200,00
+INSS (R$) IRRF (R$) CSLL (R$) COFINS (R$) PIS/PASEP (R$)
 
 Código do Serviço
-06777 - Produção de eventos, espetáculos, entrevistas, shows, ballet, danças, desfiles e congêneres
-
-“valor Total das Deduções (R$) Base de Cálculo (R$) Miquota (%) valor do ISS (R$) Crédito (R$)
-0.00 * x x
-Município da Prestação do Serviço Número Inscrição da Obra valor Aproximado dos Tributos / Fonte
-- a. R$ 19,29 425) /IBE
+06394 - Agenciamento de publicidade e propaganda, inclusive agenciamento de veiculação.
+Valor Total das Deduções (R$) Base de Cálculo (R$) Alíquota (9%) Valor do ISS (R$) Crédito (R$)
+0,00 1.200,00 5,00% 60,00 0,00
+Município da Prestação do Serviço Número Inscrição da Obra Valor Aproximado dos Tributos ! Fonte
 
 OUTRAS INFORMAÇÕES
 
-(1) Esta NFS-e foi emitida com respaldo na Lei nº 14.097/2005; (2) Documento emitido por ME ou EPP optante pelo Simples
-Nacional, (3) Esta NFS-e substitui o RPS Nº 1793 Série SN, emitido em 07/07/2025,
+(1) Esta NFS-e foi emitida com respaldo na Lei nº 14.097/2005; (2) Esta NFS-e não gera crédito; (3) Data de vencimento do ISS
+desta NFS-e: 10/08/2025;
 
+https://nfe.prefeitura.sp.gov.br/contribuinte/notaprint.aspx?nf=349&inscricao=56206933&SMS=0&returnurl=nota.aspxY%3finscricao%3d56206933 1/1
