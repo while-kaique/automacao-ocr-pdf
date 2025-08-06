@@ -1,67 +1,38 @@
 
 --- Página 1 ---
-Número da Nota
+07/07/2025, 16:16 Usuário: 32.879.031/0001-50 - NF-e - Nota Fiscal Eletrônica de Serviços - São Paulo
 
-» 000000000001
-PREFEITURA DO MUNICIPIO DE LONDRINA Cód. de Verificação
-VHU9-XT8R
-SECRETARIA MUNICIPAL DE FAZENDA D nur
-ata de Emissão
-03/07/2025
-
-NOTA FISCAL DE SERVIÇOS ELETRÔNICA - NFS-e
-
-Data de Cancelamento
-
-Data/hora de geração deste espelho: 03/07/25 15:38:18 -
-
+PREFEITURA DO MUNICÍPIO DE SÃO PAULO "anne
+00000060
+SECRETARIA MUNICIPAL DA FAZENDA Data e Hora de Emissão
+à 07/07/2025 16:16:20
+NOTA FISCAL ELETRÔNICA DE SERVIÇOS - NFS-e Código de Verificação
+I9LK-HJED
 PRESTADOR DE SERVIÇOS
-
-Nome/Razão Social: RÉLLOU MARKETING DE INFLUÊNCIA E COMUNICAÇÃO LTDA
-CNPJ/CPF: 35.250.361/0001-70 Inscrição Municipal (CMC): 2647192
-Endereço: RUA LUIZ LERCO, 323 APT 801
-TERRA BONITA CEP 86047610
-Município: LONDRINA UF: Paraná
-
+CPF/CNPJ: 32.879.031/0001-50 Inscrição Municipal: 6.209.043-7
+Nome/Razão Social: 32.879.031 ALESSANDRA SAYURI GONCALVES MIYASHIRO
+Endereço: AY AUGUSTO ANTUNES 729, SALA 03 - LIMOEIRO - CEP: 08051-370
+Município: São Paulo Ur: SP
 TOMADOR DE SERVIÇOS
-
 Nome/Razão Social: GO COMERCIO DE ARTIGOS ELETRONICOS E ACESSORIOS LTDA
-CNPJ/CPF: 22.165.464/0001-90
-Endereço: PADRE VALDEVINO, 2528 SALA 02
-DIONISIO TORRES CEP 60135414
-Município: FORTALEZA UF: Ceará
-
-DISCRIMINAÇÃO DOS SERVIÇOS PRESTADOS
-
-Ação com a influenciadora (Qsoulljess para GOCASE
-Nome: NATHALIA HELENA DIAS
-
-CNPJ: 35.250.361/0001-70
-
-Banco: INTER - 077
-
-Agência: 0001
-
-Conta: 13526438-3
-
-PIX: 35.250.361/0001-70
-
-Retenção ISS: R$ 0,00 Retenção PIS: R$ 0,00 Retenção COFINS: R$ 0,00
-Retenção IR: R$ 0,00 Retenção CSLL: R$ 0,00 Retenção INSS: R$ 0,00
-
-VALOR TOTAL DA NOTA = R$ 4.200,00
-
-Código e Descrição do Serviço
-
-1706 - PROPAGANDA E PUBLICIDADE, INCLUSIVE PROMOÇÃO DE VENDAS, PLANEJAMENTO DE CAMPANHAS OU SISTEMAS DE P...
-
-Deduções de base de cálculo (R$) | Base de Cálculo ISS (R$) Alíquota (%) Valor do ISS (R$)
-- 4.200,00 Inutilizado conf. art. 59 par. 4º Resolução 140/2018 CGSN
+CPF/CNPJ: 22.165.464/0003-52 Inscrição Municipal: ----
+Endereço: RV MG-460 (EST MUNIC HORACIO MARINHO) 350, GALPAQO1 - JARDIM - CEP: 37640-000
+Município: Extrema UF: MG E-mail: contabilf Gosldigital.com.br
+INTERMEDIÁRIO DE SERVIÇOS
+CPF/CNPJ: --- Nome/Razão Social: ----
+DISCRIMINAÇÃO DOS SERVIÇOS
+Campanha publicitária com (bellamiiyva em JUNHO/25
+Dados Bancários:
+Banco: Inter Ag 0001 C/C: 6222970-8
+PIX assessoria.wicreator(igmail.com
+VALOR TOTAL DO SERVIÇO = R$ 1.200,00
+INSS (R$) | IRRF (R$) | CSLL (R$) | COFINS (R$) PIS/PASEP (R$)
+Código do Serviço
+02496 - Propaganda e publicidade, promoção de vendas, planejamento de campanhas e materiais publicitários.
+Valor Total das Deduções (R$) Base de Cálculo (R$) Alíquota (%) Valor do ISS (R$) Crédito (R$)
+0,00 z z z 0,00
 OUTRAS INFORMAÇÕES
+(1) Esta NFS-e foi emitida com respaldo na Lei nº 14.097/2005; (2) Documento emitido por ME ou EPP optante pelo Simples
+Nacional;
 
-- Valor líquido: R$ 4.200,00. Competência: 03/07/2025
-- Esta NFS-e foi emitida com respaldo no Decreto nº 786, de 04/07/2012. Consulta de autenticidade: http://iss.londrina.pr.gov.br
-- Documento emitido por ME ou EPP optante pelo Simples Nacional. Não gera direito a Crédito Fiscal de IPI.
-
-- ISS devido deve ser recolhido pelo Prestador por meio do DAS.
-
+https://nfe.prefeitura.sp.gov.br/contribuinte/notaprint.aspx?nf=60&inscricao=62090437 &email=1&SMS=0&returnurl=nota.aspx%3finscricao%3d62090437 | 1/1
