@@ -1,54 +1,28 @@
 
 --- Página 1 ---
-a,
+N FSe e DANFSe v1.0
+ervico ele Documento Auxiliar da NFS-e
 
-AURA DES,
-ua
-re
-3,
-P 3a and
-
-sr MUNICIPIO DE URUCUI
-N FSe DANFSe v1.0 E: (89)99404-5263
-erviço elet Documento Auxiliar da NFS-e ee
-
-tributosurucuipi(Dgmail.com
 Chave de Acesso da NFS-e
-22112092254603607000195000000000001825079150786404
+33035002239627538000166000000000005125070889489168
 
-Número da NFS-e Competência da NFS-e
-18 07/07/2025
+Número da NFS-e Competência da NFS-e Data e Hora da emissão da NFS-e
+51 07/07/2025 07/07/2025 17:52:21
 
-Número da DPS Série da DPS
-18 900
+Número da DPS Série da DPS Data e Hora da emissão da DPS lr e
+53 900 07/07/2025 17:52:21 A autenticidade desta NFS-e pode ser verificada
 
-és
-
-Data e Hora da emissão da NFS-e
-07/07/2025 10:57:18
-
-Data e Hora da emissão da DPS
-07/07/2025 10:57:18
-
-A autenticidade desta NFS-e pode ser verificada
 pela leitura deste código QR ou pela consulta da
-
 chave de acesso no portal nacional da NFS-e
 
-CNPJ/CPF /NIF
-54.603.607/0001-95 -
-
-Inscrição Municipal Telefone
-(64) 9971-6162
-
-EMITENTE DA NFS-e
-Prestador do Serviço
+EMITENTE DA NFS-e CNPJ /CPF/NIF Inscrição Municipal Telefone
+Prestador do Serviço 39.627.538/0001-66 - (21) 7285-7449
 
 Nome / Nome Empresarial E-mail
-54.603.607 LARA CARDOSO CORRALES LARACARDOSOCORRALES(DHOTMAIL.COM
+LARISSA MONTIJO DE ALMEIDA COELHO 14757507739 LARISSAMONTIJO.C(ODGMAIL.COM
 
 Endereço Município CEP
-EROTIDES LIMA, 711, CENTRO Uruçuí - Pl 64860-000
+PHILOMENO COELHO, 139, JARDIM SANTA RITA Nova Iguaçu - RJ 26050-020
 
 Simples Nacional na Data de Competência Regime de Apuração Tributária pelo SN
 Optante - Microempreendedor Individual (MEI) -
@@ -60,77 +34,48 @@ Nome / Nome Empresarial E-mail
 GO COMERCIO DE ARTIGOS ELETRONICOS E ACESSORIOS LTDA -
 
 Endereço Município CEP
-PADRE VALDEVINO, 2528, SALA 02, DIONISIO TORRES Fortaleza - CE 60135-414
+R PADRE VALDEVINO, 2528, sala 02, DIONISIO TORRES Fortaleza - CE 60135-414
 
 INTERMEDIÁRIO DO SERVIÇO NÃO IDENTIFICADO NA NFS-e
+
 SERVIÇO PRESTADO
 
 Código de Tributação Nacional Código de Tributação Municipal Local da Prestação País da Prestação
-17.06.01 - Propaganda e publicidade, - Uruçuí - Pl -
+17.06.01 - Propaganda e publicidade, - Rio de Janeiro - RJ -
 inclusive promoção de vendas, p...
 
 Descrição do Serviço
-Referente à contratação da influencer Lara Corrales, para publicidade da GOCASE.
+Propaganda e publicidade de produtos.
 
 TRIBUTAÇÃO MUNICIPAL
 
 Tributação do ISSQN País Resultado da Prestação do Serviço Município de Incidência do ISSQN Regime Especial de Tributação
-Operação Tributável - Uruçuí - Pl Nenhum
+Operação Tributável - Nova Iguaçu - RJ Nenhum
 
 Tipo de Imunidade Suspensão da Exigibilidade do ISSQN Número Processo Suspensão Benefício Municipal
 - Não - -
 
 Valor do Serviço Desconto Incondicionado Total Deduções/Reduções Cálculo do BM
-R$ 8.000,00 - - -
+R$ 2.909,92 - - -
 
-Retenção do ISSQN ISSQN Apurado
-
-BC ISSQN Alíquota Aplicada
-
-Não Retido
+BC ISSQN Alíquota Aplicada Retenção do ISSQN ISSQN Apurado
+- - Não Retido -
 
 TRIBUTAÇÃO FEDERAL
+IRRF cr CSLL
 
-IRRF
-
-CP
-
-COFINS
-
-CSLL
-
-Retenção do PIS/COFINS
-
-TOTAL TRIBUTAÇÃO FEDERAL
+COFINS Retenção do PIS/COFINS TOTAL TRIBUTAÇÃO FEDERAL
 
 VALOR TOTAL DA NFS-E
 
-Valor do Serviço
-R$ 8.000,00
+Valor do Serviço Desconto Condicionado Desconto Incondicionado ISSQN Retido
+R$ 2.909,92 R$ R$ -
 
-IRRF, CP,CSLL - Retidos
-R$ 0,00
-
-Desconto Condicionado
-
-PIS/COFINS Retidos
-
-Desconto Incondicionado
-
-ISSQN Retido
-
-Valor Líquido da NFS-e
-R$ 8.000,00
+IRRF, CP,CSLL - Retidos PIS/COFINS Retidos Valor Líquido da NFS-e
+R$ 0,00 - R$ 2.909,92
 
 TOTAIS APROXIMADOS DOS TRIBUTOS
-
-Federais
-
-Estaduais
-
-Municipais
+Federais Estaduais Municipais
 
 INFORMAÇÕES COMPLEMENTARES
-
-NBS: 114061100
 
