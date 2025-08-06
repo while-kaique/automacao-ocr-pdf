@@ -1,30 +1,30 @@
 
 --- Página 1 ---
-Prefeitura Municipal de Porto
-N FSe DANFSe v1.0 E] Alegre/RS
-ervico elet Documento Auxiliar da NFS-e (51)3289-0156
+ca MUNICÍPIO DE GUARULHOS
+N FSe DANFSe v1.0 MA (11)2423-8646
+ervico elet Documento Auxiliar da NFS-e [cuarúHos] issqnQguarulhos.sp.gov.br
 
 Chave de Acesso da NFS-e
-43149022253264365000190000000000005525072605264828
+35188002256701118000100000000000002625073868995985
 
 Número da NFS-e Competência da NFS-e Data e Hora da emissão da NFS-e
-55 30/06/2025 04/07/2025 12:04:11
+26 06/07/2025 06/07/2025 16:52:34
 
-Número da DPS Série da DPS Data e Hora da emissão da DPS RÃ
+Número da DPS Série da DPS Data e Hora da emissão da DPS E e.
 
-64 900 04/07/2025 12:04:11 A autenticidade desta NFS-e pode ser verificada
+26 900 06/07/2025 16:52:34 A autenticidade desta NFS-e pode ser verificada
 pela leitura deste código QR ou pela consulta da
 chave de acesso no portal nacional da NFS-e
 
 EMITENTE DA NFS-e CNPJ/CPF/NIF Inscrição Municipal Telefone
 
-Prestador do Serviço 93.264.365/0001-90 - (51) 99962-9404
+Prestador do Serviço 56.701.118/0001-00 - (1 1) 9666-5208
 
 Nome / Nome Empresarial E-mail
-53.264.365 FERNANDA SCHERER ABBOTT fernanda.abbottl GOgmail.com
+56.701.118 GABRIELLY DE ALMEIDA MARQUES MAGALHAES AC.GABIMAGALHAES(QOGMAIL.COM
 
 Endereço Município CEP
-CASEMIRO DE ABREU, 1337, BELA VISTA Porto Alegre - RS 90420-001
+HELIO MANZONI, 46, GOPOUVA Guarulhos - SP 7092070
 
 Simples Nacional na Data de Competência Regime de Apuração Tributária pelo SN
 Optante - Microempreendedor Individual (MEI) -
@@ -33,7 +33,7 @@ TOMADOR DO SERVIÇO CNPJ/CPF/NIF Inscrição Municipal Telefone
 22.165.464/0001-90 - -
 
 Nome / Nome Empresarial E-mail
-GO COMERCIO DE ARTIGOS ELETRONICOS E ACESSORIOS LTDA -
+GO COMERCIO DE ARTIGOS ELETRONICOS E ACESSORIOS LTDA CONTABILIDADEGGOCASE.COM
 
 Endereço Município CEP
 PADRE VALDEVINO, 2528, SALA 02, DIONISIO TORRES Fortaleza - CE 60135-414
@@ -42,22 +42,22 @@ INTERMEDIÁRIO DO SERVIÇO NÃO IDENTIFICADO NA NFS-e
 SERVIÇO PRESTADO
 
 Código de Tributação Nacional Código de Tributação Municipal Local da Prestação País da Prestação
-17.06.01 - Propaganda e publicidade, - Porto Alegre - RS -
+17.06.01 - Propaganda e publicidade, - Guarulhos - SP -
 inclusive promoção de vendas, p...
 
 Descrição do Serviço
-Promoção de vendas, distribuição ou entrega de material publicitário.
+Promoção de Vendas
 
 TRIBUTAÇÃO MUNICIPAL
 
 Tributação do ISSQN País Resultado da Prestação do Serviço Município de Incidência do ISSQN Regime Especial de Tributação
-Operação Tributável - Porto Alegre - RS Nenhum
+Operação Tributável - Guarulhos - SP Nenhum
 
 Tipo de Imunidade Suspensão da Exigibilidade do ISSQN Número Processo Suspensão Benefício Municipal
 - Não - -
 
 Valor do Serviço Desconto Incondicionado Total Deduções/Reduções Cálculo do BM
-R$ 4.401,04 - - -
+R$ 5.000,00 - - -
 
 BC ISSQN Alíquota Aplicada Retenção do ISSQN ISSQN Apurado
 - Não Retido -
@@ -70,17 +70,15 @@ COFINS Retenção do PIS/COFINS TOTAL TRIBUTAÇÃO FEDERAL
 VALOR TOTAL DA NFS-E
 
 Valor do Serviço Desconto Condicionado Desconto Incondicionado ISSQN Retido
-R$ 4.401,04 R$ R$ -
+R$ 5.000,00 R$ R$ -
 
 IRRF, CP,CSLL - Retidos PIS/COFINS Retidos Valor Líquido da NFS-e
-R$ 0,00 - R$ 4.401,04
+R$ 0,00 - R$ 5.000,00
 
 TOTAIS APROXIMADOS DOS TRIBUTOS
 
 Federais Estaduais Municipais
 
 INFORMAÇÕES COMPLEMENTARES
-
-Inf Cont: Dados bancários: Agência 0001 | Conta 93737625-7 | Banco 0260 | Nu Pagamentos S.A. - Instituição de Pagamento | Chave Pix (CNPJ)
-53.264.365/0001-90
+NBS: 114061100
 
