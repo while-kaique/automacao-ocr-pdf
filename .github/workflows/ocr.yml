@@ -46,11 +46,11 @@ jobs:
             -H "Content-Type: application/json" \
             --data-binary @output.txt
 
-      - name: Commita arquivo output.txt no repositório
+      - name: Commita output.txt no repo
         uses: EndBug/add-and-commit@v7.5.0
         with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
           add: 'output.txt'
-          message: 'feat: OCR automático do PDF para texto'
+          message: 'feat: OCR automático'
           default_author: github_actions
           pull: true
-          github_token: ${{ secrets.GITHUB_TOKEN }}
