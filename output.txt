@@ -1,70 +1,136 @@
 
 --- Página 1 ---
-04/07/2025, 19:57 Nota Curitibana - AutenticidadeNota
+a,
 
-Número da Nota
+AURA DES,
+ua
+re
+3,
+P 3a and
 
-PREFEITURA MUNICIPAL DE CURITIBA 04
-SECRETARIA MUNICIPAL DE FINANÇAS Data e Hora de Emissão
-NOTA FISCAL DE SERVIÇOS ELETRÔNICA - NFS-e 04/07/2025 19:56:55
+sr MUNICIPIO DE URUCUI
+N FSe DANFSe v1.0 E: (89)99404-5263
+erviço elet Documento Auxiliar da NFS-e ee
 
-Código de Verificação
-RPS nº, 328, Série: 11, emitido em 04/07/2025, conversão em
-04/07/2025 EAVDS9D1
+tributosurucuipi(Dgmail.com
+Chave de Acesso da NFS-e
+22112092254603607000195000000000001825079150786404
 
-PRESTADOR DE SERVIÇOS
-Razão Social: JULIA PASA LTDA
+Número da NFS-e Competência da NFS-e
+18 07/07/2025
 
-CPF / CNPJ: 55.522.748/0001-465 Inscrição Municipal: 17 06 1172051-1
-Endereço: BOM JESUS, 000212 1904 - BAIRRO: JUVEVÊ - CEP: Tel.: 44 - 999234282
-S0035010
-Município: CURITIBA UF: PR Email: contato.juhpasaZhotmail.com
-TOMADOR DE SERVIÇOS
+Número da DPS Série da DPS
+18 900
 
-Nome/Razão Social: GO COMERCIODEARTIGOS ELETRONICOS EACESSORIOS LTDA
+és
 
-CPF / CNPJ: 22.165.464/0001-90 IMU: Outro Doc.:
+Data e Hora da emissão da NFS-e
+07/07/2025 10:57:18
 
-Endereço: PADRE VALDEVINO, 2528 - COMPLEMENTO: SALA 02 - BAIRRO: DIONISIO TORRES - CEP:
+Data e Hora da emissão da DPS
+07/07/2025 10:57:18
 
-60135414
-Município: Fortaleza UF: CE Email:
+A autenticidade desta NFS-e pode ser verificada
+pela leitura deste código QR ou pela consulta da
 
-| DISCRIMINAÇÃO DOS SERVIÇOS
+chave de acesso no portal nacional da NFS-e
 
-Fagamento referente a comissão do mês de JUNHO 2025
-Valor fixo: R$12.000,00
-Comissão: R$6. 042,67
+CNPJ/CPF /NIF
+54.603.607/0001-95 -
 
-Conta para pagamento:
+Inscrição Municipal Telefone
+(64) 9971-6162
 
-INTER - 077
+EMITENTE DA NFS-e
+Prestador do Serviço
 
-JULIA PASA LTDA
-CNPJ; 65.522.748/0001-46
-Agência: 00]
+Nome / Nome Empresarial E-mail
+54.603.607 LARA CARDOSO CORRALES LARACARDOSOCORRALES(DHOTMAIL.COM
 
-Conta: 355042409
+Endereço Município CEP
+EROTIDES LIMA, 711, CENTRO Uruçuí - Pl 64860-000
 
-Pix: 55.522. /48/0001-46
+Simples Nacional na Data de Competência Regime de Apuração Tributária pelo SN
+Optante - Microempreendedor Individual (MEI) -
 
-- Conforme Lei 12 741/2012, o percentual total de impostos incidentes nesteserviço prestado é de aproximadamente 11.84%
+TOMADOR DO SERVIÇO CNPJ/CPF/NIF Inscrição Municipal Telefone
+22.165.464/0001-90 - -
 
-Valor Ligudo da Nota Fiscal = R$ 18.042,67
+Nome / Nome Empresarial E-mail
+GO COMERCIO DE ARTIGOS ELETRONICOS E ACESSORIOS LTDA -
 
-VALOR TOTALDA NOTA -R518.042,67
-Código da Atividade
+Endereço Município CEP
+PADRE VALDEVINO, 2528, SALA 02, DIONISIO TORRES Fortaleza - CE 60135-414
 
-M.73.1.9-0/02-00 - Promoção de vendas
+INTERMEDIÁRIO DO SERVIÇO NÃO IDENTIFICADO NA NFS-e
+SERVIÇO PRESTADO
 
-Valor Total das Deduções (R$) Base de Calculo (R$) Valor do 155 (R$) Credito p/ Abatimento do IPTU
+Código de Tributação Nacional Código de Tributação Municipal Local da Prestação País da Prestação
+17.06.01 - Propaganda e publicidade, - Uruçuí - Pl -
+inclusive promoção de vendas, p...
 
-OUTRAS INFORMA ÇÕES
-Esta NF 5-e foi emitida com respaldo na Lei 732008
-Documento emitido por ME ou EPP optante pelo Simples Nacional.
+Descrição do Serviço
+Referente à contratação da influencer Lara Corrales, para publicidade da GOCASE.
 
-Não gera direito a crédito fiscal de IPI
+TRIBUTAÇÃO MUNICIPAL
 
-Mais Informações: nota.curitiba.pr.gov.br
+Tributação do ISSQN País Resultado da Prestação do Serviço Município de Incidência do ISSQN Regime Especial de Tributação
+Operação Tributável - Uruçuí - Pl Nenhum
 
-https://isscuritiba.curitiba.pr.gov.br/NotaCuritibana/NotaRPS/AutenticidadeNota?doc=55522748000146&num=304&cod=EAVDS901 11
+Tipo de Imunidade Suspensão da Exigibilidade do ISSQN Número Processo Suspensão Benefício Municipal
+- Não - -
+
+Valor do Serviço Desconto Incondicionado Total Deduções/Reduções Cálculo do BM
+R$ 8.000,00 - - -
+
+Retenção do ISSQN ISSQN Apurado
+
+BC ISSQN Alíquota Aplicada
+
+Não Retido
+
+TRIBUTAÇÃO FEDERAL
+
+IRRF
+
+CP
+
+COFINS
+
+CSLL
+
+Retenção do PIS/COFINS
+
+TOTAL TRIBUTAÇÃO FEDERAL
+
+VALOR TOTAL DA NFS-E
+
+Valor do Serviço
+R$ 8.000,00
+
+IRRF, CP,CSLL - Retidos
+R$ 0,00
+
+Desconto Condicionado
+
+PIS/COFINS Retidos
+
+Desconto Incondicionado
+
+ISSQN Retido
+
+Valor Líquido da NFS-e
+R$ 8.000,00
+
+TOTAIS APROXIMADOS DOS TRIBUTOS
+
+Federais
+
+Estaduais
+
+Municipais
+
+INFORMAÇÕES COMPLEMENTARES
+
+NBS: 114061100
+
