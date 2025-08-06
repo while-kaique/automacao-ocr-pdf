@@ -1,80 +1,86 @@
 
 --- Página 1 ---
-PREFEITURA MUNICIPAL DE GOVERNADOR VALADARES Nota: 2025000
+Prefeitura Municipal de Porto
+N FSe DANFSe v1.0 E] Alegre/RS
+ervico elet Documento Auxiliar da NFS-e (51)3289-0156
 
-Secretaria Municipal de Fazenda 00000260
-Departamento de Tributação e Arrecadação (DTA) =" o
-R MARECHAL FLORIANO, 905 - Centro Código Verificação
-Governador Valadares - MG - 35010140 DCF5B7856
-A Código
-NOTA FISCAL ELETRÔNICA DE SERVIÇOS - NFeS o o
-Data e Hora de Emissão: 07/07/2025 - 09:58 hs Período de Competência: 07/2025
-Município de Prestação: Governador Valadares - MG Reg. Especial Tributação: Microempresa municipal
+Chave de Acesso da NFS-e
+43149022253264365000190000000000005525072605264828
 
-Natureza da Operação: Tributação no município
+Número da NFS-e Competência da NFS-e Data e Hora da emissão da NFS-e
+55 30/06/2025 04/07/2025 12:04:11
 
-PRESTADOR DE SERVIÇOS
+Número da DPS Série da DPS Data e Hora da emissão da DPS RÃ
 
-Razão Social: ESTHER MELO PRODUCOES LTDA CPF/CNPJ: 45.205.932/0001-09
-Nome Fantasia: ESTHER MELO PRODUCOES LTDA Inscrição Municipal: 770797
-Email: fiscalcxavier(Qhotmail.com Fone/Fax: (33) 9847-0656 Inscrição Estadual:
+64 900 04/07/2025 12:04:11 A autenticidade desta NFS-e pode ser verificada
+pela leitura deste código QR ou pela consulta da
+chave de acesso no portal nacional da NFS-e
 
-Incentivador Cultural: Não Simples Nacional: Sim MEI: Não
+EMITENTE DA NFS-e CNPJ/CPF/NIF Inscrição Municipal Telefone
 
-Endereço: AV RIO DOCE, 2547 - ILHA DOS ARAUJOS - CEP: 35.020-500 - Governador Valadares - MG
+Prestador do Serviço 93.264.365/0001-90 - (51) 99962-9404
 
-TOMADOR DE SERVIÇOS
+Nome / Nome Empresarial E-mail
+53.264.365 FERNANDA SCHERER ABBOTT fernanda.abbottl GOgmail.com
 
-Razão Social: GO COMERCIO DE ARTIGOS ELETRONICOS E ACESSORIOS LTDA CPF/CNPJ: 22.165.464/0001-90
-Nome Fantasia: Inscrição Municipal:
-Email: Fone/Fax: (85) 9813-0660 Inscrição Estadual:
+Endereço Município CEP
+CASEMIRO DE ABREU, 1337, BELA VISTA Porto Alegre - RS 90420-001
 
-Endereço: r PADRE VALDEVINO, 2528, SALA 02 - DIONISIO TORRES - CEP: 60.135-414 - Fortaleza - CE
+Simples Nacional na Data de Competência Regime de Apuração Tributária pelo SN
+Optante - Microempreendedor Individual (MEI) -
 
-DADOS COMPLEMENTARES
-Código de Serviço: 13.03 - Fotografia e cinematografia, inclusive revelação, ampliação, cópia, reprodução, trucagem e congêneres
-CNAE: 5911-1/02 - Produção de filmes para publicidade
+TOMADOR DO SERVIÇO CNPJ/CPF/NIF Inscrição Municipal Telefone
+22.165.464/0001-90 - -
 
-Intermediário: Inscrição Municipal:
+Nome / Nome Empresarial E-mail
+GO COMERCIO DE ARTIGOS ELETRONICOS E ACESSORIOS LTDA -
 
-DISCRIMINAÇÃO DOS SERVIÇOS
+Endereço Município CEP
+PADRE VALDEVINO, 2528, SALA 02, DIONISIO TORRES Fortaleza - CE 60135-414
 
-Escopo mensal (3/12) - 4 combos de stories (1 com aprovação) + 2 reels
-Agência ou assessoria: Agência 4 PIllars
+INTERMEDIÁRIO DO SERVIÇO NÃO IDENTIFICADO NA NFS-e
+SERVIÇO PRESTADO
 
-Dados Bancários:
+Código de Tributação Nacional Código de Tributação Municipal Local da Prestação País da Prestação
+17.06.01 - Propaganda e publicidade, - Porto Alegre - RS -
+inclusive promoção de vendas, p...
 
-Agência 0001 / Conta 10087047-1
+Descrição do Serviço
+Promoção de vendas, distribuição ou entrega de material publicitário.
 
-Banco 0260
+TRIBUTAÇÃO MUNICIPAL
 
-Nu Pagamentos S.A
+Tributação do ISSQN País Resultado da Prestação do Serviço Município de Incidência do ISSQN Regime Especial de Tributação
+Operação Tributável - Porto Alegre - RS Nenhum
 
-PIX: 45.205.932/0001-09 (CNPJ)
+Tipo de Imunidade Suspensão da Exigibilidade do ISSQN Número Processo Suspensão Benefício Municipal
+- Não - -
 
-Vencimento: 31/07/2025
+Valor do Serviço Desconto Incondicionado Total Deduções/Reduções Cálculo do BM
+R$ 4.401,04 - - -
 
-VALOR TOTAL DE SERVIÇOS = R$ 12.500,00
+BC ISSQN Alíquota Aplicada Retenção do ISSQN ISSQN Apurado
+- Não Retido -
 
-PIS (R$) COFINS (R$) INSS (R$) IR (R$) CSLL (R$) Outras Retenções (R$)
+TRIBUTAÇÃO FEDERAL
+IRRF CP CSLL
 
-0,00 0,00 0,00 0,00 0,00 0,00
-Deduções (R$) Desconto Incondicionado (R$) Desconto Condicionado (R$) Base de Cálculo (R$) Alíquota (%)
-0,00 0,00 0,00 12.500,00 3,99000
+COFINS Retenção do PIS/COFINS TOTAL TRIBUTAÇÃO FEDERAL
 
-ISS (R$) ISS Retido (R$) Valor Líquido (R$)
+VALOR TOTAL DA NFS-E
 
-498,75 0,00 12.500,00
+Valor do Serviço Desconto Condicionado Desconto Incondicionado ISSQN Retido
+R$ 4.401,04 R$ R$ -
 
-OUTRAS INFORMAÇÕES
+IRRF, CP,CSLL - Retidos PIS/COFINS Retidos Valor Líquido da NFS-e
+R$ 0,00 - R$ 4.401,04
 
-A autenticidade desta NFeS pode ser verificada no site https://governadorvaladares-mg.issintegra.com.br/.
+TOTAIS APROXIMADOS DOS TRIBUTOS
 
-Esta NFe foi emitida com respaldo na Lei Complementar 34/2001 e no Decreto Nº 12.053, de 12 de junho de 2024
+Federais Estaduais Municipais
 
-DOCUMENTO EMITIDO POR ME OU EPP OPTANTE PELO SIMPLES NACIONAL/NÃO GERA DIREITO A CRÉDITO FISCAL DE IPI.
-Prestador de Serviços optante pelo Simples Nacional como microempresa.
+INFORMAÇÕES COMPLEMENTARES
 
-Emitido por: ESTHER DE FARIA VIANA E MELO
+Inf Cont: Dados bancários: Agência 0001 | Conta 93737625-7 | Banco 0260 | Nu Pagamentos S.A. - Instituição de Pagamento | Chave Pix (CNPJ)
+53.264.365/0001-90
 
-Página 1 de 1
