@@ -2,19 +2,20 @@
 --- Página 1 ---
 Número da Nota
 
-PREFEITURA DO MUNICÍPIO DE SÃO PAULO |" ool61o
+PREFEITURA DO MUNICÍPIO DE SÃO PAULO |" oooBa1o
 SECRETARIA MUNICIPAL DA FAZENDA Data e Hora de Emissão
-07/07/2025 15:21:52
+02/07/2025 20:38:03
 
 NOTA FISCAL ELETRÔNICA DE SERVIÇOS - NFS-e Código de Verificação
-RPS Nº 179 Série NFSE, emitido em 07/07/2025 UVB7-YCYY
+RPS Nº 451 Série NFSE, emitido em 02/07/2025 6QJQ-NPWQ
 
 PRESTADOR DE SERVIÇOS
 
-CPF/CNPJ: 46.829.280/0001 -46 Inscrição Municipal: 7.354.759-0
+CPF/CNPJ: 27.179.660/0001-38 Inscrição Municipal: 5.670.072-5
+Nome/Razão Social: SOLLER LTDA
 
-Nome/Razão Social: CASA SOLLER LTDA
 Endereço: AY NOVE DE JULHO 4254 - JARDIM PAULISTA - CEP: 01406-100
+
 UF: SP
 
 Município: São Paulo
@@ -32,20 +33,20 @@ INTERMEDIÁRIO DE SERVIÇOS
 CPF/CNPJ: -—— Nome/Razão Social: ---—-
 
 DISCRIMINAÇÃO DOS SERVIÇOS
-PRESTACAO DE SERVICO INFLUENCIADORA DUDA GUERRA + GO CASE
+PRESTACAO DE SERVICO INFLUENCIADORA FERNANDA CINTRA + GO CASE
 
 Banco Itau
 
-Ag. 0188
+Ag: 0186
 
-c/c 98968-5
+C/C: 980974-3
 
-Pix: 46.829.280/0001-46
-RS 1.500,00
+PIX: financeirolísollerassessoria.com.br
+R$ 5.000,00
 
-VENCIMENTO :30/07/2025
+VENCIMENTO: 30/07/2025
 
-VALOR TOTAL DO SERVIÇO = R$ 1.500,00
+VALOR TOTAL DO SERVIÇO = R$ 5.000,00
 INSS (R$) IRRF (R$) CSLL (R$) COFINS (R$) PIS/PASEP (R$)
 
 Código do Serviço
@@ -58,5 +59,5 @@ Município da Prestação do Serviço Número Inscrição da Obra Valor Aproxima
 OUTRAS INFORMAÇÕES
 
 (1) Esta NFS-e foi emitida com respaldo na Lei nº 14.097/2005; (2) Documento emitido por ME ou EPP optante pelo Simples
-Nacional; (3) Esta NFS-e substitui o RPS Nº 179 Série NFSE, emitido em 07/07/2025;
+Nacional; (3) Esta NFS-e substitui o RPS Nº 451 Série NFSE, emitido em 02/07/2025;
 
