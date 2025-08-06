@@ -2,62 +2,66 @@
 --- Página 1 ---
 Número da Nota
 
-PREFEITURA DO MUNICÍPIO DE SÃO PAULO |" oooBa1o
-SECRETARIA MUNICIPAL DA FAZENDA Data e Hora de Emissão
-02/07/2025 20:38:03
+» 000000000001
+PREFEITURA DO MUNICIPIO DE LONDRINA Cód. de Verificação
+VHU9-XT8R
+SECRETARIA MUNICIPAL DE FAZENDA D nur
+ata de Emissão
+03/07/2025
 
-NOTA FISCAL ELETRÔNICA DE SERVIÇOS - NFS-e Código de Verificação
-RPS Nº 451 Série NFSE, emitido em 02/07/2025 6QJQ-NPWQ
+NOTA FISCAL DE SERVIÇOS ELETRÔNICA - NFS-e
+
+Data de Cancelamento
+
+Data/hora de geração deste espelho: 03/07/25 15:38:18 -
 
 PRESTADOR DE SERVIÇOS
 
-CPF/CNPJ: 27.179.660/0001-38 Inscrição Municipal: 5.670.072-5
-Nome/Razão Social: SOLLER LTDA
-
-Endereço: AY NOVE DE JULHO 4254 - JARDIM PAULISTA - CEP: 01406-100
-
-UF: SP
-
-Município: São Paulo
+Nome/Razão Social: RÉLLOU MARKETING DE INFLUÊNCIA E COMUNICAÇÃO LTDA
+CNPJ/CPF: 35.250.361/0001-70 Inscrição Municipal (CMC): 2647192
+Endereço: RUA LUIZ LERCO, 323 APT 801
+TERRA BONITA CEP 86047610
+Município: LONDRINA UF: Paraná
 
 TOMADOR DE SERVIÇOS
-Nome/Razão Social: GO COMERCIO DE ARTIGOS ELETRÔNICOS E ACESSÓRIOS LTDA
 
-CPF/CNPJ: 22.165.464/0001 -90 Inscrição Municipal: ----
+Nome/Razão Social: GO COMERCIO DE ARTIGOS ELETRONICOS E ACESSORIOS LTDA
+CNPJ/CPF: 22.165.464/0001-90
+Endereço: PADRE VALDEVINO, 2528 SALA 02
+DIONISIO TORRES CEP 60135414
+Município: FORTALEZA UF: Ceará
 
-Endereço: R Padre Valdevino 2475 - Dionisio Torres - CEP: 60135-414
+DISCRIMINAÇÃO DOS SERVIÇOS PRESTADOS
 
-Município: Fortaleza UF: CE E-mail: contabilidadeG)gocase.com
-INTERMEDIÁRIO DE SERVIÇOS
+Ação com a influenciadora (Qsoulljess para GOCASE
+Nome: NATHALIA HELENA DIAS
 
-CPF/CNPJ: -—— Nome/Razão Social: ---—-
+CNPJ: 35.250.361/0001-70
 
-DISCRIMINAÇÃO DOS SERVIÇOS
-PRESTACAO DE SERVICO INFLUENCIADORA FERNANDA CINTRA + GO CASE
+Banco: INTER - 077
 
-Banco Itau
+Agência: 0001
 
-Ag: 0186
+Conta: 13526438-3
 
-C/C: 980974-3
+PIX: 35.250.361/0001-70
 
-PIX: financeirolísollerassessoria.com.br
-R$ 5.000,00
+Retenção ISS: R$ 0,00 Retenção PIS: R$ 0,00 Retenção COFINS: R$ 0,00
+Retenção IR: R$ 0,00 Retenção CSLL: R$ 0,00 Retenção INSS: R$ 0,00
 
-VENCIMENTO: 30/07/2025
+VALOR TOTAL DA NOTA = R$ 4.200,00
 
-VALOR TOTAL DO SERVIÇO = R$ 5.000,00
-INSS (R$) IRRF (R$) CSLL (R$) COFINS (R$) PIS/PASEP (R$)
+Código e Descrição do Serviço
 
-Código do Serviço
-02496 - Propaganda e publicidade, promoção de vendas, planejamento de campanhas e materiais publicitários.
+1706 - PROPAGANDA E PUBLICIDADE, INCLUSIVE PROMOÇÃO DE VENDAS, PLANEJAMENTO DE CAMPANHAS OU SISTEMAS DE P...
 
-Valor Total das Deduções (R$) Base de Cálculo (R$) Alíquota (%) Valor do I55 (R$) Crédito (R$)
-0,00 ; z ; 0,00
-Município da Prestação do Serviço Número Inscrição da Obra Valor Aproximado dos Tributos / Fonte
-
+Deduções de base de cálculo (R$) | Base de Cálculo ISS (R$) Alíquota (%) Valor do ISS (R$)
+- 4.200,00 Inutilizado conf. art. 59 par. 4º Resolução 140/2018 CGSN
 OUTRAS INFORMAÇÕES
 
-(1) Esta NFS-e foi emitida com respaldo na Lei nº 14.097/2005; (2) Documento emitido por ME ou EPP optante pelo Simples
-Nacional; (3) Esta NFS-e substitui o RPS Nº 451 Série NFSE, emitido em 02/07/2025;
+- Valor líquido: R$ 4.200,00. Competência: 03/07/2025
+- Esta NFS-e foi emitida com respaldo no Decreto nº 786, de 04/07/2012. Consulta de autenticidade: http://iss.londrina.pr.gov.br
+- Documento emitido por ME ou EPP optante pelo Simples Nacional. Não gera direito a Crédito Fiscal de IPI.
+
+- ISS devido deve ser recolhido pelo Prestador por meio do DAS.
 
