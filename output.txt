@@ -2,11 +2,11 @@
 --- Página 1 ---
 ero da Nota
 
-PREFEITURA DO MUNICÍPIO DE SÃO PAULO |"“"“5002671
+PREFEITURA DO MUNICÍPIO DE SÃO PAULO |"“"“0002676
 SECRETARIA MUNICIPAL DA FAZENDA Data e Hora de Emissão
-a 07/07/2025 19:14:00
+a 11/07/2025 15:50:34
 NOTA FISCAL ELETRÔNICA DE SERVIÇOS - NFS-e Código de Verificação
-RPS Nº 1793 Série SN, emitido em 07/07/2025 L5CH.9B2G
+RPS Nº 1798 Série SN, emitido em 11/07/2025 TWGW.3DFL
 
 PRESTADOR DE SERVIÇOS
 CPFICNPJ: 21.354.637/0001-56 Inscrição Municipal: 5.132.310-9
@@ -22,10 +22,11 @@ Endereço: R PADRE VALDEVIHO 2528, SALA 02 - DIOHISIO TORRES - CEP: 60135-4M4
 Município: Fortaleza ur: CE E-mail: CONTABILIDADEMGOCASE.COM
 
 INTERMEDIÁRIO DE SERVIÇOS
-CPFICNPJ: - Nome/Razão Social: ----
+CPFICNPJ: Nome/Razão Social: ----
 
 DISCRIMINAÇÃO DOS SERVIÇOS
 Prestacao de servicos para a/o CREATOR (a) LUCA SCARPELLI para o job GOCASE
+PARCELA 1 DE Z
 
 Banco Itau 341
 
@@ -38,22 +39,22 @@ PIX: 21.354.637/0001-56
 LUPI AGENCIAMENTO DE PROFISSIONAIS LTDA
 CNPJ 2Z1.354.637/0001-56
 
-Vencimento: 30 DIAS APOS EMISSÃO DA NF - 07/08/25
+Vencimento: 30 DIAS APOS EMISSÃO DA NF - 11/08/25
 
-VALOR TOTAL DO SERVIÇO = R$ 10.200,00
+VALOR TOTAL DO SERVIÇO = R$ 3.400,00
 
 tre
 
 Código do Serviço
-06777 - Produção de eventos, espetáculos, entrevistas, shows, ballet, danças, desfiles e congêneres
+02496 - Propaganda e publicidade, promoção de vendas, planejamento de campanhas e materiais publicitários.
 
 “valor Total das Deduções (R$) Base de Cálculo (R$) Miquota (%) valor do ISS (R$) Crédito (R$)
 0.00 * x x
 Município da Prestação do Serviço Número Inscrição da Obra valor Aproximado dos Tributos / Fonte
-- a. R$ 19,29 425) /IBE
+- a. R$ 596,70 20) /IBP
 
 OUTRAS INFORMAÇÕES
 
 (1) Esta NFS-e foi emitida com respaldo na Lei nº 14.097/2005; (2) Documento emitido por ME ou EPP optante pelo Simples
-Nacional, (3) Esta NFS-e substitui o RPS Nº 1793 Série SN, emitido em 07/07/2025,
+Nacional, (3) Esta NFS-e substitui o RPS Nº 1798 Série SN, emitido em 11/07/2025;
 
