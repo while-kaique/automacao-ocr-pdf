@@ -1,62 +1,64 @@
 
 --- Página 1 ---
-Número da Nota
+PREFEITURA MUNICIPAL DE VILA VELHA
 
-PREFEITURA DO MUNICÍPIO DE SÃO PAULO |" ool61o
-SECRETARIA MUNICIPAL DA FAZENDA Data e Hora de Emissão
-07/07/2025 15:21:52
+29102-375 - AVENIDA SANTA LEOPOLDINA - COQUEIRAL ITAPARICA - VILA VELHA - ES Competência
 
-NOTA FISCAL ELETRÔNICA DE SERVIÇOS - NFS-e Código de Verificação
-RPS Nº 179 Série NFSE, emitido em 07/07/2025 UVB7-YCYY
+SEE Nota Fiscal de Serviços Eletrônica - NFS-e 07/2025
 
-PRESTADOR DE SERVIÇOS
+|
+Número RPS: Número Nota Fiscal: | Data Emissão
+116) 02/07/2025
 
-CPF/CNPJ: 46.829.280/0001 -46 Inscrição Municipal: 7.354.759-0
+AGENCIA IZZY DIGITAL LTDA
 
-Nome/Razão Social: CASA SOLLER LTDA
-Endereço: AY NOVE DE JULHO 4254 - JARDIM PAULISTA - CEP: 01406-100
-UF: SP
+29103-810 - RUA CORONEL OTTO NETTO, 270 - JOCKEY DE ITAPARICA
+VILA VELHA - ES - CEP: 29103-810
+CNPJICPF:47.509.834/0001-90 Inscr. Estadual/RG:
+Email: YASMIMAZEVEDO2018OGMAIL.COM
+Telefone: 27998244839 CCM 215170
 
-Município: São Paulo
+Local do Serviço: 1 - SERVIÇO PRESTADO NO MUNICÍPIO DE VILA VELHA NBS: 114061900
+Natureza Operação: Prestação de Serviços
 
-TOMADOR DE SERVIÇOS
-Nome/Razão Social: GO COMERCIO DE ARTIGOS ELETRÔNICOS E ACESSÓRIOS LTDA
+Sub item da lista de serviço: 17.06 - Propaganda e publicidade, inclusive promoção de vendas, planejamento de campanhas ou sistemas de publicidade, elaboração
 
-CPF/CNPJ: 22.165.464/0001 -90 Inscrição Municipal: ----
+Exigibilidade ISS: Exigível Incentivo Fiscal: NÃO Regime: Simples Nacional
 
-Endereço: R Padre Valdevino 2475 - Dionisio Torres - CEP: 60135-414
+Dados do Tomador de Serviço
+GO COMERCIO DE ARTIGOS ELETRONICOS E ACESSORIOS LTDA
+Rua Padre Valdevino, 2528, Sala 02 -, 2528
+Dionisio Torres - Fortaleza - CE - - CEP: 60135414
+CNPJ/CPF: 22.165.464/0001-90 Inscrição Estadual/RG: Inscrição Municipal:
 
-Município: Fortaleza UF: CE E-mail: contabilidadeG)gocase.com
-INTERMEDIÁRIO DE SERVIÇOS
+E-mail: contabilidade(Ogocase.com
+End. Cobrança:
 
-CPF/CNPJ: -—— Nome/Razão Social: ---—-
+Qtd Un Discriminação dos Serviços Valor Unitário Valor Total
 
-DISCRIMINAÇÃO DOS SERVIÇOS
-PRESTACAO DE SERVICO INFLUENCIADORA DUDA GUERRA + GO CASE
+1 Assessoria da Leticia Andrade para o Trabalho com a Gocase 3.000,00 3.000,00
+Dados de Pagamento:
+CNPJ: 47.509.834/0001-90
+Banco Sicoob: 756
+Agência/Cooperativa: 3008
+Conta(PJ): 277.048-2
+Tipo: Conta corrente
+PIX CNPJ: 47.509.834/0001-90
 
-Banco Itau
+DOCUMENTO EMITIDO POR ME OU EPP OPTANTE PELO SIMPLES NACIONAL.
 
-Ag. 0188
+Observação:
+DO osidepeduções| 00 |
+[DO Descincondcionado[ om |
+=
 
-c/c 98968-5
+Total da Nota RETENÇÕES Total Liquido
 
-Pix: 46.829.280/0001-46
-RS 1.500,00
+ii |P's |corns | CSLL | INSS OUTROS
+0,00 0,00 0,00 0,00 0,00
 
-VENCIMENTO :30/07/2025
+000] 000 3.000,00
+Esta é a chave de validação: LNLE-UJFJ
 
-VALOR TOTAL DO SERVIÇO = R$ 1.500,00
-INSS (R$) IRRF (R$) CSLL (R$) COFINS (R$) PIS/PASEP (R$)
-
-Código do Serviço
-02496 - Propaganda e publicidade, promoção de vendas, planejamento de campanhas e materiais publicitários.
-
-Valor Total das Deduções (R$) Base de Cálculo (R$) Alíquota (%) Valor do I55 (R$) Crédito (R$)
-0,00 ; z ; 0,00
-Município da Prestação do Serviço Número Inscrição da Obra Valor Aproximado dos Tributos / Fonte
-
-OUTRAS INFORMAÇÕES
-
-(1) Esta NFS-e foi emitida com respaldo na Lei nº 14.097/2005; (2) Documento emitido por ME ou EPP optante pelo Simples
-Nacional; (3) Esta NFS-e substitui o RPS Nº 179 Série NFSE, emitido em 07/07/2025;
+A validação dessa nota pode ser realizada no endereço: www.vilavelha.es.gov.br
 
