@@ -1,64 +1,63 @@
 
 --- Página 1 ---
-PREFEITURA MUNICIPAL DE VILA VELHA
+07/07/2025, 12:42 Usuário: 32.879.031/0001-50 - NF-e - Nota Fiscal Eletrônica de Serviços - São Paulo
 
-29102-375 - AVENIDA SANTA LEOPOLDINA - COQUEIRAL ITAPARICA - VILA VELHA - ES Competência
+Número da Nota
 
-SEE Nota Fiscal de Serviços Eletrônica - NFS-e 07/2025
+PREFEITURA DO MUNICIPIO DE SAO PAULO 00000059
 
-|
-Número RPS: Número Nota Fiscal: | Data Emissão
-112) 02/07/2025
+SECRETARIA MUNICIPAL DA FAZENDA Data e Hora de Emissão
+” 07/07/2025 12:42:13
+NOTA FISCAL ELETRÔNICA DE SERVIÇOS - NFS-e Código de Verificação
+Y3I9-WYBJ
 
-AGENCIA IZZY DIGITAL LTDA
+PRESTADOR DE SERVIÇOS
+Inscrição Municipal: 6.209.043-7
+Nome/Razão Social: 32.879.031 ALESSANDRA SAYURI GONCALVES MIYASHIRO
 
-29103-810 - RUA CORONEL OTTO NETTO, 270 - JOCKEY DE ITAPARICA
-VILA VELHA - ES - CEP: 29103-810
-CNPJICPF:47.509.834/0001-90 Inscr. Estadual/RG:
-Email: YASMIMAZEVEDO2018OGMAIL.COM
-Telefone: 27998244839 CCM 215170
+Endereço: AY AUGUSTO ANTUNES 729, SALA 03 - LIMOEIRO - CEP: 08051-370
+Ur: SP
 
-Local do Serviço: 1 - SERVIÇO PRESTADO NO MUNICÍPIO DE VILA VELHA NBS: 114061900
-Natureza Operação: Prestação de Serviços
+CPF/CNPJ: 32.879.031/0001-50
 
-Sub item da lista de serviço: 17.06 - Propaganda e publicidade, inclusive promoção de vendas, planejamento de campanhas ou sistemas de publicidade, elaboração
+Município: São Paulo
 
-Exigibilidade ISS: Exigível Incentivo Fiscal: NÃO Regime: Simples Nacional
+TOMADOR DE SERVIÇOS
+Nome/Razão Social: GO COMERCIO DE ARTIGOS ELETRÔNICOS E ACESSÓRIOS LTDA
 
-Dados do Tomador de Serviço
-GO COMERCIO DE ARTIGOS ELETRONICOS E ACESSORIOS LTDA
-Rua Padre Valdevino, 2528, Sala 02 -, 2528
-Dionisio Torres - Fortaleza - CE - - CEP: 60135414
-CNPJ/CPF: 22.165.464/0001-90 Inscrição Estadual/RG: Inscrição Municipal:
+CPF/CNPJ: 22.165.464/0003-52 Inscrição Municipal: ----
 
-E-mail: contabilidade(Ogocase.com
-End. Cobrança:
+Endereço: RV MG-460 (EST MUNIC HORACIO MARINHO) 350, GALPAQO1 - JARDIM - CEP: 37640-000
 
-Qtd Un Discriminação dos Serviços Valor Unitário Valor Total
+Município: Extrema UF: MG E-mail: contabilf Gosldigital.com.br
+INTERMEDIÁRIO DE SERVIÇOS
 
-1 Assessoria da Luisa Suff para o Trabalho com a Gocase 1.250,00 1.250,00
-Dados de Pagamento:
-CNPJ: 47.509.834/0001-90
-Banco Sicoob: 756
-Agência/Cooperativa: 3008
-Conta(PJ): 277.048-2
-Tipo: Conta corrente
-PIX CNPJ: 47.509.834/0001-90
+CPF/CNPJ: —- Nome/Razão Social: --—-
 
-DOCUMENTO EMITIDO POR ME OU EPP OPTANTE PELO SIMPLES NACIONAL.
+DISCRIMINAÇÃO DOS SERVIÇOS
 
-Observação:
-DO osisdepeduções| 00 |
-[DO Descincondcionado| om |
-=
+Agenciamento em Campanha publicitária com (natingraci JUNHO/25 + Direitos de Imagem + Canal
+Whatsapp
+Dados Bancários:
 
-Total da Nota RETENÇÕES Total Liquido
+Banco: Inter Ag 0001 C/C: 8222970-8
+PIX assessoria.w7icreatorlgmail.com
 
-ii |P's |corns | CSLL | INSS OUTROS
-0,00 0,00 0,00 0,00 0,00
+VALOR TOTAL DO SERVIÇO = R$ 4.800,00
+INSS (R$) | IRRF (R$) | CSLL (R$) | COFINS (R$) PIS/PASEP (R$)
 
-o,00| 0,00 1.250,00
-Esta é a chave de validação: VPUY-GZIJ
+Código do Serviço
+02496 - Propaganda e publicidade, promoção de vendas, planejamento de campanhas e materiais publicitários.
 
-A validação dessa nota pode ser realizada no endereço: www.vilavelha.es.gov.br
+Valor Total das Deduções (R$) Base de Cálculo (R$) Alíquota (%) Valor do ISS (R$) Crédito (R$)
+0,00 z i Z
 
+Município da Prestação do Serviço Número Inscrição da Obra Valor Aproximado dos Tributos ! Fonte
+
+OUTRAS INFORMAÇÕES
+(1) Esta NFS-e foi emitida com respaldo na Lei nº 14.097/2005; (2) Documento emitido por ME ou EPP optante pelo Simples
+Nacional;
+
+0,00
+
+https://nfe.prefeitura.sp.gov.br/contribuinte/notaprint.aspx?nf=59&inscricao=62090437 &email=1&SMS=0&returnurl=nota.aspx%3finscricao%3d62090437 | 1/1
