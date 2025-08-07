@@ -1,62 +1,84 @@
 
 --- Página 1 ---
-02/07/2025, 10:15
+02/07/2025, 13:57 :: NFS-e - Nota Fiscal de Serviços eletrônica ::
 
-Número da Nota
+NFS-e - NOTA FISCAL DE SERVIÇOS ELETRÔNICA
 
-PREFEITURA MUNICIPAL DE CURITIBA a
-SECRETARIA MUNICIPAL DE FINANÇAS Data e Hora de Emissão
-NOTA FISCAL DE SERVIÇOS ELETRÔNICA - NFS-e 02/07/2025 10:15:13
+Emitida em: Competência: Código de Verificação:
+O.
+Nº:2025/29 02/07/2025 as 13:57:40 02/07/2025 8bf4727e
+48.248.738 CECILIA PEDERSOLI SADALA
+a CPF/CNPJ: 48.248.738/0001-07 Inscrição Municipal: 1424846/001-3
+PM RUA SAO PAULO, 818, SALA 501, Centro - Cep: 30170-131
+Belo Horizonte MG
+Telefone: Email:
+Tomador do(s) Serviço(s)
+CPF/CNPJ: 22.165.464/0001-90 Inscrição Municipal: Não Informado
 
-Código de Verificação
-H13FTCOC
+GO COMERCIO DE ARTIGOS ELETRONICOS E ACESSORIOS LTDA
+R PADRE VALDEVINO, 2528, SALA 02, DIONISIO TORRES - Cep: 60135-414
 
-CPF / CNPJ: 39.969.278/0001-07 Inscrição Municipal: 17 06 0896854-0
+Fortaleza CE
 
-Endereço: RUA SALDANHA MARINHO, 825 - COMPLEMENTO: BLOCO Tel.: 41 - 988674022
-B;APT 54 - BAIRRO: CENTRO - CEP: 80410151
+Telefone: Não Informado Email: Não Informado
+Discriminação do(s) Serviço(s)
 
-Município: CURITIBA UF: PR Email: cferrazcosta24Gicloud.com
+GOCASE
 
-PRESTADOR DE SERVIÇOS
-Razão Social: CAROLINA FERRAZ COSTA 06537923956
+CECI PEDERSOLI
+VENCIMENTO 31/07/2025
 
-TOMADOR DE SERVIÇOS
-Nome/Razão Social: GO COMERCIO DEARTIGOS ELETRONICOS EACESSORIOS LTDA
+DADOS BANCÁRIOS:
 
-CPF / CNPJ: 22.165.464/0001-90 IMU: Outro Doc.:
-Endereço: Padre Valdevino, 2528 - COMPLEMENTO: sala 02 - BAIRRO: Dionísio torrs - CEP: 06013541
-Município: FORTALEZA UF: CE Email:
+AGÊNCIA: 0001
 
-DISCRIMINAÇÃO DOS SERVIÇOS
+BANCO: 336 - C6
 
-Carol Ferraz (36)
+CONTA: 21738126-0
 
-3reels emcollabcrepostno tiktok
-3combos de 03 stories/mês
-Direito de impulsionamento
-Dados sara pagamento:
+PIX: 48.248.738/0001-07
 
-Conta: 30609561-
-Pix: 39969278000107
-PERCENTUAL APROXIMADO DE TRIBUTOS: 6%
+CECÍLIA PEDERSOLI SADALA
 
-Valor Liquido da Nota Fiscal = R$ 5.200,00
+Código de Tributação do Município (CTISS)
 
-VALOR TOTAL DA NOTA - R$5.200,00
+1706-0/01-88 / Propaganda e publicidade, inclusive promoção de vendas, planejamento de campanhas ou sistemas de
+publicidade, elaboração de desenhos, textos e demais materiais publicitários.
 
-Código da Atividade
+Subitem Lista de Serviços LC 116/03 / Descrição:
 
-17-06 -Propagandae publicidade, inclusive promoção de vendas, planejamento de campanhas ou sistemas de publicidade,
-elaboração de desenhos, textos e demais materiais publictános.
+17.06 / Propaganda e publicidade, inclusive promocao de vendas, planejamento de campanhas ou sistemas de publicidade,
 
-Valor Total das Deduções (R$) | Base de Cálculo (R$) Valor do ISS (R$) | Crédito p/ Abatimento do IPTU
+elaboracao de desenhos, textos e demais materiais publicitarios.
 
-OUTRAS INFORMAÇÕES
-Esta NFS-e foi emitida com respaldo na Lei 73/2009.
-Documento emitido por ME ou EPP optante pelo Simples Nacional.
-Não gera direito a crédito fiscal de IPI.
+Cod/Município da incidência do ISSQN: Natureza da Operação:
+3106200 / Belo Horizonte Tributação no município
 
-Mais informações: nota.curitiba.pr.gov.br
+Regime Especial de Tributação: ME ou EPP do Simples Nacional
 
-https://isscuritiba.curitiba.pr.gov.br/isssistema/Nfse/EmitirNfse Página 1 de 1
+Valor dos serviços: R$ 15.000,00 | Valor dos serviços: R$ 15.000,00
+(-) Descontos: R$ 0,00 (-) Deduções: R$ 0,00
+(-) Retenções Federais: R$ 0,00 (-) Desconto Incondicionado: R$ 0,00
+(-) ISS Retido na Fonte: R$ 0,00 (=) Base de Cálculo: R$ 15.000,00
+Valor Líquido: R$ 15.000,00 (x) Alíquota: .
+
+(=)Valor do ISS: -
+
+Documento emitido por ME ou EPP optante pelo Simples Nacional. Não gera direito a credito fiscal de IPI.
+
+Outras Informações:
+Chave de acesso no Ambiente de Dados Nacional: 31062001248248738000107250000000002925075982355396.
+
+TA
+
+Rua Espírito Santo, 605 - 3º andar - Centro - CEP: 30160-919 - Belo Horizonte MG.
+
+Prefeitura de Belo Horizonte - Secretaria Municipal de Fazenda E
+Dúvidas: SIGESP
+
+e
+Sor
+
+https://bhissdigital.pbh.gov.br/nfse/pages/exibicaoNFS-e.jsf
+
+111
