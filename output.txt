@@ -1,178 +1,44 @@
 
 --- Página 1 ---
-DANFSe v1.0
+PREFEITURA DA CIDADE DO RIO DE JANEIRO “000001 6
+SECRETARIA MUNICIPAL DE FAZENDA
+NOTA FISCAL DE SERVIÇOS ELETRÔNICA - NFS-e 05/04/2025 06:55:28
+ódigo de Verificação
+- NOTA CARIOCA - L5DB-7TWU
+PRESTADOR DE SERVIÇOS
+CPF/CNPJ: 60.082.734/0001-99 Inscrição Municipal: 1.575.075-8 Inscrição Estadual: ---
+Nome/Razão Social: ACELERA CARREIRAS LTDA
+Nome Fantasia: Tel.: 2131174786
+Endereço: AVN JOSE SILVA DE AZEVEDO NETO 200, BLOO6 SALA 0419 - BARRA DA TIJUCA - CEP: 22775-056
+Município: RIO DE JANEIRO UF: RJ
+TOMADOR DE SERVIÇOS
+CPF/CNPJ: 22.165.464/0001 -90 Inscrição Municipal: ---- Inscrição Estadual: ----
+Nome/Razão Social: GO COMERCIO DE ARTIGOS ELETRONICOS E ACESSÓRIOS LTDA
+Endereço: RUA PADRE VALDEVINO 2528, SALA 02 - DIONISIO TORRES - CEP: 60135-414 Tel. --—
+Município: FORTALEZA UF: CE E-mail:
 
-NFSe ss:
+DISCRIMINAÇÃO DOS SERVIÇOS
 
-Documento Auxiliar da NFS-e
+Referente as postagens entregues em JUNHO.
 
-PREFEITURA MUNICIPAL DE
-CURITIBA
+VALOR DA NOTA = R$ 8.000,00
 
-Chave de Acesso da NFS-e
-41069022248074725000150000000000004725076548323494
+Serviço Prestado
 
-Número da NFS-e Competência da NFS-e
-47 02/07/2025
+17.06.05 - Elaboração de desenhos, textos ou demais materiais publicitários
 
-Número da DPS Série da DPS
-49 900
+Deduções (R$) Desconto Incond. (R$) |Base de Cálculo (R$) Alíquota (%) Valor do 55 (R$) Crédito p/ IPTU (R$)
 
-Data e Hora da emissão da NFS-e
-02/07/2025 11:41:01
+0,00 0,00 0,00
+OUTRAS INFORMAÇÕES
 
-Data e Hora da emissão da DPS
-02/07/2025 11:41:01
+- Esta NFS-e foi emitida com respaldo na Lei nº 5.098 de 15/10/2009 e no Decreto nº 32.250 de 11/05/2010
 
-A autenticidade desta NFS-e pode ser verificada
-pela leitura deste código QR ou pela consulta da
-chave de acesso no portal nacional da NFS-e
+- PROCON-RJ: Av. Rio Branco nº 25, 5º andar, tel 151: ww. procon.r).gov.br
 
-CNPJ/CPF /NIF
-48.074.725/0001-50
+- ISS devido deve ser recolhido por meio de Documento de Arrecadação do Simples Nacional (DAS).
 
-EMITENTE DA NFS-e
-Prestador do Serviço
+- Documento emitido por ME ou EPP optante pelo Simples Nacional. Não gera direito a crédito fiscal de IPI.
 
-Nome / Nome Empresarial
-GABRIELLE AMARAL DOS SANTOS RIBEIRO 12532012773
-
-Endereço
-LUIZ LUCCA, 120, SAO BRAZ
-
-Simples Nacional na Data de Competência
-Optante - Microempreendedor Individual (MEI)
-
-Inscrição Municipal
-
-E-mail
-GABIAMARALTR(OBOL.COM.BR
-Município
-
-Curitiba - PR
-
-Regime de Apuração Tributária pelo SN
-
-Telefone
-(41) 9117-8171
-
-CEP
-82315-092
-
-TOMADOR DO SERVIÇO CNPJ /CPF/NIF
-22.165.464/0001-90
-
-Nome / Nome Empresarial
-GO COMERCIO DE ARTIGOS ELETRONICOS E ACESSORIOS LTDA
-
-Endereço
-PADRE VALDEVINO, 2528, SALA 02, DIONISIO TORRES
-
-Inscrição Municipal
-
-E-mail
-CONTABILIDADEGDGOCASE.COM
-Município
-
-Fortaleza - CE
-
-Telefone
-
-CEP
-60135-414
-
-INTERMEDIÁRIO DO SERVIÇO NÃO IDENTIFICADO NA NFS-e
-
-SERVIÇO PRESTADO
-
-Código de Tributação Nacional Código de Tributação Municipal
-10.08.01 - Agenciamento de -
-
-publicidade e propaganda, inclusive o
-
-age...
-
-Descrição do Serviço
-
-Conta PJ Nubank, Gabrielle Amaral dos Santos Ribeiro
-CNPJ: 48.074.725/0001-50
-
-CPF:125.320.127-73
-
-Local da Prestação
-Curitiba - PR
-
-País da Prestação
-
-TRIBUTAÇÃO MUNICIPAL
-
-Tributação do ISSQN País Resultado da Prestação do Serviço
-Operação Tributável -
-
-Tipo de Imunidade Suspensão da Exigibilidade do ISSQN
-
-- Não
-
-Valor do Serviço Desconto Incondicionado
-
-R$ 15.886,46 -
-
-BC ISSQN Alíquota Aplicada
-
-Município de Incidência do ISSQN
-Curitiba - PR
-
-Número Processo Suspensão
-
-Total Deduções/Reduções
-
-Retenção do ISSQN
-Não Retido
-
-Regime Especial de Tributação
-Nenhum
-
-Benefício Municipal
-
-Cálculo do BM
-
-ISSQN Apurado
-
-TRIBUTAÇÃO FEDERAL
-IRRF CP
-
-COFINS
-
-CSLL
-
-Retenção do PIS/COFINS
-
-TOTAL TRIBUTAÇÃO FEDERAL
-
-VALOR TOTAL DA NFS-E
-
-Valor do Serviço Desconto Condicionado
-R$ 15.886,46 R$
-
-IRRF, CP,CSLL - Retidos PIS/COFINS Retidos
-R$ 0,00 -
-
-Desconto Incondicionado
-R$
-
-ISSQN Retido
-
-Valor Líquido da NFS-e
-R$ 15.886,46
-
-TOTAIS APROXIMADOS DOS TRIBUTOS
-
-Federais
-
-Estaduais
-
-Municipais
-
-INFORMAÇÕES COMPLEMENTARES
-NBS: 114061900
+- Esta NFS-e não gera crédito para abatimento no IPTU.
 
