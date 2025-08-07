@@ -1,67 +1,65 @@
 
 --- Página 1 ---
-PREFEITURA DA CIDADE DO RIO DE JANEIRO “00000 As
-SECRETARIA MUNICIPAL DE FAZENDA
-NOTA FISCAL DE SERVIÇOS ELETRÔNICA - NFS-e 01/04/2025 20:25:31
-ódigo de Verificação
-- NOTA CARIOCA -
+L =x Número da Nota
+PREFEITURA DO MUNICIPIO DE SÃO PAULO 00000026
+
+SECRETARIA MUNICIPAL DA FAZENDA Data e Hora de Emissão
+A 01/07/2025 15:44:57
+NOTA FISCAL ELETRÔNICA DE SERVIÇOS - NFS-e Código de Verificação
+CIVV-MIVVY
+
+20250701U52213611000111
 PRESTADOR DE SERVIÇOS
 
-CPF/CNPJ: 54.370.484/0001-90 Inscrição Municipal: 1.519.770-6 Inscrição Estadual: ---
-Nome/Razão Social: BEATRIZ L BOEKE LTDA
-Nome Fantasia: BEATRIZ L BOEKE Tel.: 24992812463
+CPF/CNPJ: 52.213.611/0001-11 Inscrição Municipal: 7.840.728-1
 
-Endereço: RUA DAS HORTENCIAS 76, APT 903 - VILA YALQUEIRE - CEP: 21330-540
-Município: RIO DE JANEIRO UF: RJ
+Nome/Razão Social: BEATRIZ FIDELIS MARKETING DIGITAL LTDA
+
+Endereço: R EMILIO MALLET 698, SALA 4 - VILA GOMES CARDIM - CEP: 03320-000
+
+Município: São Paulo UF: SP
 
 TOMADOR DE SERVIÇOS
-CPF/CNPJ: 22.165.464/0003-52 Inscrição Municipal: ---- Inscrição Estadual: ----
 Nome/Razão Social: GO COMERCIO DE ARTIGOS ELETRÔNICOS E ACESSÓRIOS LTDA
+CPF/CNPJ: 22.165.464/0001 -90 Inscrição Municipal: ----
+Endereço: R Padre Valdevino 2475 - Dionisio Torres - CEP: 60135-414
+Município: Fortaleza UF: CE E-mail: contabilidadeGDgocase.com
 
-Endereço: RUA PADRE VALDEVINO 2528, SALA 2 - DIONISIO TORRES - CEP: 60135-414 Tel.: 8581306602
-Município: FORTALEZA UF: CE E-mail: CONTABILIDADEGGOCASE.COM
+INTERMEDIÁRIO DE SERVIÇOS
+CPF/CNPJ: --— Nome/Razão Social: ----
 
 DISCRIMINAÇÃO DOS SERVIÇOS
+PRESTAÇÃO DE SERIVÇOS DE IMAGEM E DIVULGAÇÃO PRESTADOS PELA INFLUENCIADORA GBIAFIDELIS PARA O
+PERFIL DA MARCA GoCase
 
-Serviços Prestados
+MARCA: GoCase
+VALOR: RS 2.100,00
+VENCIMENTO: 31/07/2025
 
-Bia Boeke (2/3)
-2 combos de stories
-2 reels com repost no tiktok
+Bia Fidelis
 
-Dados Bancaçrios:
+03 Combos de 3 stories
 
-Banco: NU- PAGAMENTOS
-Age;ncia: 0001
+03 Reels com repost no tiktok
+DIREITO DE IMPULS IONAMENTO
 
-Conta: 89161465-2
+DADOS BANCÁRIOS:
+BANCO INTER - 077
 
-Tipo de Conta PJ
+AG: 0001
+CONTA: 35843051-8
 
-PIX: CNPJ - 54.370.464/0001-90
+VALOR TOTAL DO SERVIÇO = R$ 2.100,00
+INSS (R$) | IRRF (R$) CSLL (R$) COFINS (R$) | PIS/PASEP (R$)
 
-Marca: GoCase
-Valor: R$ 6.400,00
-Vencimento: 31/07/2025
-
-VALOR DA NOTA = R$ 6.400,00
-
-Serviço Prestado
-
-13.03.01 - Fotografia
-
-Deduções (R$) Desconto Incond. (R$) |Base de Cálculo (R$) Alíquota (%) Valor do 55 (R$) Crédito p/ IPTU (R$)
-0,00 0,00 0,00
+Código do Serviço
+02496 - Propaganda e publicidade, promoção de vendas, planejamento de campanhas e materiais publicitários.
+Valor Total das Deduções (R$) | Base de Cálculo (R$) Alíquota (%) Valor do ISS (R$) Crédito (R$)
+0,00 * * *
+Município da Prestação do Serviço Número Inscrição da Obra Valor Aproximado dos Tributos ! Fonte
 
 OUTRAS INFORMAÇÕES
 
-- Esta NFS-e foi emitida com respaldo na Lei nº 5.098 de 15/10/2009 e no Decreto nº 32.250 de 11/05/2010
-
-- PROCON-RJ: Av. Rio Branco nº 25, 5º andar, tel 151: ww. procon.r).gov.br
-
-- ISS devido deve ser recolhido por meio de Documento de Arrecadação do Simples Nacional (DAS).
-
-- Documento emitido por ME ou EPP optante pelo Simples Nacional. Não gera direito a crédito fiscal de IPI.
-
-- Esta NFS-e não gera crédito para abatimento no IPTU.
+(1) Esta NFS-e foi emitida com respaldo na Lei nº 14.097/2005; (2) Documento emitido por ME ou EPP optante pelo Simples
+Nacional;
 
