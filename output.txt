@@ -1,88 +1,68 @@
 
 --- Página 1 ---
-PRISCILA BRENNER LTDA
+Número da Nota
 
-CNPJ: 23.024.242/0001-10 Número da NFS-e Situação
+- 000000000656
+PREFEITURA DO MUNICIPIO DE LONDRINA Cód. de Verificação
+BNYZ-9ORH
+SECRETARIA MUNICIPAL DE FAZENDA Data de Emissão
+. 04/07/2025
+NOTA FISCAL DE SERVIÇOS ELETRÔNICA - NFS-e Data de Cancelamento
 
-VICENTE DA FONTOURA -, 304 85 Emitida
+Data/hora de geração deste espelho: 04/07/25 16:11:25 -
 
-CEP: 93.410-655 - Bairro: BOA VISTA
+PRESTADOR DE SERVIÇOS
 
-Município: NOVO HAMBURGO - RIO GRANDE DO SUL
+Nome/Razão Social: MAXIMO E PERINE LTDA
+CNPJ/CPF: 27.520.858/0001-33 Inscrição Municipal (CMC): 2337142
+Endereço: RUA PARA, 1531 SALA 704
+CENTRO CEP 86010450
+Município: LONDRINA UF: Paraná
 
-Insc. Municipal: 1016161 - Insc. Estadual: 086/053131-7 Tipo
+TOMADOR DE SERVIÇOS
 
-Email: ASSESSORIAQPRISCILABRENNER.COM Preenchido
+Nome/Razão Social: GO COMERCIO DE ARTIGOS ELETRONICOS E ACESSORIOS LTDA
+CNPJ/CPF: 22.165.464/0001-90
+Endereço: RUA PADRE VALDEVINO, 2528 SALA 02
+DIONISIO TORRES CEP 60135414
+Município: FORTALEZA UF: Ceará
 
-Telefone: (51) 3593-5818 - Celular: (51) 98050-6441 Autenticidade
+DISCRIMINAÇÃO DOS SERVIÇOS PRESTADOS
 
-Nota Fiscal de Serviço Eletrônica - Série NFS-e 2
+NF referente a entrega de Dlondrinando:
+2 Reels + repost no TikTok;
 
-Identificador
+2 Combos de Stories.
 
-8771040725222310540230242422025077394337
-gêks ESTADO DE RIO GRANDE DO SUL
-PREFEITURA MUNICIPAL DE NOVO HAMBURGO
-SECRETARIA MUNICIPAL DA FAZENDA
-04/07/2025 04/07/2025 22:23
-TOMADOR DO SERVIÇO
+Valor: R$ 19.000,00
 
-Nome Fantasia
-GO CASE
+Venc: 31/07/2025
 
-Nomey/Razão Social CPF/CNPJ Inscrição Municipal
-GO COMERCIO DE ARTIGOS ELETRONICOS E ACESSORIOS LTDA 22.165.464/0001-90
+Dados para pagamento:
+Banco Itaú
 
-Endereço Número Complemento
+Ag 1555
 
-PADRE VALDEVINO 2528 NÃO INFORMADO
+Cc: 50185-5
 
-Bairro CEP Cidade - Estado
+Pix: 27.520.858/0001-33 (cnpj)
 
-DIONISIO TORRES 60135414 Fortaleza - CE
+Retenção ISS: R$ 0,00 Retenção PIS: R$ 0,00 Retenção COFINS: R$ 0,00
+Retenção IR: R$ 0,00 Retenção CSLL: R$ 0,00 Retenção INSS: R$ 0,00
 
-DESCRIÇÃO DOS SERVIÇOS PRESTADOS
+VALOR TOTAL DA NOTA = R$ 19.000,00
 
-Serviço ! Local Prestação | Alíquota : Valor Serviço ! Desc. Incondic. | ValorDedução Valor ISS
-0,
+Código e Descrição do Serviço
+1706 - PROPAGANDA E PUBLICIDADE, INCLUSIVE PROMOÇÃO DE VENDAS, PLANEJAMENTO DE CAMPANHAS OU SISTEMAS DE P...
 
-Descrição do Serviço:
-Produção de vídeos e fotografias.
+Deduções de base de cálculo (R$) | Base de Cálculo ISS (R$) Alíquota (%) Valor do ISS (R$)
+- 19.000,00 Inutilizado conf. art. 59 par. 4º Resolução 140/2018 CGSN
 
-Valor Total Desc. Incondicional Dedução Base de Cálculo ISSQN
-3.500,00 0,00 0,00 3.500,00 70,35
-ISSRF IR INSS CSLL COFINS
-0,00 0,00 0,00 0,00 0,00
-PIS Outras Retenções Total Trib. Federais Desc. Condicional Valor Líquido
-0,00 0,00 0,00 0,00 3.500,00
+OUTRAS INFORMAÇÕES
 
-Atividade do Município Cód. Nacional Atividade Econômica
+- Valor líquido: R$ 19.000,00. Competência: 04/07/2025
+- Esta NFS-e foi emitida com respaldo no Decreto nº 786, de 04/07/2012. Consulta de autenticidade: http://iss.londrina.pr.gov.br
+- Documento emitido por ME ou EPP optante pelo Simples Nacional. Não gera direito a Crédito Fiscal de IPI.
 
-5849 - ATIVIDADES DE PRODUCAO DE FOTOGRAFIAS,EXCETO AEREA E 7420001 - Atividades de produção de fotografias, exceto aérea e submarina
-SUBMARINA
-
-Descrição dos subitens da Lista de Serviço em acordo com a Lei Complementar 116/03
-
-1303 Fotografia e cinematografia, inclusive a revelaçao, ampliaçao, copia, reproduçao, trucagem e congeneres
-Local de Prestação do Serviço
-
-8771 Novo Hamburgo
-Local de Incidência do ISS
-8771 Novo Hamburgo
-
-Outras Informações
-(1303) Serviço tributado no município do prestador
-
-Contribuinte enquadrado como Simples Nacional - Homologado de ISS ou ISS em regime estimado/fixo
-Autorização para emissão de Nota Fiscal de Serviço Eletrônica: 8029/2023 de 01/03/2023 00:00:00
-
-A veracidade das informações declaradas na NFS-e podem ser consultadas no site:
-https://novohamburgo.atende.net/autoatendimento/servicos/consulta-de-autenticidade-de-nota-fiscal-eletronica-nfs-e
-
-A data de vencimento do ISS quando o mesmo for devido no município do Prestador: 20/08/2025
-
-Valor aproximado dos tributos: Federais R$470,75 (13,45%), Estaduais R$0,00 (0,00%), Municipais R$158,20 (4,52%), com base na Lei 12.741/2012 e no
-Decreto 8.264/2014 - FONTE IBPT
-
-Observações: Dados bancários; Bradesco: 237 Ag:2172-5 C:2129-6 CNPJ/Pix: 23.024.242/0001-10 Priscila Brenner Eireli
+- ISS devido deve ser recolhido pelo Prestador por meio do DAS.
 
