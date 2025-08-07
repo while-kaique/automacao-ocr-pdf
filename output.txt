@@ -1,64 +1,59 @@
 
 --- Página 1 ---
-PREFEITURA MUNICIPAL DE VILA VELHA
+ero da Nota
 
-29102-375 - AVENIDA SANTA LEOPOLDINA - COQUEIRAL ITAPARICA - VILA VELHA - ES Competência
+PREFEITURA DO MUNICÍPIO DE SÃO PAULO |"“"“5002671
+SECRETARIA MUNICIPAL DA FAZENDA Data e Hora de Emissão
+a 07/07/2025 19:14:00
+NOTA FISCAL ELETRÔNICA DE SERVIÇOS - NFS-e Código de Verificação
+RPS Nº 1793 Série SN, emitido em 07/07/2025 L5CH.9B2G
 
-SEE Nota Fiscal de Serviços Eletrônica - NFS-e 07/2025
+PRESTADOR DE SERVIÇOS
+CPFICNPJ: 21.354.637/0001-56 Inscrição Municipal: 5.132.310-9
+NomeiRazão Social: LUPI AGENCIAMENTO DE PROFISSIONAIS LTDA
+Endereço: AV PAULISTA 1636, CONJ 4 - BELA VISTA - CEP: 01310-200
+Municipio: São Paulo UF: SP
 
-|
-Número RPS: Número Nota Fiscal: | Data Emissão
-122) 02/07/2025
+TOMADOR DE SERVIÇOS
+NomeiRazão Social: G0 COMERCIO DE ARTIGOS ELETRONICOS E ACESSORIOS LTDA
+CPFICNPJ: 22.165.464/0001-90 Inscrição Municipal: ----
 
-AGENCIA IZZY DIGITAL LTDA
+Endereço: R PADRE VALDEVIHO 2528, SALA 02 - DIOHISIO TORRES - CEP: 60135-4M4
+Município: Fortaleza ur: CE E-mail: CONTABILIDADEMGOCASE.COM
 
-29103-810 - RUA CORONEL OTTO NETTO, 270 - JOCKEY DE ITAPARICA
-VILA VELHA - ES - CEP: 29103-810
-CNPJICPF:47.509.834/0001-90 Inscr. Estadual/RG:
-Email: YASMIMAZEVEDO2018OGMAIL.COM
-Telefone: 27998244839 CCM 215170
+INTERMEDIÁRIO DE SERVIÇOS
+CPFICNPJ: - Nome/Razão Social: ----
 
-Local do Serviço: 1 - SERVIÇO PRESTADO NO MUNICÍPIO DE VILA VELHA NBS: 114061900
-Natureza Operação: Prestação de Serviços
+DISCRIMINAÇÃO DOS SERVIÇOS
+Prestacao de servicos para a/o CREATOR (a) LUCA SCARPELLI para o job GOCASE
 
-Sub item da lista de serviço: 17.06 - Propaganda e publicidade, inclusive promoção de vendas, planejamento de campanhas ou sistemas de publicidade, elaboração
+Banco Itau 341
 
-Exigibilidade ISS: Exigível Incentivo Fiscal: NÃO Regime: Simples Nacional
+AG: 0061
 
-Dados do Tomador de Serviço
-GO COMERCIO DE ARTIGOS ELETRONICOS E ACESSORIOS LTDA
-Rua Padre Valdevino, 2528, Sala 02 -, 2528
-Dionisio Torres - Fortaleza - CE - - CEP: 60135414
-CNPJ/CPF: 22.165.464/0001-90 Inscrição Estadual/RG: Inscrição Municipal:
+CC: 99470-3
 
-E-mail: contabilidade(Ogocase.com
-End. Cobrança:
+PIX: 21.354.637/0001-56
 
-Qtd Un Discriminação dos Serviços Valor Unitário Valor Total
+LUPI AGENCIAMENTO DE PROFISSIONAIS LTDA
+CNPJ 2Z1.354.637/0001-56
 
-1 Assessoria da Leticia Aguiar para o Trabalho com a Gocase 1.625,00 1.625,00
-Dados de Pagamento:
-CNPJ: 47.509.834/0001-90
-Banco Sicoob: 756
-Agência/Cooperativa: 3008
-Conta(PJ): 277.048-2
-Tipo: Conta corrente
-PIX CNPJ: 47.509.834/0001-90
+Vencimento: 30 DIAS APOS EMISSÃO DA NF - 07/08/25
 
-DOCUMENTO EMITIDO POR ME OU EPP OPTANTE PELO SIMPLES NACIONAL.
+VALOR TOTAL DO SERVIÇO = R$ 10.200,00
 
-Observação:
-DO osidepeduções| 00 |
-[DO Descincondcionado| om |
-=
+tre
 
-Total da Nota RETENÇÕES Total Liquido
+Código do Serviço
+06777 - Produção de eventos, espetáculos, entrevistas, shows, ballet, danças, desfiles e congêneres
 
-ii |P's |corns | CSLL | INSS OUTROS
-0,00 0,00 0,00 0,00 0,00
+“valor Total das Deduções (R$) Base de Cálculo (R$) Miquota (%) valor do ISS (R$) Crédito (R$)
+0.00 * x x
+Município da Prestação do Serviço Número Inscrição da Obra valor Aproximado dos Tributos / Fonte
+- a. R$ 19,29 425) /IBE
 
-000] 000 1.625,00
-Esta é a chave de validação: UOCX-NRJY
+OUTRAS INFORMAÇÕES
 
-A validação dessa nota pode ser realizada no endereço: www.vilavelha.es.gov.br
+(1) Esta NFS-e foi emitida com respaldo na Lei nº 14.097/2005; (2) Documento emitido por ME ou EPP optante pelo Simples
+Nacional, (3) Esta NFS-e substitui o RPS Nº 1793 Série SN, emitido em 07/07/2025,
 
