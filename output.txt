@@ -1,81 +1,176 @@
 
 --- Página 1 ---
-Nota Fiscal de Serviço
-Eletrônica - NFS-e
+NFS:
 
-Número da Nota Fiscal
-51
+DANFSe v1.0
+Documento Auxiliar da NFS-e
 
-q
-Secretaria de Estado de Economia do Distrito Federal pode abit
+Chave de Acesso da NFS-e
+41199052243870579000156000000000004725071135887494
 
-a a Série do Documento
-Governo do Distrito Federal 53)
+Número da NFS-e Competência da NFS-e
+47 02/07/2025
 
-Fone: () - 156 - Opção 3 - www.sefaz.df.gov.br
+Número da DPS Série da DPS
+56 900
 
-Dados do Prestador de Serviço
-Data de Geração da NFS-e
+Data e Hora da emissão da NFS-e
+02/07/2025 10:46:09
 
-BY MILA FLORENCIO PRODUCOES ARTISTICAS LTDA 07/07/2025 17:37:36
-BY MILA FLORENCIO 07 107 12025
+Data e Hora da emissão da DPS
+02/07/2025 10:46:09
 
-Sqsw 301 Bloco F S/n Apt 511, - Setor Sudoeste = —
+A autenticidade desta NFS-e pode ser verificada
+pela leitura deste código QR ou pela consulta da
+chave de acesso no portal nacional da NFS-e
 
-CEP 70673-106 - Fone: (61)9333-8528 - Brasiília/ DF Cód. de Autenticidade
+CNPJ/CPF /NIF
+43.870.579/0001-56
 
-gracyflorencio(Dgmail.com BA1748178
-Inscrição Municipal 0804370300142 - CPF/CNPJ 41.319.578/0001-92 Responsável pela Retenção
+EMITENTE DA NFS-e
+Prestador do Serviço
 
-Identificação da Nota Fiscal Eletrônica
+Nome / Nome Empresarial
+43.870.579 JESSICA FERNANDA PEREIRA CAMARGO
 
-Natureza da Operação Número do RPS Série do RPS Data de Emissão do RPS
-Exigível 6 07/07/2025
+Endereço
+QUINZE DE NOVEMBRO, 308, CENTRO
 
-Local dos Serviços Município Incidência
+Simples Nacional na Data de Competência
+Optante - Microempreendedor Individual (MEI)
 
-Brasília - Distrito Federal Brasília - Distrito Federal
+Inscrição Municipal
 
-Dados do Tomador de Serviços
+E-mail
 
-CNPJ/CPF:  22.165.464/0001-90 : 0793849500138
-Razão Social: (GO COMERCIO DE ARTIGOS ELETRÔNICOS E ACESSORIOS LTDA
-Endereço : PADRE VALDEVINO 2528
+Telefone
+(42) 9118-5181
 
-Complemento : SALA 02 Bairro : DIONISIO TORRES
+CONTATOJESSICAMARGOQGMAIL.COM
 
-CEP: 60135-414 Cidade/UF : Fortaleza/ CE
-Telefone : (85)9813-0660 E-mail :
+Município
+Ponta Grossa - PR
+Regime de Apuração Tributária pelo SN
 
-Dados do Intermediário de Serviços
-CNPJ/CPF Inscrição Municipal Razão Social
+CEP
+84010-020
 
-Descrição dos Serviços
+TOMADOR DO SERVIÇO CNPJ/CPF /NIF
+22.165.464/0001-90
 
-Servicos prestados no mes de junho: R$ 4.500,00
+Nome / Nome Empresarial
+GO COMERCIO DE ARTIGOS ELETRONICOS E ACESSORIOS LTDA
 
-Comissao de vendas no mes de junho: R$ 1.780,34 - Conforme Lei 12.741/2012, o percentual total de impostos incidentes neste servico prestado e de
-aproximadamente 6%
+Endereço
+PADRE VALDEVINO, 2528, SALA 02, DIONISIO TORRES
 
-Detalhamento dos Tributos
+Inscrição Municipal
 
-Atividade do Município Alíquota |Item da LC116/2003 Cód. NBS Cód. CNAE
+E-mail
+CONTABILIDADEGGOCASE.COM
+Município
 
-1706 - 17.06 - Propaganda e publicidade, inclusive promoção ... o lime | [imo |
+Fortaleza - CE
 
-VI. Total dos Serviços | Desconto Incondicionado | Deduções Base Cálculo Base de Cálculo Total do ISSQN ISSQN Retido Desconto Condicionado
+Telefone
+(85) 9813-0660
 
-PIS COFINS INSS IRRF CSLL Outras Retenções VI. ISSQN Retido VI. Líquido da Nota Fiscal
-CódObra: qui
+CEP
+60135-414
 
-Construção Civil Cód. Obra:
+INTERMEDIÁRIO DO SERVIÇO NÃO IDENTIFICADO NA NFS-e
 
-Informações Adicionais
+SERVIÇO PRESTADO
 
-|- "DOCUMENTO EMITIDO POR ME OU EPP OPTANTE PELO SIMPLES NACIONAL"; e
-|| - "NÃO GERA DIREITO A CRÉDITO FISCAL DE IPI."
-PROCON: TEL 151- SETOR COMERCIAL SUL, QUADRA 8, BLOCO B-60, SALA 240- BRASILIA - DF
+Código de Tributação Nacional Código de Tributação Municipal
+17.06.01 - Propaganda e publicidade, -
+inclusive promoção de vendas, p...
 
-Chave de acesso no Ambiente de Dados Nacional: 53001081241319578000192000000000005125071751909855.
+Descrição do Serviço
 
-ISS.NET - Sistema Nota Control + www.notacontrol.com.br
+Publicidade para redes sociais
+JESSICA CAMARGO
+
+Banco Nubank
+
+Agência 0001
+
+Conta Corrente 54745075-8
+CNPJ: 43.870.579/0001-56
+CHAVE PIX: 43.870.579/0001-56
+
+Local da Prestação
+Ponta Grossa - PR
+
+País da Prestação
+
+TRIBUTAÇÃO MUNICIPAL
+
+Tributação do ISSQN País Resultado da Prestação do Serviço
+Operação Tributável -
+
+Tipo de Imunidade Suspensão da Exigibilidade do ISSQN
+- Não
+
+Valor do Serviço Desconto Incondicionado
+
+R$ 4.000,00 -
+
+BC ISSQN Alíquota Aplicada
+
+Município de Incidência do ISSQN
+Ponta Grossa - PR
+
+Número Processo Suspensão
+
+Total Deduções/Reduções
+
+Retenção do ISSQN
+Não Retido
+
+Regime Especial de Tributação
+Nenhum
+
+Benefício Municipal
+
+Cálculo do BM
+
+ISSQN Apurado
+
+TRIBUTAÇÃO FEDERAL
+IRRF CP
+
+COFINS
+
+VALOR TOTAL DA NFS-E
+
+Valor do Serviço Desconto Condicionado
+R$ 4.000,00 R$
+
+IRRF, CP,CSLL - Retidos PIS/COFINS Retidos
+R$ 0,00 -
+
+CSLL
+
+Retenção do PIS/COFINS
+
+Desconto Incondicionado
+R$
+
+TOTAL TRIBUTAÇÃO FEDERAL
+
+ISSQN Retido
+
+Valor Líquido da NFS-e
+R$ 4.000,00
+
+TOTAIS APROXIMADOS DOS TRIBUTOS
+
+Federais
+
+Estaduais
+
+Municipais
+
+INFORMAÇÕES COMPLEMENTARES
+
