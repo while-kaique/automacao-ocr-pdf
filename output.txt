@@ -1,81 +1,38 @@
 
 --- Página 1 ---
-Nota Fiscal de Serviço
-Eletrônica - NFS-e
+07/07/2025, 16:16 Usuário: 32.879.031/0001-50 - NF-e - Nota Fiscal Eletrônica de Serviços - São Paulo
 
-Número da Nota Fiscal
-51
+PREFEITURA DO MUNICÍPIO DE SÃO PAULO "anne
+00000060
+SECRETARIA MUNICIPAL DA FAZENDA Data e Hora de Emissão
+à 07/07/2025 16:16:20
+NOTA FISCAL ELETRÔNICA DE SERVIÇOS - NFS-e Código de Verificação
+I9LK-HJED
+PRESTADOR DE SERVIÇOS
+CPF/CNPJ: 32.879.031/0001-50 Inscrição Municipal: 6.209.043-7
+Nome/Razão Social: 32.879.031 ALESSANDRA SAYURI GONCALVES MIYASHIRO
+Endereço: AY AUGUSTO ANTUNES 729, SALA 03 - LIMOEIRO - CEP: 08051-370
+Município: São Paulo Ur: SP
+TOMADOR DE SERVIÇOS
+Nome/Razão Social: GO COMERCIO DE ARTIGOS ELETRONICOS E ACESSORIOS LTDA
+CPF/CNPJ: 22.165.464/0003-52 Inscrição Municipal: ----
+Endereço: RV MG-460 (EST MUNIC HORACIO MARINHO) 350, GALPAQO1 - JARDIM - CEP: 37640-000
+Município: Extrema UF: MG E-mail: contabilf Gosldigital.com.br
+INTERMEDIÁRIO DE SERVIÇOS
+CPF/CNPJ: --- Nome/Razão Social: ----
+DISCRIMINAÇÃO DOS SERVIÇOS
+Campanha publicitária com (bellamiiyva em JUNHO/25
+Dados Bancários:
+Banco: Inter Ag 0001 C/C: 6222970-8
+PIX assessoria.wicreator(igmail.com
+VALOR TOTAL DO SERVIÇO = R$ 1.200,00
+INSS (R$) | IRRF (R$) | CSLL (R$) | COFINS (R$) PIS/PASEP (R$)
+Código do Serviço
+02496 - Propaganda e publicidade, promoção de vendas, planejamento de campanhas e materiais publicitários.
+Valor Total das Deduções (R$) Base de Cálculo (R$) Alíquota (%) Valor do ISS (R$) Crédito (R$)
+0,00 z z z 0,00
+OUTRAS INFORMAÇÕES
+(1) Esta NFS-e foi emitida com respaldo na Lei nº 14.097/2005; (2) Documento emitido por ME ou EPP optante pelo Simples
+Nacional;
 
-q
-Secretaria de Estado de Economia do Distrito Federal pode abit
-
-a a Série do Documento
-Governo do Distrito Federal 53)
-
-Fone: () - 156 - Opção 3 - www.sefaz.df.gov.br
-
-Dados do Prestador de Serviço
-Data de Geração da NFS-e
-
-BY MILA FLORENCIO PRODUCOES ARTISTICAS LTDA 07/07/2025 17:37:36
-BY MILA FLORENCIO 07 107 12025
-
-Sqsw 301 Bloco F S/n Apt 511, - Setor Sudoeste = —
-
-CEP 70673-106 - Fone: (61)9333-8528 - Brasiília/ DF Cód. de Autenticidade
-
-gracyflorencio(Dgmail.com BA1748178
-Inscrição Municipal 0804370300142 - CPF/CNPJ 41.319.578/0001-92 Responsável pela Retenção
-
-Identificação da Nota Fiscal Eletrônica
-
-Natureza da Operação Número do RPS Série do RPS Data de Emissão do RPS
-Exigível 6 07/07/2025
-
-Local dos Serviços Município Incidência
-
-Brasília - Distrito Federal Brasília - Distrito Federal
-
-Dados do Tomador de Serviços
-
-CNPJ/CPF:  22.165.464/0001-90 : 0793849500138
-Razão Social: (GO COMERCIO DE ARTIGOS ELETRÔNICOS E ACESSORIOS LTDA
-Endereço : PADRE VALDEVINO 2528
-
-Complemento : SALA 02 Bairro : DIONISIO TORRES
-
-CEP: 60135-414 Cidade/UF : Fortaleza/ CE
-Telefone : (85)9813-0660 E-mail :
-
-Dados do Intermediário de Serviços
-CNPJ/CPF Inscrição Municipal Razão Social
-
-Descrição dos Serviços
-
-Servicos prestados no mes de junho: R$ 4.500,00
-
-Comissao de vendas no mes de junho: R$ 1.780,34 - Conforme Lei 12.741/2012, o percentual total de impostos incidentes neste servico prestado e de
-aproximadamente 6%
-
-Detalhamento dos Tributos
-
-Atividade do Município Alíquota |Item da LC116/2003 Cód. NBS Cód. CNAE
-
-1706 - 17.06 - Propaganda e publicidade, inclusive promoção ... o lime | [imo |
-
-VI. Total dos Serviços | Desconto Incondicionado | Deduções Base Cálculo Base de Cálculo Total do ISSQN ISSQN Retido Desconto Condicionado
-
-PIS COFINS INSS IRRF CSLL Outras Retenções VI. ISSQN Retido VI. Líquido da Nota Fiscal
-CódObra: qui
-
-Construção Civil Cód. Obra:
-
-Informações Adicionais
-
-|- "DOCUMENTO EMITIDO POR ME OU EPP OPTANTE PELO SIMPLES NACIONAL"; e
-|| - "NÃO GERA DIREITO A CRÉDITO FISCAL DE IPI."
-PROCON: TEL 151- SETOR COMERCIAL SUL, QUADRA 8, BLOCO B-60, SALA 240- BRASILIA - DF
-
-Chave de acesso no Ambiente de Dados Nacional: 53001081241319578000192000000000005125071751909855.
-
-ISS.NET - Sistema Nota Control + www.notacontrol.com.br
+https://nfe.prefeitura.sp.gov.br/contribuinte/notaprint.aspx?nf=60&inscricao=62090437 &email=1&SMS=0&returnurl=nota.aspx%3finscricao%3d62090437 | 1/1
