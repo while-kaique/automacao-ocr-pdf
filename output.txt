@@ -1,67 +1,64 @@
 
 --- Página 1 ---
-Número da Nota
+PREFEITURA MUNICIPAL DE VILA VELHA
 
-» 000000000001
-PREFEITURA DO MUNICIPIO DE LONDRINA Cód. de Verificação
-VHU9-XT8R
-SECRETARIA MUNICIPAL DE FAZENDA D nur
-ata de Emissão
-03/07/2025
+29102-375 - AVENIDA SANTA LEOPOLDINA - COQUEIRAL ITAPARICA - VILA VELHA - ES Competência
 
-NOTA FISCAL DE SERVIÇOS ELETRÔNICA - NFS-e
+SEE Nota Fiscal de Serviços Eletrônica - NFS-e 07/2025
 
-Data de Cancelamento
+|
+Número RPS: Número Nota Fiscal: | Data Emissão
+130] 04/07/2025
 
-Data/hora de geração deste espelho: 03/07/25 15:38:18 -
+AGENCIA IZZY DIGITAL LTDA
 
-PRESTADOR DE SERVIÇOS
+29103-810 - RUA CORONEL OTTO NETTO, 270 - JOCKEY DE ITAPARICA
+VILA VELHA - ES - CEP: 29103-810
+CNPJICPF:47.509.834/0001-90 Inscr. Estadual/RG:
+Email: YASMIMAZEVEDO2018OGMAIL.COM
+Telefone: 27998244839 CCM 215170
 
-Nome/Razão Social: RÉLLOU MARKETING DE INFLUÊNCIA E COMUNICAÇÃO LTDA
-CNPJ/CPF: 35.250.361/0001-70 Inscrição Municipal (CMC): 2647192
-Endereço: RUA LUIZ LERCO, 323 APT 801
-TERRA BONITA CEP 86047610
-Município: LONDRINA UF: Paraná
+Local do Serviço: 1 - SERVIÇO PRESTADO NO MUNICÍPIO DE VILA VELHA NBS: 114061900
+Natureza Operação: Prestação de Serviços
 
-TOMADOR DE SERVIÇOS
+Sub item da lista de serviço: 17.06 - Propaganda e publicidade, inclusive promoção de vendas, planejamento de campanhas ou sistemas de publicidade, elaboração
 
-Nome/Razão Social: GO COMERCIO DE ARTIGOS ELETRONICOS E ACESSORIOS LTDA
-CNPJ/CPF: 22.165.464/0001-90
-Endereço: PADRE VALDEVINO, 2528 SALA 02
-DIONISIO TORRES CEP 60135414
-Município: FORTALEZA UF: Ceará
+Exigibilidade ISS: Exigível Incentivo Fiscal: NÃO Regime: Simples Nacional
 
-DISCRIMINAÇÃO DOS SERVIÇOS PRESTADOS
+Dados do Tomador de Serviço
+GO COMERCIO DE ARTIGOS ELETRONICOS E ACESSORIOS LTDA
+Rua Padre Valdevino, 2528, Sala 02 -, 2528
+Dionisio Torres - Fortaleza - CE - - CEP: 60135414
+CNPJ/CPF: 22.165.464/0001-90 Inscrição Estadual/RG: Inscrição Municipal:
 
-Ação com a influenciadora (Qsoulljess para GOCASE
-Nome: NATHALIA HELENA DIAS
+E-mail: contabilidade(Ogocase.com
+End. Cobrança:
 
-CNPJ: 35.250.361/0001-70
+Qtd Un Discriminação dos Serviços Valor Unitário Valor Total
 
-Banco: INTER - 077
+1 Assessoria da Karol Previtera para o Trabalho com a Better PB 1.125,00 1.125,00
+Dados de Pagamento:
+CNPJ: 47.509.834/0001-90
+Banco Sicoob: 756
+Agência/Cooperativa: 3008
+Conta(PJ): 277.048-2
+Tipo: Conta corrente
+PIX CNPJ: 47.509.834/0001-90
 
-Agência: 0001
+DOCUMENTO EMITIDO POR ME OU EPP OPTANTE PELO SIMPLES NACIONAL.
 
-Conta: 13526438-3
+Observação:
+=
+[DO Descincondcionado| om |
+=
 
-PIX: 35.250.361/0001-70
+Total da Nota RETENÇÕES Total Liquido
 
-Retenção ISS: R$ 0,00 Retenção PIS: R$ 0,00 Retenção COFINS: R$ 0,00
-Retenção IR: R$ 0,00 Retenção CSLL: R$ 0,00 Retenção INSS: R$ 0,00
+ii |P's |corns | CSLL | INSS OUTROS
+0,00 0,00 0,00 0,00 0,00
 
-VALOR TOTAL DA NOTA = R$ 4.200,00
+o,00| 0,00 1.125,00
+Esta é a chave de validação: JIYB-MCVW
 
-Código e Descrição do Serviço
-
-1706 - PROPAGANDA E PUBLICIDADE, INCLUSIVE PROMOÇÃO DE VENDAS, PLANEJAMENTO DE CAMPANHAS OU SISTEMAS DE P...
-
-Deduções de base de cálculo (R$) | Base de Cálculo ISS (R$) Alíquota (%) Valor do ISS (R$)
-- 4.200,00 Inutilizado conf. art. 59 par. 4º Resolução 140/2018 CGSN
-OUTRAS INFORMAÇÕES
-
-- Valor líquido: R$ 4.200,00. Competência: 03/07/2025
-- Esta NFS-e foi emitida com respaldo no Decreto nº 786, de 04/07/2012. Consulta de autenticidade: http://iss.londrina.pr.gov.br
-- Documento emitido por ME ou EPP optante pelo Simples Nacional. Não gera direito a Crédito Fiscal de IPI.
-
-- ISS devido deve ser recolhido pelo Prestador por meio do DAS.
+A validação dessa nota pode ser realizada no endereço: www.vilavelha.es.gov.br
 
