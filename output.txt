@@ -1,84 +1,178 @@
 
 --- Página 1 ---
-ca MUNICÍPIO DE GUARULHOS
-N FSe DANFSe v1.0 MA (11)2423-8646
-ervico elet Documento Auxiliar da NFS-e [cuarúHos] issqnQguarulhos.sp.gov.br
+DANFSe v1.0
+
+NFSe ss:
+
+Documento Auxiliar da NFS-e
+
+PREFEITURA MUNICIPAL DE
+CURITIBA
 
 Chave de Acesso da NFS-e
-35188002256701118000100000000000002625073868995985
+41069022248074725000150000000000004725076548323494
 
-Número da NFS-e Competência da NFS-e Data e Hora da emissão da NFS-e
-26 06/07/2025 06/07/2025 16:52:34
+Número da NFS-e Competência da NFS-e
+47 02/07/2025
 
-Número da DPS Série da DPS Data e Hora da emissão da DPS E e.
+Número da DPS Série da DPS
+49 900
 
-26 900 06/07/2025 16:52:34 A autenticidade desta NFS-e pode ser verificada
+Data e Hora da emissão da NFS-e
+02/07/2025 11:41:01
+
+Data e Hora da emissão da DPS
+02/07/2025 11:41:01
+
+A autenticidade desta NFS-e pode ser verificada
 pela leitura deste código QR ou pela consulta da
 chave de acesso no portal nacional da NFS-e
 
-EMITENTE DA NFS-e CNPJ/CPF/NIF Inscrição Municipal Telefone
+CNPJ/CPF /NIF
+48.074.725/0001-50
 
-Prestador do Serviço 56.701.118/0001-00 - (1 1) 9666-5208
+EMITENTE DA NFS-e
+Prestador do Serviço
 
-Nome / Nome Empresarial E-mail
-56.701.118 GABRIELLY DE ALMEIDA MARQUES MAGALHAES AC.GABIMAGALHAES(QOGMAIL.COM
+Nome / Nome Empresarial
+GABRIELLE AMARAL DOS SANTOS RIBEIRO 12532012773
 
-Endereço Município CEP
-HELIO MANZONI, 46, GOPOUVA Guarulhos - SP 7092070
+Endereço
+LUIZ LUCCA, 120, SAO BRAZ
 
-Simples Nacional na Data de Competência Regime de Apuração Tributária pelo SN
-Optante - Microempreendedor Individual (MEI) -
+Simples Nacional na Data de Competência
+Optante - Microempreendedor Individual (MEI)
 
-TOMADOR DO SERVIÇO CNPJ/CPF/NIF Inscrição Municipal Telefone
-22.165.464/0001-90 - -
+Inscrição Municipal
 
-Nome / Nome Empresarial E-mail
-GO COMERCIO DE ARTIGOS ELETRONICOS E ACESSORIOS LTDA CONTABILIDADEGGOCASE.COM
+E-mail
+GABIAMARALTR(OBOL.COM.BR
+Município
 
-Endereço Município CEP
-PADRE VALDEVINO, 2528, SALA 02, DIONISIO TORRES Fortaleza - CE 60135-414
+Curitiba - PR
+
+Regime de Apuração Tributária pelo SN
+
+Telefone
+(41) 9117-8171
+
+CEP
+82315-092
+
+TOMADOR DO SERVIÇO CNPJ /CPF/NIF
+22.165.464/0001-90
+
+Nome / Nome Empresarial
+GO COMERCIO DE ARTIGOS ELETRONICOS E ACESSORIOS LTDA
+
+Endereço
+PADRE VALDEVINO, 2528, SALA 02, DIONISIO TORRES
+
+Inscrição Municipal
+
+E-mail
+CONTABILIDADEGDGOCASE.COM
+Município
+
+Fortaleza - CE
+
+Telefone
+
+CEP
+60135-414
 
 INTERMEDIÁRIO DO SERVIÇO NÃO IDENTIFICADO NA NFS-e
+
 SERVIÇO PRESTADO
 
-Código de Tributação Nacional Código de Tributação Municipal Local da Prestação País da Prestação
-17.06.01 - Propaganda e publicidade, - Guarulhos - SP -
-inclusive promoção de vendas, p...
+Código de Tributação Nacional Código de Tributação Municipal
+10.08.01 - Agenciamento de -
+
+publicidade e propaganda, inclusive o
+
+age...
 
 Descrição do Serviço
-Promoção de Vendas
+
+Conta PJ Nubank, Gabrielle Amaral dos Santos Ribeiro
+CNPJ: 48.074.725/0001-50
+
+CPF:125.320.127-73
+
+Local da Prestação
+Curitiba - PR
+
+País da Prestação
 
 TRIBUTAÇÃO MUNICIPAL
 
-Tributação do ISSQN País Resultado da Prestação do Serviço Município de Incidência do ISSQN Regime Especial de Tributação
-Operação Tributável - Guarulhos - SP Nenhum
+Tributação do ISSQN País Resultado da Prestação do Serviço
+Operação Tributável -
 
-Tipo de Imunidade Suspensão da Exigibilidade do ISSQN Número Processo Suspensão Benefício Municipal
-- Não - -
+Tipo de Imunidade Suspensão da Exigibilidade do ISSQN
 
-Valor do Serviço Desconto Incondicionado Total Deduções/Reduções Cálculo do BM
-R$ 5.000,00 - - -
+- Não
 
-BC ISSQN Alíquota Aplicada Retenção do ISSQN ISSQN Apurado
-- Não Retido -
+Valor do Serviço Desconto Incondicionado
+
+R$ 15.886,46 -
+
+BC ISSQN Alíquota Aplicada
+
+Município de Incidência do ISSQN
+Curitiba - PR
+
+Número Processo Suspensão
+
+Total Deduções/Reduções
+
+Retenção do ISSQN
+Não Retido
+
+Regime Especial de Tributação
+Nenhum
+
+Benefício Municipal
+
+Cálculo do BM
+
+ISSQN Apurado
 
 TRIBUTAÇÃO FEDERAL
-IRRF CP CSLL
+IRRF CP
 
-COFINS Retenção do PIS/COFINS TOTAL TRIBUTAÇÃO FEDERAL
+COFINS
+
+CSLL
+
+Retenção do PIS/COFINS
+
+TOTAL TRIBUTAÇÃO FEDERAL
 
 VALOR TOTAL DA NFS-E
 
-Valor do Serviço Desconto Condicionado Desconto Incondicionado ISSQN Retido
-R$ 5.000,00 R$ R$ -
+Valor do Serviço Desconto Condicionado
+R$ 15.886,46 R$
 
-IRRF, CP,CSLL - Retidos PIS/COFINS Retidos Valor Líquido da NFS-e
-R$ 0,00 - R$ 5.000,00
+IRRF, CP,CSLL - Retidos PIS/COFINS Retidos
+R$ 0,00 -
+
+Desconto Incondicionado
+R$
+
+ISSQN Retido
+
+Valor Líquido da NFS-e
+R$ 15.886,46
 
 TOTAIS APROXIMADOS DOS TRIBUTOS
 
-Federais Estaduais Municipais
+Federais
+
+Estaduais
+
+Municipais
 
 INFORMAÇÕES COMPLEMENTARES
-NBS: 114061100
+NBS: 114061900
 
