@@ -1,82 +1,67 @@
 
 --- Página 1 ---
-01/07/25, 18:29 :: NFS-e - Nota Fiscal de Serviços eletrônica ::
+PREFEITURA DA CIDADE DO RIO DE JANEIRO “00000 As
+SECRETARIA MUNICIPAL DE FAZENDA
+NOTA FISCAL DE SERVIÇOS ELETRÔNICA - NFS-e 01/04/2025 20:25:31
+ódigo de Verificação
+- NOTA CARIOCA -
+PRESTADOR DE SERVIÇOS
 
-NFS-e - NOTA FISCAL DE SERVIÇOS ELETRÔNICA
+CPF/CNPJ: 54.370.484/0001-90 Inscrição Municipal: 1.519.770-6 Inscrição Estadual: ---
+Nome/Razão Social: BEATRIZ L BOEKE LTDA
+Nome Fantasia: BEATRIZ L BOEKE Tel.: 24992812463
 
-o. Emitida em: Competência: Código de Verificação:
-Nº:2025/655 01/07/2025 às 18:28:49 01/07/2025 bcef04d5
-WUPPER DIGITAL AGENCIA LTDA
-CPF/CNPJ: 39.440.918/0001-97 Inscrição Municipal: 1256451/001-0
-lp: RUA DEPUTADO AUGUSTO GONCALVES, 165, APT 203, Serrano - Cep: 30882-660
-Belo Horizonte MG
-Telefone: Email:
+Endereço: RUA DAS HORTENCIAS 76, APT 903 - VILA YALQUEIRE - CEP: 21330-540
+Município: RIO DE JANEIRO UF: RJ
 
-Tomador do(s) Serviço(s)
+TOMADOR DE SERVIÇOS
+CPF/CNPJ: 22.165.464/0003-52 Inscrição Municipal: ---- Inscrição Estadual: ----
+Nome/Razão Social: GO COMERCIO DE ARTIGOS ELETRÔNICOS E ACESSÓRIOS LTDA
 
-CPF/CNPJ: 22.165.464/0001-90 Inscrição Municipal: Não Informado
-GO COMÉRCIO DE ARTIGOS ELETRONICOS E ACESSÓRIOS LTDA
+Endereço: RUA PADRE VALDEVINO 2528, SALA 2 - DIONISIO TORRES - CEP: 60135-414 Tel.: 8581306602
+Município: FORTALEZA UF: CE E-mail: CONTABILIDADEGGOCASE.COM
 
-Rua Padre Valdevino , 2528, sala 02, Dionísio Torres - Cep: 60135-414
+DISCRIMINAÇÃO DOS SERVIÇOS
 
-Fortaleza CE
+Serviços Prestados
 
-Telefone: Não Informado Email: Não Informado
+Bia Boeke (2/3)
+2 combos de stories
+2 reels com repost no tiktok
 
-Discriminação do(s) Serviço(s)
+Dados Bancaçrios:
 
-PRESTACAO DE SERVICOS EM PROL DA MARCA GOCASE
+Banco: NU- PAGAMENTOS
+Age;ncia: 0001
 
-INFLUENCER: NINA MIANO
+Conta: 89161465-2
 
-CONTRATO DE 12 MESES MARCO/2025 A MARCO/2026
+Tipo de Conta PJ
 
-VALOR TOTAL: R$162.000,00 PAGOS EM 12 PARCELAS DE R$13.500,00
-PARCELA: 04/12
+PIX: CNPJ - 54.370.464/0001-90
 
-VENCIMENTO: 30/07/25
+Marca: GoCase
+Valor: R$ 6.400,00
+Vencimento: 31/07/2025
 
-DADOS BANCÁRIOS
+VALOR DA NOTA = R$ 6.400,00
 
-BANCO: CAIXA ECONOMICA FEDERAL
+Serviço Prestado
 
-RAZAO SOCIAL: WUPPER DIGITAL AGENCIA LTDA
-CNPJ: 39.440.918/0001-97
+13.03.01 - Fotografia
 
-AGENCIA: 1017
+Deduções (R$) Desconto Incond. (R$) |Base de Cálculo (R$) Alíquota (%) Valor do 55 (R$) Crédito p/ IPTU (R$)
+0,00 0,00 0,00
 
-OPERACAO: 1292
+OUTRAS INFORMAÇÕES
 
-CONTA/DV: 000578314402-5
+- Esta NFS-e foi emitida com respaldo na Lei nº 5.098 de 15/10/2009 e no Decreto nº 32.250 de 11/05/2010
 
-CHAVE PIX (CNPJ): 39.440.918/0001-97
+- PROCON-RJ: Av. Rio Branco nº 25, 5º andar, tel 151: ww. procon.r).gov.br
 
-Intermediário do(s) Serviço(s): Nome: ORIENTA - ORIENTACAO ESTRATEGICA DE NEGOCIOS LTDA
+- ISS devido deve ser recolhido por meio de Documento de Arrecadação do Simples Nacional (DAS).
 
-CPF/CNPJ: 05.452.640/0001-56 Inscrição Municipal:
-Código de Tributação do Município (CTISS)
-1003-0/01-88 / Agenciamento, corretagem ou intermediação de direitos de propriedade industrial, artística ou literária.
+- Documento emitido por ME ou EPP optante pelo Simples Nacional. Não gera direito a crédito fiscal de IPI.
 
-Subitem Lista de Serviços LC 116/03 / Descrição:
-10.03 / Agenciamento, corretagem ou intermediacao de direitos de propriedade industrial, artistica ou Literaria.
+- Esta NFS-e não gera crédito para abatimento no IPTU.
 
-Cod/Município da incidência do ISSQN: Natureza da Operação:
-
-3106200 / Belo Horizonte Tributação no município
-Valor dos serviços: R$ 13.500,00 Valor dos serviços: R$ 13.500,00
-(-) Descontos: R$ 0,00 (-) Deduções: R$ 9.450,00
-(-) Retenções Federais: R$ 0,00 (-) Desconto Incondicionado: R$ 0,00
-(:) ISS Retido na Fonte: R$ 0,00 (=) Base de Cálculo: R$ 4.050,00
-Valor Líquido: R$ 13.500,00  &)Aliquota: 25h
-(=)Valor do ISS: R$ 101,25
-
-Outras Informações:
-Chave de acesso no Ambiente de Dados Nacional: 31062001239440918000197250000000065525076459249718.
-
-Prefeitura de Belo Horizonte - Secretaria Municipal de Fazenda E No
-Rua Espírito Santo, 605 - 3º andar - Centro - CEP: 30160-919 - Belo Horizonte MG. OTA
-Dúvidas: SIGESP 10
-
-https://bhissdigital.pbh.gov.br/nfse/pages/exibicaoNF S-e.jsf
-
-111
