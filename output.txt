@@ -1,186 +1,82 @@
 
 --- Página 1 ---
-DANFSe v1.0
+01/07/25, 18:29 :: NFS-e - Nota Fiscal de Serviços eletrônica ::
 
-NFSe ss:
+NFS-e - NOTA FISCAL DE SERVIÇOS ELETRÔNICA
 
-Documento Auxiliar da NFS-e
+o. Emitida em: Competência: Código de Verificação:
+Nº:2025/655 01/07/2025 às 18:28:49 01/07/2025 bcef04d5
+WUPPER DIGITAL AGENCIA LTDA
+CPF/CNPJ: 39.440.918/0001-97 Inscrição Municipal: 1256451/001-0
+lp: RUA DEPUTADO AUGUSTO GONCALVES, 165, APT 203, Serrano - Cep: 30882-660
+Belo Horizonte MG
+Telefone: Email:
 
-CIDADE DE
-SÃO PAULO
-FAZENDA.
+Tomador do(s) Serviço(s)
 
-Prefeitura da Cidade de São Paulo
-Secretaria Municipal da Fazenda
-(11)156
+CPF/CNPJ: 22.165.464/0001-90 Inscrição Municipal: Não Informado
+GO COMÉRCIO DE ARTIGOS ELETRONICOS E ACESSÓRIOS LTDA
 
-Chave de Acesso da NFS-e
-35503082250698944000152000000000015325076042629688
+Rua Padre Valdevino , 2528, sala 02, Dionísio Torres - Cep: 60135-414
 
-Número da NFS-e
-153
+Fortaleza CE
 
-Número da DPS
-197
+Telefone: Não Informado Email: Não Informado
 
-Competência da NFS-e
-07/07/2025
+Discriminação do(s) Serviço(s)
 
-Série da DPS
-900
+PRESTACAO DE SERVICOS EM PROL DA MARCA GOCASE
 
-Data e Hora da emissão da NFS-e
-07/07/2025 16:11:18
+INFLUENCER: NINA MIANO
 
-Data e Hora da emissão da DPS
-07/07/2025 16:11:18
+CONTRATO DE 12 MESES MARCO/2025 A MARCO/2026
 
-OA
+VALOR TOTAL: R$162.000,00 PAGOS EM 12 PARCELAS DE R$13.500,00
+PARCELA: 04/12
 
-A autenticidade desta NFS-e pode ser verificada
-pela leitura deste código QR ou pela consulta da
-chave de acesso no portal nacional da NFS-e
+VENCIMENTO: 30/07/25
 
-CNPJ/CPF /NIF
-50.698.944/0001-52
+DADOS BANCÁRIOS
 
-EMITENTE DA NFS-e
-Prestador do Serviço
+BANCO: CAIXA ECONOMICA FEDERAL
 
-Nome / Nome Empresarial
-50.698.944 MARCELLA DE MARCHI DAVID
+RAZAO SOCIAL: WUPPER DIGITAL AGENCIA LTDA
+CNPJ: 39.440.918/0001-97
 
-Endereço
-ALFREDO PUJOL - DE 1213 A 1499 - LADO IMPAR, 545, SANTANA
+AGENCIA: 1017
 
-Simples Nacional na Data de Competência
-Optante - Microempreendedor Individual (MEI)
+OPERACAO: 1292
 
-Inscrição Municipal
+CONTA/DV: 000578314402-5
 
-E-mail
-MAAHDEMARCHIISOGMAIL.COM
-Município
+CHAVE PIX (CNPJ): 39.440.918/0001-97
 
-São Paulo - SP
+Intermediário do(s) Serviço(s): Nome: ORIENTA - ORIENTACAO ESTRATEGICA DE NEGOCIOS LTDA
 
-Regime de Apuração Tributária pelo SN
+CPF/CNPJ: 05.452.640/0001-56 Inscrição Municipal:
+Código de Tributação do Município (CTISS)
+1003-0/01-88 / Agenciamento, corretagem ou intermediação de direitos de propriedade industrial, artística ou literária.
 
-Telefone
-(00) 0000-0000
+Subitem Lista de Serviços LC 116/03 / Descrição:
+10.03 / Agenciamento, corretagem ou intermediacao de direitos de propriedade industrial, artistica ou Literaria.
 
-CEP
-2017012
+Cod/Município da incidência do ISSQN: Natureza da Operação:
 
-TOMADOR DO SERVIÇO CNPJ /CPF/NIF
-22.165.464/0003-52
+3106200 / Belo Horizonte Tributação no município
+Valor dos serviços: R$ 13.500,00 Valor dos serviços: R$ 13.500,00
+(-) Descontos: R$ 0,00 (-) Deduções: R$ 9.450,00
+(-) Retenções Federais: R$ 0,00 (-) Desconto Incondicionado: R$ 0,00
+(:) ISS Retido na Fonte: R$ 0,00 (=) Base de Cálculo: R$ 4.050,00
+Valor Líquido: R$ 13.500,00  &)Aliquota: 25h
+(=)Valor do ISS: R$ 101,25
 
-Nome / Nome Empresarial
-GO COMERCIO DE ARTIGOS ELETRONICOS E ACESSORIOS LTDA
+Outras Informações:
+Chave de acesso no Ambiente de Dados Nacional: 31062001239440918000197250000000065525076459249718.
 
-Endereço
-R PADRE VALDEVINO, 2528, KM 947 AREA B1, DIONISIO TORRES
+Prefeitura de Belo Horizonte - Secretaria Municipal de Fazenda E No
+Rua Espírito Santo, 605 - 3º andar - Centro - CEP: 30160-919 - Belo Horizonte MG. OTA
+Dúvidas: SIGESP 10
 
-Inscrição Municipal
+https://bhissdigital.pbh.gov.br/nfse/pages/exibicaoNF S-e.jsf
 
-E-mail
-Município
-Fortaleza - CE
-
-Telefone
-
-CEP
-60135-414
-
-INTERMEDIÁRIO DO SERVIÇO NÃO IDENTIFICADO NA NFS-e
-
-SERVIÇO PRESTADO
-
-Código de Tributação Nacional Código de Tributação Municipal
-17.06.01 - Propaganda e publicidade, -
-inclusive promoção de vendas, p...
-
-Descrição do Serviço
-
-DADOS PARA PAGAMENTO
-CHAVE PIX CNPJ:
-50.698.944/0001-52
-MARCELLA DE MARCHI
-PAG REF AO MÊS JUNHO
-
-Local da Prestação
-São Paulo - SP
-
-País da Prestação
-
-TRIBUTAÇÃO MUNICIPAL
-
-Tributação do ISSQN País Resultado da Prestação do Serviço
-Operação Tributável -
-
-Tipo de Imunidade Suspensão da Exigibilidade do ISSQN
-
-- Não
-
-Valor do Serviço Desconto Incondicionado
-
-R$ 7.900,00 -
-
-BC ISSQN Alíquota Aplicada
-
-Município de Incidência do ISSQN
-São Paulo - SP
-
-Número Processo Suspensão
-
-Total Deduções/Reduções
-
-Retenção do ISSQN
-Não Retido
-
-Regime Especial de Tributação
-Nenhum
-
-Benefício Municipal
-
-Cálculo do BM
-
-ISSQN Apurado
-
-TRIBUTAÇÃO FEDERAL
-IRRF CP
-
-COFINS
-
-CSLL
-
-Retenção do PIS/COFINS
-
-TOTAL TRIBUTAÇÃO FEDERAL
-
-VALOR TOTAL DA NFS-E
-
-Valor do Serviço Desconto Condicionado
-R$ 7.900,00 R$
-
-IRRF, CP,CSLL - Retidos PIS/COFINS Retidos
-R$ 0,00 -
-
-Desconto Incondicionado
-R$
-
-ISSQN Retido
-
-Valor Líquido da NFS-e
-R$ 7.900,00
-
-TOTAIS APROXIMADOS DOS TRIBUTOS
-
-Federais
-
-Estaduais
-
-Municipais
-
-INFORMAÇÕES COMPLEMENTARES
-
+111
