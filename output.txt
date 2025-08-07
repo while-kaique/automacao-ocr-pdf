@@ -1,67 +1,38 @@
 
 --- Página 1 ---
-03/06/2025, 11:35 NFS-e - Nota Fiscal de Serviços Eletrônica de Porto Alegre
+LUISA SONCINI RADTKE LTDA DANFPS-E
 
-NFS-e - NOTA FISCAL DE SERVIÇOS ELETRÔNICA
+Documento Auxiliar da Nota Fiscal de Prestação de Serviços Eletrônica
 
-Emitida em: Competência: Código de Verificação:
-0.
-Nº:2025/30 03/06/2025 às 11:35:45 03/06/2025 94129b14
-LD COMERCIO E MARKETING LTDA
-E, CPF/CNPJ: 51.032.114/0001-54 Inscrição Municipal: 72519126
-sLogo prestador R MIGUEL TOSTES, 240, APT 609 BOX 44, RIO BRANCO - Cep: 90430-060
-Porto Alegre RS
-Telefone: Email:
-Tomador do(s) Serviço(s)
-CPF/CNPJ: 22.165.464/0003-52 Inscrição Municipal: Não Informado
+RUA FULVIO ADUCCI, 590, APT:401 Numero: 72
+ESTREITO - FLORIANÓPOLIS - SC - 88.075-001 Autorização: 5591222
+CNPJ: 57.955.814/0001-05 Emissão: 04/07/2025
+CMC: 824.882-8 Código de Verificação: 68C2-CF85-1415-CF59
+Dados do Tomador
+NOME/RAZÃO SOCIAL CrPs
+GO COMERCIO DE ARTIGOS ELETRONICOS E ACESSORIOS LTDA 9203
+ENDEREÇO BAIRRO/DISTRITO CEP
+Rua Padre Valdevino, 2528 - SALA 02 Dionisio Torres 60.135-414
+MUNICÍPIO UF País CPF/CNPJ/Outros CMC
+Fortaleza CE BRASIL 22.165.464/0001-90
+Dados do(s) serviço(s)
+Cód. Atividade (Descrição CNAE) Descrição do Serviço CST | Alig. Valor Unitário Qtde Valor Total
+7319099 (OUTRAS ATIVIDADES DE PUBLICIDADE NÃO ESPECIFICADAS 1 0,00 R$ 3.901,51 1 R$ 3.901,51
 
-GO COMERCIO DE ARTIGOS ELETRONICOS E ACESSORIOS LTDA
-ROD MG - 460 (EST MUNICIPAL HORACIO MARINHO), 350, GALPÃO 1, DO JARDIM - Cep: 37640-000
+ANTERIORMENTE) REFERENTE À PUBLICIDADE REALIZADA
+ATRAVÉS DO INSTAGRAM E TIKTOK.
 
-Porto Alegre RS
-Telefone: (85)8130-6602 Email: ADMINISTRATIVOGGOCASE. COM.BR
+Cálulo do Imposto
 
-Discriminação do(s) Serviço(s)
+Base de Cálculo de ISSQN Valor do ISSQN Base de Cálculo ISSQN Subst. Valor do ISSQN Subst. Valor Total dos Serviços
 
-Referente aos serviços de imagem e divulgação prestados pelo influenciador Elu dornelless
-Dados bancários:
+R$ 0,00 R$ 0,00 R$ 0,00 R$ 0,00 R$ 3.901,51
 
-CNPJ: 51.032.114/0001-54
+Dados adicionais
 
-Agência: 558
+DANFPS-E - DOCUMENTO AUXILIAR DA NOTA FISCAL DE PRESTAÇÃO DE SERVIÇOS ELETRÔNICA A VALIDADE E AUTENTICIDADE DESTE DOCUMENTO AUXILIAR DA NOTA FISCAL DE PRESTAÇÃO DE SERVIÇO ELETRÔNICA
+PODERÃO SER COMPROVADAS MEDIANTE CONSULTA À PÁGINA DA SECRETARIA MUNICIPAL DA FAZENDA - SMF NA
+INTERNET, NO ENDEREÇO portal.pmf.sc.gov.br/sites/notaeletronica, EM VERIFICAR AUTENTICIDADE >> PRODUÇÃO,
+INFORMANDO O CÓDIGO DE VERIFICAÇÃO: 68C2CF851415CF59 E O NÚMERO DE INSCRIÇÃO DO EMITENTE NO CADASTRO
+MUNICIPAL DE CONTRIBUINTES - CMC: 8248828
 
-Conta: 27378-3
-
-PIX: ludornelles. mktegmail.com
-
-Código de Tributação Municipal:
-170600100 / Propaganda e publicidade, inclusive promoção de vendas, planejamento de campanhas ou sistemas de publicidade,
-elaboração de desenhos, textos e demais materiais publicitários.
-
-Subitem Lista de Serviços LC 116/03 / Descrição:
-17.06 / Propaganda e publicidade, inclusive promoção de vendas, planejamento de campanhas ou sistemas de publicidade,
-
-elaboração de desenhos, textos e demais materiais publicitários.
-
-Cod/Município da incidência do ISSQN: Natureza da Operação:
-4314902 / Porto Alegre Tributação no município
-
-Regime Especial de Tributação: ME ou EPP do Simples Nacional
-
-Valor dos serviços: R$ 19.817,10 | Valor dos serviços: R$ 19.817,10
-(-) Descontos: R$ 0,00 (-) Deduções: R$ 0,00
-(-) Retenções Federais: R$ 0,00 (-) Desconto Incondicionado: R$ 0,00
-(-) ISS Retido na Fonte: R$ 0,00 (=) Base de Cálculo: R$ 19.817,10
-Valor Líquido: R$ 19.817,10 (x) Alíquota: .
-
-(=)Valor do ISS: -
-
-Documento emitido por ME ou EPP optante pelo Simples Nacional. Não gera direito a credito fiscal de IPI.
-
-Prefeitura de Porto Alegre - Secretaria da Fazenda
-
-Rua Siqueira Campos, 1300 - 4º andar - Bairro Centro Histórico - CEP: 90.010-907 - Porto Alegre RS.
-Tel: 156 (opção 4) ou (51) 3289-0156 (chamadas de outras cidades)
-https://servicos.procempa.com.br
-
-https://nfe-web.portoalegre.rs.gov.br/nfse/pages/exibicaoNFS-e.jsf
