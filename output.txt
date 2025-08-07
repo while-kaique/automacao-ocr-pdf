@@ -1,82 +1,58 @@
 
 --- Página 1 ---
-01/07/25, 18:29 :: NFS-e - Nota Fiscal de Serviços eletrônica ::
+08/07/2025, 08:23 Usuário: 26.502.466/0001-89 - NF-e - Nota Fiscal Eletrônica de Serviços - São Paulo
 
-NFS-e - NOTA FISCAL DE SERVIÇOS ELETRÔNICA
+PREFEITURA DO MUNICÍPIO DE SÃO PAULO O ROOOUSDS
+SECRETARIA MUNICIPAL DA FAZENDA Data e Hora de Emissão
 
-o. Emitida em: Competência: Código de Verificação:
-Nº:2025/655 01/07/2025 às 18:28:49 01/07/2025 bcef04d5
-WUPPER DIGITAL AGENCIA LTDA
-CPF/CNPJ: 39.440.918/0001-97 Inscrição Municipal: 1256451/001-0
-lp: RUA DEPUTADO AUGUSTO GONCALVES, 165, APT 203, Serrano - Cep: 30882-660
-Belo Horizonte MG
-Telefone: Email:
+R 08/07/2025 08:23:16
+NOTA FISCAL ELETRÔNICA DE SERVIÇOS - NFS-e
 
-Tomador do(s) Serviço(s)
+Código de Verificação
 
-CPF/CNPJ: 22.165.464/0001-90 Inscrição Municipal: Não Informado
-GO COMÉRCIO DE ARTIGOS ELETRONICOS E ACESSÓRIOS LTDA
+RLFQ-PZMB
 
-Rua Padre Valdevino , 2528, sala 02, Dionísio Torres - Cep: 60135-414
+PRESTADOR DE SERVIÇOS
+CPF/CNPJ: 26.502.466/0001-89 Inscrição Municipal: 7.684.061-1
+Nome/Razão Social: KREATORZ AGENCIAMENTO E PRODUCOES LTDA
+Endereço: R CEL JOSE EUSEBIO 95, CASA 13 - HIGIENOPOLIS - CEP: 01239-030
+Município: São Paulo UF: SP
 
-Fortaleza CE
+TOMADOR DE SERVIÇOS
 
-Telefone: Não Informado Email: Não Informado
+Nome/Razão Social: GO COMERCIO DE ARTIGOS ELETRÔNICOS E ACESSORIOS LTDA
+CPF/CNPJ: 22.165.464/0001 -90 Inscrição Municipal: ---—
 
-Discriminação do(s) Serviço(s)
+Endereço: R Padre Valdevino 2475 - Dionisio Torres - CEP: 60135-414
+Município: Fortaleza UF: CE E-mail: contabilidadeG)gocase.com
 
-PRESTACAO DE SERVICOS EM PROL DA MARCA GOCASE
+INTERMEDIÁRIO DE SERVIÇOS
+CPF/CNPJ: === Nome/Razão Social: ---=
 
-INFLUENCER: NINA MIANO
+DISCRIMINAÇÃO DOS SERVIÇOS
 
-CONTRATO DE 12 MESES MARCO/2025 A MARCO/2026
+Ação/Campanha serviços de publicidade para a Marca Gocase - Influenciador Stefany
 
-VALOR TOTAL: R$162.000,00 PAGOS EM 12 PARCELAS DE R$13.500,00
-PARCELA: 04/12
+Código: KRTZz 518
+Dados Bancários:
 
-VENCIMENTO: 30/07/25
+KREATORS AGENCIAMENTO E PRODUÇÕES LTDA
+Agência 0001
+Conta 68129187-8
 
-DADOS BANCÁRIOS
+Banco 0260 Nu Pagamentos S.A. - Instituição de Pagamento
+Pixlikreatorz.com.br
 
-BANCO: CAIXA ECONOMICA FEDERAL
+VALOR TOTAL DO SERVIÇO = R$ 12.000,00
+INSS (R$) | IRRF (R$) | CSLL (R$) | COFINS (R$) | PIS/PASEP (R$)
 
-RAZAO SOCIAL: WUPPER DIGITAL AGENCIA LTDA
-CNPJ: 39.440.918/0001-97
+Código do Serviço
+02496 - Propaganda e publicidade, promoção de vendas, planejamento de campanhas e materiais publicitários.
+Valor Total das Deduções (R$) Base de Cálculo (R$) Alíquota (9%) Valor do ISS (R$) Crédito (R$)
+0,00 12.000,00 5,00% 600,00 0,00
+Município da Prestação do Serviço Número Inscrição da Obra Walor Aproximado dos Tributos / Fonte
 
-AGENCIA: 1017
+OUTRAS INFORMAÇÕES
+(1) Esta NFS-e foi emitida com respaldo na Lei nº 14.097/2005; (2) Data de vencimento do ISS desta NFS-e: 10/08/2025;
 
-OPERACAO: 1292
-
-CONTA/DV: 000578314402-5
-
-CHAVE PIX (CNPJ): 39.440.918/0001-97
-
-Intermediário do(s) Serviço(s): Nome: ORIENTA - ORIENTACAO ESTRATEGICA DE NEGOCIOS LTDA
-
-CPF/CNPJ: 05.452.640/0001-56 Inscrição Municipal:
-Código de Tributação do Município (CTISS)
-1003-0/01-88 / Agenciamento, corretagem ou intermediação de direitos de propriedade industrial, artística ou literária.
-
-Subitem Lista de Serviços LC 116/03 / Descrição:
-10.03 / Agenciamento, corretagem ou intermediacao de direitos de propriedade industrial, artistica ou Literaria.
-
-Cod/Município da incidência do ISSQN: Natureza da Operação:
-
-3106200 / Belo Horizonte Tributação no município
-Valor dos serviços: R$ 13.500,00 Valor dos serviços: R$ 13.500,00
-(-) Descontos: R$ 0,00 (-) Deduções: R$ 9.450,00
-(-) Retenções Federais: R$ 0,00 (-) Desconto Incondicionado: R$ 0,00
-(:) ISS Retido na Fonte: R$ 0,00 (=) Base de Cálculo: R$ 4.050,00
-Valor Líquido: R$ 13.500,00  &)Aliquota: 25h
-(=)Valor do ISS: R$ 101,25
-
-Outras Informações:
-Chave de acesso no Ambiente de Dados Nacional: 31062001239440918000197250000000065525076459249718.
-
-Prefeitura de Belo Horizonte - Secretaria Municipal de Fazenda E No
-Rua Espírito Santo, 605 - 3º andar - Centro - CEP: 30160-919 - Belo Horizonte MG. OTA
-Dúvidas: SIGESP 10
-
-https://bhissdigital.pbh.gov.br/nfse/pages/exibicaoNF S-e.jsf
-
-111
+https://nfe.prefeitura.sp.gov.br/contribuinte/notaprint.aspx?nf=309&inscricao=76840611 &email=1&SMS=0&returnurl=nota.aspx%3finscricao%3dT... 1/1
