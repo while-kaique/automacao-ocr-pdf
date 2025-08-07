@@ -1,38 +1,186 @@
 
 --- Página 1 ---
-LUISA SONCINI RADTKE LTDA DANFPS-E
+DANFSe v1.0
 
-Documento Auxiliar da Nota Fiscal de Prestação de Serviços Eletrônica
+NFSe ss:
 
-RUA FULVIO ADUCCI, 590, APT:401 Numero: 72
-ESTREITO - FLORIANÓPOLIS - SC - 88.075-001 Autorização: 5591222
-CNPJ: 57.955.814/0001-05 Emissão: 04/07/2025
-CMC: 824.882-8 Código de Verificação: 68C2-CF85-1415-CF59
-Dados do Tomador
-NOME/RAZÃO SOCIAL CrPs
-GO COMERCIO DE ARTIGOS ELETRONICOS E ACESSORIOS LTDA 9203
-ENDEREÇO BAIRRO/DISTRITO CEP
-Rua Padre Valdevino, 2528 - SALA 02 Dionisio Torres 60.135-414
-MUNICÍPIO UF País CPF/CNPJ/Outros CMC
-Fortaleza CE BRASIL 22.165.464/0001-90
-Dados do(s) serviço(s)
-Cód. Atividade (Descrição CNAE) Descrição do Serviço CST | Alig. Valor Unitário Qtde Valor Total
-7319099 (OUTRAS ATIVIDADES DE PUBLICIDADE NÃO ESPECIFICADAS 1 0,00 R$ 3.901,51 1 R$ 3.901,51
+Documento Auxiliar da NFS-e
 
-ANTERIORMENTE) REFERENTE À PUBLICIDADE REALIZADA
-ATRAVÉS DO INSTAGRAM E TIKTOK.
+CIDADE DE
+SÃO PAULO
+FAZENDA.
 
-Cálulo do Imposto
+Prefeitura da Cidade de São Paulo
+Secretaria Municipal da Fazenda
+(11)156
 
-Base de Cálculo de ISSQN Valor do ISSQN Base de Cálculo ISSQN Subst. Valor do ISSQN Subst. Valor Total dos Serviços
+Chave de Acesso da NFS-e
+35503082250698944000152000000000015325076042629688
 
-R$ 0,00 R$ 0,00 R$ 0,00 R$ 0,00 R$ 3.901,51
+Número da NFS-e
+153
 
-Dados adicionais
+Número da DPS
+197
 
-DANFPS-E - DOCUMENTO AUXILIAR DA NOTA FISCAL DE PRESTAÇÃO DE SERVIÇOS ELETRÔNICA A VALIDADE E AUTENTICIDADE DESTE DOCUMENTO AUXILIAR DA NOTA FISCAL DE PRESTAÇÃO DE SERVIÇO ELETRÔNICA
-PODERÃO SER COMPROVADAS MEDIANTE CONSULTA À PÁGINA DA SECRETARIA MUNICIPAL DA FAZENDA - SMF NA
-INTERNET, NO ENDEREÇO portal.pmf.sc.gov.br/sites/notaeletronica, EM VERIFICAR AUTENTICIDADE >> PRODUÇÃO,
-INFORMANDO O CÓDIGO DE VERIFICAÇÃO: 68C2CF851415CF59 E O NÚMERO DE INSCRIÇÃO DO EMITENTE NO CADASTRO
-MUNICIPAL DE CONTRIBUINTES - CMC: 8248828
+Competência da NFS-e
+07/07/2025
+
+Série da DPS
+900
+
+Data e Hora da emissão da NFS-e
+07/07/2025 16:11:18
+
+Data e Hora da emissão da DPS
+07/07/2025 16:11:18
+
+OA
+
+A autenticidade desta NFS-e pode ser verificada
+pela leitura deste código QR ou pela consulta da
+chave de acesso no portal nacional da NFS-e
+
+CNPJ/CPF /NIF
+50.698.944/0001-52
+
+EMITENTE DA NFS-e
+Prestador do Serviço
+
+Nome / Nome Empresarial
+50.698.944 MARCELLA DE MARCHI DAVID
+
+Endereço
+ALFREDO PUJOL - DE 1213 A 1499 - LADO IMPAR, 545, SANTANA
+
+Simples Nacional na Data de Competência
+Optante - Microempreendedor Individual (MEI)
+
+Inscrição Municipal
+
+E-mail
+MAAHDEMARCHIISOGMAIL.COM
+Município
+
+São Paulo - SP
+
+Regime de Apuração Tributária pelo SN
+
+Telefone
+(00) 0000-0000
+
+CEP
+2017012
+
+TOMADOR DO SERVIÇO CNPJ /CPF/NIF
+22.165.464/0003-52
+
+Nome / Nome Empresarial
+GO COMERCIO DE ARTIGOS ELETRONICOS E ACESSORIOS LTDA
+
+Endereço
+R PADRE VALDEVINO, 2528, KM 947 AREA B1, DIONISIO TORRES
+
+Inscrição Municipal
+
+E-mail
+Município
+Fortaleza - CE
+
+Telefone
+
+CEP
+60135-414
+
+INTERMEDIÁRIO DO SERVIÇO NÃO IDENTIFICADO NA NFS-e
+
+SERVIÇO PRESTADO
+
+Código de Tributação Nacional Código de Tributação Municipal
+17.06.01 - Propaganda e publicidade, -
+inclusive promoção de vendas, p...
+
+Descrição do Serviço
+
+DADOS PARA PAGAMENTO
+CHAVE PIX CNPJ:
+50.698.944/0001-52
+MARCELLA DE MARCHI
+PAG REF AO MÊS JUNHO
+
+Local da Prestação
+São Paulo - SP
+
+País da Prestação
+
+TRIBUTAÇÃO MUNICIPAL
+
+Tributação do ISSQN País Resultado da Prestação do Serviço
+Operação Tributável -
+
+Tipo de Imunidade Suspensão da Exigibilidade do ISSQN
+
+- Não
+
+Valor do Serviço Desconto Incondicionado
+
+R$ 7.900,00 -
+
+BC ISSQN Alíquota Aplicada
+
+Município de Incidência do ISSQN
+São Paulo - SP
+
+Número Processo Suspensão
+
+Total Deduções/Reduções
+
+Retenção do ISSQN
+Não Retido
+
+Regime Especial de Tributação
+Nenhum
+
+Benefício Municipal
+
+Cálculo do BM
+
+ISSQN Apurado
+
+TRIBUTAÇÃO FEDERAL
+IRRF CP
+
+COFINS
+
+CSLL
+
+Retenção do PIS/COFINS
+
+TOTAL TRIBUTAÇÃO FEDERAL
+
+VALOR TOTAL DA NFS-E
+
+Valor do Serviço Desconto Condicionado
+R$ 7.900,00 R$
+
+IRRF, CP,CSLL - Retidos PIS/COFINS Retidos
+R$ 0,00 -
+
+Desconto Incondicionado
+R$
+
+ISSQN Retido
+
+Valor Líquido da NFS-e
+R$ 7.900,00
+
+TOTAIS APROXIMADOS DOS TRIBUTOS
+
+Federais
+
+Estaduais
+
+Municipais
+
+INFORMAÇÕES COMPLEMENTARES
 
