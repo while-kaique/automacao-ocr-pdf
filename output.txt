@@ -1,65 +1,72 @@
 
 --- Página 1 ---
-L =x Número da Nota
-PREFEITURA DO MUNICIPIO DE SÃO PAULO 00000026
+Número da Nota:
 
-SECRETARIA MUNICIPAL DA FAZENDA Data e Hora de Emissão
-A 01/07/2025 15:44:57
-NOTA FISCAL ELETRÔNICA DE SERVIÇOS - NFS-e Código de Verificação
-CIVV-MIVVY
+PREFEITURA MUNICIPAL DO SALVADOR 00000134
 
-20250701U52213611000111
+SECRETARIA MUNICIPAL DA FAZENDA Data e Hora de Emissão:
+02/07/2025 15:41:31
+NOTA FISCAL DE SERVIÇOS ELETRÔNICA - Nota Salvador coad me nerificação:
+
 PRESTADOR DE SERVIÇOS
 
-CPF/CNPJ: 52.213.611/0001-11 Inscrição Municipal: 7.840.728-1
+CPF/CNPJ: Inscrição Municipal:
 
-Nome/Razão Social: BEATRIZ FIDELIS MARKETING DIGITAL LTDA
+50.645.390/0001-25 00.962.724/001 -42
 
-Endereço: R EMILIO MALLET 698, SALA 4 - VILA GOMES CARDIM - CEP: 03320-000
+ome/Razão Social
 
-Município: São Paulo UF: SP
+CAMILA E CIA MIDIAS DIGITAIS LTDA
+
+Endereço: e .
+
+Ave Tancredo Neves 001189, EDIF:GUIMARÃES TRAD;SALA:1603 - CAMINHO DAS ARVORES - Salvador - CEP: 41820-020 - BA
+E-mail
 
 TOMADOR DE SERVIÇOS
-Nome/Razão Social: GO COMERCIO DE ARTIGOS ELETRÔNICOS E ACESSÓRIOS LTDA
-CPF/CNPJ: 22.165.464/0001 -90 Inscrição Municipal: ----
-Endereço: R Padre Valdevino 2475 - Dionisio Torres - CEP: 60135-414
-Município: Fortaleza UF: CE E-mail: contabilidadeGDgocase.com
 
-INTERMEDIÁRIO DE SERVIÇOS
-CPF/CNPJ: --— Nome/Razão Social: ----
+ome/Razão Social
+
+GO COMERCIO DE ARTIGOS ELETRÔNICOS E ACESSÓRIOS LTDA
+
+CPF/CNPJ: Inscrição Municipal:
+22.165.464/0001-90 ===
+
+Endereço:
+
+RUA PADRE VALDEVINO 2528, SALA 02 DIONISIO TORRES - Fortaleza - CEP: 60135-414/CE
+E-mail:
+
+CONTABILIDADEQGOCASE.COM
 
 DISCRIMINAÇÃO DOS SERVIÇOS
-PRESTAÇÃO DE SERIVÇOS DE IMAGEM E DIVULGAÇÃO PRESTADOS PELA INFLUENCIADORA GBIAFIDELIS PARA O
-PERFIL DA MARCA GoCase
 
-MARCA: GoCase
-VALOR: RS 2.100,00
-VENCIMENTO: 31/07/2025
+Publicidade feita por Camila Barbosa.
 
-Bia Fidelis
+Dados bancários:
 
-03 Combos de 3 stories
+- Banco Inter
 
-03 Reels com repost no tiktok
-DIREITO DE IMPULS IONAMENTO
+- Agência: 0001
 
-DADOS BANCÁRIOS:
-BANCO INTER - 077
+- Conta: 29126801-3
 
-AG: 0001
-CONTA: 35843051-8
+- PIX/CNEJ: 50.645.390/0001-25
 
-VALOR TOTAL DO SERVIÇO = R$ 2.100,00
-INSS (R$) | IRRF (R$) CSLL (R$) COFINS (R$) | PIS/PASEP (R$)
+VALOR TOTAL DA NOTA = R$3.656,18
 
-Código do Serviço
-02496 - Propaganda e publicidade, promoção de vendas, planejamento de campanhas e materiais publicitários.
-Valor Total das Deduções (R$) | Base de Cálculo (R$) Alíquota (%) Valor do ISS (R$) Crédito (R$)
-0,00 * * *
-Município da Prestação do Serviço Número Inscrição da Obra Valor Aproximado dos Tributos ! Fonte
-
+ltem da Lista de Serviços
+01303 - Fotografia e cinematografia, inclusive revelação, ampliação, cópia, reprodução, trucagem e congêneres.
+Valor Total das Deduções (R$) Base de Cálculo (R$): Alíquota (%) Valor do ISS (R$): Crédito Nota Salvador (R$):
+0,00 Z 0,00
 OUTRAS INFORMAÇÕES
 
-(1) Esta NFS-e foi emitida com respaldo na Lei nº 14.097/2005; (2) Documento emitido por ME ou EPP optante pelo Simples
-Nacional;
+Valor INSS (R$): Valor PIS (R$): Valor COFINS (R$) | Valor IR (R$): Valor CSLL (R$): Outras Retenções (R$) Valor Líquido (R$):
+0,00 0,00 0,00 0,00 0,00 0,00 3.656,18
+
+- Esta Nota Salvador foi emitida com respaldo na Lei 7.186/2006.
+- Documento emitido por ME ou EPP optante pelo Simples Nacional.
+- COMPETÊNCIA; 07/2025 (mês/ano)
+
+- Código de Tributação do Município: 1303-0/01 - Gravação, trucagem, reprodução e mixagem de vídeos, filmes, e congêneres
 
