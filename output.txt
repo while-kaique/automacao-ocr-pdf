@@ -1,68 +1,81 @@
 
 --- Página 1 ---
-Número da Nota
+Nota Fiscal de Serviço
+Eletrônica - NFS-e
 
-- 000000000656
-PREFEITURA DO MUNICIPIO DE LONDRINA Cód. de Verificação
-BNYZ-9ORH
-SECRETARIA MUNICIPAL DE FAZENDA Data de Emissão
-. 04/07/2025
-NOTA FISCAL DE SERVIÇOS ELETRÔNICA - NFS-e Data de Cancelamento
+Número da Nota Fiscal
+51
 
-Data/hora de geração deste espelho: 04/07/25 16:11:25 -
+q
+Secretaria de Estado de Economia do Distrito Federal pode abit
 
-PRESTADOR DE SERVIÇOS
+a a Série do Documento
+Governo do Distrito Federal 53)
 
-Nome/Razão Social: MAXIMO E PERINE LTDA
-CNPJ/CPF: 27.520.858/0001-33 Inscrição Municipal (CMC): 2337142
-Endereço: RUA PARA, 1531 SALA 704
-CENTRO CEP 86010450
-Município: LONDRINA UF: Paraná
+Fone: () - 156 - Opção 3 - www.sefaz.df.gov.br
 
-TOMADOR DE SERVIÇOS
+Dados do Prestador de Serviço
+Data de Geração da NFS-e
 
-Nome/Razão Social: GO COMERCIO DE ARTIGOS ELETRONICOS E ACESSORIOS LTDA
-CNPJ/CPF: 22.165.464/0001-90
-Endereço: RUA PADRE VALDEVINO, 2528 SALA 02
-DIONISIO TORRES CEP 60135414
-Município: FORTALEZA UF: Ceará
+BY MILA FLORENCIO PRODUCOES ARTISTICAS LTDA 07/07/2025 17:37:36
+BY MILA FLORENCIO 07 107 12025
 
-DISCRIMINAÇÃO DOS SERVIÇOS PRESTADOS
+Sqsw 301 Bloco F S/n Apt 511, - Setor Sudoeste = —
 
-NF referente a entrega de Dlondrinando:
-2 Reels + repost no TikTok;
+CEP 70673-106 - Fone: (61)9333-8528 - Brasiília/ DF Cód. de Autenticidade
 
-2 Combos de Stories.
+gracyflorencio(Dgmail.com BA1748178
+Inscrição Municipal 0804370300142 - CPF/CNPJ 41.319.578/0001-92 Responsável pela Retenção
 
-Valor: R$ 19.000,00
+Identificação da Nota Fiscal Eletrônica
 
-Venc: 31/07/2025
+Natureza da Operação Número do RPS Série do RPS Data de Emissão do RPS
+Exigível 6 07/07/2025
 
-Dados para pagamento:
-Banco Itaú
+Local dos Serviços Município Incidência
 
-Ag 1555
+Brasília - Distrito Federal Brasília - Distrito Federal
 
-Cc: 50185-5
+Dados do Tomador de Serviços
 
-Pix: 27.520.858/0001-33 (cnpj)
+CNPJ/CPF:  22.165.464/0001-90 : 0793849500138
+Razão Social: (GO COMERCIO DE ARTIGOS ELETRÔNICOS E ACESSORIOS LTDA
+Endereço : PADRE VALDEVINO 2528
 
-Retenção ISS: R$ 0,00 Retenção PIS: R$ 0,00 Retenção COFINS: R$ 0,00
-Retenção IR: R$ 0,00 Retenção CSLL: R$ 0,00 Retenção INSS: R$ 0,00
+Complemento : SALA 02 Bairro : DIONISIO TORRES
 
-VALOR TOTAL DA NOTA = R$ 19.000,00
+CEP: 60135-414 Cidade/UF : Fortaleza/ CE
+Telefone : (85)9813-0660 E-mail :
 
-Código e Descrição do Serviço
-1706 - PROPAGANDA E PUBLICIDADE, INCLUSIVE PROMOÇÃO DE VENDAS, PLANEJAMENTO DE CAMPANHAS OU SISTEMAS DE P...
+Dados do Intermediário de Serviços
+CNPJ/CPF Inscrição Municipal Razão Social
 
-Deduções de base de cálculo (R$) | Base de Cálculo ISS (R$) Alíquota (%) Valor do ISS (R$)
-- 19.000,00 Inutilizado conf. art. 59 par. 4º Resolução 140/2018 CGSN
+Descrição dos Serviços
 
-OUTRAS INFORMAÇÕES
+Servicos prestados no mes de junho: R$ 4.500,00
 
-- Valor líquido: R$ 19.000,00. Competência: 04/07/2025
-- Esta NFS-e foi emitida com respaldo no Decreto nº 786, de 04/07/2012. Consulta de autenticidade: http://iss.londrina.pr.gov.br
-- Documento emitido por ME ou EPP optante pelo Simples Nacional. Não gera direito a Crédito Fiscal de IPI.
+Comissao de vendas no mes de junho: R$ 1.780,34 - Conforme Lei 12.741/2012, o percentual total de impostos incidentes neste servico prestado e de
+aproximadamente 6%
 
-- ISS devido deve ser recolhido pelo Prestador por meio do DAS.
+Detalhamento dos Tributos
 
+Atividade do Município Alíquota |Item da LC116/2003 Cód. NBS Cód. CNAE
+
+1706 - 17.06 - Propaganda e publicidade, inclusive promoção ... o lime | [imo |
+
+VI. Total dos Serviços | Desconto Incondicionado | Deduções Base Cálculo Base de Cálculo Total do ISSQN ISSQN Retido Desconto Condicionado
+
+PIS COFINS INSS IRRF CSLL Outras Retenções VI. ISSQN Retido VI. Líquido da Nota Fiscal
+CódObra: qui
+
+Construção Civil Cód. Obra:
+
+Informações Adicionais
+
+|- "DOCUMENTO EMITIDO POR ME OU EPP OPTANTE PELO SIMPLES NACIONAL"; e
+|| - "NÃO GERA DIREITO A CRÉDITO FISCAL DE IPI."
+PROCON: TEL 151- SETOR COMERCIAL SUL, QUADRA 8, BLOCO B-60, SALA 240- BRASILIA - DF
+
+Chave de acesso no Ambiente de Dados Nacional: 53001081241319578000192000000000005125071751909855.
+
+ISS.NET - Sistema Nota Control + www.notacontrol.com.br
