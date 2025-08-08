@@ -1,68 +1,65 @@
 
 --- Página 1 ---
-PREFEITURA DA CIDADE DO RIO DE JANEIRO “000002 4
-SECRETARIA MUNICIPAL DE FAZENDA
-NOTA FISCAL DE SERVIÇOS ELETRÔNICA - NFS-e 04/08/2025 15:44:31
-ódigo de Verificação
-- NOTA CARIOCA -
+05/08/2025, 10:53 Usuário: 34.942.132/0001-54 - NF-e - Nota Fiscal Eletrônica de Serviços - São Paulo
+
+[ =x Número da Nota
+PREFEITURA DO MUNICIPIO DE SAO PAULO 00000104
+
+SECRETARIA MUNICIPAL DA FAZENDA Data e Hora de Emissão
+A 05/08/2025 10:53:11
+NOTA FISCAL ELETRÔNICA DE SERVIÇOS - NFS-e Código de Verificação
+YUMK-ZxHY
 
 PRESTADOR DE SERVIÇOS
+CPF/CNPJ: 34.942.132/0001-54 Inscrição Municipal: 6.403.130-6
 
-CPF/CNPJ: 53.081.863/0001-05 Inscrição Municipal: 1.665.893-2 Inscrição Estadual: ---
-Nome/Razão Social: DANIEL ARAGAO LOUZADA LTDA
-Nome Fantasia: DANIEL ARAGAO LOUZADA LTDA Tel.: 24992146033
+Nome/Razão Social: AUDREY BERNINI
+Endereço: R HILARIO MACHADO 50 - JARDIM VIRGINIA BIANCA - CEP: 02355-050
 
-Endereço: AVN JOAO CABRAL DE MELLO NETO 550, APT 807 BLC 1 - BARRA DA TIJUCA - CEP: 22775-057
-Município: RIO DE JANEIRO UF: RJ
+Município: São Paulo UF: SP
 
 TOMADOR DE SERVIÇOS
-CPF/CNPJ: 22.165.464/0001 -90 Inscrição Municipal: ---- Inscrição Estadual: ----
-Nome/Razão Social: GO COMERCIO DE ARTIGOS ELETRONICOS E ACESSO, RIOS LTDA
 
-Endereço: RUA PADRE VALDEVINO 2528, SALA 2 - DIONISIO TORRES - CEP: 60135-414 Tel. --—
-Município: FORTALEZA UF: CE E-mail:
+Nome/Razão Social: GO COMERCIO DE ARTIGOS ELETRONICOS E ACESSORIOS LTDA
+CPF/CNPJ: 22.165.464/0001-90 Inscrição Municipal: ----
+Endereço: R Padre Valdevino 2475 - Dionisio Torres - CEP: 60135-414
+Município: Fortaleza UF: CE E-mail: contabilidadeG)gocase.com
+
+INTERMEDIÁRIO DE SERVIÇOS
+CPF/CNPJ: === Nome/Razão Social: ---=
+
 DISCRIMINAÇÃO DOS SERVIÇOS
 
-Serviços Prestados
+Publicidade em mídias sociais com (faudreybernini.
+NF referente ao mês 10 de 12 (julho).
 
-Daniel Aragão (1/3)
-04 telas de stories
-2 reels com repost no tiktok
+vencimento: 29/08/2025
 
-Dados Bancaçrios:
+AUDREY BERNINI
 
-Banco: INTER
+NUBANK (CONTA PJ)
 
-Age;ncia: 0001
+AG 0001
 
-Conta: 32658646-6
+cc 76320344-7
 
-Tipo de Conta PJ
+BANCO 0260
 
-PIX: CNPJ - 53.081.863/0001-05
+PIX: 34.942.132/0001-54
 
-Marca: GoCase
-Valor: R$ 2.400,00
-Vencimento: 29/08/2025
+VALOR TOTAL DO SERVIÇO = R$ 11.175,00
+INSS (R$) | IRRF (R$) | CSLL (R$) | COFINS (R$) | PIS/PASEP (R$)
 
-VALOR DA NOTA = R$ 2.400,00
-
-Serviço Prestado
-
-13.03.01 - Fotografia
-
-Deduções (R$) Desconto Incond. (R$) |Base de Cálculo (R$) Alíquota (%) Valor do 55 (R$) Crédito p/ IPTU (R$)
-0,00 0,00 0,00
+Código do Serviço
+02496 - Propaganda e publicidade, promoção de vendas, planejamento de campanhas e materiais publicitários.
+Valor Total das Deduções (R$) Base de Cálculo (R$) Alíquota (9%) Valor do ISS (R$) Crédito (R$)
+0,00 x x x
+Município da Prestação do Serviço Número Inscrição da Obra Walor Aproximado dos Tributos / Fonte
+15,50%
 
 OUTRAS INFORMAÇÕES
 
-- Esta NFS-e foi emitida com respaldo na Lei nº 5.098 de 15/10/2009 e no Decreto nº 32.250 de 11/05/2010
+(1) Esta NFS-e foi emitida com respaldo na Lei nº 14.097/2005; (2) Documento emitido por ME ou EPP optante pelo Simples
+Nacional;
 
-- PROCON-RJ: Av. Rio Branco nº 25, 5º andar, tel 151: ww. procon.r).gov.br
-
-- ISS devido deve ser recolhido por meio de Documento de Arrecadação do Simples Nacional (DAS).
-
-- Documento emitido por ME ou EPP optante pelo Simples Nacional. Não gera direito a crédito fiscal de IPI.
-
-- Esta NFS-e não gera crédito para abatimento no IPTU.
-
+https://nfe prefeitura.sp.gov.br/contribuinte/notaprint.aspx ?nf=104&inscricao=6403 13068 email=1 &SMS=0&returnurl=nota .aspx9%3finscricao%3d6403 1306 11
