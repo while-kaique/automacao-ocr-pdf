@@ -1,88 +1,82 @@
 
 --- Página 1 ---
-Esta nota fiscal não foi assinada digitalmente.
+04/08/25, 09:35 :: NFS-e - Nota Fiscal de Serviços eletrônica ::
 
-Página 1/1
+NFS-e - NOTA FISCAL DE SERVIÇOS ELETRÔNICA
 
-2.2 2. PREFEITURA MUNICIPAL DE ERMO
+o. Emitida em: Competência: Código de Verificação:
+Nº:2025/804 04/08/2025 5509:34:47 04/08/2025 584aBf2f
+WUPPER DIGITAL AGENCIA LTDA
+CPF/CNPJ: 39.440.918/0001-97 Inscrição Municipal: 1256451/001-0
+lp: RUA DEPUTADO AUGUSTO GONCALVES, 165, APT 203, Serrano - Cep: 30882-660
+Belo Horizonte MG
+Telefone: Email:
 
-Secretaria de Administração e Finanças
+Tomador do(s) Serviço(s)
 
-Nota Fiscal de Serviços Eletônica - NFS-e
+CPF/CNPJ: 22.165.464/0001-90 Inscrição Municipal: Não Informado
+GO COMÉRCIO DE ARTIGOS ELETRONICOS E ACESSÓRIOS LTDA
 
-Número do RPS
+Rua Padre Valdevino , 2528, sala 02, Dionísio Torres - Cep: 60135-414
 
-Número da nota
-18
+Fortaleza CE
 
-Data da emissão da nota
+Telefone: Não Informado Email: Não Informado
 
-07/07/2025 12:50:18
+Discriminação do(s) Serviço(s)
 
-Data do fato gerador
+PRESTACAO DE SERVICOS EM PROL DA MARCA GOCASE
 
-07/07/2025 12:50:18
+INFLUENCER: NINA MIANO
 
-Código de verificação
+CONTRATO DE 12 MESES MARCO/2025 A MARCO/2026
 
-NZNVY7GZET
-PRESTADOR DE SERVIÇOS
-Nome fantasia:
-Nome/Razão social:M-PRO SEMENTES LTDA Inscrição estadual:
-CPF/CNPJ:36.980.781/0001-75 Inscrição municipal: 367 Telefone:
-Endereço: ROD ERM 130 Número: 892 Bairro: GARAPUVU CEP: 88935-000
-Complemento: Celular:
-Município: Ermo UF: SC
-E-mail: Site:
-TOMADOR DE SERVIÇOS
-Nome fantasia:
-Nome/Razão social: Go Comercio de Art. Eletronicos e Acessórios Ltda
-CPF/CNPJ: 22.165.464/0001-90 Inscrição municipal: Inscrição estadual:
-Endereço: Rua Padre Valdevino Bairro: Dionisio Torres CEP: 60135-414
-Complemento:
-Município: Fortaleza UF:CE
-E-mail: Telefone: Celular:
-DISCRIMINAÇÃO DOS SERVIÇOS
-Valor unitário Qtd Valor do serviço Base de cálculo (%) ISS
-COMISSÃO DE VENDA. . 633,0200 1,0000 633,0200 633,02x0,00 = 0,00
-Forma de Pagamento
-Parcela Vencimento Tipo Valor (R$) Parcela Vencimento Tipo Valor (R$) Parcela Vencimento Tipo Valor (R$)
-1 À vista 633,02
-RETENÇÕES FEDERAIS
-PIS/PASEP COFINS INSS IR CSLL Outras retenções
-R$ 0,00 R$ 0,00 R$ 0,00 R$ 0,00 R$ 0,00 R$ 0,00
-Valor bruto = R$ 633,02 Valor líquido = R$ 633,02
+VALOR TOTAL: R$162.000,00 PAGOS EM 12 PARCELAS DE R$13.500,00
+PARCELA: 5/12
 
-Códigos dos serviços:
+VENCIMENTO: 31/08/25
 
-17.06 - Propaganda e publicidade, inclusive promoção de vendas, planejamento de campanhas ou sistemas de publicidade, elaboração de desenhos,
+DADOS BANCÁRIOS
 
-textos e demais materiais publicitários.
+BANCO: CAIXA ECONOMICA FEDERAL
 
-Desc. condicionado(R$) Desc. incondicionado(R$) Deduções(R$) Base de cálculo(R$)
+RAZAO SOCIAL: WUPPER DIGITAL AGENCIA LTDA
+CNPJ: 39.440.918/0001-97
 
-0,00 0,00 0,00 633,02
+AGENCIA: 1017
 
-Valor ISS(R$)
-0,00
+OPERACAO: 1292
 
-OUTRAS INFORMAÇÕES
+CONTA/DV: 000578314402-5
 
-Natureza da operação: Tributação no município
-Situação tributária do ISSQN: Normal
-Local da prestação do serviço: Ermo
+CHAVE PIX (CNPJ): 39.440.918/0001-97
 
-Esta NFS-e foi emitida com respaldo na(s) lei(s) 358 de julho de 2014.
+Intermediário do(s) Serviço(s): Nome: ORIENTA - ORIENTACAO ESTRATEGICA DE NEGOCIOS LTDA
 
-Prestador de serviços optante pelo Simples Nacional. Alíquota do ISS 0%
+CPF/CNPJ: 05.452.640/0001-56 Inscrição Municipal:
+Código de Tributação do Município (CTISS)
+1003-0/01-88 / Agenciamento, corretagem ou intermediação de direitos de propriedade industrial, artística ou literária.
 
-Situação desta NFS-e: Normal
+Subitem Lista de Serviços LC 116/03 / Descrição:
+10.03 / Agenciamento, corretagem ou intermediacao de direitos de propriedade industrial, artistica ou Literaria.
 
-Documento emitido por ME ou EPP optante pelo simples Nacional.
+Cod/Município da incidência do ISSQN: Natureza da Operação:
 
-COMISSÃO REFERENTE AO PAGAMENTO DO PERIODO 16/11/2024 A 31/11/2024
+3106200 / Belo Horizonte Tributação no município
+Valor dos serviços: R$ 13.500,00 Valor dos serviços: R$ 13.500,00
+(-) Descontos: R$ 0,00 (-) Deduções: R$ 9.450,00
+(-) Retenções Federais: R$ 0,00 (-) Desconto Incondicionado: R$ 0,00
+(:) ISS Retido na Fonte: R$ 0,00 (=) Base de Cálculo: R$ 4.050,00
+Valor Líquido: R$ 13.500,00  &)Aliquota: 25h
+(=)Valor do ISS: R$ 101,25
 
-Valor aproximado do tributo federal - R$ 85,14 (13,45%), estadual - R$ 0,00 (0,00%), municipal - R$ 17,72 (2,80%), com base na Lei
+Outras Informações:
+Chave de acesso no Ambiente de Dados Nacional: 31062001239440918000197250000000080425081966045202.
 
-12.741/2012 e no Decreto 8.264/2014 - Fonte: IBPT
+Prefeitura de Belo Horizonte - Secretaria Municipal de Fazenda E No
+Rua Espírito Santo, 605 - 3º andar - Centro - CEP: 30160-919 - Belo Horizonte MG. OTA
+Dúvidas: SIGESP 10
 
+https://bhissdigital.pbh.gov.br/nfse/pages/exibicaoNF S-e.jsf
+
+111
