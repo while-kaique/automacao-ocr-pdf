@@ -1,65 +1,88 @@
 
 --- Página 1 ---
-05/08/2025, 10:53 Usuário: 34.942.132/0001-54 - NF-e - Nota Fiscal Eletrônica de Serviços - São Paulo
+Esta nota fiscal não foi assinada digitalmente.
 
-[ =x Número da Nota
-PREFEITURA DO MUNICIPIO DE SAO PAULO 00000104
+Página 1/1
 
-SECRETARIA MUNICIPAL DA FAZENDA Data e Hora de Emissão
-A 05/08/2025 10:53:11
-NOTA FISCAL ELETRÔNICA DE SERVIÇOS - NFS-e Código de Verificação
-YUMK-ZxHY
+2.2 2. PREFEITURA MUNICIPAL DE ERMO
 
+Secretaria de Administração e Finanças
+
+Nota Fiscal de Serviços Eletônica - NFS-e
+
+Número do RPS
+
+Número da nota
+18
+
+Data da emissão da nota
+
+07/07/2025 12:50:18
+
+Data do fato gerador
+
+07/07/2025 12:50:18
+
+Código de verificação
+
+NZNVY7GZET
 PRESTADOR DE SERVIÇOS
-CPF/CNPJ: 34.942.132/0001-54 Inscrição Municipal: 6.403.130-6
-
-Nome/Razão Social: AUDREY BERNINI
-Endereço: R HILARIO MACHADO 50 - JARDIM VIRGINIA BIANCA - CEP: 02355-050
-
-Município: São Paulo UF: SP
-
+Nome fantasia:
+Nome/Razão social:M-PRO SEMENTES LTDA Inscrição estadual:
+CPF/CNPJ:36.980.781/0001-75 Inscrição municipal: 367 Telefone:
+Endereço: ROD ERM 130 Número: 892 Bairro: GARAPUVU CEP: 88935-000
+Complemento: Celular:
+Município: Ermo UF: SC
+E-mail: Site:
 TOMADOR DE SERVIÇOS
-
-Nome/Razão Social: GO COMERCIO DE ARTIGOS ELETRONICOS E ACESSORIOS LTDA
-CPF/CNPJ: 22.165.464/0001-90 Inscrição Municipal: ----
-Endereço: R Padre Valdevino 2475 - Dionisio Torres - CEP: 60135-414
-Município: Fortaleza UF: CE E-mail: contabilidadeG)gocase.com
-
-INTERMEDIÁRIO DE SERVIÇOS
-CPF/CNPJ: === Nome/Razão Social: ---=
-
+Nome fantasia:
+Nome/Razão social: Go Comercio de Art. Eletronicos e Acessórios Ltda
+CPF/CNPJ: 22.165.464/0001-90 Inscrição municipal: Inscrição estadual:
+Endereço: Rua Padre Valdevino Bairro: Dionisio Torres CEP: 60135-414
+Complemento:
+Município: Fortaleza UF:CE
+E-mail: Telefone: Celular:
 DISCRIMINAÇÃO DOS SERVIÇOS
+Valor unitário Qtd Valor do serviço Base de cálculo (%) ISS
+COMISSÃO DE VENDA. . 633,0200 1,0000 633,0200 633,02x0,00 = 0,00
+Forma de Pagamento
+Parcela Vencimento Tipo Valor (R$) Parcela Vencimento Tipo Valor (R$) Parcela Vencimento Tipo Valor (R$)
+1 À vista 633,02
+RETENÇÕES FEDERAIS
+PIS/PASEP COFINS INSS IR CSLL Outras retenções
+R$ 0,00 R$ 0,00 R$ 0,00 R$ 0,00 R$ 0,00 R$ 0,00
+Valor bruto = R$ 633,02 Valor líquido = R$ 633,02
 
-Publicidade em mídias sociais com (faudreybernini.
-NF referente ao mês 10 de 12 (julho).
+Códigos dos serviços:
 
-vencimento: 29/08/2025
+17.06 - Propaganda e publicidade, inclusive promoção de vendas, planejamento de campanhas ou sistemas de publicidade, elaboração de desenhos,
 
-AUDREY BERNINI
+textos e demais materiais publicitários.
 
-NUBANK (CONTA PJ)
+Desc. condicionado(R$) Desc. incondicionado(R$) Deduções(R$) Base de cálculo(R$)
 
-AG 0001
+0,00 0,00 0,00 633,02
 
-cc 76320344-7
-
-BANCO 0260
-
-PIX: 34.942.132/0001-54
-
-VALOR TOTAL DO SERVIÇO = R$ 11.175,00
-INSS (R$) | IRRF (R$) | CSLL (R$) | COFINS (R$) | PIS/PASEP (R$)
-
-Código do Serviço
-02496 - Propaganda e publicidade, promoção de vendas, planejamento de campanhas e materiais publicitários.
-Valor Total das Deduções (R$) Base de Cálculo (R$) Alíquota (9%) Valor do ISS (R$) Crédito (R$)
-0,00 x x x
-Município da Prestação do Serviço Número Inscrição da Obra Walor Aproximado dos Tributos / Fonte
-15,50%
+Valor ISS(R$)
+0,00
 
 OUTRAS INFORMAÇÕES
 
-(1) Esta NFS-e foi emitida com respaldo na Lei nº 14.097/2005; (2) Documento emitido por ME ou EPP optante pelo Simples
-Nacional;
+Natureza da operação: Tributação no município
+Situação tributária do ISSQN: Normal
+Local da prestação do serviço: Ermo
 
-https://nfe prefeitura.sp.gov.br/contribuinte/notaprint.aspx ?nf=104&inscricao=6403 13068 email=1 &SMS=0&returnurl=nota .aspx9%3finscricao%3d6403 1306 11
+Esta NFS-e foi emitida com respaldo na(s) lei(s) 358 de julho de 2014.
+
+Prestador de serviços optante pelo Simples Nacional. Alíquota do ISS 0%
+
+Situação desta NFS-e: Normal
+
+Documento emitido por ME ou EPP optante pelo simples Nacional.
+
+COMISSÃO REFERENTE AO PAGAMENTO DO PERIODO 16/11/2024 A 31/11/2024
+
+Valor aproximado do tributo federal - R$ 85,14 (13,45%), estadual - R$ 0,00 (0,00%), municipal - R$ 17,72 (2,80%), com base na Lei
+
+12.741/2012 e no Decreto 8.264/2014 - Fonte: IBPT
+
