@@ -1,104 +1,154 @@
 
 --- Página 1 ---
-M B DE OLIVEIRA LEMES LTDA
-AUTOPARTS
-CNPJ: 12.746.201/0001-11
+PREFEITURA MUNICIPAL DE GUARANI
+SECRETARIA MUNICIPAL DE FAZENDA
 
-DA GRACIOSA - ******** 1427 D Situação
-CEP: 83.413-200 - Bairro: ATUBA
-Município: COLOMBO - PARANÁ Tipo
+SETOR TRIBUTÁRIO
+PRAÇA ANTÔNIO CARLOS, 10 - CENTRO
+GUARANI - MG - 36.160-000 - Tel.: (32)3575-1523
 
-Telefone: (43) 3534-1689 - Celular: (41) 99982-0744
+Nº da Nota
+25/2025
 
-Email: autoparts.curitibaOhotmail.com
+Nº Integral: 202500000000025
 
-Insc. Municipal: 51735 Insc. Estadual: 905.38833-94 o Autenticidade
+Código Verificação
+AB4CFYWXDP
 
-Nota Fiscal de Serviço Eletrônica - Série NFS-e
+Município de Prestação:
 
-Identificador
+Natureza da Operação:
 
-. 7513 0708 2517 0719 9001 2746 2012 0250 8739 4632
-PREFEITURA MUNIC | | | | |
+Data da Nota Fiscal:
 
-Número da NFS-e
-40
+Razão Social:
 
-PREFEITURA MUNICIPAL DE COLOMBO
-SECRETARIA MUNICIPAL DE ADMINISTRAÇÃO E FAZENDA
-Data Fato Gerador Data/Hora Emissão
-TOMADOR DO SERVIÇO
+Nome Fantasia:
 
-Nome Fantasia
-GO CASE
+Regime Especial:
+Simples Nac/MEI/Outros:
 
-Nome/Razão Social CPF/CNP)
+Endereço:
 
-GO COMERCIO DE ARTIGOS ELETRONICOS E ACESSORIOS LTDA 22.165.464/0001-90
-Endereço Número Complemento
+Nome:
+Nome Fantasia:
+E-mail:
 
-R PADRE VALDEVINO 2528 SALA 02
+Endereço:
 
-Bairro CEP Cidade
+Código de Serviço:
+CNAE:
+Intermediário:
 
-DIONISIO TORRES 60135414 Fortaleza - CE
+Construção Civil - Obra:
 
-País Telefone Email
+NOTA FISCAL DE SERVIÇOS ELETRÔNICA - NFS-e
 
-Brasil - BR - 1058 Não Informado Não Informado
+GUARANI - MG Período de Competência: 8/2025
 
-DESCRIÇÃO DOS SERVIÇOS PRESTADOS
+TRIBUTAÇÃO NO MUNICÍPIO Reg. Especial Tributação: ME (Micro Empresa) ou EPP
 
-Servico Local Alíquota Situação i Unidade Quantidade ; Valor : Desc. Valor Valor ISS
-1706 i Prestação : SIMPLES Trib. Serviço | Unidade : Unidade i Incondic. ; Dedução ; siMPLES
-Po 7513  ; NACIONAL TI UN É 1 | R$1.368,11 0,00 | 0,00 é NACIONAL
+01/08/2025 Nº da RPS:
 
-Descrição do Serviço:
-Gocase + Mariana Brascka
+PRESTADOR DE SERVIÇOS
+BIA BEN PRODUCOES LTDA
+BIA BEN
+ME (Micro Empresa) ou EPP (Empresa de Pequeno
+Simples Nacional Fone/Fax
 
-Dados para pagamento
+RUA CORONEL LADEIRA, 46 - SALA G - CENTRO - 36.160-000 - GUARANI - MG
 
-Banco 104
+TOMADOR DE SERVIÇOS
 
-Banco: Caixa Econômica Federal
-Agência: 3414
+GO COMERCIO DE ARTIGOS ELETRONICOS E ACESSORIOS LTDA
+Inscrição Municipal:
+Fone/Fax:
 
-Conta: 1640-7
+(85)9813-0660 Inscrição Estadual:
 
-NOME: M B DE OLIVEIRA LEMES LTDA
-CNPJ: 12.746.201/0001-11
+R PADRE VALDEVINO, 2528 - SALA 02 - DIONISIO TORRES - 60.135-414 - FORTALEZA - CE
 
-PIX: 12.746.201/0001-11
+DADOS COMPLEMENTARES
 
-Valor Total Desc. Incondicional Dedução Base de Cálculo ISSQN
-1.368,11 0,00 0,00 SIMPLES NACIONAL SIMPLES NACIONAL
-ISSRF IR INSS CSLL COFINS
-0,00 0,00 0,00 0,00 0,00
-PIS Outras Retenções Total Trib. Federais Desc. Condicional Valor Líquido
-0,00 0,00 0,00 0,00 1.368,11
+CNPJ:
 
-Descrição dos subitens da Lista de Serviço em acordo com a Lei Complementar 116/03.
+Inscrição Municipal:
 
-1706 - Propaganda e publicidade, inclusive promoção de vendas, planejamento de campanhas ou sistemas de publicidade, elaboração de desenhos, textos e
-demais materiais publicitários.
+45.255.507/0001-24
+96001687
 
-Legenda do Local de Prestação do Serviço
+Inscrição Estadual:
 
-7513 - Colombo
+: (82)3575-1209
 
-Outras Informações
+CPF/CNPJ: 22.165.464/0001-90
 
-TI- Tributada Integralmente
+17.06 - PROPAGANDA E PUBLICIDADE, INCLUSIVE PROMOÇÃO DE VENDAS, PLANEJAMENTO DE CAMPANHAS OU SISTEMAS DE PUB...
 
-(1706) Serviço tributado no município do prestador
+7319-0/03 - MARKETING DIRETO
+0
 
-Contribuinte enquadrado como Simples - Homologado.
-Autorização para emissão de Nota Fiscal de Serviço Eletrônica: 723/2023 de 22/06/2023 00:00:00
+Inscrição Municipal:
+ART:
 
-A veracidade das informações declaradas na NFS-e podem ser consultadas no site:
+DISCRIMINAÇÃO DOS SERVIÇOS
 
-A data de vencimento do ISS quando o mesmo for devido no município do Prestador: 22/09/2025
+SERVICO INTERVENIENTE DE PUBLICIDADE COM INFLUENCER
 
-Valor aproximado dos tributos: Federais R$184,01 (13,45%), Estaduais R$0,00 (0,00%), Municipais R$63,48 (4,64%), com base na Lei 12.741/2012 e no
-Decreto 8.264/2014 - FONTE IBPT
+VALOR: R$ 45.000,00
 
+VENCIMENTO: 29/08/2025
+
+- DADOS BANCÁRIOS:
+BANCO: 336 - BANCO C6 S.A
+
+AG. 0001
+Cc. 18020301-0
+
+PIX: 45.255.507/0001-24
+
+VALOR TOTAL DE SERVIÇOS = R$ 45.000,00
+
+PIS (R$)
+0,00
+
+COFINS (R$)
+0,00
+
+INSS (R$) IR (R$) CSLL (R$)
+0,00 0,00 0,00
+
+SEST SENAT (R$)
+0,00
+
+Outras Retenções (R$)
+0,00
+
+Deduções (R$) Desc. Incond + Cond(R$)
+
+0,00
+
+ISS Retido (R$)
+0,00
+
+Base de Cálculo (R$)
+45.000,00
+
+Alíquota (%)
+2,00
+
+Valor do ISS (R$)
+
+0,00 900,00
+
+ISS Devido (R$)
+
+Valor Líquido (R$)
+
+0,00 45.000,00
+
+Verificação de Autenticidade:
+
+http://guaranimg.nfse-futurize.com.br/consultanfe.php Página: 1/1
+
+FUTURIZE - Tecnologia em Sistemas da Informação
