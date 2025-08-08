@@ -1,82 +1,83 @@
 
 --- Página 1 ---
-01/07/25, 18:29 :: NFS-e - Nota Fiscal de Serviços eletrônica ::
+MUNICÍPIO DE PRESIDENTE
+N FSe DANFSe v1.0 =. PRUDENTE
+erviço elet Documento Auxiliar da NFS-e ; (18)3902-4414
 
-NFS-e - NOTA FISCAL DE SERVIÇOS ELETRÔNICA
+Chave de Acesso da NFS-e
+35414062258239035000168000000000001225072299368301
 
-o. Emitida em: Competência: Código de Verificação:
-Nº:2025/655 01/07/2025 às 18:28:49 01/07/2025 bcef04d5
-WUPPER DIGITAL AGENCIA LTDA
-CPF/CNPJ: 39.440.918/0001-97 Inscrição Municipal: 1256451/001-0
-lp: RUA DEPUTADO AUGUSTO GONCALVES, 165, APT 203, Serrano - Cep: 30882-660
-Belo Horizonte MG
-Telefone: Email:
+Número da NFS-e Competência da NFS-e Data e Hora da emissão da NFS-e
+12 07/07/2025 07/07/2025 18:14:32
 
-Tomador do(s) Serviço(s)
+Número da DPS Série da DPS Data e Hora da emissão da DPS dis,
 
-CPF/CNPJ: 22.165.464/0001-90 Inscrição Municipal: Não Informado
-GO COMÉRCIO DE ARTIGOS ELETRONICOS E ACESSÓRIOS LTDA
+12 900 07/07/2025 18:14:31 A autenticidade desta NFS-e pode ser verificada
+pela leitura deste código QR ou pela consulta da
+chave de acesso no portal nacional da NFS-e
 
-Rua Padre Valdevino , 2528, sala 02, Dionísio Torres - Cep: 60135-414
+EMITENTE DA NFS-e CNPJ/CPF/NIF Inscrição Municipal Telefone
 
-Fortaleza CE
+Prestador do Serviço 58.239.035/0001-68 - (1 8) 2104-2679
 
-Telefone: Não Informado Email: Não Informado
+Nome / Nome Empresarial E-mail
+58.239.035 ANA CLARA NEGRI SANTOS CONTABILSINDPPOGMAIL.COM
 
-Discriminação do(s) Serviço(s)
+Endereço Município CEP
+PAULO RIBEIRO, 284, RESIDENCIAL VISTA DO VALE Presidente Prudente - SP 19063-841
 
-PRESTACAO DE SERVICOS EM PROL DA MARCA GOCASE
+Simples Nacional na Data de Competência Regime de Apuração Tributária pelo SN
+Optante - Microempreendedor Individual (MEI) -
 
-INFLUENCER: NINA MIANO
+TOMADOR DO SERVIÇO CNPJ/CPF/NIF Inscrição Municipal Telefone
+22.165.464/0001-90 - -
 
-CONTRATO DE 12 MESES MARCO/2025 A MARCO/2026
+Nome / Nome Empresarial E-mail
+GO COMERCIO DE ARTIGOS ELETRONICOS E ACESSORIOS LTDA -
 
-VALOR TOTAL: R$162.000,00 PAGOS EM 12 PARCELAS DE R$13.500,00
-PARCELA: 04/12
+Endereço Município CEP
+PADRE VALDEVINO, 2528, SALA 02, DIONISIO TORRES Fortaleza - CE 60135-414
 
-VENCIMENTO: 30/07/25
+INTERMEDIÁRIO DO SERVIÇO NÃO IDENTIFICADO NA NFS-e
+SERVIÇO PRESTADO
 
-DADOS BANCÁRIOS
+Código de Tributação Nacional Código de Tributação Municipal Local da Prestação País da Prestação
+01.03.01 - Processamento de dados, - Presidente Prudente - SP -
+textos, imagens, vídeos, páginas ...
 
-BANCO: CAIXA ECONOMICA FEDERAL
+Descrição do Serviço
+PROCESSAMENTO EM IMAGEM
 
-RAZAO SOCIAL: WUPPER DIGITAL AGENCIA LTDA
-CNPJ: 39.440.918/0001-97
+TRIBUTAÇÃO MUNICIPAL
 
-AGENCIA: 1017
+Tributação do ISSQN País Resultado da Prestação do Serviço Município de Incidência do ISSQN Regime Especial de Tributação
+Operação Tributável - Presidente Prudente - SP Nenhum
 
-OPERACAO: 1292
+Tipo de Imunidade Suspensão da Exigibilidade do ISSQN Número Processo Suspensão Benefício Municipal
+- Não - -
 
-CONTA/DV: 000578314402-5
+Valor do Serviço Desconto Incondicionado Total Deduções/Reduções Cálculo do BM
+R$ 2.084,90 - - -
 
-CHAVE PIX (CNPJ): 39.440.918/0001-97
+BC ISSQN Alíquota Aplicada Retenção do ISSQN ISSQN Apurado
+- Não Retido -
 
-Intermediário do(s) Serviço(s): Nome: ORIENTA - ORIENTACAO ESTRATEGICA DE NEGOCIOS LTDA
+TRIBUTAÇÃO FEDERAL
+IRRF CP CSLL
 
-CPF/CNPJ: 05.452.640/0001-56 Inscrição Municipal:
-Código de Tributação do Município (CTISS)
-1003-0/01-88 / Agenciamento, corretagem ou intermediação de direitos de propriedade industrial, artística ou literária.
+COFINS Retenção do PIS/COFINS TOTAL TRIBUTAÇÃO FEDERAL
 
-Subitem Lista de Serviços LC 116/03 / Descrição:
-10.03 / Agenciamento, corretagem ou intermediacao de direitos de propriedade industrial, artistica ou Literaria.
+VALOR TOTAL DA NFS-E
 
-Cod/Município da incidência do ISSQN: Natureza da Operação:
+Valor do Serviço Desconto Condicionado Desconto Incondicionado ISSQN Retido
+R$ 2.084,90 R$ R$ -
 
-3106200 / Belo Horizonte Tributação no município
-Valor dos serviços: R$ 13.500,00 Valor dos serviços: R$ 13.500,00
-(-) Descontos: R$ 0,00 (-) Deduções: R$ 9.450,00
-(-) Retenções Federais: R$ 0,00 (-) Desconto Incondicionado: R$ 0,00
-(:) ISS Retido na Fonte: R$ 0,00 (=) Base de Cálculo: R$ 4.050,00
-Valor Líquido: R$ 13.500,00  &)Aliquota: 25h
-(=)Valor do ISS: R$ 101,25
+IRRF, CP,CSLL - Retidos PIS/COFINS Retidos Valor Líquido da NFS-e
+R$ 0,00 - R$ 2.084,90
 
-Outras Informações:
-Chave de acesso no Ambiente de Dados Nacional: 31062001239440918000197250000000065525076459249718.
+TOTAIS APROXIMADOS DOS TRIBUTOS
 
-Prefeitura de Belo Horizonte - Secretaria Municipal de Fazenda E No
-Rua Espírito Santo, 605 - 3º andar - Centro - CEP: 30160-919 - Belo Horizonte MG. OTA
-Dúvidas: SIGESP 10
+Federais Estaduais Municipais
 
-https://bhissdigital.pbh.gov.br/nfse/pages/exibicaoNF S-e.jsf
+INFORMAÇÕES COMPLEMENTARES
 
-111
