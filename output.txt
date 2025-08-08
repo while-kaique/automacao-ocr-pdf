@@ -1,67 +1,83 @@
 
 --- Página 1 ---
-PREFEITURA DA CIDADE DO RIO DE JANEIRO “00000 As
-SECRETARIA MUNICIPAL DE FAZENDA
-NOTA FISCAL DE SERVIÇOS ELETRÔNICA - NFS-e 01/04/2025 20:25:31
-ódigo de Verificação
-- NOTA CARIOCA -
-PRESTADOR DE SERVIÇOS
+MUNICÍPIO DE PRESIDENTE
+N FSe DANFSe v1.0 =. PRUDENTE
+erviço elet Documento Auxiliar da NFS-e ; (18)3902-4414
 
-CPF/CNPJ: 54.370.484/0001-90 Inscrição Municipal: 1.519.770-6 Inscrição Estadual: ---
-Nome/Razão Social: BEATRIZ L BOEKE LTDA
-Nome Fantasia: BEATRIZ L BOEKE Tel.: 24992812463
+Chave de Acesso da NFS-e
+35414062258239035000168000000000001425081804212837
 
-Endereço: RUA DAS HORTENCIAS 76, APT 903 - VILA YALQUEIRE - CEP: 21330-540
-Município: RIO DE JANEIRO UF: RJ
+Número da NFS-e Competência da NFS-e Data e Hora da emissão da NFS-e
+14 04/08/2025 04/08/2025 11:12:36
 
-TOMADOR DE SERVIÇOS
-CPF/CNPJ: 22.165.464/0003-52 Inscrição Municipal: ---- Inscrição Estadual: ----
-Nome/Razão Social: GO COMERCIO DE ARTIGOS ELETRÔNICOS E ACESSÓRIOS LTDA
+Número da DPS Série da DPS Data e Hora da emissão da DPS E Es.
 
-Endereço: RUA PADRE VALDEVINO 2528, SALA 2 - DIONISIO TORRES - CEP: 60135-414 Tel.: 8581306602
-Município: FORTALEZA UF: CE E-mail: CONTABILIDADEGGOCASE.COM
+14 900 04/08/2025 11:12:36 A autenticidade desta NFS-e pode ser verificada
+pela leitura deste código QR ou pela consulta da
+chave de acesso no portal nacional da NFS-e
 
-DISCRIMINAÇÃO DOS SERVIÇOS
+EMITENTE DA NFS-e CNPJ/CPF/NIF Inscrição Municipal Telefone
 
-Serviços Prestados
+Prestador do Serviço 58.239.035/0001-68 - (1 8) 2104-2679
 
-Bia Boeke (2/3)
-2 combos de stories
-2 reels com repost no tiktok
+Nome / Nome Empresarial E-mail
+58.239.035 ANA CLARA NEGRI SANTOS CONTABILSINDPPOGMAIL.COM
 
-Dados Bancaçrios:
+Endereço Município CEP
+PAULO RIBEIRO, 284, RESIDENCIAL VISTA DO VALE Presidente Prudente - SP 19063-841
 
-Banco: NU- PAGAMENTOS
-Age;ncia: 0001
+Simples Nacional na Data de Competência Regime de Apuração Tributária pelo SN
+Optante - Microempreendedor Individual (MEI) -
 
-Conta: 89161465-2
+TOMADOR DO SERVIÇO CNPJ/CPF/NIF Inscrição Municipal Telefone
+22.165.464/0001-90 - -
 
-Tipo de Conta PJ
+Nome / Nome Empresarial E-mail
+GO COMERCIO DE ARTIGOS ELETRONICOS E ACESSORIOS LTDA -
 
-PIX: CNPJ - 54.370.464/0001-90
+Endereço Município CEP
+CAROLINA SUCUPIRA, 1368, 1 ANDAR SALA A, ALDEOTA Fortaleza - CE 60140-120
 
-Marca: GoCase
-Valor: R$ 6.400,00
-Vencimento: 31/07/2025
+INTERMEDIÁRIO DO SERVIÇO NÃO IDENTIFICADO NA NFS-e
+SERVIÇO PRESTADO
 
-VALOR DA NOTA = R$ 6.400,00
+Código de Tributação Nacional Código de Tributação Municipal Local da Prestação País da Prestação
+01.03.01 - Processamento de dados, - Presidente Prudente - SP -
+textos, imagens, vídeos, páginas ...
 
-Serviço Prestado
+Descrição do Serviço
+PROCESSAMENTO DE IMAGEM
 
-13.03.01 - Fotografia
+TRIBUTAÇÃO MUNICIPAL
 
-Deduções (R$) Desconto Incond. (R$) |Base de Cálculo (R$) Alíquota (%) Valor do 55 (R$) Crédito p/ IPTU (R$)
-0,00 0,00 0,00
+Tributação do ISSQN País Resultado da Prestação do Serviço Município de Incidência do ISSQN Regime Especial de Tributação
+Operação Tributável - Presidente Prudente - SP Nenhum
 
-OUTRAS INFORMAÇÕES
+Tipo de Imunidade Suspensão da Exigibilidade do ISSQN Número Processo Suspensão Benefício Municipal
+- Não - -
 
-- Esta NFS-e foi emitida com respaldo na Lei nº 5.098 de 15/10/2009 e no Decreto nº 32.250 de 11/05/2010
+Valor do Serviço Desconto Incondicionado Total Deduções/Reduções Cálculo do BM
+R$ 1.905,95 - - -
 
-- PROCON-RJ: Av. Rio Branco nº 25, 5º andar, tel 151: ww. procon.r).gov.br
+BC ISSQN Alíquota Aplicada Retenção do ISSQN ISSQN Apurado
+- Não Retido -
 
-- ISS devido deve ser recolhido por meio de Documento de Arrecadação do Simples Nacional (DAS).
+TRIBUTAÇÃO FEDERAL
+IRRF CP CSLL
 
-- Documento emitido por ME ou EPP optante pelo Simples Nacional. Não gera direito a crédito fiscal de IPI.
+COFINS Retenção do PIS/COFINS TOTAL TRIBUTAÇÃO FEDERAL
 
-- Esta NFS-e não gera crédito para abatimento no IPTU.
+VALOR TOTAL DA NFS-E
+
+Valor do Serviço Desconto Condicionado Desconto Incondicionado ISSQN Retido
+R$ 1.905,95 R$ R$ -
+
+IRRF, CP,CSLL - Retidos PIS/COFINS Retidos Valor Líquido da NFS-e
+R$ 0,00 - R$ 1.905,95
+
+TOTAIS APROXIMADOS DOS TRIBUTOS
+
+Federais Estaduais Municipais
+
+INFORMAÇÕES COMPLEMENTARES
 
