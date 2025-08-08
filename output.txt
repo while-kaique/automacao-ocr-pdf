@@ -1,82 +1,38 @@
 
 --- Página 1 ---
-01/07/25, 18:29 :: NFS-e - Nota Fiscal de Serviços eletrônica ::
+07/07/2025, 16:28 Usuário: 58.340.211/0001-53 - NF-e - Nota Fiscal Eletrônica de Serviços - São Paulo
 
-NFS-e - NOTA FISCAL DE SERVIÇOS ELETRÔNICA
+PREFEITURA DO MUNICÍPIO DE SÃO PAULO "ane
+00000002
+SECRETARIA MUNICIPAL DA FAZENDA Data e Hora de Emissão
+à 07/07/2025 16:18:34
+NOTA FISCAL ELETRÔNICA DE SERVIÇOS - NFS-e Código de Verificação
+CBVM-J2MJ
+PRESTADOR DE SERVIÇOS
+CPF/CNPJ: 58.340.211/0001-53 Inscrição Municipal: 1.608.975-8
+Nome/Razão Social: 58.340.211 ISABELLA MIYASHIRO YOSHIZAKI
+Endereço: AY AUGUSTO ANTUNES 00729, SALA 3 - LIMOEIRO - CEP: 08051-370
+Município: São Paulo Ur: SP
+TOMADOR DE SERVIÇOS
+Nome/Razão Social: GO COMERCIO DE ARTIGOS ELETRONICOS E ACESSORIOS LTDA
+CPF/CNPJ: 22.165.464/0003-52 Inscrição Municipal: ----
+Endereço: RV MG-460 (EST MUNIC HORACIO MARINHO) 350, GALPAQO1 - JARDIM - CEP: 37640-000
+Município: Extrema UF: MG E-mail: contabilf Gosldigital.com.br
+INTERMEDIÁRIO DE SERVIÇOS
+CPF/CNPJ: --- Nome/Razão Social: ----
+DISCRIMINAÇÃO DOS SERVIÇOS
+Campanha publicitária com (bellamiiyva em JUNHO/25
+DADOS BANCÁRIOS:
+INTER - 077 Agência: 0001 Conta: 42100592-0
+PIX: 586340211000153 (CNPJ)
+VALOR TOTAL DO SERVIÇO = R$ 4.800,00
+INSS (R$) | IRRF (R$) | CSLL (R$) | COFINS (R$) PIS/PASEP (R$)
+Código do Serviço
+02496 - Propaganda e publicidade, promoção de vendas, planejamento de campanhas e materiais publicitários.
+Valor Total das Deduções (R$) Base de Cálculo (R$) Alíquota (%) Valor do ISS (R$) Crédito (R$)
+0,00 4.800,00 5,00% 240,00 0,00
+OUTRAS INFORMAÇÕES
+(1) Esta NFS-e foi emitida com respaldo na Lei nº 14.097/2005; (2) Estabelecimento impedido de recolher o ICMSASS pelo
+Simples Nacional, nos termos do & 1º do art. 20 da Lei Complementar nº 123, de 2006.;
 
-o. Emitida em: Competência: Código de Verificação:
-Nº:2025/655 01/07/2025 às 18:28:49 01/07/2025 bcef04d5
-WUPPER DIGITAL AGENCIA LTDA
-CPF/CNPJ: 39.440.918/0001-97 Inscrição Municipal: 1256451/001-0
-lp: RUA DEPUTADO AUGUSTO GONCALVES, 165, APT 203, Serrano - Cep: 30882-660
-Belo Horizonte MG
-Telefone: Email:
-
-Tomador do(s) Serviço(s)
-
-CPF/CNPJ: 22.165.464/0001-90 Inscrição Municipal: Não Informado
-GO COMÉRCIO DE ARTIGOS ELETRONICOS E ACESSÓRIOS LTDA
-
-Rua Padre Valdevino , 2528, sala 02, Dionísio Torres - Cep: 60135-414
-
-Fortaleza CE
-
-Telefone: Não Informado Email: Não Informado
-
-Discriminação do(s) Serviço(s)
-
-PRESTACAO DE SERVICOS EM PROL DA MARCA GOCASE
-
-INFLUENCER: NINA MIANO
-
-CONTRATO DE 12 MESES MARCO/2025 A MARCO/2026
-
-VALOR TOTAL: R$162.000,00 PAGOS EM 12 PARCELAS DE R$13.500,00
-PARCELA: 04/12
-
-VENCIMENTO: 30/07/25
-
-DADOS BANCÁRIOS
-
-BANCO: CAIXA ECONOMICA FEDERAL
-
-RAZAO SOCIAL: WUPPER DIGITAL AGENCIA LTDA
-CNPJ: 39.440.918/0001-97
-
-AGENCIA: 1017
-
-OPERACAO: 1292
-
-CONTA/DV: 000578314402-5
-
-CHAVE PIX (CNPJ): 39.440.918/0001-97
-
-Intermediário do(s) Serviço(s): Nome: ORIENTA - ORIENTACAO ESTRATEGICA DE NEGOCIOS LTDA
-
-CPF/CNPJ: 05.452.640/0001-56 Inscrição Municipal:
-Código de Tributação do Município (CTISS)
-1003-0/01-88 / Agenciamento, corretagem ou intermediação de direitos de propriedade industrial, artística ou literária.
-
-Subitem Lista de Serviços LC 116/03 / Descrição:
-10.03 / Agenciamento, corretagem ou intermediacao de direitos de propriedade industrial, artistica ou Literaria.
-
-Cod/Município da incidência do ISSQN: Natureza da Operação:
-
-3106200 / Belo Horizonte Tributação no município
-Valor dos serviços: R$ 13.500,00 Valor dos serviços: R$ 13.500,00
-(-) Descontos: R$ 0,00 (-) Deduções: R$ 9.450,00
-(-) Retenções Federais: R$ 0,00 (-) Desconto Incondicionado: R$ 0,00
-(:) ISS Retido na Fonte: R$ 0,00 (=) Base de Cálculo: R$ 4.050,00
-Valor Líquido: R$ 13.500,00  &)Aliquota: 25h
-(=)Valor do ISS: R$ 101,25
-
-Outras Informações:
-Chave de acesso no Ambiente de Dados Nacional: 31062001239440918000197250000000065525076459249718.
-
-Prefeitura de Belo Horizonte - Secretaria Municipal de Fazenda E No
-Rua Espírito Santo, 605 - 3º andar - Centro - CEP: 30160-919 - Belo Horizonte MG. OTA
-Dúvidas: SIGESP 10
-
-https://bhissdigital.pbh.gov.br/nfse/pages/exibicaoNF S-e.jsf
-
-111
+https://nfe.prefeitura.sp.gov.br/contribuinte/notaprint.aspx?nf=2&inscricao=16089758&email=1&SMS=0&returnurl=nota.aspxY%3finscricao%3d 16089758 111
