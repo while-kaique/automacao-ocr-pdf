@@ -1,154 +1,68 @@
 
 --- Página 1 ---
-PREFEITURA MUNICIPAL DE GUARANI
+PREFEITURA DA CIDADE DO RIO DE JANEIRO “0000051
 SECRETARIA MUNICIPAL DE FAZENDA
-
-SETOR TRIBUTÁRIO
-PRAÇA ANTÔNIO CARLOS, 10 - CENTRO
-GUARANI - MG - 36.160-000 - Tel.: (32)3575-1523
-
-Nº da Nota
-25/2025
-
-Nº Integral: 202500000000025
-
-Código Verificação
-AB4CFYWXDP
-
-Município de Prestação:
-
-Natureza da Operação:
-
-Data da Nota Fiscal:
-
-Razão Social:
-
-Nome Fantasia:
-
-Regime Especial:
-Simples Nac/MEI/Outros:
-
-Endereço:
-
-Nome:
-Nome Fantasia:
-E-mail:
-
-Endereço:
-
-Código de Serviço:
-CNAE:
-Intermediário:
-
-Construção Civil - Obra:
-
-NOTA FISCAL DE SERVIÇOS ELETRÔNICA - NFS-e
-
-GUARANI - MG Período de Competência: 8/2025
-
-TRIBUTAÇÃO NO MUNICÍPIO Reg. Especial Tributação: ME (Micro Empresa) ou EPP
-
-01/08/2025 Nº da RPS:
+NOTA FISCAL DE SERVIÇOS ELETRÔNICA - NFS-e 04/08/2025 14:56:48
+ódigo de Verificação
+. NOTA CARIOCA
 
 PRESTADOR DE SERVIÇOS
-BIA BEN PRODUCOES LTDA
-BIA BEN
-ME (Micro Empresa) ou EPP (Empresa de Pequeno
-Simples Nacional Fone/Fax
 
-RUA CORONEL LADEIRA, 46 - SALA G - CENTRO - 36.160-000 - GUARANI - MG
+CPF/CNPJ: 54.370.484/0001-90 Inscrição Municipal: 1.519.770-6 Inscrição Estadual: ---
+Nome/Razão Social: BEATRIZ L BOEKE LTDA
+Nome Fantasia: BEATRIZ L BOEKE Tel.: 24992812463
+
+Endereço: RUA DAS HORTENCIAS 76, APT 903 - VILA YALQUEIRE - CEP: 21330-540
+Município: RIO DE JANEIRO UF: RJ
 
 TOMADOR DE SERVIÇOS
+CPF/CNPJ: 22.165.464/0003-52 Inscrição Municipal: ---- Inscrição Estadual: ----
+Nome/Razão Social: GO COMERCIO DE ARTIGOS ELETRÔNICOS E ACESSÓRIOS LTDA
 
-GO COMERCIO DE ARTIGOS ELETRONICOS E ACESSORIOS LTDA
-Inscrição Municipal:
-Fone/Fax:
-
-(85)9813-0660 Inscrição Estadual:
-
-R PADRE VALDEVINO, 2528 - SALA 02 - DIONISIO TORRES - 60.135-414 - FORTALEZA - CE
-
-DADOS COMPLEMENTARES
-
-CNPJ:
-
-Inscrição Municipal:
-
-45.255.507/0001-24
-96001687
-
-Inscrição Estadual:
-
-: (82)3575-1209
-
-CPF/CNPJ: 22.165.464/0001-90
-
-17.06 - PROPAGANDA E PUBLICIDADE, INCLUSIVE PROMOÇÃO DE VENDAS, PLANEJAMENTO DE CAMPANHAS OU SISTEMAS DE PUB...
-
-7319-0/03 - MARKETING DIRETO
-0
-
-Inscrição Municipal:
-ART:
+Endereço: RUA PADRE VALDEVINO 2528, SALA 2 - DIONISIO TORRES - CEP: 60135-414 Tel.: 8581306602
+Município: FORTALEZA UF: CE E-mail: CONTABILIDADEGGOCASE.COM
 
 DISCRIMINAÇÃO DOS SERVIÇOS
 
-SERVICO INTERVENIENTE DE PUBLICIDADE COM INFLUENCER
+Serviços Prestados
 
-VALOR: R$ 45.000,00
+Bia Boeke (3/3)
+2 combos de stories
+2 reels com repost no tiktok
 
-VENCIMENTO: 29/08/2025
+Dados Bancaçrios:
 
-- DADOS BANCÁRIOS:
-BANCO: 336 - BANCO C6 S.A
+Banco: NU- PAGAMENTOS
+Age;ncia: 0001
 
-AG. 0001
-Cc. 18020301-0
+Conta: 89161465-2
 
-PIX: 45.255.507/0001-24
+Tipo de Conta PJ
 
-VALOR TOTAL DE SERVIÇOS = R$ 45.000,00
+PIX: CNPJ - 54.370.464/0001-90
 
-PIS (R$)
-0,00
+Marca: GoCase
+Valor: R$ 6.400,00
+Vencimento: 29/08/2025
 
-COFINS (R$)
-0,00
+VALOR DA NOTA = R$ 6.400,00
 
-INSS (R$) IR (R$) CSLL (R$)
+Serviço Prestado
+
+13.03.01 - Fotografia
+
+Deduções (R$) Desconto Incond. (R$) |Base de Cálculo (R$) Alíquota (%) Valor do 55 (R$) Crédito p/ IPTU (R$)
 0,00 0,00 0,00
 
-SEST SENAT (R$)
-0,00
+OUTRAS INFORMAÇÕES
 
-Outras Retenções (R$)
-0,00
+- Esta NFS-e foi emitida com respaldo na Lei nº 5.098 de 15/10/2009 e no Decreto nº 32.250 de 11/05/2010
 
-Deduções (R$) Desc. Incond + Cond(R$)
+- PROCON-RJ: Av. Rio Branco nº 25, 5º andar, tel 151: ww. procon.r).gov.br
 
-0,00
+- ISS devido deve ser recolhido por meio de Documento de Arrecadação do Simples Nacional (DAS).
 
-ISS Retido (R$)
-0,00
+- Documento emitido por ME ou EPP optante pelo Simples Nacional. Não gera direito a crédito fiscal de IPI.
 
-Base de Cálculo (R$)
-45.000,00
+- Esta NFS-e não gera crédito para abatimento no IPTU.
 
-Alíquota (%)
-2,00
-
-Valor do ISS (R$)
-
-0,00 900,00
-
-ISS Devido (R$)
-
-Valor Líquido (R$)
-
-0,00 45.000,00
-
-Verificação de Autenticidade:
-
-http://guaranimg.nfse-futurize.com.br/consultanfe.php Página: 1/1
-
-FUTURIZE - Tecnologia em Sistemas da Informação
