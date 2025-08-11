@@ -1,30 +1,30 @@
 
 --- Página 1 ---
-Prefeitura Municipal de Porto
-N FSe DANFSe v1.0 E] Alegre/RS
-ervico elet Documento Auxiliar da NFS-e (51)3289-0156
+MUNICÍPIO DE PRESIDENTE
+N FSe DANFSe v1.0 =. PRUDENTE
+erviço elet Documento Auxiliar da NFS-e ; (18)3902-4414
 
 Chave de Acesso da NFS-e
-43149022253264365000190000000000005925080709229404
+35414062258239035000168000000000001425081804212837
 
 Número da NFS-e Competência da NFS-e Data e Hora da emissão da NFS-e
-59 31/07/2025 05/08/2025 15:52:49
+14 04/08/2025 04/08/2025 11:12:36
 
-Número da DPS Série da DPS Data e Hora da emissão da DPS jose Rai
+Número da DPS Série da DPS Data e Hora da emissão da DPS E Es.
 
-68 900 05/08/2025 15:52:49 A autenticidade desta NFS-e pode ser verificada
+14 900 04/08/2025 11:12:36 A autenticidade desta NFS-e pode ser verificada
 pela leitura deste código QR ou pela consulta da
 chave de acesso no portal nacional da NFS-e
 
 EMITENTE DA NFS-e CNPJ/CPF/NIF Inscrição Municipal Telefone
 
-Prestador do Serviço 53.264.365/0001-90 - (51) 99962-9404
+Prestador do Serviço 58.239.035/0001-68 - (1 8) 2104-2679
 
 Nome / Nome Empresarial E-mail
-53.264.365 FERNANDA SCHERER ABBOTT fernanda.abbottl GOgmail.com
+58.239.035 ANA CLARA NEGRI SANTOS CONTABILSINDPPOGMAIL.COM
 
 Endereço Município CEP
-CASEMIRO DE ABREU, 1337, BELA VISTA Porto Alegre - RS 90420-001
+PAULO RIBEIRO, 284, RESIDENCIAL VISTA DO VALE Presidente Prudente - SP 19063-841
 
 Simples Nacional na Data de Competência Regime de Apuração Tributária pelo SN
 Optante - Microempreendedor Individual (MEI) -
@@ -42,22 +42,22 @@ INTERMEDIÁRIO DO SERVIÇO NÃO IDENTIFICADO NA NFS-e
 SERVIÇO PRESTADO
 
 Código de Tributação Nacional Código de Tributação Municipal Local da Prestação País da Prestação
-17.06.01 - Propaganda e publicidade, - Porto Alegre - RS -
-inclusive promoção de vendas, p...
+01.03.01 - Processamento de dados, - Presidente Prudente - SP -
+textos, imagens, vídeos, páginas ...
 
 Descrição do Serviço
-Promoção de vendas, distribuição ou entrega de material publicitário.
+PROCESSAMENTO DE IMAGEM
 
 TRIBUTAÇÃO MUNICIPAL
 
 Tributação do ISSQN País Resultado da Prestação do Serviço Município de Incidência do ISSQN Regime Especial de Tributação
-Operação Tributável - Porto Alegre - RS Nenhum
+Operação Tributável - Presidente Prudente - SP Nenhum
 
 Tipo de Imunidade Suspensão da Exigibilidade do ISSQN Número Processo Suspensão Benefício Municipal
 - Não - -
 
 Valor do Serviço Desconto Incondicionado Total Deduções/Reduções Cálculo do BM
-R$ 4.474,48 - - -
+R$ 1.905,95 - - -
 
 BC ISSQN Alíquota Aplicada Retenção do ISSQN ISSQN Apurado
 - Não Retido -
@@ -70,17 +70,14 @@ COFINS Retenção do PIS/COFINS TOTAL TRIBUTAÇÃO FEDERAL
 VALOR TOTAL DA NFS-E
 
 Valor do Serviço Desconto Condicionado Desconto Incondicionado ISSQN Retido
-R$ 4.474,48 R$ R$ -
+R$ 1.905,95 R$ R$ -
 
 IRRF, CP,CSLL - Retidos PIS/COFINS Retidos Valor Líquido da NFS-e
-R$ 0,00 - R$ 4.474,48
+R$ 0,00 - R$ 1.905,95
 
 TOTAIS APROXIMADOS DOS TRIBUTOS
 
 Federais Estaduais Municipais
 
 INFORMAÇÕES COMPLEMENTARES
-
-Inf Cont: Dados bancários: Agência 0001 | Conta 93737625-7 | Banco 0260 | Nu Pagamentos S.A. - Instituição de Pagamento | Chave Pix (CNPJ)
-53.264.365/0001-90
 
