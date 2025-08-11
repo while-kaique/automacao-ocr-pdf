@@ -1,68 +1,86 @@
 
 --- Página 1 ---
-PREFEITURA DA CIDADE DO RIO DE JANEIRO “000002 4
-SECRETARIA MUNICIPAL DE FAZENDA
-NOTA FISCAL DE SERVIÇOS ELETRÔNICA - NFS-e 04/08/2025 15:44:31
-ódigo de Verificação
-- NOTA CARIOCA -
+Prefeitura Municipal de Porto
+N FSe DANFSe v1.0 E] Alegre/RS
+ervico elet Documento Auxiliar da NFS-e (51)3289-0156
 
-PRESTADOR DE SERVIÇOS
+Chave de Acesso da NFS-e
+43149022253264365000190000000000005925080709229404
 
-CPF/CNPJ: 53.081.863/0001-05 Inscrição Municipal: 1.665.893-2 Inscrição Estadual: ---
-Nome/Razão Social: DANIEL ARAGAO LOUZADA LTDA
-Nome Fantasia: DANIEL ARAGAO LOUZADA LTDA Tel.: 24992146033
+Número da NFS-e Competência da NFS-e Data e Hora da emissão da NFS-e
+59 31/07/2025 05/08/2025 15:52:49
 
-Endereço: AVN JOAO CABRAL DE MELLO NETO 550, APT 807 BLC 1 - BARRA DA TIJUCA - CEP: 22775-057
-Município: RIO DE JANEIRO UF: RJ
+Número da DPS Série da DPS Data e Hora da emissão da DPS jose Rai
 
-TOMADOR DE SERVIÇOS
-CPF/CNPJ: 22.165.464/0001 -90 Inscrição Municipal: ---- Inscrição Estadual: ----
-Nome/Razão Social: GO COMERCIO DE ARTIGOS ELETRONICOS E ACESSO, RIOS LTDA
+68 900 05/08/2025 15:52:49 A autenticidade desta NFS-e pode ser verificada
+pela leitura deste código QR ou pela consulta da
+chave de acesso no portal nacional da NFS-e
 
-Endereço: RUA PADRE VALDEVINO 2528, SALA 2 - DIONISIO TORRES - CEP: 60135-414 Tel. --—
-Município: FORTALEZA UF: CE E-mail:
-DISCRIMINAÇÃO DOS SERVIÇOS
+EMITENTE DA NFS-e CNPJ/CPF/NIF Inscrição Municipal Telefone
 
-Serviços Prestados
+Prestador do Serviço 53.264.365/0001-90 - (51) 99962-9404
 
-Daniel Aragão (1/3)
-04 telas de stories
-2 reels com repost no tiktok
+Nome / Nome Empresarial E-mail
+53.264.365 FERNANDA SCHERER ABBOTT fernanda.abbottl GOgmail.com
 
-Dados Bancaçrios:
+Endereço Município CEP
+CASEMIRO DE ABREU, 1337, BELA VISTA Porto Alegre - RS 90420-001
 
-Banco: INTER
+Simples Nacional na Data de Competência Regime de Apuração Tributária pelo SN
+Optante - Microempreendedor Individual (MEI) -
 
-Age;ncia: 0001
+TOMADOR DO SERVIÇO CNPJ/CPF/NIF Inscrição Municipal Telefone
+22.165.464/0001-90 - -
 
-Conta: 32658646-6
+Nome / Nome Empresarial E-mail
+GO COMERCIO DE ARTIGOS ELETRONICOS E ACESSORIOS LTDA -
 
-Tipo de Conta PJ
+Endereço Município CEP
+CAROLINA SUCUPIRA, 1368, 1 ANDAR SALA A, ALDEOTA Fortaleza - CE 60140-120
 
-PIX: CNPJ - 53.081.863/0001-05
+INTERMEDIÁRIO DO SERVIÇO NÃO IDENTIFICADO NA NFS-e
+SERVIÇO PRESTADO
 
-Marca: GoCase
-Valor: R$ 2.400,00
-Vencimento: 29/08/2025
+Código de Tributação Nacional Código de Tributação Municipal Local da Prestação País da Prestação
+17.06.01 - Propaganda e publicidade, - Porto Alegre - RS -
+inclusive promoção de vendas, p...
 
-VALOR DA NOTA = R$ 2.400,00
+Descrição do Serviço
+Promoção de vendas, distribuição ou entrega de material publicitário.
 
-Serviço Prestado
+TRIBUTAÇÃO MUNICIPAL
 
-13.03.01 - Fotografia
+Tributação do ISSQN País Resultado da Prestação do Serviço Município de Incidência do ISSQN Regime Especial de Tributação
+Operação Tributável - Porto Alegre - RS Nenhum
 
-Deduções (R$) Desconto Incond. (R$) |Base de Cálculo (R$) Alíquota (%) Valor do 55 (R$) Crédito p/ IPTU (R$)
-0,00 0,00 0,00
+Tipo de Imunidade Suspensão da Exigibilidade do ISSQN Número Processo Suspensão Benefício Municipal
+- Não - -
 
-OUTRAS INFORMAÇÕES
+Valor do Serviço Desconto Incondicionado Total Deduções/Reduções Cálculo do BM
+R$ 4.474,48 - - -
 
-- Esta NFS-e foi emitida com respaldo na Lei nº 5.098 de 15/10/2009 e no Decreto nº 32.250 de 11/05/2010
+BC ISSQN Alíquota Aplicada Retenção do ISSQN ISSQN Apurado
+- Não Retido -
 
-- PROCON-RJ: Av. Rio Branco nº 25, 5º andar, tel 151: ww. procon.r).gov.br
+TRIBUTAÇÃO FEDERAL
+IRRF CP CSLL
 
-- ISS devido deve ser recolhido por meio de Documento de Arrecadação do Simples Nacional (DAS).
+COFINS Retenção do PIS/COFINS TOTAL TRIBUTAÇÃO FEDERAL
 
-- Documento emitido por ME ou EPP optante pelo Simples Nacional. Não gera direito a crédito fiscal de IPI.
+VALOR TOTAL DA NFS-E
 
-- Esta NFS-e não gera crédito para abatimento no IPTU.
+Valor do Serviço Desconto Condicionado Desconto Incondicionado ISSQN Retido
+R$ 4.474,48 R$ R$ -
+
+IRRF, CP,CSLL - Retidos PIS/COFINS Retidos Valor Líquido da NFS-e
+R$ 0,00 - R$ 4.474,48
+
+TOTAIS APROXIMADOS DOS TRIBUTOS
+
+Federais Estaduais Municipais
+
+INFORMAÇÕES COMPLEMENTARES
+
+Inf Cont: Dados bancários: Agência 0001 | Conta 93737625-7 | Banco 0260 | Nu Pagamentos S.A. - Instituição de Pagamento | Chave Pix (CNPJ)
+53.264.365/0001-90
 
