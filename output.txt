@@ -1,86 +1,50 @@
 
 --- Página 1 ---
-Prefeitura Municipal de Porto
-N FSe DANFSe v1.0 E] Alegre/RS
-ervico elet Documento Auxiliar da NFS-e (51)3289-0156
+ED. Fortaleza PREFEITURA MUNICIPAL DE FORTALEZA Número da
+O rbam SECRETARIA MUNICIPAL DAS FINANÇAS NFS-e
+nmncas NOTA FISCAL ELETRÔNICA DE SERVIÇO - NFS-e 2
 
-Chave de Acesso da NFS-e
-43149022253264365000190000000000005925080709229404
+0
+Data e Hora da Emissão 05/08/2025 09:45:34 08/2025 Código de Verificação 370078746
+Número do RPS Do No. NFS-e substituída o Local da Prestação FORTALEZA - CE
 
-Número da NFS-e Competência da NFS-e Data e Hora da emissão da NFS-e
-59 31/07/2025 05/08/2025 15:52:49
+DADOS DO PRESTADOR DE SERVIÇOS
 
-Número da DPS Série da DPS Data e Hora da emissão da DPS jose Rai
+FLUZY MODA ESPORTIVA LTDA
+| Nomefantasia |
 
-68 900 05/08/2025 15:52:49 A autenticidade desta NFS-e pode ser verificada
-pela leitura deste código QR ou pela consulta da
-chave de acesso no portal nacional da NFS-e
+DADOS DO TOMADOR DE SERVIÇOS
 
-EMITENTE DA NFS-e CNPJ/CPF/NIF Inscrição Municipal Telefone
+Razão Social/Nome | GO COMERCIO DE ARTIGOS
+CPF/CNPJ |22.165.464/0003-52 Inscrição Municipal | | Município | EXTREMA -MG
 
-Prestador do Serviço 53.264.365/0001-90 - (51) 99962-9404
+Endereço e CEP | RODOVIA FERNAO DIAS, S/N - DOS PIRES CEP: 37.640-000
 
-Nome / Nome Empresarial E-mail
-53.264.365 FERNANDA SCHERER ABBOTT fernanda.abbottl GOgmail.com
+DISCRIMINAÇÃO DOS SERVIÇOS
 
-Endereço Município CEP
-CASEMIRO DE ABREU, 1337, BELA VISTA Porto Alegre - RS 90420-001
+Referente a comissão de julho de 2025 (2507.91) + outubro de 2024 (1.248,91), que estava atrasada!
+Banco 077-Inter, Agência 0001, Número da conta 34314374-7
+Chave PIX CNPJ : 53.613.593/0001-28
 
-Simples Nacional na Data de Competência Regime de Apuração Tributária pelo SN
-Optante - Microempreendedor Individual (MEI) -
+CÓDIGO DE ATIVIDADE CNAE
+17.06 / 731900201 - PROMOÇÃO DE VENDAS
 
-TOMADOR DO SERVIÇO CNPJ/CPF/NIF Inscrição Municipal Telefone
-22.165.464/0001-90 - -
+DETALHAMENTO ESPECIFICO DA CONSTRUÇÃO CIVIL
 
-Nome / Nome Empresarial E-mail
-GO COMERCIO DE ARTIGOS ELETRONICOS E ACESSORIOS LTDA -
+EA RA
+TRIBUTOS FEDERAIS
+es | [coms[ [res [ [use  [oues|
+Detalhamento de Valores - Prestador dos Serviços
+Outras Retenções | OpsãoSimplesNacional | (X) Alíquota % 2,17
+[00 |
 
-Endereço Município CEP
-CAROLINA SUCUPIRA, 1368, 1 ANDAR SALA A, ALDEOTA Fortaleza - CE 60140-120
+(-) ISS Retido
 
-INTERMEDIÁRIO DO SERVIÇO NÃO IDENTIFICADO NA NFS-e
-SERVIÇO PRESTADO
+(=) Valor Líquido 3.756,82 (=) Valor do ISS R$ 81,52
 
-Código de Tributação Nacional Código de Tributação Municipal Local da Prestação País da Prestação
-17.06.01 - Propaganda e publicidade, - Porto Alegre - RS -
-inclusive promoção de vendas, p...
-
-Descrição do Serviço
-Promoção de vendas, distribuição ou entrega de material publicitário.
-
-TRIBUTAÇÃO MUNICIPAL
-
-Tributação do ISSQN País Resultado da Prestação do Serviço Município de Incidência do ISSQN Regime Especial de Tributação
-Operação Tributável - Porto Alegre - RS Nenhum
-
-Tipo de Imunidade Suspensão da Exigibilidade do ISSQN Número Processo Suspensão Benefício Municipal
-- Não - -
-
-Valor do Serviço Desconto Incondicionado Total Deduções/Reduções Cálculo do BM
-R$ 4.474,48 - - -
-
-BC ISSQN Alíquota Aplicada Retenção do ISSQN ISSQN Apurado
-- Não Retido -
-
-TRIBUTAÇÃO FEDERAL
-IRRF CP CSLL
-
-COFINS Retenção do PIS/COFINS TOTAL TRIBUTAÇÃO FEDERAL
-
-VALOR TOTAL DA NFS-E
-
-Valor do Serviço Desconto Condicionado Desconto Incondicionado ISSQN Retido
-R$ 4.474,48 R$ R$ -
-
-IRRF, CP,CSLL - Retidos PIS/COFINS Retidos Valor Líquido da NFS-e
-R$ 0,00 - R$ 4.474,48
-
-TOTAIS APROXIMADOS DOS TRIBUTOS
-
-Federais Estaduais Municipais
-
-INFORMAÇÕES COMPLEMENTARES
-
-Inf Cont: Dados bancários: Agência 0001 | Conta 93737625-7 | Banco 0260 | Nu Pagamentos S.A. - Instituição de Pagamento | Chave Pix (CNPJ)
-53.264.365/0001-90
+1- Uma via desta Nota Fiscal será enviada através do e-mail fornecido pelo Tomador dos Serviços, no sítio http:/liss.fortaleza.ce.gov.br
+2- A autenticidade desta Nota Fiscal poderá ser validada no site http://iss.fortaleza.ce.gov.br/, com a utilização do Código de Verificação.
+. 3- Documento emitido por ME ou EPP optante pelo Simples Nacional. Não gera direito a crédito fiscal de ISS e IPI.
+Avisos 4- Serviço sujeito ao ANEXO 5.
+5- Serviços sujeitos ao fator "r", exceto para o exterior, sem retenção, com ISS devido ao próprio Município.
 
