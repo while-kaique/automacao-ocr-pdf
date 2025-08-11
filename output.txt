@@ -1,50 +1,83 @@
 
 --- Página 1 ---
-ED. Fortaleza PREFEITURA MUNICIPAL DE FORTALEZA Número da
-O rbam SECRETARIA MUNICIPAL DAS FINANÇAS NFS-e
-nmncas NOTA FISCAL ELETRÔNICA DE SERVIÇO - NFS-e 2
+MUNICÍPIO DE PRESIDENTE
+N FSe DANFSe v1.0 =. PRUDENTE
+erviço elet Documento Auxiliar da NFS-e ; (18)3902-4414
 
-0
-Data e Hora da Emissão 05/08/2025 09:45:34 08/2025 Código de Verificação 370078746
-Número do RPS Do No. NFS-e substituída o Local da Prestação FORTALEZA - CE
+Chave de Acesso da NFS-e
+35414062258239035000168000000000001425081804212837
 
-DADOS DO PRESTADOR DE SERVIÇOS
+Número da NFS-e Competência da NFS-e Data e Hora da emissão da NFS-e
+14 04/08/2025 04/08/2025 11:12:36
 
-FLUZY MODA ESPORTIVA LTDA
-| Nomefantasia |
+Número da DPS Série da DPS Data e Hora da emissão da DPS E Es.
 
-DADOS DO TOMADOR DE SERVIÇOS
+14 900 04/08/2025 11:12:36 A autenticidade desta NFS-e pode ser verificada
+pela leitura deste código QR ou pela consulta da
+chave de acesso no portal nacional da NFS-e
 
-Razão Social/Nome | GO COMERCIO DE ARTIGOS
-CPF/CNPJ |22.165.464/0003-52 Inscrição Municipal | | Município | EXTREMA -MG
+EMITENTE DA NFS-e CNPJ/CPF/NIF Inscrição Municipal Telefone
 
-Endereço e CEP | RODOVIA FERNAO DIAS, S/N - DOS PIRES CEP: 37.640-000
+Prestador do Serviço 58.239.035/0001-68 - (1 8) 2104-2679
 
-DISCRIMINAÇÃO DOS SERVIÇOS
+Nome / Nome Empresarial E-mail
+58.239.035 ANA CLARA NEGRI SANTOS CONTABILSINDPPOGMAIL.COM
 
-Referente a comissão de julho de 2025 (2507.91) + outubro de 2024 (1.248,91), que estava atrasada!
-Banco 077-Inter, Agência 0001, Número da conta 34314374-7
-Chave PIX CNPJ : 53.613.593/0001-28
+Endereço Município CEP
+PAULO RIBEIRO, 284, RESIDENCIAL VISTA DO VALE Presidente Prudente - SP 19063-841
 
-CÓDIGO DE ATIVIDADE CNAE
-17.06 / 731900201 - PROMOÇÃO DE VENDAS
+Simples Nacional na Data de Competência Regime de Apuração Tributária pelo SN
+Optante - Microempreendedor Individual (MEI) -
 
-DETALHAMENTO ESPECIFICO DA CONSTRUÇÃO CIVIL
+TOMADOR DO SERVIÇO CNPJ/CPF/NIF Inscrição Municipal Telefone
+22.165.464/0001-90 - -
 
-EA RA
-TRIBUTOS FEDERAIS
-es | [coms[ [res [ [use  [oues|
-Detalhamento de Valores - Prestador dos Serviços
-Outras Retenções | OpsãoSimplesNacional | (X) Alíquota % 2,17
-[00 |
+Nome / Nome Empresarial E-mail
+GO COMERCIO DE ARTIGOS ELETRONICOS E ACESSORIOS LTDA -
 
-(-) ISS Retido
+Endereço Município CEP
+CAROLINA SUCUPIRA, 1368, 1 ANDAR SALA A, ALDEOTA Fortaleza - CE 60140-120
 
-(=) Valor Líquido 3.756,82 (=) Valor do ISS R$ 81,52
+INTERMEDIÁRIO DO SERVIÇO NÃO IDENTIFICADO NA NFS-e
+SERVIÇO PRESTADO
 
-1- Uma via desta Nota Fiscal será enviada através do e-mail fornecido pelo Tomador dos Serviços, no sítio http:/liss.fortaleza.ce.gov.br
-2- A autenticidade desta Nota Fiscal poderá ser validada no site http://iss.fortaleza.ce.gov.br/, com a utilização do Código de Verificação.
-. 3- Documento emitido por ME ou EPP optante pelo Simples Nacional. Não gera direito a crédito fiscal de ISS e IPI.
-Avisos 4- Serviço sujeito ao ANEXO 5.
-5- Serviços sujeitos ao fator "r", exceto para o exterior, sem retenção, com ISS devido ao próprio Município.
+Código de Tributação Nacional Código de Tributação Municipal Local da Prestação País da Prestação
+01.03.01 - Processamento de dados, - Presidente Prudente - SP -
+textos, imagens, vídeos, páginas ...
+
+Descrição do Serviço
+PROCESSAMENTO DE IMAGEM
+
+TRIBUTAÇÃO MUNICIPAL
+
+Tributação do ISSQN País Resultado da Prestação do Serviço Município de Incidência do ISSQN Regime Especial de Tributação
+Operação Tributável - Presidente Prudente - SP Nenhum
+
+Tipo de Imunidade Suspensão da Exigibilidade do ISSQN Número Processo Suspensão Benefício Municipal
+- Não - -
+
+Valor do Serviço Desconto Incondicionado Total Deduções/Reduções Cálculo do BM
+R$ 1.905,95 - - -
+
+BC ISSQN Alíquota Aplicada Retenção do ISSQN ISSQN Apurado
+- Não Retido -
+
+TRIBUTAÇÃO FEDERAL
+IRRF CP CSLL
+
+COFINS Retenção do PIS/COFINS TOTAL TRIBUTAÇÃO FEDERAL
+
+VALOR TOTAL DA NFS-E
+
+Valor do Serviço Desconto Condicionado Desconto Incondicionado ISSQN Retido
+R$ 1.905,95 R$ R$ -
+
+IRRF, CP,CSLL - Retidos PIS/COFINS Retidos Valor Líquido da NFS-e
+R$ 0,00 - R$ 1.905,95
+
+TOTAIS APROXIMADOS DOS TRIBUTOS
+
+Federais Estaduais Municipais
+
+INFORMAÇÕES COMPLEMENTARES
 
