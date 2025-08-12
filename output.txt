@@ -1,90 +1,47 @@
 
 --- Página 1 ---
-MUNICÍPIO DE ALAGOINHAS - 13.646.005/0001-38 UG
+Número da Nota
 
-Secretaria Municipal da Fazenda
-CMAC/SEFAZ - Rua Dantas Bião, S/N - Laguna Shopping, 1º andar, Alagoinhas Velha -
-CEP 48.007-901 - Alagoinhas/BA Fones: (75) 3423-8359 e 3423-8332
+PREFEITURA MUNICIPAL DE CURITIBA 38
+SECRETARIA MUNICIPAL DE FINANÇAS [Data = Hora de Emissão |
+NOTA FISCAL DE SERVIÇOS ELETRÔNICA - NFS-e 03/08/2025 21:15:34
 
-NOTA FISCAL DE SERVIÇOS ELETRÔNICA - NFS-e
-
-Emissão (Horário de Brasília) Período de Competência Município de Prestação do
-
-01/08/2025 17:22:59 08/2025 Serviço
-Alagoinhas - BA
-
-ro F: a 2
-
-T E
-el ne -
-
-Reg. Especial Tributação Exigibilidade do ISS
-Microempresário e Empresa de Pequeno Porte Exigível em
-(ME EPP) Alagoinhas
+Código de Verificação
+1KD7XC0C
 
 PRESTADOR DE SERVIÇOS
-
-Razão Social
-
-JULIA ALCOFORADO COMUNICACAO LTDA
-
-Nome Fantasia Email
-
-E RD juualcoforadoQhotmail.com
-
-CPF/CNPJ Inscrição Municipal Inscrição Estadual Simples Nacional Incentivador Cultural Fone/Fax
-46.875.037/0001-64 940262 Sim Não (75) 99191-0070
-Endereço
-
-Rua Benjamin Constant, 106, Centro - CEP: 48000-105 - Alagoinhas - BA
-
+Razão Social: MAJU ENGRACIA LTDA
+CPF / CNPJ: 47.441.541/0001-19 Inscrição Municipal: 17 06 1039012-4
+Endereço: R. BRUNO FILGUEIRA, 002142 - BAIRRO: BIGORRILHO - Tel.: 41 - 988916795
+CEP: 80730380
+Município: CURITIBA UF: PR Email: rubensfontanafilho gmail.com
 TOMADOR DE SERVIÇOS
+Nome/Razão Social: Gocase
+CPF / CNPJ: 22.165.464/0001-90 IMU: Outro Doc.:
+Endereço:
+Município: FORTALEZA UF: CE Email:
 
-Nomey/Razão Social
+DISCRIMINAÇÃO DOS SERVIÇOS
 
-GO COMERCIO DE ARTIGOS ELETRONICOS E ACESSORIOS LTDA
+Promoção de vendas; publicidade e propaganda
 
-CPF/CNPJ Inscrição Municipal Inscrição Estadual Fone/Fax E-mail
-22.165.464/0001-90 (85) 9813-0660 CONTABILIDADEOGGOCASE.COM
-Endereço
+Valor Liquido da Nota Fiscal = R$ 3.006,30
 
-Rua Padre Valdevino, 2528, sala 02 - Dionisio Torres - CEP: 60135-414 - Fortaleza - CE
-SERVIÇO PRESTADO
+VALOR TOTAL DA NOTA - R$3.006,30
 
-1706 - Propaganda e publicidade, inclusive promoção de vendas, planejamento de campanhas ou sistemas de publicidade, elaboração de desenhos, textos e
-demais materiais publicitários. CNAE: 7319002
+Código da Atividade
 
-DESCRIÇÃO DOS SERVIÇOS
+10-08 -Agenciamento de publicidade e propaganda, inclusive o agenciamento de veiculação por quaisquer meios.
 
-Serviços prestados
-
-Dados bancários:
-
-AG 0001
-
-Conta 193662546-2
-
-Banco 0260
-
-Pix CNPJ 46.875.037/0001-64
-
-RETENÇÕES FEDERAIS
-
-PIS (R$) COFINS (R$) INSS (R$) IR (R$) CSLL (R$) Outras Retenções (R$)
-0,00 0,00 0,00 0,00 0,00 0,00
-
-VALORES
-Valor dos Serviços (R$) Deduções (R$) Desconto Incondicionado (R$) Base de Cálculo (R$) Alíquota (%)
-10.285,87 0,00 0,00 ak de 2,0100
-ISS (R$) ISS Retido (R$) Desconto Condicionado (R$) Valor Líquido (R$) Valor Total da Nota (R$)
-secioek eee 0,00 10.285,87 10.285,87
+Valor Total das Deduções (R$) | Base de Cálculo (R$) Valor do ISS (R$) | | Crédito p/ Abatimento do IPTU
 
 OUTRAS INFORMAÇÕES
 
-Esta NFS-e é autodeclaratória.
-Optante do Simples Nacional.
-Trib. aprox. R$ 1.383,45 Federal e R$ 514,29 Municipal. Fonte: IBPT [81AAFF]
+Esta NFS-e foi emitida com respaldo na Lei 73/2008.
+Documento emitido por ME ou EPP optante pelo Simples Nacional.
+Não gera direito a crédito fiscal de IPI.
 
-Visualizado em: 01/08/2025 17:22:59
-Para validação desta NFSe acesse: http://alagoinhasba.webiss.com.br/externo/nfse/validar
-Esta NFS-e foi emitida com respaldo no Decreto nº 4.649 de 28 de junho de 2017.
+Mais informações: nota.curitiba.pr.gov.br
+
+https://isscuritiba.curitiba.pr.gov.br/iss/Principal/frmFramesPgPrincipal.aspx?sParam=MENSAGEM&sLogin=1 03/08/2025, 21:15
+Página 1 de 1
