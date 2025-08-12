@@ -1,53 +1,178 @@
 
 --- Página 1 ---
-PREFEITURA DA CIDADE DO RIO DE JANEIRO “0000073
-SECRETARIA MUNICIPAL DE FAZENDA
-NOTA FISCAL DE SERVIÇOS ELETRÔNICA - NFS-e 05/08/2025 15:38:58
-ódigo de Verificação
-- NOTA CARIOCA - T2JT-NMJB
-PRESTADOR DE SERVIÇOS
-CPF/CNPJ: 50.391.212/0001-15 Inscrição Municipal: 1.522.613-7 Inscrição Estadual: ---
-Nome/Razão Social: RENATA LIMA PROMOCAO DE VENDAS LTDA
-Nome Fantasia:
-Endereço: ETR DE CAMORIM 385, APT 506 BLC 5 - JACAREPAGUA - CEP: 22780-070
-Município: RIO DE JANEIRO UF: RJ E-mail: CONTATOGRENATATBL.COM.BR
+DANFSe v1.0
 
-TOMADOR DE SERVIÇOS
-CPF/CNPJ: 22.165.464/0003-52 Inscrição Municipal: ---- Inscrição Estadual: ----
-Nome/Razão Social: GO COMERCIO E ARTIGOS ELETRONICOS E ACESSÓRIOS LTDA
+NFSe ss:
 
-Endereço: ROD MG - 460 350 - JARDIM - CEP: 37640-000
-Município: EXTREMA UF: MG E-mail:
+Documento Auxiliar da NFS-e
 
-DISCRIMINAÇÃO DOS SERVIÇOS
+PREFEITURA MUNICIPAL DE
+CURITIBA
 
-Conta para pagamento: 90349046-6
-Banco: 0260
+Chave de Acesso da NFS-e
+41069022248074725000150000000000005325085093137317
 
-Agência: 0001
+Número da NFS-e Competência da NFS-e
+53 05/08/2025
 
-Conta PJ
+Número da DPS Série da DPS
+55 900
 
-CNPJ: 50.391.212/0001-15
+Data e Hora da emissão da NFS-e
+05/08/2025 11:57:12
 
-Chave PIX: contatolfrenatatbl.com.br
+Data e Hora da emissão da DPS
+05/08/2025 11:57:11
 
-Tel.: 2133550015
+A autenticidade desta NFS-e pode ser verificada
+pela leitura deste código QR ou pela consulta da
+chave de acesso no portal nacional da NFS-e
 
-Tel. --—
+CNPJ/CPF /NIF
+48.074.725/0001-50
 
-VALOR DA NOTA = R$ 36.111,85
+EMITENTE DA NFS-e
+Prestador do Serviço
 
-Serviço Prestado
-17.06.03 - Promoção de vendas
+Nome / Nome Empresarial
+GABRIELLE AMARAL DOS SANTOS RIBEIRO 12532012773
 
-Deduções (R$) Desconto Incond. (R$) |Base de Cálculo (R$) Alíquota (%) Valor do 55 (R$) Crédito p/ IPTU (R$)
-0,00 0,00 0,00
+Endereço
+LUIZ LUCCA, 120, SAO BRAZ
 
-OUTRAS INFORMAÇÕES
-- Esta NFS-e foi emitida com respaldo na Lei nº 5.098 de 15/10/2009 e no Decreto nº 32.250 de 11/05/2010
-- PROCON-RJ: Av. Rio Branco nº 25, 5º andar, tel 151: ww. procon.r).gov.br
-- ISS devido deve ser recolhido por meio de Documento de Arrecadação do Simples Nacional (DAS).
-- Documento emitido por ME ou EPP optante pelo Simples Nacional. Não gera direito a crédito fiscal de IPI.
-- Esta NFS-e não gera crédito para abatimento no IPTU.
+Simples Nacional na Data de Competência
+Optante - Microempreendedor Individual (MEI)
+
+Inscrição Municipal
+
+E-mail
+GABIAMARALTR(OBOL.COM.BR
+Município
+
+Curitiba - PR
+
+Regime de Apuração Tributária pelo SN
+
+Telefone
+(41) 9117-8171
+
+CEP
+82315-092
+
+TOMADOR DO SERVIÇO CNPJ /CPF/NIF
+22.165.464/0001-90
+
+Nome / Nome Empresarial
+GO COMERCIO DE ARTIGOS ELETRONICOS E ACESSORIOS LTDA
+
+Endereço
+CAROLINA SUCUPIRA, 1368, 1 ANDAR SALA A, ALDEOTA
+
+Inscrição Municipal
+
+E-mail
+CONTABILIDADEGDGOCASE.COM
+Município
+
+Fortaleza - CE
+
+Telefone
+
+CEP
+60140-120
+
+INTERMEDIÁRIO DO SERVIÇO NÃO IDENTIFICADO NA NFS-e
+
+SERVIÇO PRESTADO
+
+Código de Tributação Nacional Código de Tributação Municipal
+10.08.01 - Agenciamento de -
+
+publicidade e propaganda, inclusive o
+
+age...
+
+Descrição do Serviço
+
+Conta PJ Nubank, Gabrielle Amaral dos Santos Ribeiro
+CNPJ: 48.074.725/0001-50
+
+CPF:125.320.127-73
+
+Local da Prestação
+Curitiba - PR
+
+País da Prestação
+
+TRIBUTAÇÃO MUNICIPAL
+
+Tributação do ISSQN País Resultado da Prestação do Serviço
+Operação Tributável -
+
+Tipo de Imunidade Suspensão da Exigibilidade do ISSQN
+
+- Não
+
+Valor do Serviço Desconto Incondicionado
+
+R$ 14.824,11 -
+
+BC ISSQN Alíquota Aplicada
+
+Município de Incidência do ISSQN
+Curitiba - PR
+
+Número Processo Suspensão
+
+Total Deduções/Reduções
+
+Retenção do ISSQN
+Não Retido
+
+Regime Especial de Tributação
+Nenhum
+
+Benefício Municipal
+
+Cálculo do BM
+
+ISSQN Apurado
+
+TRIBUTAÇÃO FEDERAL
+IRRF CP
+
+COFINS
+
+CSLL
+
+Retenção do PIS/COFINS
+
+TOTAL TRIBUTAÇÃO FEDERAL
+
+VALOR TOTAL DA NFS-E
+
+Valor do Serviço Desconto Condicionado
+R$ 14.824,11 R$
+
+IRRF, CP,CSLL - Retidos PIS/COFINS Retidos
+R$ 0,00 -
+
+Desconto Incondicionado
+R$
+
+ISSQN Retido
+
+Valor Líquido da NFS-e
+R$ 14.824,11
+
+TOTAIS APROXIMADOS DOS TRIBUTOS
+
+Federais
+
+Estaduais
+
+Municipais
+
+INFORMAÇÕES COMPLEMENTARES
+NBS: 114061900
 
