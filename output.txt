@@ -1,121 +1,78 @@
 
 --- Página 1 ---
-PREFEITURA MUNICIPAL DE PELOTAS
+Número da Nota:
 
-Número | Série: 327/ NFSe
+PREFEITURA MUNICIPAL DO SALVADOR 00000139
 
-Data Prestação Serviço: 06/08/2025
+SECRETARIA MUNICIPAL DA FAZENDA Data e Hora de Emissão:
+01/08/2025 17:33:28
 
-Nomel/Razão Social
+Código de Verificação:
+LGRS-SFWD á
 
-CPF | CNPJ: 32.253.078/0001-04
-
-Endereço
-
-Telefone:
-
-E-Mail
-Inscr. Municipal
-
-SECRETARIA MUNICIPAL DE RECEITA
-Nota Fiscal Eletrônica de Serviços
-Emissão: 06/08/2025 15:41:13
-Incidência: PELOTAS (RS)
+NOTA FISCAL DE SERVIÇOS ELETRÔNICA - Nota Salvador
 
 PRESTADOR DE SERVIÇOS
-: ANA CAROLINA RODRIGUES DOS ANJOS LTDA
 
-Retenção ISS: Tributado
-Nº RPS:
+CPF/CNPJ: Inscrição Municipal:
 
-Regime: Simples (Alíquota 2.2962%)
-: Rua Avenida Ferreira Viana, nº 1179, Apt 204, Bairro Areal
+50.645.390/0001-25 00.962.724/001 -42
 
-(53) 99829728 Município: PELOTAS (RS)
-: CLIENTESOLUCAOQ YAHOO.COM.BR
+ome/Razão Social
 
-: 1001764 Inscr. Estadual:
+CAMILA E CIA MIDIAS DIGITAIS LTDA
 
-Nome Fantasia: .
+Endereço: e .
 
-Nomel/Razão Social
-CPF / CNPJ
+Ave Tancredo Neves 001189, EDIF:GUIMARÃES TRAD;SALA:1603 - CAMINHO DAS ARVORES - Salvador - CEP: 41820-020 - BA
+E-mail
+
+TOMADOR DE SERVIÇOS
+
+ome/Razão Social
+
+GO COMERCIO DE ARTIGOS ELETRÔNICOS E ACESSÓRIOS LTDA
+
+CPF/CNPJ: Inscrição Municipal:
+22.165.464/0001-90 ===
 
 Endereço:
 
-Telefone:
+RUA CAROLINA SUCUPIRA 1368, 1 ANDAR SALA A ALDEOTA - Fortaleza - CEP: 60140-120/CE
+E-mail:
 
-TOMADOR DE SERVIÇOS
-: GO COMERCIO DE ARTIGOS ELETRONICOS E ACESSORIOS LTDA
-:22.165.464/0003-52
-
-Rodovia Rod Mg, nº 460, Est Munic Horacio Marinho, Bairro Bairro Do Jarim
-Município: EXTREMA (MG)
-
-E-Mail:
-
-Inscr. Municipal:
-Nome Fantasia:
-
-Inscr. Estadual:
+CONTABILIDADEQGOCASE.COM
 
 DISCRIMINAÇÃO DOS SERVIÇOS
 
-Código CNAE: 7319-0/02-00 Denominação: PROMOCAO DE VENDAS
+Publicidade feita por Camila Barbosa.
 
-Código Serviço: 17.06
+Dados bancários:
 
-Serviço: Propaganda e Publicidade; Inclusive Promoçao de Vendas; Planejamento de Campanhas ou Sistemas de
+- Banco Inter
 
-Local da Prestação dos Serviços: PELOTAS (RS)
+- Agência: 0001
 
-Discriminação dos Serviços Prestados:
-dados bancarios:
+- Conta: 29126801-
 
-Banco Banrisul
+- PIX/CNEJ: 50.645.390/0001-25
 
-Ag 0320
+VALOR TOTAL DA NOTA = R$3.760,19
 
-Conta 06.254169.0-8
+ltem da Lista de Serviços
+01303 - Fotografia e cinematografia, inclusive revelação, ampliação, cópia, reprodução, trucagem e congêneres.
 
-CNPJ 32.253.078/0001-04
+Valor Total das Deduções (R$) Base de Cálculo (R$): Alíquota (%) Valor do ISS (R$): Crédito Nota Salvador (R$):
+0,00 : 0,00
 
-pix: cnpj
+OUTRAS INFORMAÇÕES
 
-COFINS
-R$ 0,00
+Valor INSS (R$): Valor PIS (R$): Valor COFINS (R$) | Valor IR (R$): Valor CSLL (R$): Outras Retenções (R$) Valor Líquido (R$):
+0,00 0,00 0,00 0,00 0,00 0,00 3.760,19
 
-Valor Total da Nota Deduções Permit
-R$ 4.000,00
+- Esta Nota Salvador foi emitida com respaldo na Lei 7.186/2006.
+- Documento emitido por ME ou EPP optante pelo Simples Nacional.
+- COMPETÊNCIA; 08/2025 (mês/ano)
 
-Emitido por Ana Carolina Rodrigues Dos Anjos
-
-R$ 0,00
-
-RETENÇÕES DE IMPOSTOS
-CSLL PIS
-
-Outras Retenções
-R$ 0,00 R$ 0,00
-
-R$ 0,00
-DETALHAMENTO DE VALORES
-
-idas em Lei Base de Cálculo Alíquota
-R$ 4.000,00 2,2962 %
-
-Iss
-R$91,85
-
-Totais Retenções
-R$ 0,00
-
-Valor Líquido: R$ 4.000,00
-
-INFORMAÇÕES COMPLEMENTARES
-
-A validação dos dados desta nota poderá ser feita junto ao site da Prefeitura, através do endereço https://nfe.pelotas.rs.gov.br/
-no menu "Consultar" - "Validar Documento" informando o código de validação abaixo:
-
-89A2.A316.7A9A.5475.F41F.03EA.787A.B01B
+- Código de Tributação do Município: 1303-0/01 - Gravação, trucagem, reprodução e mixagem de vídeos, filmes, e congêneres
 
