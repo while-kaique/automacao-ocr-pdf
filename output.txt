@@ -1,71 +1,61 @@
 
 --- Página 1 ---
-04/08/2025, 10:54 Prefeitura de Goiânia - Nota Fiscal de Serviços (NFS-e)
+PREFEITURA DA CIDADE DO RIO DE JANEIRO “0000071
+SECRETARIA MUNICIPAL DE FAZENDA
+NOTA FISCAL DE SERVIÇOS ELETRÔNICA - NFS-e 04/08/2025 13:98:45
+ódigo de Verificação
+. NOTA CARIOCA
 
-Prefeitura de Goiânia Número da Nota 570
-Secretaria Municipal de Finanças
+PRESTADOR DE SERVIÇOS
 
-Nota Fiscal de Serviços Eletrônica - NFS Data Emissão 04/08/2025
-ota Fiscal de Serviços Eletronica - -e 1: . =
-AIDF 249602/2021 Código Verificação 4KAZ-6TY9
+CPF/CNPJ: 42.310.929/0001-67 Inscrição Municipal: 1.347.118-65 Inscrição Estadual: ---
 
-PRESTADOR DOS SERVIÇOS
+Nome/Razão Social: FPL INOVA PROMOCOES E DIVULGACOES DE VENDAS LTDA
 
-CPF/CNPJ 43.792.312/0001-98 Inscrição Municipal 5508584
-Nome/Razão Social 'GEMEAS DA FER PRODUCOES LTDA
+Nome Fantasia: FLAVIA LOURENCO Tel.: 21991644786
 
-Endereço AL DR SEBASTIAO FLEURY N.201 QD.252 LT.212223
+Endereço: RUA PROF GASTAO BAHIANA 300, APTO 1001 - COPACABANA - CEP: 22071-030
 
-Bairro SET MARISTA
+Município: RIO DE JANEIRO UF: RJ E-mail: FLAVIAPLOURENCOGGMAIL.COM
+TOMADOR DE SERVIÇOS
 
-Município GOIÂNIA-GO CEP 74180060 Telefone (62) 96484001
+CPF/CNPJ: 22.165.464/0001 -90 Inscrição Municipal: ---- Inscrição Estadual: ----
+Nome/Razão Social: GO COMERCIO DE ARTIGOS ELETRÔNICOS E ACESSÓRIOS LTDA
 
-TOMADOR DOS SERVIÇOS
-Nome/Razão Social GO COMERCIO DE ARTIGOS ELETRONICOS E ACESS. LTDA.
-
-CPF/CNPJ 22.165.464/0001-90
-
-Endereço R PADRE VALDEVINO N. 2528
-Bairro DIONISIO TORRES
-
-Município FORTALEZA - CE CEP 60135414
+Endereço: RUA PADRE VALDEVINO 2528, SALA 02 - DIONISIO TORRES - CEP: 60135-414 Tel.: 8598130660
+Município: FORTALEZA UF: CE E-mail: CONTABILIDADEGGOCASE.COM
 
 DISCRIMINAÇÃO DOS SERVIÇOS
-PRESTACAO DE SERVICO INFLUENCIADORA FERNANDA CINTRA + GO CASE
 
-Banco PJ: BANCO DO BRASIL S.A (001)
-Agencia: 3648-X
+PRESTAÇÃO DE SERVIÇOS
 
-Conta: 43.457-4
+DADOS BANCÁRIOS
 
-Pix: 43.792.312/0001-98
+Banco: NUBANK 0260
 
-R$ 20.000,00
+Agencia: 0001
 
-VENCIMENTO: 29/08/2025
+Conta: 68313387-5
 
-INFORMAÇÕES ADICIONAIS
+Código PIX: 42.310.929/000167 (Chave PIX)
 
-Atividade 591110200
-Producao de filmes para publicidade
+VALOR DA NOTA = R$ 4.000,00
 
-Retenções PIS COFINS INSS IR CSLL
-Federais R$ 0,00 R$ 0,00 R$ 0,00 R$ 0,00 R$ 0,00
+Serviço Prestado
+17.06.03 - Promoção de vendas
 
-Demonstrativo Cálculo do Imposto
-Valor dos Serviços 20.000,00 | Valor dos Serviços R$ 20.000,00
-(-) Desconto Incondicionado 0,00 |(-) Desconto Incondicionado R$ 0,00
-(-) Retenções Federais 0,00 | (=) Valor da Nota R$ 20.000,00
-(-) ISSQN Retido pelo Tomador 0,00 | (-) Deduções R$ 20.000,00
-(=) Valor Líquido 20.000,00 | (=) Base de Cálculo R$ 0,00
-Serviço prestado em Imposto devido em (x) Aliquota % 5,00
-GOIANIA-GO GOIÂNIA-GO (=) Valor do Imposto (ISSQN) R$ 0,00
-Valor dos Serviços Desconto Valor da Nota
-R$ 20.000,00 R$ 0,00 R$ 20.000,00
+Deduções (R$) Desconto Incond. (R$) |Base de Cálculo (R$) Alíquota (%) Valor do 55 (R$) Crédito p/ IPTU (R$)
 
-Informações Importantes: Usuário: 1
+0,00 0,00 0,00
+OUTRAS INFORMAÇÕES
 
-- Não incidência de ISS.
-- À autenticidade desta Nota Fiscal pode ser verificada na página da Prefeitura em www.goiania.go.gov.br.
+- Esta NFS-e foi emitida com respaldo na Lei nº 5.098 de 15/10/2009 e no Decreto nº 32.250 de 11/05/2010
 
-https://www6.goiania.go.gov.br/sistemas/snfse/asp/snfse00200w0.asp?nota=570 1/1
+- PROCON-RJ: Av. Rio Branco nº 25, 5º andar, tel 151: ww. procon.r).gov.br
+
+- ISS devido deve ser recolhido por meio de Documento de Arrecadação do Simples Nacional (DAS).
+
+- Documento emitido por ME ou EPP optante pelo Simples Nacional. Não gera direito a crédito fiscal de IPI.
+
+- Esta NFS-e não gera crédito para abatimento no IPTU.
+
