@@ -1,88 +1,71 @@
 
 --- Página 1 ---
-PREFEITURA MUNICIPAL DE GOVERNADOR VALADARES Nota: 2025000
+04/08/2025, 10:54 Prefeitura de Goiânia - Nota Fiscal de Serviços (NFS-e)
 
-Secretaria Municipal de Fazenda 00000269
-Departamento de Tributação e Arrecadação (DTA) aa
+Prefeitura de Goiânia Número da Nota 570
+Secretaria Municipal de Finanças
 
-R MARECHAL FLORIANO, 905 - Centro Código Verificação
+Nota Fiscal de Serviços Eletrônica - NFS Data Emissão 04/08/2025
+ota Fiscal de Serviços Eletronica - -e 1: . =
+AIDF 249602/2021 Código Verificação 4KAZ-6TY9
 
-Governador Valadares - MG - 35010140 1196AD703
+PRESTADOR DOS SERVIÇOS
 
-Código QR
+CPF/CNPJ 43.792.312/0001-98 Inscrição Municipal 5508584
+Nome/Razão Social 'GEMEAS DA FER PRODUCOES LTDA
 
-NOTA FISCAL ELETRÔNICA DE SERVIÇOS - NFesS LET ARA
-er
+Endereço AL DR SEBASTIAO FLEURY N.201 QD.252 LT.212223
 
-Data e Hora de Emissão: 06/08/2025 - 14:50 hs Período de Competência: 08/2025
-Município de Prestação: Governador Valadares - MG Reg. Especial Tributação: Microempresa municipal
+Bairro SET MARISTA
 
-Natureza da Operação: Tributação no município
+Município GOIÂNIA-GO CEP 74180060 Telefone (62) 96484001
 
-PRESTADOR DE SERVIÇOS
+TOMADOR DOS SERVIÇOS
+Nome/Razão Social GO COMERCIO DE ARTIGOS ELETRONICOS E ACESS. LTDA.
 
-Razão Social: ESTHER MELO PRODUCOES LTDA CPF/CNPJ: 45.205.932/0001-09
-Nome Fantasia: ESTHER MELO PRODUCOES LTDA Inscrição Municipal: 770797
-Email: fiscalcxavier(Qhotmail.com Fone/Fax: (33) 9847-0656 Inscrição Estadual:
+CPF/CNPJ 22.165.464/0001-90
 
-Incentivador Cultural: Não Simples Nacional: Sim MEI: Não
+Endereço R PADRE VALDEVINO N. 2528
+Bairro DIONISIO TORRES
 
-Endereço: AV RIO DOCE, 2547 - ILHA DOS ARAUJOS - CEP: 35.020-500 - Governador Valadares - MG
-
-TOMADOR DE SERVIÇOS
-
-Razão Social: GO COMERCIO DE ARTIGOS ELETRONICOS E ACESSORIOS LTDA CPF/CNPJ: 22.165.464/0001-90
-Nome Fantasia: Inscrição Municipal:
-Email: Fone/Fax: (85) 9813-0660 Inscrição Estadual:
-
-Endereço: r PADRE VALDEVINO, 2528, SALA 02 - DIONISIO TORRES - CEP: 60.135-414 - Fortaleza - CE
-
-DADOS COMPLEMENTARES
-Código de Serviço: 13.03 - Fotografia e cinematografia, inclusive revelação, ampliação, cópia, reprodução, trucagem e congêneres
-CNAE: 5911-1/02 - Produção de filmes para publicidade
-
-Intermediário: Inscrição Municipal:
+Município FORTALEZA - CE CEP 60135414
 
 DISCRIMINAÇÃO DOS SERVIÇOS
+PRESTACAO DE SERVICO INFLUENCIADORA FERNANDA CINTRA + GO CASE
 
-Escopo mensal (4/12) - 4 combos de stories (1 com aprovação) + 2 reels
-Agência ou assessoria: Agência 4 PIllars
+Banco PJ: BANCO DO BRASIL S.A (001)
+Agencia: 3648-X
 
-Dados Bancários:
+Conta: 43.457-4
 
-Agência 0001 / Conta 10087047-1
+Pix: 43.792.312/0001-98
 
-Banco 0260
+R$ 20.000,00
 
-Nu Pagamentos S.A
+VENCIMENTO: 29/08/2025
 
-PIX: 45.205.932/0001-09 (CNPJ)
+INFORMAÇÕES ADICIONAIS
 
-Vencimento: 29/08/2025
+Atividade 591110200
+Producao de filmes para publicidade
 
-VALOR TOTAL DE SERVIÇOS = R$ 12.500,00
+Retenções PIS COFINS INSS IR CSLL
+Federais R$ 0,00 R$ 0,00 R$ 0,00 R$ 0,00 R$ 0,00
 
-PIS (R$) COFINS (R$) INSS (R$) IR (R$) CSLL (R$) Outras Retenções (R$)
+Demonstrativo Cálculo do Imposto
+Valor dos Serviços 20.000,00 | Valor dos Serviços R$ 20.000,00
+(-) Desconto Incondicionado 0,00 |(-) Desconto Incondicionado R$ 0,00
+(-) Retenções Federais 0,00 | (=) Valor da Nota R$ 20.000,00
+(-) ISSQN Retido pelo Tomador 0,00 | (-) Deduções R$ 20.000,00
+(=) Valor Líquido 20.000,00 | (=) Base de Cálculo R$ 0,00
+Serviço prestado em Imposto devido em (x) Aliquota % 5,00
+GOIANIA-GO GOIÂNIA-GO (=) Valor do Imposto (ISSQN) R$ 0,00
+Valor dos Serviços Desconto Valor da Nota
+R$ 20.000,00 R$ 0,00 R$ 20.000,00
 
-0,00 0,00 0,00 0,00 0,00 0,00
-Deduções (R$) Desconto Incondicionado (R$) Desconto Condicionado (R$) Base de Cálculo (R$) Alíquota (%)
-0,00 0,00 0,00 12.500,00 3,99000
+Informações Importantes: Usuário: 1
 
-ISS (R$) ISS Retido (R$) Valor Líquido (R$)
+- Não incidência de ISS.
+- À autenticidade desta Nota Fiscal pode ser verificada na página da Prefeitura em www.goiania.go.gov.br.
 
-498,75 0,00 12.500,00
-
-OUTRAS INFORMAÇÕES
-
-A autenticidade desta NFeS pode ser verificada no site https://governadorvaladares-mg.issintegra.com.br/.
-
-Esta NFe foi emitida com respaldo na Lei Complementar 34/2001 e no Decreto Nº 12.053, de 12 de junho de 2024
-
-O ISS desta NFesS será TRIBUTADA pelo PRESTADOR e recolhido a Governador Valadares - MG.
-
-DOCUMENTO EMITIDO POR ME OU EPP OPTANTE PELO SIMPLES NACIONAL/NÃO GERA DIREITO A CRÉDITO FISCAL DE IPI.
-Prestador de Serviços optante pelo Simples Nacional como microempresa.
-
-Emitido por: ESTHER DE FARIA VIANA E MELO
-
-Página 1 de 1
+https://www6.goiania.go.gov.br/sistemas/snfse/asp/snfse00200w0.asp?nota=570 1/1
