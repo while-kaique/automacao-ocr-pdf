@@ -1,58 +1,74 @@
 
 --- Página 1 ---
-PREFEITURA DA CIDADE DO RIO DE JANEIRO “0000112
-SECRETARIA MUNICIPAL DE FAZENDA
-NOTA FISCAL DE SERVIÇOS ELETRÔNICA - NFS-e 04/08/2025 16:25:26
-ódigo de Verificação
-- NOTA CARIOCA -
-PRESTADOR DE SERVIÇOS
+Prefeitura de Juiz de Fora - MG Número
 
-CPF/CNPJ: 50.599.292/0001-07 Inscrição Municipal: 1.545.058-4 Inscrição Estadual: ---
-Nome/Razão Social: DANIELE ARAUJO FREIRE LTDA
-Nome Fantasia: DANIELE ARAUJO FREIRE Tel.: 2125683096
-Endereço: RUA PROF GABIZO 252, APT 0202 BLC 002 - MARACANA - CEP: 20271-062
-Município: RIO DE JANEIRO UF: RJ E-mail: daniele. afreireG) gmail.com
+Secretaria da Fazenda 202500000000101
+Av. Brasil, 2001 CEP 36060-010 Data e Hora de
+= = Emissão:
+NOTA FISCAL DE SERVIÇOS ELETRÔNICA - NFS-E 06/08/2025 20:17:33
+Competência
+Não possui RPS Pág. 1 de 1 08/2025
+PRESTADOR DE SERVIÇOS
+[x] NOME/RAZÃO SOCIAL: DG NEGOCIOS E SERVICOS LTDA
+
+CPF/CNPJ: 51.543.354/0001-13 CMC: 206689004 IE: ISENTO REGIME TRIBUTÁRIO: Optante
+Simples Nacional
+
+ENDEREÇO: RUA BATISTA DE OLIVEIRA,1164 -GRANBERY -sala 711 -36010-532Juiz de ForalMG
+TELEFONE: EMAIL: contec)contecminas.com.br
 
 TOMADOR DE SERVIÇOS
-CPF/CNPJ: 22.165.464/0001 -90 Inscrição Municipal: ---- Inscrição Estadual: ----
-Nome/Razão Social: GO COMERCIO DE ARTIGOS ELETRÔNICOS E ACESSÓRIOS LTDA
 
-Endereço: RUA PADRE VALDEVINO - DIONISIO TORRES - CEP: 60135-414 Tel. --—
-Município: FORTALEZA UF: CE E-mail:
+NOME/RAZÃO SOCIAL: GO COMERCIO DE ARTIGOS ELETRONICOS E ACESSORIOS LTDA
+
+CPF/CNPJ: 22.165.464/0001-90 CMC:
+ENDEREÇO: Rua Padre Valdevino, 2528 - Dionisio Torres - 60135-414 Fortaleza - CE
+TELEFONE: (85) 9813-0660 EMAIL:
+
 DISCRIMINAÇÃO DOS SERVIÇOS
 
-referente a divulgação de Gocase no mês de julho 2025. Vencimento 31/08
+SERVIÇO: 170600100 - Propaganda e publicidade, inclusive promoção de vendas, planejamento de campanhas ... elaboração de desenhos, textos e demais
+materiais publicitários.
 
-DADOS BANCÁRIOS PARA PAGAMENTO
+01 | Trabalho influenciadora mês julho de 2025
 
-Banco: 0260
+QTD. UNIT. TOTAL DES. INCOND. DES. COND. DEDUÇG. BASE CÁLC.
+1,00 3.236,55 3.236,55 0,00 0,00 0,00 te
+TRIBUTAÇÃO
+Exigibilidade (Natureza da Operação): Imposto retido pelo tomador? Município de Incidência:
+Exigível Não Juiz de Fora-MG
+VALORES TOTAIS
+Valor Serviços Desc. Incondicional Desc. Condicional Deduções da Base Base de Cálculo
+R$ 3.236,55 R$ 0,00 R$ 0,00 R$ 0,00 xs
+Alíquota ISS Valor ISS Valor ISS retido Valor PIS Valor COFINS
+do do R$ 0,00 R$ 0,00 R$ 0,00
+Valor IR Valor INSS Valor CSLL Valor Outras Retenções Valor Liquido
+R$ 0,00 R$ 0,00 R$ 0,00 R$ 0,00 R$ 3.236,55
 
-Nome: Nu Pagamentos S.A. ; Instituição de Pagamento
-Agência: 0001
+OUTRAS INFORMAÇÕES (USO DO PRESTADOR)
 
-Conta: 231262538-6
+OUTRAS INFORMAÇÕES (USO EXCLUSIVO DO MUNICÍPIO)
 
-Pix: 50599292000107
+Esta NFS-e foi emitida com fundamento no Decreto Municipal nº 6.157/2012.
 
-VALOR DA NOTA = R$ 6.400,00
+NFS-e emitida com base na Lei de Transparência Fiscal nº 12.471/2012. Valor aproximado de tributos: R$ 435,32 (13,45%). Fonte: IBPT.
+* Alíquota e valor ISS definido no encerramento do PGDAS-D de acordo com as regras da Legislação Federal do Simples Nacional.
+Município da prestação do serviço: Juiz de Fora-MG
 
-Serviço Prestado
-17.06.02 - Propaganda e publicidade - serviços concernentes à concepção, redação e produção de propaganda e
+Consulte a autenticidade deste documento em http:/'nfse.pjf.mg.gov.br/Verificar Autenticidade
 
-publicidade, inclusive divulgação de material publicitário
+Documento emitido via: Regular
 
-Deduções (R$) Desconto Incond. (R$) |Base de Cálculo (R$) Alíquota (%) Valor do 55 (R$) Crédito p/ IPTU (R$)
-0,00 0,00 0,00
+CONSULTE A AUTENTICIDADE UTILIZANDO O CÓDIGO
 
-OUTRAS INFORMAÇÕES
+Im] cósiso ss Verficação JAPRBA DICTA
+cCQNQ4YH6
 
-- Esta NFS-e foi emitida com respaldo na Lei nº 5.098 de 15/10/2009 e no Decreto nº 32.250 de 11/05/2010
+CCQNQ4YH6 FISCAL
+PREMIADA
 
-- PROCON-RJ: Av. Rio Branco nº 25, 5º andar, tel 151: ww. procon.r).gov.br
+Confirmamos a execução do(s) serviço(s) por DG NEGOCIOS E SERVICOS LTDA discriminado(s) no documento indicado ao lado. NOTA FISCAL DE SERVIÇOS ELETRÔNICA - NFS-E
 
-- ISS devido deve ser recolhido por meio de Documento de Arrecadação do Simples Nacional (DAS).
-
-- Documento emitido por ME ou EPP optante pelo Simples Nacional. Não gera direito a crédito fiscal de IPI.
-
-- Esta NFS-e não gera crédito para abatimento no IPTU.
+Data de Entrega: Identificação e Assinatura do Recebedor: Nota 202500000000101 / Única
+! / Cód Autenticidade CCQNQ4YH6
 
