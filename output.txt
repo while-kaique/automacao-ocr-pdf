@@ -1,78 +1,139 @@
 
 --- Página 1 ---
-Número da Nota:
+DANFSe v1.0
+Documento Auxiliar da NFS-e
 
-PREFEITURA MUNICIPAL DO SALVADOR 00000139
+NFSe ss:
 
-SECRETARIA MUNICIPAL DA FAZENDA Data e Hora de Emissão:
-01/08/2025 17:33:28
+Chave de Acesso da NFS-e
+31062002253050717000104000000000006525088378999640
 
-Código de Verificação:
-LGRS-SFWD á
+Número da NFS-e Competência da NFS-e
+65 06/08/2025
 
-NOTA FISCAL DE SERVIÇOS ELETRÔNICA - Nota Salvador
+Número da DPS Série da DPS
+68 900
 
-PRESTADOR DE SERVIÇOS
+Prefeitura Municipal de Belo
+Horizonte
+* y Secretaria Municipal de Fazenda - SMFA
 
-CPF/CNPJ: Inscrição Municipal:
+Data e Hora da emissão da NFS-e pr a
+bi +
+EPE
 
-50.645.390/0001-25 00.962.724/001 -42
+At E
 
-ome/Razão Social
+06/08/2025 16:29:55
 
-CAMILA E CIA MIDIAS DIGITAIS LTDA
+Data e Hora da emissão da DPS
+06/08/2025 16:29:55
 
-Endereço: e .
+A autenticidade desta NFS-e pode ser verificada
+pela leitura deste código QR ou pela consulta da
 
-Ave Tancredo Neves 001189, EDIF:GUIMARÃES TRAD;SALA:1603 - CAMINHO DAS ARVORES - Salvador - CEP: 41820-020 - BA
-E-mail
+chave de acesso no portal nacional da NFS-e
 
-TOMADOR DE SERVIÇOS
+EMITENTE DA NFS-e
+Prestador do Serviço
 
-ome/Razão Social
+CNPJ/CPF/NIF Inscrição Municipal Telefone
+53.050.717/0001-04 - (31) 8566-0527
 
-GO COMERCIO DE ARTIGOS ELETRÔNICOS E ACESSÓRIOS LTDA
+Nome / Nome Empresarial E-mail
+53.050.717 BEATRIZ FONSECA MORAES BIAFONSECA2312ODGMAIL.COM
 
-CPF/CNPJ: Inscrição Municipal:
-22.165.464/0001-90 ===
+Endereço Município CEP
+SILVA JARDIM, 245, FLORESTA Belo Horizonte - MG 30150-010
 
-Endereço:
+Simples Nacional na Data de Competência Regime de Apuração Tributária pelo SN
+Optante - Microempreendedor Individual (MEI) -
 
-RUA CAROLINA SUCUPIRA 1368, 1 ANDAR SALA A ALDEOTA - Fortaleza - CEP: 60140-120/CE
-E-mail:
+TOMADOR DO SERVIÇO CNPJ/CPF/NIF Inscrição Municipal Telefone
+22.165.464/0001-90 - -
 
-CONTABILIDADEQGOCASE.COM
+Nome / Nome Empresarial E-mail
+GO COMERCIO DE ARTIGOS ELETRONICOS E ACESSORIOS LTDA -
 
-DISCRIMINAÇÃO DOS SERVIÇOS
+Endereço Município CEP
+CAROLINA SUCUPIRA, 1368, 1 ANDAR SALA A, ALDEOTA Fortaleza - CE 60140-120
 
-Publicidade feita por Camila Barbosa.
+INTERMEDIÁRIO DO SERVIÇO NÃO IDENTIFICADO NA NFS-e
+SERVIÇO PRESTADO
 
-Dados bancários:
+Código de Tributação Nacional Código de Tributação Municipal
+17.06.01 - Propaganda e publicidade, 001 - Propaganda e publicidade,
+inclusive promoção de vendas, p... inclusive promoção de vendas, p...
 
-- Banco Inter
+Local da Prestação País da Prestação
+Fortaleza - CE -
 
-- Agência: 0001
+Descrição do Serviço .
+3 REELS COM REPOST, 4 COMBOS DE STORIES DIREITO DE IMPULSIONAMENTO, VENCIMENTO: 29/08/2025, DADOS BANCÁRIOS: BANCO: 0260 -
+NUBANK, AGENCIA: 0001, CONTA: 71663340-3, CONTA PJ: CONTA CORRENTE, PIX: 53050717000104 (CNPJ).
 
-- Conta: 29126801-
+TRIBUTAÇÃO MUNICIPAL
 
-- PIX/CNEJ: 50.645.390/0001-25
+Tributação do ISSQN País Resultado da Prestação do Serviço Município de Incidência do ISSQN Regime Especial de Tributação
+Operação Tributável - Belo Horizonte - MG Nenhum
 
-VALOR TOTAL DA NOTA = R$3.760,19
+Tipo de Imunidade Suspensão da Exigibilidade do ISSQN Número Processo Suspensão Benefício Municipal
+- Não - -
 
-ltem da Lista de Serviços
-01303 - Fotografia e cinematografia, inclusive revelação, ampliação, cópia, reprodução, trucagem e congêneres.
+Valor do Serviço Desconto Incondicionado Total Deduções/Reduções Cálculo do BM
+R$ 2.300,00 - - -
 
-Valor Total das Deduções (R$) Base de Cálculo (R$): Alíquota (%) Valor do ISS (R$): Crédito Nota Salvador (R$):
-0,00 : 0,00
+BC ISSQN
 
-OUTRAS INFORMAÇÕES
+Alíquota Aplicada
 
-Valor INSS (R$): Valor PIS (R$): Valor COFINS (R$) | Valor IR (R$): Valor CSLL (R$): Outras Retenções (R$) Valor Líquido (R$):
-0,00 0,00 0,00 0,00 0,00 0,00 3.760,19
+Retenção do ISSQN
+Não Retido
 
-- Esta Nota Salvador foi emitida com respaldo na Lei 7.186/2006.
-- Documento emitido por ME ou EPP optante pelo Simples Nacional.
-- COMPETÊNCIA; 08/2025 (mês/ano)
+ISSQN Apurado
 
-- Código de Tributação do Município: 1303-0/01 - Gravação, trucagem, reprodução e mixagem de vídeos, filmes, e congêneres
+TRIBUTAÇÃO FEDERAL
+
+IRRF
+
+CP
+
+COFINS
+
+CSLL
+
+Retenção do PIS/COFINS
+
+TOTAL TRIBUTAÇÃO FEDERAL
+
+VALOR TOTAL DA NFS-E
+
+Valor do Serviço
+R$ 2.300,00
+
+IRRF, CP,CSLL - Retidos
+R$ 0,00
+
+Desconto Condicionado
+R$
+
+PIS/COFINS Retidos
+
+Desconto Incondicionado
+R$
+
+ISSQN Retido
+
+Valor Líquido da NFS-e
+R$ 2.300,00
+
+TOTAIS APROXIMADOS DOS TRIBUTOS
+
+Federais
+
+Estaduais
+
+Municipais
+
+INFORMAÇÕES COMPLEMENTARES
 
