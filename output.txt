@@ -1,65 +1,58 @@
 
 --- Página 1 ---
-11/08/2025, 10:42 Usuário: 34.942.132/0001-54 - NF-e - Nota Fiscal Eletrônica de Serviços - São Paulo
+04/08/2025, 17:53 ISS-Curitiba - Sistema de Administração de ISS
+Número da Nota
 
-[ =x Número da Nota
-PREFEITURA DO MUNICIPIO DE SAO PAULO 00000105
+PREFEITURA MUNICIPAL DE CURITIBA =
 
-SECRETARIA MUNICIPAL DA FAZENDA Data e Hora de Emissão
-A 11/08/2025 10:42:20
-NOTA FISCAL ELETRÔNICA DE SERVIÇOS - NFS-e Código de Verificação
-SPMB-EM3T
+SECRETARIA MUNICIPAL DE FINANÇAS Data e Hora de Emissão
+04/08/2025 17:53:33
+
+Código de Verificação
+S8XB8DOD
+
+NOTA FISCAL DE SERVIÇOS ELETRÔNICA - NFS-e
 
 PRESTADOR DE SERVIÇOS
-CPF/CNPJ: 34.942.132/0001-54 Inscrição Municipal: 6.403.130-6
-
-Nome/Razão Social: AUDREY BERNINI
-Endereço: R HILARIO MACHADO 50 - JARDIM VIRGINIA BIANCA - CEP: 02355-050
-
-Município: São Paulo UF: SP
-
+Razão Social: MANUELA CIT LTDA
+CPF / CNPJ:  49.411.401/0001-23 Inscrição Municipal: 1201 1072777-2
+Endereço: R. JOSÉ LOUREIRO, 000464 - BAIRRO: CENTRO - CEP: Tel.: 41 - 991651652
+80010000
+Município: CURITIBA UF: PR Email: citmanuelaG gmail.com
 TOMADOR DE SERVIÇOS
-
-Nome/Razão Social: GO COMERCIO DE ARTIGOS ELETRONICOS E ACESSORIOS LTDA
-CPF/CNPJ: 22.165.464/0001-90 Inscrição Municipal: ----
-Endereço: R Padre Valdevino 2475 - Dionisio Torres - CEP: 60135-414
-Município: Fortaleza UF: CE E-mail: contabilidadeG)gocase.com
-
-INTERMEDIÁRIO DE SERVIÇOS
-CPF/CNPJ: === Nome/Razão Social: ---=
+Nome/Razão Social: (GO COMERCIO DEARTIGOS ELETRONICOS EACESSORIOS LTDA
+CPF / CNPJ: 22.165.464/0003-52 IMU: Outro Doc.:
+Endereço: ROD MG-460 (EST MUNIC HORACIO MARINHO) , 350 - COMPLEMENTO: GALPAOO01 - BAIRRO: DO
+JARDIM - CEP: 37640000
+Município: EXTREMA UF: MG Email: administrativoZgocase.com.br
 
 DISCRIMINAÇÃO DOS SERVIÇOS
 
-Publicidade em mídias sociais com (faudreybernini.
-NF referente ao mês 10 de 12 (julho).
+PUBLICIDADE MANUELA CIT
+BANCO: 0336 -CESA
 
-vencimento: 29/08/2025
+AG: 0001
 
-AUDREY BERNINI
+CIC: 24935919-7
 
-NUBANK (CONTA PJ)
+CHAVE PIX: 49.411.401/0001-23
+MANUELA CIT LTDA
 
-AG 0001
+R$64.000,00 mês corrente + R$26.660,00 (03/03 de 80.000,00 refa MAR e ABR) = R$90.670,00
 
-cc 76320344-7
+Valor Líquido da Nota Fiscal = R$ 90.670,00
 
-BANCO 0260
+VALOR TOTAL DA NOTA -R$90.670,00
 
-PIX: 34.942.132/0001-54
+Código da Atividade
 
-VALOR TOTAL DO SERVIÇO = R$ 15.675,00
-INSS (R$) | IRRF (R$) | CSLL (R$) | COFINS (R$) | PIS/PASEP (R$)
+12-01 -Espetáculos teatrais.
 
-Código do Serviço
-02496 - Propaganda e publicidade, promoção de vendas, planejamento de campanhas e materiais publicitários.
-Valor Total das Deduções (R$) Base de Cálculo (R$) Alíquota (9%) Valor do ISS (R$) Crédito (R$)
-0,00 x x x
-Município da Prestação do Serviço Número Inscrição da Obra Walor Aproximado dos Tributos / Fonte
-15,50%
+Valor Total das Deduções (R$) Base de Cálculo (R$) Valor do ISS (R$) Crédito p/ Abatimento do IPTU
 
 OUTRAS INFORMAÇÕES
+Esta NFS-e foi emitida com respaldo na Lei 73/2009.
 
-(1) Esta NFS-e foi emitida com respaldo na Lei nº 14.097/2005; (2) Documento emitido por ME ou EPP optante pelo Simples
-Nacional;
+Mais informações: nota.curitiba.pr.gov.br
 
-https://nfe prefeitura.sp.gov.br/contribuinte/notaprint.aspx ?nf=105 &inscricao=6403 13068 email=1 &SMS=0&returnurl=nota .aspx%3finscricao%3d6403 1306 11
+https://isscuritiba.curitiba.pr.gov.br/iss/Principal/frmFramesPgPrincipal.aspx?sParam=MENSAGEM&sLogin=1
