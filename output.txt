@@ -1,192 +1,53 @@
 
 --- Página 1 ---
-NFS:
+PREFEITURA DA CIDADE DO RIO DE JANEIRO “0000073
+SECRETARIA MUNICIPAL DE FAZENDA
+NOTA FISCAL DE SERVIÇOS ELETRÔNICA - NFS-e 05/08/2025 15:38:58
+ódigo de Verificação
+- NOTA CARIOCA - T2JT-NMJB
+PRESTADOR DE SERVIÇOS
+CPF/CNPJ: 50.391.212/0001-15 Inscrição Municipal: 1.522.613-7 Inscrição Estadual: ---
+Nome/Razão Social: RENATA LIMA PROMOCAO DE VENDAS LTDA
+Nome Fantasia:
+Endereço: ETR DE CAMORIM 385, APT 506 BLC 5 - JACAREPAGUA - CEP: 22780-070
+Município: RIO DE JANEIRO UF: RJ E-mail: CONTATOGRENATATBL.COM.BR
 
-DANFSe v1.0
+TOMADOR DE SERVIÇOS
+CPF/CNPJ: 22.165.464/0003-52 Inscrição Municipal: ---- Inscrição Estadual: ----
+Nome/Razão Social: GO COMERCIO E ARTIGOS ELETRONICOS E ACESSÓRIOS LTDA
 
-Documento Auxiliar da NFS-e
+Endereço: ROD MG - 460 350 - JARDIM - CEP: 37640-000
+Município: EXTREMA UF: MG E-mail:
 
-Chave de Acesso da NFS-e
+DISCRIMINAÇÃO DOS SERVIÇOS
 
-31035042241778972000199000000000005125086132232913
+Conta para pagamento: 90349046-6
+Banco: 0260
 
-Número da NFS-e
-51
+Agência: 0001
 
-Número da DPS
-70
+Conta PJ
 
-Competência da NFS-e
-04/08/2025
+CNPJ: 50.391.212/0001-15
 
-Série da DPS
-900
+Chave PIX: contatolfrenatatbl.com.br
 
-Data e Hora da emissão da NFS-e
-04/08/2025 14:39:34
+Tel.: 2133550015
 
-Data e Hora da emissão da DPS
-04/08/2025 14:39:34
+Tel. --—
 
-A autenticidade desta NFS-e pode ser verificada
-pela leitura deste código QR ou pela consulta da
-chave de acesso no portal nacional da NFS-e
+VALOR DA NOTA = R$ 36.111,85
 
-EMITENTE DA NFS-e
-Prestador do Serviço
+Serviço Prestado
+17.06.03 - Promoção de vendas
 
-Nome / Nome Empresarial
+Deduções (R$) Desconto Incond. (R$) |Base de Cálculo (R$) Alíquota (%) Valor do 55 (R$) Crédito p/ IPTU (R$)
+0,00 0,00 0,00
 
-CNPJ/CPF /NIF
-41.778.972/0001-99
-
-POLIANA PENA BRAGA DE MORAIS BABOS 07639267609
-
-Endereço
-DA MATA, 241, MIRANDA
-
-Simples Nacional na Data de Competência
-
-Optante - Microempreendedor Individual (MEI)
-
-Inscrição Municipal
-
-E-mail
-POLIANABABOS(GQGMAIL.COM
-Município
-
-Araguari - MG
-
-Regime de Apuração Tributária pelo SN
-
-Telefone
-(34) 8875-4111
-
-CEP
-38444-014
-
-TOMADOR DO SERVIÇO
-
-Nome / Nome Empresarial
-
-CNPJ/CPF /NIF
-22.165.464/0001-90
-
-GO COMERCIO DE ARTIGOS ELETRONICOS E ACESSORIOS LTDA
-
-Endereço
-
-PADRE VALDEVINO, 2528, SALA 02, DIONISIO TORRES
-
-Inscrição Municipal
-
-E-mail
-Município
-Fortaleza - CE
-
-Telefone
-
-CEP
-60135-414
-
-INTERMEDIÁRIO DO SERVIÇO NÃO IDENTIFICADO NA NFS-e
-
-SERVIÇO PRESTADO
-
-Código de Tributação Nacional
-17.06.01 - Propaganda e publicidade,
-inclusive promoção de vendas, p...
-
-Descrição do Serviço
-
-Código de Tributação Municipal
-
-Publicidade GOCASE referente à julho - Poliana Braga
-
-Local da Prestação
-Uberlândia - MG
-
-País da Prestação
-
-TRIBUTAÇÃO MUNICIPAL
-
-Tributação do ISSQN
-Operação Tributável
-Tipo de Imunidade
-
-Valor do Serviço
-R$ 9.185,51
-
-BC ISSQN
-
-País Resultado da Prestação do Serviço
-
-Suspensão da Exigibilidade do ISSQN
-Não
-Desconto Incondicionado
-
-Alíquota Aplicada
-
-Município de Incidência do ISSQN
-Araguari - MG
-
-Número Processo Suspensão
-
-Total Deduções/Reduções
-
-Retenção do ISSQN
-Não Retido
-
-Regime Especial de Tributação
-Nenhum
-
-Benefício Municipal
-
-Cálculo do BM
-
-ISSQN Apurado
-
-TRIBUTAÇÃO FEDERAL
-IRRF
-
-cr
-
-COFINS
-
-CSLL
-
-Retenção do PIS/COFINS
-
-TOTAL TRIBUTAÇÃO FEDERAL
-
-VALOR TOTAL DA NFS-E
-
-Valor do Serviço
-R$ 9.185,51
-
-IRRF, CP,CSLL - Retidos
-R$ 0,00
-
-Desconto Condicionado
-R$
-
-PIS/COFINS Retidos
-
-Desconto Incondicionado
-R$
-
-ISSQN Retido
-
-Valor Líquido da NFS-e
-R$ 9.185,51
-
-TOTAIS APROXIMADOS DOS TRIBUTOS
-
-Federais
-
-Estaduais
-
-Municipais
-
-INFORMAÇÕES COMPLEMENTARES
+OUTRAS INFORMAÇÕES
+- Esta NFS-e foi emitida com respaldo na Lei nº 5.098 de 15/10/2009 e no Decreto nº 32.250 de 11/05/2010
+- PROCON-RJ: Av. Rio Branco nº 25, 5º andar, tel 151: ww. procon.r).gov.br
+- ISS devido deve ser recolhido por meio de Documento de Arrecadação do Simples Nacional (DAS).
+- Documento emitido por ME ou EPP optante pelo Simples Nacional. Não gera direito a crédito fiscal de IPI.
+- Esta NFS-e não gera crédito para abatimento no IPTU.
 
