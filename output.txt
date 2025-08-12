@@ -1,74 +1,88 @@
 
 --- Página 1 ---
-Prefeitura de Juiz de Fora - MG Número
+PREFEITURA MUNICIPAL DE GOVERNADOR VALADARES Nota: 2025000
 
-Secretaria da Fazenda 202500000000101
-Av. Brasil, 2001 CEP 36060-010 Data e Hora de
-= = Emissão:
-NOTA FISCAL DE SERVIÇOS ELETRÔNICA - NFS-E 06/08/2025 20:17:33
-Competência
-Não possui RPS Pág. 1 de 1 08/2025
+Secretaria Municipal de Fazenda 00000269
+Departamento de Tributação e Arrecadação (DTA) aa
+
+R MARECHAL FLORIANO, 905 - Centro Código Verificação
+
+Governador Valadares - MG - 35010140 1196AD703
+
+Código QR
+
+NOTA FISCAL ELETRÔNICA DE SERVIÇOS - NFesS LET ARA
+er
+
+Data e Hora de Emissão: 06/08/2025 - 14:50 hs Período de Competência: 08/2025
+Município de Prestação: Governador Valadares - MG Reg. Especial Tributação: Microempresa municipal
+
+Natureza da Operação: Tributação no município
+
 PRESTADOR DE SERVIÇOS
-[x] NOME/RAZÃO SOCIAL: DG NEGOCIOS E SERVICOS LTDA
 
-CPF/CNPJ: 51.543.354/0001-13 CMC: 206689004 IE: ISENTO REGIME TRIBUTÁRIO: Optante
-Simples Nacional
+Razão Social: ESTHER MELO PRODUCOES LTDA CPF/CNPJ: 45.205.932/0001-09
+Nome Fantasia: ESTHER MELO PRODUCOES LTDA Inscrição Municipal: 770797
+Email: fiscalcxavier(Qhotmail.com Fone/Fax: (33) 9847-0656 Inscrição Estadual:
 
-ENDEREÇO: RUA BATISTA DE OLIVEIRA,1164 -GRANBERY -sala 711 -36010-532Juiz de ForalMG
-TELEFONE: EMAIL: contec)contecminas.com.br
+Incentivador Cultural: Não Simples Nacional: Sim MEI: Não
+
+Endereço: AV RIO DOCE, 2547 - ILHA DOS ARAUJOS - CEP: 35.020-500 - Governador Valadares - MG
 
 TOMADOR DE SERVIÇOS
 
-NOME/RAZÃO SOCIAL: GO COMERCIO DE ARTIGOS ELETRONICOS E ACESSORIOS LTDA
+Razão Social: GO COMERCIO DE ARTIGOS ELETRONICOS E ACESSORIOS LTDA CPF/CNPJ: 22.165.464/0001-90
+Nome Fantasia: Inscrição Municipal:
+Email: Fone/Fax: (85) 9813-0660 Inscrição Estadual:
 
-CPF/CNPJ: 22.165.464/0001-90 CMC:
-ENDEREÇO: Rua Padre Valdevino, 2528 - Dionisio Torres - 60135-414 Fortaleza - CE
-TELEFONE: (85) 9813-0660 EMAIL:
+Endereço: r PADRE VALDEVINO, 2528, SALA 02 - DIONISIO TORRES - CEP: 60.135-414 - Fortaleza - CE
+
+DADOS COMPLEMENTARES
+Código de Serviço: 13.03 - Fotografia e cinematografia, inclusive revelação, ampliação, cópia, reprodução, trucagem e congêneres
+CNAE: 5911-1/02 - Produção de filmes para publicidade
+
+Intermediário: Inscrição Municipal:
 
 DISCRIMINAÇÃO DOS SERVIÇOS
 
-SERVIÇO: 170600100 - Propaganda e publicidade, inclusive promoção de vendas, planejamento de campanhas ... elaboração de desenhos, textos e demais
-materiais publicitários.
+Escopo mensal (4/12) - 4 combos de stories (1 com aprovação) + 2 reels
+Agência ou assessoria: Agência 4 PIllars
 
-01 | Trabalho influenciadora mês julho de 2025
+Dados Bancários:
 
-QTD. UNIT. TOTAL DES. INCOND. DES. COND. DEDUÇG. BASE CÁLC.
-1,00 3.236,55 3.236,55 0,00 0,00 0,00 te
-TRIBUTAÇÃO
-Exigibilidade (Natureza da Operação): Imposto retido pelo tomador? Município de Incidência:
-Exigível Não Juiz de Fora-MG
-VALORES TOTAIS
-Valor Serviços Desc. Incondicional Desc. Condicional Deduções da Base Base de Cálculo
-R$ 3.236,55 R$ 0,00 R$ 0,00 R$ 0,00 xs
-Alíquota ISS Valor ISS Valor ISS retido Valor PIS Valor COFINS
-do do R$ 0,00 R$ 0,00 R$ 0,00
-Valor IR Valor INSS Valor CSLL Valor Outras Retenções Valor Liquido
-R$ 0,00 R$ 0,00 R$ 0,00 R$ 0,00 R$ 3.236,55
+Agência 0001 / Conta 10087047-1
 
-OUTRAS INFORMAÇÕES (USO DO PRESTADOR)
+Banco 0260
 
-OUTRAS INFORMAÇÕES (USO EXCLUSIVO DO MUNICÍPIO)
+Nu Pagamentos S.A
 
-Esta NFS-e foi emitida com fundamento no Decreto Municipal nº 6.157/2012.
+PIX: 45.205.932/0001-09 (CNPJ)
 
-NFS-e emitida com base na Lei de Transparência Fiscal nº 12.471/2012. Valor aproximado de tributos: R$ 435,32 (13,45%). Fonte: IBPT.
-* Alíquota e valor ISS definido no encerramento do PGDAS-D de acordo com as regras da Legislação Federal do Simples Nacional.
-Município da prestação do serviço: Juiz de Fora-MG
+Vencimento: 29/08/2025
 
-Consulte a autenticidade deste documento em http:/'nfse.pjf.mg.gov.br/Verificar Autenticidade
+VALOR TOTAL DE SERVIÇOS = R$ 12.500,00
 
-Documento emitido via: Regular
+PIS (R$) COFINS (R$) INSS (R$) IR (R$) CSLL (R$) Outras Retenções (R$)
 
-CONSULTE A AUTENTICIDADE UTILIZANDO O CÓDIGO
+0,00 0,00 0,00 0,00 0,00 0,00
+Deduções (R$) Desconto Incondicionado (R$) Desconto Condicionado (R$) Base de Cálculo (R$) Alíquota (%)
+0,00 0,00 0,00 12.500,00 3,99000
 
-Im] cósiso ss Verficação JAPRBA DICTA
-cCQNQ4YH6
+ISS (R$) ISS Retido (R$) Valor Líquido (R$)
 
-CCQNQ4YH6 FISCAL
-PREMIADA
+498,75 0,00 12.500,00
 
-Confirmamos a execução do(s) serviço(s) por DG NEGOCIOS E SERVICOS LTDA discriminado(s) no documento indicado ao lado. NOTA FISCAL DE SERVIÇOS ELETRÔNICA - NFS-E
+OUTRAS INFORMAÇÕES
 
-Data de Entrega: Identificação e Assinatura do Recebedor: Nota 202500000000101 / Única
-! / Cód Autenticidade CCQNQ4YH6
+A autenticidade desta NFeS pode ser verificada no site https://governadorvaladares-mg.issintegra.com.br/.
 
+Esta NFe foi emitida com respaldo na Lei Complementar 34/2001 e no Decreto Nº 12.053, de 12 de junho de 2024
+
+O ISS desta NFesS será TRIBUTADA pelo PRESTADOR e recolhido a Governador Valadares - MG.
+
+DOCUMENTO EMITIDO POR ME OU EPP OPTANTE PELO SIMPLES NACIONAL/NÃO GERA DIREITO A CRÉDITO FISCAL DE IPI.
+Prestador de Serviços optante pelo Simples Nacional como microempresa.
+
+Emitido por: ESTHER DE FARIA VIANA E MELO
+
+Página 1 de 1
