@@ -1,47 +1,58 @@
 
 --- Página 1 ---
+04/08/2025, 17:53 ISS-Curitiba - Sistema de Administração de ISS
 Número da Nota
 
-PREFEITURA MUNICIPAL DE CURITIBA 38
-SECRETARIA MUNICIPAL DE FINANÇAS [Data = Hora de Emissão |
-NOTA FISCAL DE SERVIÇOS ELETRÔNICA - NFS-e 03/08/2025 21:15:34
+PREFEITURA MUNICIPAL DE CURITIBA =
+
+SECRETARIA MUNICIPAL DE FINANÇAS Data e Hora de Emissão
+04/08/2025 17:53:33
 
 Código de Verificação
-1KD7XC0C
+S8XB8DOD
+
+NOTA FISCAL DE SERVIÇOS ELETRÔNICA - NFS-e
 
 PRESTADOR DE SERVIÇOS
-Razão Social: MAJU ENGRACIA LTDA
-CPF / CNPJ: 47.441.541/0001-19 Inscrição Municipal: 17 06 1039012-4
-Endereço: R. BRUNO FILGUEIRA, 002142 - BAIRRO: BIGORRILHO - Tel.: 41 - 988916795
-CEP: 80730380
-Município: CURITIBA UF: PR Email: rubensfontanafilho gmail.com
+Razão Social: MANUELA CIT LTDA
+CPF / CNPJ:  49.411.401/0001-23 Inscrição Municipal: 1201 1072777-2
+Endereço: R. JOSÉ LOUREIRO, 000464 - BAIRRO: CENTRO - CEP: Tel.: 41 - 991651652
+80010000
+Município: CURITIBA UF: PR Email: citmanuelaG gmail.com
 TOMADOR DE SERVIÇOS
-Nome/Razão Social: Gocase
-CPF / CNPJ: 22.165.464/0001-90 IMU: Outro Doc.:
-Endereço:
-Município: FORTALEZA UF: CE Email:
+Nome/Razão Social: (GO COMERCIO DEARTIGOS ELETRONICOS EACESSORIOS LTDA
+CPF / CNPJ: 22.165.464/0003-52 IMU: Outro Doc.:
+Endereço: ROD MG-460 (EST MUNIC HORACIO MARINHO) , 350 - COMPLEMENTO: GALPAOO01 - BAIRRO: DO
+JARDIM - CEP: 37640000
+Município: EXTREMA UF: MG Email: administrativoZgocase.com.br
 
 DISCRIMINAÇÃO DOS SERVIÇOS
 
-Promoção de vendas; publicidade e propaganda
+PUBLICIDADE MANUELA CIT
+BANCO: 0336 -CESA
 
-Valor Liquido da Nota Fiscal = R$ 3.006,30
+AG: 0001
 
-VALOR TOTAL DA NOTA - R$3.006,30
+CIC: 24935919-7
+
+CHAVE PIX: 49.411.401/0001-23
+MANUELA CIT LTDA
+
+R$64.000,00 mês corrente + R$26.660,00 (03/03 de 80.000,00 refa MAR e ABR) = R$90.670,00
+
+Valor Líquido da Nota Fiscal = R$ 90.670,00
+
+VALOR TOTAL DA NOTA -R$90.670,00
 
 Código da Atividade
 
-10-08 -Agenciamento de publicidade e propaganda, inclusive o agenciamento de veiculação por quaisquer meios.
+12-01 -Espetáculos teatrais.
 
-Valor Total das Deduções (R$) | Base de Cálculo (R$) Valor do ISS (R$) | | Crédito p/ Abatimento do IPTU
+Valor Total das Deduções (R$) Base de Cálculo (R$) Valor do ISS (R$) Crédito p/ Abatimento do IPTU
 
 OUTRAS INFORMAÇÕES
-
-Esta NFS-e foi emitida com respaldo na Lei 73/2008.
-Documento emitido por ME ou EPP optante pelo Simples Nacional.
-Não gera direito a crédito fiscal de IPI.
+Esta NFS-e foi emitida com respaldo na Lei 73/2009.
 
 Mais informações: nota.curitiba.pr.gov.br
 
-https://isscuritiba.curitiba.pr.gov.br/iss/Principal/frmFramesPgPrincipal.aspx?sParam=MENSAGEM&sLogin=1 03/08/2025, 21:15
-Página 1 de 1
+https://isscuritiba.curitiba.pr.gov.br/iss/Principal/frmFramesPgPrincipal.aspx?sParam=MENSAGEM&sLogin=1
