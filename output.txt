@@ -1,139 +1,85 @@
 
 --- Página 1 ---
-DANFSe v1.0
-Documento Auxiliar da NFS-e
+Prefeitura de Juiz de Fora - MG Número
 
-NFSe ss:
+Secretaria da Fazenda 202500000000088
+Av. Brasil, 2001 CEP 36060-010 Data e Hora de
+= = Emissão:
+NOTA FISCAL DE SERVIÇOS ELETRÔNICA - NFS-E 04/08/2025 11:11:01
+Competência
+Não possui RPS Pág. 1 de 1 08/2025
+PRESTADOR DE SERVIÇOS
+[x] NOME/RAZÃO SOCIAL: 32.724.771 CARLA DA GAMA BALTA
 
-Chave de Acesso da NFS-e
-31062002253050717000104000000000006525088378999640
+CPF/CNPJ: 32.724.771/0001-18 CMC: 206730004 IE: ISENTO REGIME TRIBUTÁRIO: Optante
+Simples Nacional
 
-Número da NFS-e Competência da NFS-e
-65 06/08/2025
+ENDEREÇO: R SAO MATEUS,661 -SAO MATEUS -AP 502 -36025-001 Juiz de ForalMG
+TELEFONE: (11)99913-0306 EMAIL: ivyconceptiOgmail.com
 
-Número da DPS Série da DPS
-68 900
+TOMADOR DE SERVIÇOS
 
-Prefeitura Municipal de Belo
-Horizonte
-* y Secretaria Municipal de Fazenda - SMFA
+NOME/RAZÃO SOCIAL: GO COMERCIO DE ARTIGOS ELETRONICOS E ACESSORIOS LTDA
 
-Data e Hora da emissão da NFS-e pr a
-bi +
-EPE
+CPF/CNPJ: 22.165.464/0001-90 CMC:
+ENDEREÇO: Rua Padre Valdevino, 2528 - Dionisio Torres - 60135-414 Fortaleza - CE
+TELEFONE: (85) 9813-0660 EMAIL:
 
-At E
+DISCRIMINAÇÃO DOS SERVIÇOS
 
-06/08/2025 16:29:55
+SERVIÇO: 170600100 - Propaganda e publicidade, inclusive promoção de vendas, planejamento de campanhas ... elaboração de desenhos, textos e demais
+materiais publicitários.
 
-Data e Hora da emissão da DPS
-06/08/2025 16:29:55
+Publicidade para Go Case referente a agosto - (carlabalta
+Valor: R$6000,00
 
-A autenticidade desta NFS-e pode ser verificada
-pela leitura deste código QR ou pela consulta da
+Vencimento: 29/08/2025
 
-chave de acesso no portal nacional da NFS-e
+Dados para pagamento:
 
-EMITENTE DA NFS-e
-Prestador do Serviço
+Banco Inter (077)
 
-CNPJ/CPF/NIF Inscrição Municipal Telefone
-53.050.717/0001-04 - (31) 8566-0527
+01 Ag 0001
+Cc 2355183-6
+CNPJ 32724771000118
+PIX CNPJ
+QTD. UNIT. TOTAL DES. INCOND. DES. COND. DEDUÇG. BASE CÁLC.
+1,00 6.000,00 6.000,00 0,00 0,00 0,00 te
+TRIBUTAÇÃO
+Exigibilidade (Natureza da Operação): Imposto retido pelo tomador? Município de Incidência:
+Exigível Não Juiz de Fora-MG
+VALORES TOTAIS
+Valor Serviços Desc. Incondicional Desc. Condicional Deduções da Base Base de Cálculo
+R$ 6.000,00 R$ 0,00 R$ 0,00 R$ 0,00 xs
+Alíquota ISS Valor ISS Valor ISS retido Valor PIS Valor COFINS
+do do R$ 0,00 R$ 0,00 R$ 0,00
+Valor IR Valor INSS Valor CSLL Valor Outras Retenções Valor Liquido
+R$ 0,00 R$ 0,00 R$ 0,00 R$ 0,00 R$ 6.000,00
 
-Nome / Nome Empresarial E-mail
-53.050.717 BEATRIZ FONSECA MORAES BIAFONSECA2312ODGMAIL.COM
+OUTRAS INFORMAÇÕES (USO DO PRESTADOR)
 
-Endereço Município CEP
-SILVA JARDIM, 245, FLORESTA Belo Horizonte - MG 30150-010
+OUTRAS INFORMAÇÕES (USO EXCLUSIVO DO MUNICÍPIO)
 
-Simples Nacional na Data de Competência Regime de Apuração Tributária pelo SN
-Optante - Microempreendedor Individual (MEI) -
+Esta NFS-e foi emitida com fundamento no Decreto Municipal nº 6.157/2012.
 
-TOMADOR DO SERVIÇO CNPJ/CPF/NIF Inscrição Municipal Telefone
-22.165.464/0001-90 - -
+NFS-e emitida com base na Lei de Transparência Fiscal nº 12.471/2012. Valor aproximado de tributos: R$ 807,00 (13,45%). Fonte: IBPT.
+* Alíquota e valor ISS definido no encerramento do PGDAS-D de acordo com as regras da Legislação Federal do Simples Nacional.
+Município da prestação do serviço: Juiz de Fora-MG
 
-Nome / Nome Empresarial E-mail
-GO COMERCIO DE ARTIGOS ELETRONICOS E ACESSORIOS LTDA -
+Consulte a autenticidade deste documento em http:/'nfse.pjf.mg.gov.br/Verificar Autenticidade
 
-Endereço Município CEP
-CAROLINA SUCUPIRA, 1368, 1 ANDAR SALA A, ALDEOTA Fortaleza - CE 60140-120
+Documento emitido via: Regular
 
-INTERMEDIÁRIO DO SERVIÇO NÃO IDENTIFICADO NA NFS-e
-SERVIÇO PRESTADO
+CONSULTE A AUTENTICIDADE UTILIZANDO O CÓDIGO
 
-Código de Tributação Nacional Código de Tributação Municipal
-17.06.01 - Propaganda e publicidade, 001 - Propaganda e publicidade,
-inclusive promoção de vendas, p... inclusive promoção de vendas, p...
+FISCAL
+PREMIADA
 
-Local da Prestação País da Prestação
-Fortaleza - CE -
+Código de Verificaçã
+MOMO Só de ercação
 
-Descrição do Serviço .
-3 REELS COM REPOST, 4 COMBOS DE STORIES DIREITO DE IMPULSIONAMENTO, VENCIMENTO: 29/08/2025, DADOS BANCÁRIOS: BANCO: 0260 -
-NUBANK, AGENCIA: 0001, CONTA: 71663340-3, CONTA PJ: CONTA CORRENTE, PIX: 53050717000104 (CNPJ).
+Confirmamos a execução do(s) serviço(s) por 32.724.771 CARLA DA GAMA BALTAdiscriminado(s) no documento indicado ao lado. NOTA FISCAL DE SERVIÇOS ELETRÔNICA - NFS-E
 
-TRIBUTAÇÃO MUNICIPAL
-
-Tributação do ISSQN País Resultado da Prestação do Serviço Município de Incidência do ISSQN Regime Especial de Tributação
-Operação Tributável - Belo Horizonte - MG Nenhum
-
-Tipo de Imunidade Suspensão da Exigibilidade do ISSQN Número Processo Suspensão Benefício Municipal
-- Não - -
-
-Valor do Serviço Desconto Incondicionado Total Deduções/Reduções Cálculo do BM
-R$ 2.300,00 - - -
-
-BC ISSQN
-
-Alíquota Aplicada
-
-Retenção do ISSQN
-Não Retido
-
-ISSQN Apurado
-
-TRIBUTAÇÃO FEDERAL
-
-IRRF
-
-CP
-
-COFINS
-
-CSLL
-
-Retenção do PIS/COFINS
-
-TOTAL TRIBUTAÇÃO FEDERAL
-
-VALOR TOTAL DA NFS-E
-
-Valor do Serviço
-R$ 2.300,00
-
-IRRF, CP,CSLL - Retidos
-R$ 0,00
-
-Desconto Condicionado
-R$
-
-PIS/COFINS Retidos
-
-Desconto Incondicionado
-R$
-
-ISSQN Retido
-
-Valor Líquido da NFS-e
-R$ 2.300,00
-
-TOTAIS APROXIMADOS DOS TRIBUTOS
-
-Federais
-
-Estaduais
-
-Municipais
-
-INFORMAÇÕES COMPLEMENTARES
+Data de Entrega: Identificação e Assinatura do Recebedor: Nota 202500000000088 / Única
+! / Cód Autenticidade LS62ERQWR
 
