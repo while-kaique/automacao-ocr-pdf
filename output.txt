@@ -1,51 +1,180 @@
 
 --- Página 1 ---
-L =x Número da Nota
-PREFEITURA DO MUNICIPIO DE SÃO PAULO 00000040
+DANFSe v1.0
 
-SECRETARIA MUNICIPAL DA FAZENDA Data e Hora de Emissão
+NFSe ss:
 
-A 04/08/2025 16:23:22
-NOTA FISCAL ELETRÔNICA DE SERVIÇOS - NFS-e Código de Verificação
+Documento Auxiliar da NFS-e
 
-20250804uU42578763000164 F54B-QYJR
-PRESTADOR DE SERVIÇOS
+ê
 
-CPF/CNPJ: 42.578.763/0001-64 Inscrição Municipal: 7.011.434-0
+Prefeitura Municipal de Porto
 
-Nome/Razão Social: JESSICA SOULL PRODUCAO DE CONTEUDO LTDA
+Alegre/RS
+(51)3289-0156
 
-Endereço: AY LEONARDO DA VINCI 626, APT 83 - VILA GUARANI (Z SUL) - CEP: 04313-000
-Município: São Paulo UF: SP
+Chave de Acesso da NFS-e
+43149022245244931000173000000000004925085877967349
 
-TOMADOR DE SERVIÇOS
-Nome/Razão Social: GO COMERCIO DE ARTIGOS ELETRÔNICOS E ACESSÓRIOS LTDA
-CPF/CNPJ: 22.165.464/0001 -90 Inscrição Municipal: ----
-Endereço: R Padre Valdevino 2475 - Dionisio Torres - CEP: 60135-414
-Município: Fortaleza UF: CE E-mail: contabilidadeGDgocase.com
+Número da NFS-e Competência da NFS-e
+49 05/08/2025
 
-INTERMEDIÁRIO DE SERVIÇOS
-CPF/CNPJ: --— Nome/Razão Social: ----
+Número da DPS Série da DPS
+55 900
 
-DISCRIMINAÇÃO DOS SERVIÇOS
-Jessica Beatriz Souza Lima
-BANCO INTER 077
-CONTA CNPJ: 42578763000164 (pix)
-CPF: 40244136800
-CONTA: 137768690-7%*
+Data e Hora da emissão da NFS-e
+05/08/2025 11:32:21
 
-VALOR TOTAL DO SERVIÇO = R$ 16.800,00
-INSS (R$) | IRRF (R$) CSLL (R$) COFINS (R$) | PIS/PASEP (R$)
+Data e Hora da emissão da DPS
+05/08/2025 11:32:21
 
-Código do Serviço
-02496 - Propaganda e publicidade, promoção de vendas, planejamento de campanhas e materiais publicitários.
-Valor Total das Deduções (R$) | Base de Cálculo (R$) Alíquota (%) Valor do ISS (R$) Crédito (R$)
-0,00 * * *
-Município da Prestação do Serviço Número Inscrição da Obra Valor Aproximado dos Tributos ! Fonte
-R$ 2.933,28 (17,46%) IBPT
+A autenticidade desta NFS-e pode ser verificada
+pela leitura deste código QR ou pela consulta da
+chave de acesso no portal nacional da NFS-e
 
-OUTRAS INFORMAÇÕES
+CNPJ/CPF /NIF
+45.244.931/0001-73
 
-(1) Esta NFS-e foi emitida com respaldo na Lei nº 14.097/2005; (2) Documento emitido por ME ou EPP optante pelo Simples
-Nacional;
+EMITENTE DA NFS-e
+Prestador do Serviço
+
+Nome / Nome Empresarial
+JORDANA VUCETIC INFLUENCIADORA DIGITAL, PALESTRAS E
+CURSOS LTDA
+
+Endereço
+RIACHUELO, 785, CENTRO HISTORICO
+
+Simples Nacional na Data de Competência
+Optante - Microempresa ou Empresa de Pequeno Porte (ME/EPP)
+
+Inscrição Municipal
+
+E-mail
+
+CONTATO JORDANAVUCETIC.COM
+
+Município
+Porto Alegre - RS
+Regime de Apuração Tributária pelo SN
+
+Telefone
+(51) 9552-0877
+
+CEP
+90010-270
+
+Regime de apuração dos tributos federais e municipal pelo Simples Nacional
+
+TOMADOR DO SERVIÇO CNPJ /CPF/NIF
+22.165.464/0001-90
+
+Nome / Nome Empresarial
+GO COMERCIO DE ARTIGOS ELETRONICOS E ACESSORIOS LTDA
+
+Endereço
+CAROLINA SUCUPIRA, 1368, 1 ANDAR SALA A, ALDEOTA
+
+Inscrição Municipal
+
+E-mail
+Município
+Fortaleza - CE
+
+Telefone
+
+CEP
+60140-120
+
+INTERMEDIÁRIO DO SERVIÇO NÃO IDENTIFICADO NA NFS-e
+
+SERVIÇO PRESTADO
+
+Código de Tributação Nacional Código de Tributação Municipal
+17.06.01 - Propaganda e publicidade, -
+inclusive promoção de vendas, p...
+
+Descrição do Serviço
+Escopo de Agosto fechado entre GoCase e Jordana Vucetic.
+
+Dados de pagamento:
+
+Banco: Nubank / Agência: 0001/ Conta CNPJ: 21740172-3
+Pix:contato(Djordanavucetic.com
+
+TRIBUTAÇÃO MUNICIPAL
+
+Tributação do ISSQN País Resultado da Prestação do Serviço
+Operação Tributável -
+
+Tipo de Imunidade Suspensão da Exigibilidade do ISSQN
+
+- Não
+
+Valor do Serviço Desconto Incondicionado
+R$ 34.000,00 -
+
+BC ISSQN
+
+Alíquota Aplicada
+
+Local da Prestação
+Porto Alegre - RS
+
+Município de Incidência do ISSQN
+Porto Alegre - RS
+
+Número Processo Suspensão
+
+Total Deduções/Reduções
+
+Retenção do ISSQN
+Não Retido
+
+País da Prestação
+
+Regime Especial de Tributação
+Nenhum
+
+Benefício Municipal
+
+Cálculo do BM
+
+ISSQN Apurado
+
+TRIBUTAÇÃO FEDERAL
+IRRF CP
+
+COFINS
+
+CSLL
+
+Retenção do PIS/COFINS
+
+TOTAL TRIBUTAÇÃO FEDERAL
+
+VALOR TOTAL DA NFS-E
+
+Valor do Serviço Desconto Condicionado
+R$ 34.000,00 R$
+
+IRRF, CP,CSLL - Retidos PIS/COFINS Retidos
+R$ 0,00 -
+
+Desconto Incondicionado
+R$
+
+ISSQN Retido
+
+Valor Líquido da NFS-e
+R$ 34.000,00
+
+TOTAIS APROXIMADOS DOS TRIBUTOS
+Federais
+
+Estaduais
+
+Municipais
+
+INFORMAÇÕES COMPLEMENTARES
 
