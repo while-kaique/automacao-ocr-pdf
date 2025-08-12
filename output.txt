@@ -1,56 +1,121 @@
 
 --- Página 1 ---
-Usuário: 41.099.159/0001-92 - NF-e - Nota Fiscal Eletrônica de Serviços - São Paulo 07/08/2025, 17:06
+PREFEITURA MUNICIPAL DE PELOTAS
 
-PREFEITURA DO MUNICÍPIO DE SÃO PAULO 0000507
-SECRETARIA MUNICIPAL DA FAZENDA Data e Hora de Emissão
+Número | Série: 327/ NFSe
 
-A 07/08/2025 17:06:00
-NOTA FISCAL ELETRÔNICA DE SERVIÇOS - NFS-e Código de Verificação
+Data Prestação Serviço: 06/08/2025
 
-JSF3-RECS
+Nomel/Razão Social
+
+CPF | CNPJ: 32.253.078/0001-04
+
+Endereço
+
+Telefone:
+
+E-Mail
+Inscr. Municipal
+
+SECRETARIA MUNICIPAL DE RECEITA
+Nota Fiscal Eletrônica de Serviços
+Emissão: 06/08/2025 15:41:13
+Incidência: PELOTAS (RS)
 
 PRESTADOR DE SERVIÇOS
-CPF/CNPJ: 41.099.159/0001 -92 Inscrição Municipal: 6.869.622-1
-Nome/Razão Social: PIXIE PRODUCOES LTDA
-Endereço: R PEDRO ANTÔNIO CONCEICAO 7 - VILA JOAO BATISTA - CEP: 02837-170
-Município: São Paulo UF: SP
+: ANA CAROLINA RODRIGUES DOS ANJOS LTDA
+
+Retenção ISS: Tributado
+Nº RPS:
+
+Regime: Simples (Alíquota 2.2962%)
+: Rua Avenida Ferreira Viana, nº 1179, Apt 204, Bairro Areal
+
+(53) 99829728 Município: PELOTAS (RS)
+: CLIENTESOLUCAOQ YAHOO.COM.BR
+
+: 1001764 Inscr. Estadual:
+
+Nome Fantasia: .
+
+Nomel/Razão Social
+CPF / CNPJ
+
+Endereço:
+
+Telefone:
 
 TOMADOR DE SERVIÇOS
-Nome/Razão Social: GO COMERCIO DE ARTIGOS ELETRONICOS E ACESSORIOS LTDA
-CPF/CNPJ: 22.165.464/0001 -90 Inscrição Municipal: ----
-Endereço: R Padre Valdevino 2475 - Dionisio Torres - CEP: 60135-414
-Município: Fortaleza UF: CE E-mail: contabilidadeG)gocase.com
+: GO COMERCIO DE ARTIGOS ELETRONICOS E ACESSORIOS LTDA
+:22.165.464/0003-52
 
-INTERMEDIÁRIO DE SERVIÇOS
-CPF/CNPJ: = Nome/Razão Social: ----
+Rodovia Rod Mg, nº 460, Est Munic Horacio Marinho, Bairro Bairro Do Jarim
+Município: EXTREMA (MG)
+
+E-Mail:
+
+Inscr. Municipal:
+Nome Fantasia:
+
+Inscr. Estadual:
 
 DISCRIMINAÇÃO DOS SERVIÇOS
 
-Referente a prestação de serviços da influenciadora Brenda Saraiva | JUNHO + JULHO
+Código CNAE: 7319-0/02-00 Denominação: PROMOCAO DE VENDAS
 
-Banco: 0260 * Nu Pagamentos S.A. - Instituição de Pagamento
-Agência: 0001
+Código Serviço: 17.06
 
-Conta: 17005575-7
+Serviço: Propaganda e Publicidade; Inclusive Promoçao de Vendas; Planejamento de Campanhas ou Sistemas de
 
-CNPJ: 41.099.159/0001-92
+Local da Prestação dos Serviços: PELOTAS (RS)
 
-Nome: Pixie Producoes Ltda
+Discriminação dos Serviços Prestados:
+dados bancarios:
 
-Chave pix: 41.099.159/0001-92
+Banco Banrisul
 
-VALOR TOTAL DO SERVIÇO = R$ 2.400,00
+Ag 0320
 
-Código do Serviço
-02496 - Propaganda e publicidade, promoção de vendas, planejamento de campanhas e materiais publicitários.
-Valor Total das Deduções (R$) | Base de Cálculo (R$) Alíquota (%) Valor do ISS (R$) Crédito (R$)
-0,00 x * *
-Município da Prestação do Serviço Número Inscrição da Obra Valor Aproximado dos Tributos ! Fonte
+Conta 06.254169.0-8
 
-OUTRAS INFORMAÇÕES
+CNPJ 32.253.078/0001-04
 
-(1) Esta NFS-e foi emitida com respaldo na Lei nº 14.097/2005; (2) Documento emitido por ME ou EPP optante pelo Simples
-Nacional;
+pix: cnpj
 
-https://nfe.prefeitura.sp.gov.br/contribuinte/notaprint.aspx?nf=...8696221&email=1&SMS=0&returnurl=nota.aspx%3finscricao%3d68696221 Página 1 de 1
+COFINS
+R$ 0,00
+
+Valor Total da Nota Deduções Permit
+R$ 4.000,00
+
+Emitido por Ana Carolina Rodrigues Dos Anjos
+
+R$ 0,00
+
+RETENÇÕES DE IMPOSTOS
+CSLL PIS
+
+Outras Retenções
+R$ 0,00 R$ 0,00
+
+R$ 0,00
+DETALHAMENTO DE VALORES
+
+idas em Lei Base de Cálculo Alíquota
+R$ 4.000,00 2,2962 %
+
+Iss
+R$91,85
+
+Totais Retenções
+R$ 0,00
+
+Valor Líquido: R$ 4.000,00
+
+INFORMAÇÕES COMPLEMENTARES
+
+A validação dos dados desta nota poderá ser feita junto ao site da Prefeitura, através do endereço https://nfe.pelotas.rs.gov.br/
+no menu "Consultar" - "Validar Documento" informando o código de validação abaixo:
+
+89A2.A316.7A9A.5475.F41F.03EA.787A.B01B
+
