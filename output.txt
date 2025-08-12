@@ -1,79 +1,80 @@
 
 --- Página 1 ---
-04/08/2025, 08:46 NFS-e - Nota Fiscal de Serviços Eletrônica de Porto Alegre
+05/08/2025, 14:21 Nota Curitibana - AutenticidadeNota
 
-NFS-e - NOTA FISCAL DE SERVIÇOS ELETRÔNICA
+PREFEITURA MUNICIPAL DE CURITIBA
 
-Emitida em: Competência: Código de Verificação:
-0.
-Nº:2025/45 04/08/2025 à508:45:59 04/08/2025 2fbcea70
-LD COMERCIO E MARKETING LTDA
-, CPF/CNPJ: 51.032.114/0001-54 Inscrição Municipal: 72519126
-sLogo prestador R MIGUEL TOSTES, 240, APT 609 BOX 44, RIO BRANCO - Cep: 90430-060
-Porto Alegre RS
-Telefone: Email:
-Tomador do(s) Serviço(s)
-CPF/CNPJ: 22.165.464/0003-52 Inscrição Municipal: Não Informado
+Número da Nota
 
-GO COMERCIO DE ARTIGOS ELETRONICOS E ACESSORIOS LTDA
+314
 
-ROD MG - 460 (EST MUNICIPAL HORACIO MARINHO), 350, GALPAO 1, DO JARDIM - Cep: 37640-000
+NOTA FISCAL DE SERVIÇOS ELETRÔNICA - NFS-e
 
-Porto Alegre RS
+RPS nº. 338, Série: 11, emitido em 05/08/2025, conversão em
 
-Telefone: (85)8130-6602 Email: ADMINISTRATIVOGGOCASE. COM.BR
+05/08/2025 UTOLOUOr
+PRESTADOR DE SERVIÇOS
+Razão Social: JULIA PASA LTDA
+CPF / CNPJ: 55.522.748/0001-45 Inscrição Municipal: 17 06 1172051-1
+Endereço: BOM JESUS, 000212 1904 - BAIRRO: JUVEVÊ - CEP: Tel.: 44 - 999234282
+S0035010
+Município: CURITIBA UF: PR Email: contato.juhpasaZhotmail.com
+TOMADOR DE SERVIÇOS
+Nome/Razão Social: GO COMERCIO DEARTIGOS ELETRONICOS EACESSORIOS LTDA
+CPF / CNPJ: 22,165.464/0001-90 IMU: Outro Doc.:
+Endereço: PADRE VALDEVINO, 2528 - COMPLEMENTO: SALA 02 - BAIRRO: DIONISIO TORRES - CEP:
+60135414
+Município: Fortaleza UF: CE Email:
 
-Discriminação do(s) Serviço(s)
+| DISCRIMINAÇÃO DOS SERVIÇOS
 
-Referente aos serviços de imagem e divulgação prestados pelo influenciador Elu dornelless ref 07/2025
-Nome influencer : Luiza Calcagnotto Dornelles
+Fagamento referente a comissão do mês de JULHO 2025
+Valor fixo: R$12.000,00
 
-Razão Social: 51.032.114 LTDA
+Comissão: R$5. 525,53
 
-Dados bancários:
+Conta para pagamento:
 
-CNPJ: 51.032.114/0001-54
+INTER - 077
 
-Bco Itau
+JULIA PASA LTDA
 
-Agência: 0579
+CNPJ: 55.522. 748/0001-46
 
-Conta: 98680-3
+Agência: 00]
 
-PIX: 51.032.114/0001-54
+Conta: 3685042405
 
-Código de Tributação Municipal:
-170600100 / Propaganda e publicidade, inclusive promoção de vendas, planejamento de campanhas ou sistemas de publicidade,
+Pix: 55.522. /48/0001-46
 
-elaboração de desenhos, textos e demais materiais publicitários.
-Subitem Lista de Serviços LC 116/03 / Descrição:
-17.06 / Propaganda e publicidade, inclusive promoção de vendas, planejamento de campanhas ou sistemas de publicidade,
+- Conforme Lei 12 741/2012, opercentual total de impostos incidentes nesteserviço prestado é de aproximadamente 12 14%
 
-elaboração de desenhos, textos e demais materiais publicitários.
+Valor Liguido da Nota Fiscal = R$ 17.525,63
 
-Cod/Município da incidência do ISSQN: Natureza da Operação:
-4314902 / Porto Alegre Tributação no município
+VALOR TOTALDA NOTA -R517.525,53
+Código da Atividade
 
-Regime Especial de Tributação: ME ou EPP do Simples Nacional
+M.73.1.9-0/02-00 - Promoção de vendas
 
-Valor dos serviços: R$ 21.356,70 Valor dos serviços: R$ 21.356,70
+Valor Total das Deduções (R$) Base de Calculo (R$) Valor do 155 (R$) Credito p/ Abatimento do IPTU
 
-(-) Descontos: R$ 0,00 (-) Deduções: R$ 0,00
+OUTRAS INFORMAÇÕES
 
-(-) Retenções Federais: R$ 0,00 (-) Desconto Incondicionado: R$ 0,00
+FPA
 
-(:) ISS Retido na Fonte: R$ 0,00 (=) Base de Cálculo: R$ 21.356,70
-(x) Alíquota:
+Esta NF 5-e foi emitida com respaldo na Lei 732008
+Documento emitido por ME ou EPP optante pelo Simples Nacional.
+Não gera direito a crédito fiscal de IPI
 
-Valor Líquido: R$ 21.356,70
-(=)Valor do ISS: -
+Mais Informações: nota.curitiba.pr.gov.br
 
-Documento emitido por ME ou EPP optante pelo Simples Nacional. Não gera direito a credito fiscal de IPI.
+https://isscuritiba.curitiba.pr.gov.br/NotaCuritibana/NotaRPS/AutenticidadeNota?doc=55522748000146&num=314&cod=UTOZOCOF
 
-Prefeitura de Porto Alegre - Secretaria da Fazenda
+SECRETARIA MUNICIPAL DE FINANÇAS Data e Hora de Emissão
+05/08/2025 14:17:11
 
-Rua Siqueira Campos, 1300 - 4º andar - Bairro Centro Histórico - CEP: 90.010-907 - Porto Alegre RS.
-Tel: 156 (opção 4) ou (51) 3289-0156 (chamadas de outras cidades)
-https://servicos.procempa.com.br
+Código de Verificação
 
-https://nfe-web.portoalegre.rs.gov.br/nfse/pages/exibicaoNFS-e.jsf
+0,00
+
+111
