@@ -1,50 +1,80 @@
 
 --- Página 1 ---
-ED. Fortaleza PREFEITURA MUNICIPAL DE FORTALEZA Número da
-O rbam SECRETARIA MUNICIPAL DAS FINANÇAS NFS-e
-nmncas NOTA FISCAL ELETRÔNICA DE SERVIÇO - NFS-e 2
+05/08/2025, 14:21 Nota Curitibana - AutenticidadeNota
 
-0
-Data e Hora da Emissão 05/08/2025 09:45:34 08/2025 Código de Verificação 370078746
-Número do RPS Do No. NFS-e substituída o Local da Prestação FORTALEZA - CE
+PREFEITURA MUNICIPAL DE CURITIBA
 
-DADOS DO PRESTADOR DE SERVIÇOS
+Número da Nota
 
-FLUZY MODA ESPORTIVA LTDA
-| Nomefantasia |
+314
 
-DADOS DO TOMADOR DE SERVIÇOS
+NOTA FISCAL DE SERVIÇOS ELETRÔNICA - NFS-e
 
-Razão Social/Nome | GO COMERCIO DE ARTIGOS
-CPF/CNPJ |22.165.464/0003-52 Inscrição Municipal | | Município | EXTREMA -MG
+RPS nº. 338, Série: 11, emitido em 05/08/2025, conversão em
 
-Endereço e CEP | RODOVIA FERNAO DIAS, S/N - DOS PIRES CEP: 37.640-000
+05/08/2025 UTOLOUOr
+PRESTADOR DE SERVIÇOS
+Razão Social: JULIA PASA LTDA
+CPF / CNPJ: 55.522.748/0001-45 Inscrição Municipal: 17 06 1172051-1
+Endereço: BOM JESUS, 000212 1904 - BAIRRO: JUVEVÊ - CEP: Tel.: 44 - 999234282
+S0035010
+Município: CURITIBA UF: PR Email: contato.juhpasaZhotmail.com
+TOMADOR DE SERVIÇOS
+Nome/Razão Social: GO COMERCIO DEARTIGOS ELETRONICOS EACESSORIOS LTDA
+CPF / CNPJ: 22,165.464/0001-90 IMU: Outro Doc.:
+Endereço: PADRE VALDEVINO, 2528 - COMPLEMENTO: SALA 02 - BAIRRO: DIONISIO TORRES - CEP:
+60135414
+Município: Fortaleza UF: CE Email:
 
-DISCRIMINAÇÃO DOS SERVIÇOS
+| DISCRIMINAÇÃO DOS SERVIÇOS
 
-Referente a comissão de julho de 2025 (2507.91) + outubro de 2024 (1.248,91), que estava atrasada!
-Banco 077-Inter, Agência 0001, Número da conta 34314374-7
-Chave PIX CNPJ : 53.613.593/0001-28
+Fagamento referente a comissão do mês de JULHO 2025
+Valor fixo: R$12.000,00
 
-CÓDIGO DE ATIVIDADE CNAE
-17.06 / 731900201 - PROMOÇÃO DE VENDAS
+Comissão: R$5. 525,53
 
-DETALHAMENTO ESPECIFICO DA CONSTRUÇÃO CIVIL
+Conta para pagamento:
 
-EA RA
-TRIBUTOS FEDERAIS
-es | [coms[ [res [ [use  [oues|
-Detalhamento de Valores - Prestador dos Serviços
-Outras Retenções | OpsãoSimplesNacional | (X) Alíquota % 2,17
-[00 |
+INTER - 077
 
-(-) ISS Retido
+JULIA PASA LTDA
 
-(=) Valor Líquido 3.756,82 (=) Valor do ISS R$ 81,52
+CNPJ: 55.522. 748/0001-46
 
-1- Uma via desta Nota Fiscal será enviada através do e-mail fornecido pelo Tomador dos Serviços, no sítio http:/liss.fortaleza.ce.gov.br
-2- A autenticidade desta Nota Fiscal poderá ser validada no site http://iss.fortaleza.ce.gov.br/, com a utilização do Código de Verificação.
-. 3- Documento emitido por ME ou EPP optante pelo Simples Nacional. Não gera direito a crédito fiscal de ISS e IPI.
-Avisos 4- Serviço sujeito ao ANEXO 5.
-5- Serviços sujeitos ao fator "r", exceto para o exterior, sem retenção, com ISS devido ao próprio Município.
+Agência: 00]
 
+Conta: 3685042405
+
+Pix: 55.522. /48/0001-46
+
+- Conforme Lei 12 741/2012, opercentual total de impostos incidentes nesteserviço prestado é de aproximadamente 12 14%
+
+Valor Liguido da Nota Fiscal = R$ 17.525,63
+
+VALOR TOTALDA NOTA -R517.525,53
+Código da Atividade
+
+M.73.1.9-0/02-00 - Promoção de vendas
+
+Valor Total das Deduções (R$) Base de Calculo (R$) Valor do 155 (R$) Credito p/ Abatimento do IPTU
+
+OUTRAS INFORMAÇÕES
+
+FPA
+
+Esta NF 5-e foi emitida com respaldo na Lei 732008
+Documento emitido por ME ou EPP optante pelo Simples Nacional.
+Não gera direito a crédito fiscal de IPI
+
+Mais Informações: nota.curitiba.pr.gov.br
+
+https://isscuritiba.curitiba.pr.gov.br/NotaCuritibana/NotaRPS/AutenticidadeNota?doc=55522748000146&num=314&cod=UTOZOCOF
+
+SECRETARIA MUNICIPAL DE FINANÇAS Data e Hora de Emissão
+05/08/2025 14:17:11
+
+Código de Verificação
+
+0,00
+
+111
