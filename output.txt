@@ -1,66 +1,70 @@
 
 --- Página 1 ---
-ca MUNICÍPIO DE GUARULHOS
-N FSe DANFSe v1.0 MA (11)2423-8646
-ervico elet Documento Auxiliar da NFS-e [cuarúHos] issqnQguarulhos.sp.gov.br
+PREFEITURA MUNICIPAL DE
+N FSe DANFSe v1.0 & CURITIBA
+ervico elet Documento Auxiliar da NFS-e
 
 Chave de Acesso da NFS-e
-35188002256701118000100000000000002925086758732931
+41069022257704222000102000000000001025083592151319
 
 Número da NFS-e Competência da NFS-e Data e Hora da emissão da NFS-e
-29 07/08/2025 07/08/2025 23:40:55
+10 04/08/2025 04/08/2025 10:41:10
 
-Número da DPS Série da DPS Data e Hora da emissão da DPS RR
+ç a]
+rig
+Número da DPS Série da DPS Data e Hora da emissão da DPS lhiix
+19 900 04/08/2025 10:41:10 A autenticidade desta NFS-e pode ser verificada
 
-29 900 07/08/2025 23:40:55 A autenticidade desta NFS-e pode ser verificada
 pela leitura deste código QR ou pela consulta da
 chave de acesso no portal nacional da NFS-e
-
 EMITENTE DA NFS-e CNPJ/CPF/NIF Inscrição Municipal Telefone
-
-Prestador do Serviço 96.701.118/0001-00 - (11) 9666-5208
+Prestador do Serviço 57.704.222/0001-02 - 410
 
 Nome / Nome Empresarial E-mail
-56.701.118 GABRIELLY DE ALMEIDA MARQUES MAGALHAES AC.GABIMAGALHAES(QOGMAIL.COM
+57.704.222 MARIAH MAESTRELLI MARUCCO STIVAL CONTATOMARIAHSTIVALQGMAIL.COM
 
 Endereço Município CEP
-HELIO MANZONI, 46, GOPOUVA Guarulhos - SP 7092070
+ANGELO MAZZAROTTO, 301, SANTA FELICIDADE Curitiba - PR 82320-170
 
 Simples Nacional na Data de Competência Regime de Apuração Tributária pelo SN
 Optante - Microempreendedor Individual (MEI) -
 
 TOMADOR DO SERVIÇO CNPJ/CPF/NIF Inscrição Municipal Telefone
-22.165.464/0001-90 - -
+22.165.464/0003-52 - -
 
 Nome / Nome Empresarial E-mail
-GO COMERCIO DE ARTIGOS ELETRONICOS E ACESSORIOS LTDA CONTABILIDADEGGOCASE.COM
+GO COMERCIO DE ARTIGOS ELETRONICOS E ACESSORIOS LTDA -
 
 Endereço Município CEP
-CAROLINA SUCUPIRA, 1368, 1 ANDAR SALA A, ALDEOTA Fortaleza - CE 60140-120
+FERNAO DIAS, S/N, KM 947.5 AREA C1 A C6, DOS PIRES Extrema - MG 37642-917
 
 INTERMEDIÁRIO DO SERVIÇO NÃO IDENTIFICADO NA NFS-e
 SERVIÇO PRESTADO
 
 Código de Tributação Nacional Código de Tributação Municipal Local da Prestação País da Prestação
-17.06.01 - Propaganda e publicidade, - Guarulhos - SP -
-inclusive promoção de vendas, p...
+10.08.01 - Agenciamento de - Curitiba - PR -
+
+publicidade e propaganda, inclusive o
+
+age...
 
 Descrição do Serviço
-Promoção de Vendas
+divulgacao e publicidade
 
 TRIBUTAÇÃO MUNICIPAL
 
 Tributação do ISSQN País Resultado da Prestação do Serviço Município de Incidência do ISSQN Regime Especial de Tributação
-Operação Tributável - Guarulhos - SP Nenhum
+Operação Tributável - Curitiba - PR Nenhum
 
 Tipo de Imunidade Suspensão da Exigibilidade do ISSQN Número Processo Suspensão Benefício Municipal
 - Não - -
 
 Valor do Serviço Desconto Incondicionado Total Deduções/Reduções Cálculo do BM
-R$ 5.000,00 - - -
+
+R$ 4.000,00 - - -
 
 BC ISSQN Alíquota Aplicada Retenção do ISSQN ISSQN Apurado
-- Não Retido -
+- - Não Retido -
 
 TRIBUTAÇÃO FEDERAL
 IRRF CP CSLL
@@ -70,15 +74,14 @@ COFINS Retenção do PIS/COFINS TOTAL TRIBUTAÇÃO FEDERAL
 VALOR TOTAL DA NFS-E
 
 Valor do Serviço Desconto Condicionado Desconto Incondicionado ISSQN Retido
-R$ 5.000,00 R$ R$ -
+R$ 4.000,00 R$ R$ -
 
 IRRF, CP,CSLL - Retidos PIS/COFINS Retidos Valor Líquido da NFS-e
-R$ 0,00 - R$ 5.000,00
+R$ 0,00 - R$ 4.000,00
 
 TOTAIS APROXIMADOS DOS TRIBUTOS
-
 Federais Estaduais Municipais
 
 INFORMAÇÕES COMPLEMENTARES
-NBS: 114061100
+NBS: 114061200
 
