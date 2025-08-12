@@ -1,176 +1,51 @@
 
 --- Página 1 ---
-NFS:
+L =x Número da Nota
+PREFEITURA DO MUNICIPIO DE SÃO PAULO 00000040
 
-DANFSe v1.0
-Documento Auxiliar da NFS-e
+SECRETARIA MUNICIPAL DA FAZENDA Data e Hora de Emissão
 
-Chave de Acesso da NFS-e
-41199052243870579000156000000000004925086645542109
+A 04/08/2025 16:23:22
+NOTA FISCAL ELETRÔNICA DE SERVIÇOS - NFS-e Código de Verificação
 
-Número da NFS-e Competência da NFS-e
-49 04/08/2025
+20250804uU42578763000164 F54B-QYJR
+PRESTADOR DE SERVIÇOS
 
-Número da DPS Série da DPS
-58 900
+CPF/CNPJ: 42.578.763/0001-64 Inscrição Municipal: 7.011.434-0
 
-Data e Hora da emissão da NFS-e
-04/08/2025 09:20:38
+Nome/Razão Social: JESSICA SOULL PRODUCAO DE CONTEUDO LTDA
 
-Data e Hora da emissão da DPS
-04/08/2025 09:20:38
+Endereço: AY LEONARDO DA VINCI 626, APT 83 - VILA GUARANI (Z SUL) - CEP: 04313-000
+Município: São Paulo UF: SP
 
-A autenticidade desta NFS-e pode ser verificada
-pela leitura deste código QR ou pela consulta da
-chave de acesso no portal nacional da NFS-e
+TOMADOR DE SERVIÇOS
+Nome/Razão Social: GO COMERCIO DE ARTIGOS ELETRÔNICOS E ACESSÓRIOS LTDA
+CPF/CNPJ: 22.165.464/0001 -90 Inscrição Municipal: ----
+Endereço: R Padre Valdevino 2475 - Dionisio Torres - CEP: 60135-414
+Município: Fortaleza UF: CE E-mail: contabilidadeGDgocase.com
 
-CNPJ/CPF /NIF
-43.870.579/0001-56
+INTERMEDIÁRIO DE SERVIÇOS
+CPF/CNPJ: --— Nome/Razão Social: ----
 
-EMITENTE DA NFS-e
-Prestador do Serviço
+DISCRIMINAÇÃO DOS SERVIÇOS
+Jessica Beatriz Souza Lima
+BANCO INTER 077
+CONTA CNPJ: 42578763000164 (pix)
+CPF: 40244136800
+CONTA: 137768690-7%*
 
-Nome / Nome Empresarial
-43.870.579 JESSICA FERNANDA PEREIRA CAMARGO
+VALOR TOTAL DO SERVIÇO = R$ 16.800,00
+INSS (R$) | IRRF (R$) CSLL (R$) COFINS (R$) | PIS/PASEP (R$)
 
-Endereço
-QUINZE DE NOVEMBRO, 308, CENTRO
+Código do Serviço
+02496 - Propaganda e publicidade, promoção de vendas, planejamento de campanhas e materiais publicitários.
+Valor Total das Deduções (R$) | Base de Cálculo (R$) Alíquota (%) Valor do ISS (R$) Crédito (R$)
+0,00 * * *
+Município da Prestação do Serviço Número Inscrição da Obra Valor Aproximado dos Tributos ! Fonte
+R$ 2.933,28 (17,46%) IBPT
 
-Simples Nacional na Data de Competência
-Optante - Microempreendedor Individual (MEI)
+OUTRAS INFORMAÇÕES
 
-Inscrição Municipal
-
-E-mail
-
-Telefone
-(42) 9118-5181
-
-CONTATOJESSICAMARGOQGMAIL.COM
-
-Município
-Ponta Grossa - PR
-Regime de Apuração Tributária pelo SN
-
-CEP
-84010-020
-
-TOMADOR DO SERVIÇO CNPJ/CPF /NIF
-22.165.464/0001-90
-
-Nome / Nome Empresarial
-GO COMERCIO DE ARTIGOS ELETRONICOS E ACESSORIOS LTDA
-
-Endereço
-CAROLINA SUCUPIRA, 1368, 1 ANDAR SALA A, ALDEOTA
-
-Inscrição Municipal
-
-E-mail
-CONTABILIDADEGGOCASE.COM
-Município
-
-Fortaleza - CE
-
-Telefone
-(85) 9813-0660
-
-CEP
-60140-120
-
-INTERMEDIÁRIO DO SERVIÇO NÃO IDENTIFICADO NA NFS-e
-
-SERVIÇO PRESTADO
-
-Código de Tributação Nacional Código de Tributação Municipal
-17.06.01 - Propaganda e publicidade, -
-inclusive promoção de vendas, p...
-
-Descrição do Serviço
-
-Publicidade para redes sociais
-JESSICA CAMARGO
-
-Banco Nubank
-
-Agência 0001
-
-Conta Corrente 54745075-8
-CNPJ: 43.870.579/0001-56
-CHAVE PIX: 43.870.579/0001-56
-
-Local da Prestação
-Ponta Grossa - PR
-
-País da Prestação
-
-TRIBUTAÇÃO MUNICIPAL
-
-Tributação do ISSQN País Resultado da Prestação do Serviço
-Operação Tributável -
-
-Tipo de Imunidade Suspensão da Exigibilidade do ISSQN
-- Não
-
-Valor do Serviço Desconto Incondicionado
-
-R$ 4.000,00 -
-
-BC ISSQN Alíquota Aplicada
-
-Município de Incidência do ISSQN
-Ponta Grossa - PR
-
-Número Processo Suspensão
-
-Total Deduções/Reduções
-
-Retenção do ISSQN
-Não Retido
-
-Regime Especial de Tributação
-Nenhum
-
-Benefício Municipal
-
-Cálculo do BM
-
-ISSQN Apurado
-
-TRIBUTAÇÃO FEDERAL
-IRRF CP
-
-COFINS
-
-VALOR TOTAL DA NFS-E
-
-Valor do Serviço Desconto Condicionado
-R$ 4.000,00 R$
-
-IRRF, CP,CSLL - Retidos PIS/COFINS Retidos
-R$ 0,00 -
-
-CSLL
-
-Retenção do PIS/COFINS
-
-Desconto Incondicionado
-R$
-
-TOTAL TRIBUTAÇÃO FEDERAL
-
-ISSQN Retido
-
-Valor Líquido da NFS-e
-R$ 4.000,00
-
-TOTAIS APROXIMADOS DOS TRIBUTOS
-
-Federais
-
-Estaduais
-
-Municipais
-
-INFORMAÇÕES COMPLEMENTARES
+(1) Esta NFS-e foi emitida com respaldo na Lei nº 14.097/2005; (2) Documento emitido por ME ou EPP optante pelo Simples
+Nacional;
 
