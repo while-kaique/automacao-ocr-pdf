@@ -1,58 +1,48 @@
 
 --- Página 1 ---
-04/08/2025, 17:53 ISS-Curitiba - Sistema de Administração de ISS
+06/08/2025, 19:30 Contabilizei - Contabilidade Online
+
 Número da Nota
-
-PREFEITURA MUNICIPAL DE CURITIBA =
-
-SECRETARIA MUNICIPAL DE FINANÇAS Data e Hora de Emissão
-04/08/2025 17:53:33
-
-Código de Verificação
-S8XB8DOD
-
-NOTA FISCAL DE SERVIÇOS ELETRÔNICA - NFS-e
-
+PREFEITURA MUNICIPAL DE BRASÍLIA 58 a
+Data da emissão
+NOTA FISCAL DE SERVIÇOS ELETRÔNICA - NFS-e 06/08/2025 19:21
+Código de
+Verificação
+F3F8464E9
 PRESTADOR DE SERVIÇOS
-Razão Social: MANUELA CIT LTDA
-CPF / CNPJ:  49.411.401/0001-23 Inscrição Municipal: 1201 1072777-2
-Endereço: R. JOSÉ LOUREIRO, 000464 - BAIRRO: CENTRO - CEP: Tel.: 41 - 991651652
-80010000
-Município: CURITIBA UF: PR Email: citmanuelaG gmail.com
+Razão Social: BY MILA FLORENCIO Inscrição Municipal: 0804370300142
+PRODUCOES ARTISTICAS LTDA Município/UF: Brasília - DF
+CNPJ: 41.319.578/0001-92 Telefone: (61)99333-8528
+Endereco: Quadra SQSW 301 Bloco F S/N APT E-mail:
+511 Web site:
+Bairro: Setor Sudoeste
+CEP: 70673106
 TOMADOR DE SERVIÇOS
-Nome/Razão Social: (GO COMERCIO DEARTIGOS ELETRONICOS EACESSORIOS LTDA
-CPF / CNPJ: 22.165.464/0003-52 IMU: Outro Doc.:
-Endereço: ROD MG-460 (EST MUNIC HORACIO MARINHO) , 350 - COMPLEMENTO: GALPAOO01 - BAIRRO: DO
-JARDIM - CEP: 37640000
-Município: EXTREMA UF: MG Email: administrativoZgocase.com.br
+Nome / Razão Social: GO COMERCIO DE CPF / CNPJ: 22.165.464/0001-90
+ARTIGOS ELETRONICOS E ACESSORIOS LTDA Município/UF: Fortaleza - CE
+Endereco: PADRE VALDEVINO 2528 SALA 02 Telefone: 8598130660
+Bairro: DIONISIO TORRES E-mail:
+CEP: 60135414 CONTABILIDADEGGOCASE.COM
 
 DISCRIMINAÇÃO DOS SERVIÇOS
 
-PUBLICIDADE MANUELA CIT
-BANCO: 0336 -CESA
+Serviços prestados no mês de julho: R$ 4.500,00
 
-AG: 0001
+Comissão de vendas no mês de julho: R$ 2.441,10
 
-CIC: 24935919-7
+Combos extras de Stories: 900,00 - Conforme Lei 12.741/2012, o percentual total de impostos incidentes
+neste serviço prestado é de aproximadamente 6%
 
-CHAVE PIX: 49.411.401/0001-23
-MANUELA CIT LTDA
-
-R$64.000,00 mês corrente + R$26.660,00 (03/03 de 80.000,00 refa MAR e ABR) = R$90.670,00
-
-Valor Líquido da Nota Fiscal = R$ 90.670,00
-
-VALOR TOTAL DA NOTA -R$90.670,00
-
+Valor líquido da Nota Fiscal = R$ 7.841,10
+VALOR TOTAL DA NOTA - R$ 7.841,10
 Código da Atividade
 
-12-01 -Espetáculos teatrais.
+CNAE: 7319-0/02 - Promoção de vendas
+Item de Serviço: -
 
-Valor Total das Deduções (R$) Base de Cálculo (R$) Valor do ISS (R$) Crédito p/ Abatimento do IPTU
+Base de cálculo (R$) Alíquota ISS (%) Valor do ISS (R$)
+7.841,10 157,61
 
-OUTRAS INFORMAÇÕES
-Esta NFS-e foi emitida com respaldo na Lei 73/2009.
+https://app.contabilizei.com .br/nfse/*/visualizar/001/55200b3679904933a11697b2f3 1acd94
 
-Mais informações: nota.curitiba.pr.gov.br
-
-https://isscuritiba.curitiba.pr.gov.br/iss/Principal/frmFramesPgPrincipal.aspx?sParam=MENSAGEM&sLogin=1
+11
