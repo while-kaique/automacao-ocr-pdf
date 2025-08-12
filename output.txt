@@ -1,66 +1,67 @@
 
 --- Página 1 ---
-07/08/2025, 09:18
+MUNICÍPIO DE SÃO JOSÉ DO RIO PRETO NFS-e
 
-Número da Nota
+291
+SECRETARIA DA FAZENDA Código de Verificação
 
-PREFEITURA MUNICIPAL DE CURITIBA dos
-SECRETARIA MUNICIPAL DE FINANÇAS Data e Hora de Emissão
-NOTA FISCAL DE SERVIÇOS ELETRÔNICA - NFS-e 07/08/2025 09:18:12
+NOTA FISCAL DE SERVIÇO ELETRÔNICA - NFS-e VYZ3MCKPF
 
-Código de Verificação
-5MQSGFOL
+Emissão da NFS-e
+01/08/2025 16:02
+RPS Série RPS Tipo RPS NFS-e Substituída
 
-CPF / CNPJ: 39.969.278/0001-07 Inscrição Municipal: 17 06 0896854-0
+Prestador de Serviço
 
-Endereço: RUA SALDANHA MARINHO, 825 - COMPLEMENTO: BLOCO Tel.: 41 - 988674022
-B;APT 54 - BAIRRO: CENTRO - CEP: 80410151
+CPF/CNPJ:  42.667.708/0001-40 Inscrição 3833070
+Nome/Razão Social: NATALIA CRISTINA SHINAGAWA INGRACI LTDA
 
-Município: CURITIBA UF: PR Email: cferrazcosta24Gicloud.com
+Endereço Rua Antonio de Arruda Número: 342
 
-PRESTADOR DE SERVIÇOS
-Razão Social: CAROLINA FERRAZ COSTA 06537923956
+Complemento: Bairro: Residencial Maria Júlia
+CEP: 15063-211 Município: SAO JOSE DO RIO PRETO UF: SP País: Brasil
 
-TOMADOR DE SERVIÇOS
-Nome/Razão Social: GO COMERCIO DEARTIGOS ELETRONICOS EACESSORIOS LTDA
+E-mail: -meucnpj(Qcontabilizei.com.br Telefone: (41)9686-9828
 
-CPF / CNPJ: 22.165.464/0001-90 IMU: Outro Doc.:
-Endereço: Padre Valdevino, 2528 - COMPLEMENTO: sala 02 - BAIRRO: Dionísio torrs - CEP: 06013541
-Município: FORTALEZA UF: CE Email:
+Tomador de Serviço
 
-DISCRIMINAÇÃO DOS SERVIÇOS
+CPF/CNPJ: 22.165.464/0003-52 Inscrição Municipal: NIF:
 
-3reels emcollabcrepostno tiktok
-3combos de 03 stories/mês
-Direito de impulsionamento
-Dados para pagamento:
+Nome/Razão Social: Go comercio de Artigos eletronicos e acessorios LTDA
 
-Banco: 260
+Endereço: RODOVIA MG-460 (Esta Munic Horacio Marinho) Número: 350
+Complemento: Bairro: Do Jardim
+CEP: 37640-000 Município: EXTREMA UF: MG País: Brasil
 
-Agencia: 0001
+E-mail: leticia. louiseOgocase.com.br Telefone: (85)9968-7988
 
-Conta: 30609561-1
+Atividade Econômica
+17.06.00 / 17.06.00 - Propaganda E Publicidade, Inclusive Promoção De Vendas, Planejamento De Campanhas Ou Sistemas De Publicidade,
 
-Pix: 39969278000107
+Discriminação do Serviço
+Campanha publicitária com (Qnatingraci JUL/25 + Direitos de Imagem + Canal Whatsapp
 
-PERCENTUAL APROXIMADO DE TRIBUTOS: 6%
+Dados Bancários:
 
-Valor Líquido da Nota Fiscal = R$ 5.200,00
+Banco: Nu Pagamentos
 
-VALOR TOTAL DA NOTA - R$5.200,00
+PIX: nataliaingraci(O gmail.com
+AG: 0001 C/C: 48819631-0
 
-Código da Atividade
+Tributos Federais (R$) Valor Aproximado dos Tributos (%)
+PIS COFINS INSS IR CSLL Federal Estadual Municipal Fonte
+0,00 0,00 0,00 0,00 0,00 0,00% 0,00% 0,00%
+Identificação Prestação de Serviços Detalhamento de Valores (R$)
+Código da Obra Valor do Serviço 19.200,00
+Código A.R.T. Desconto Incondicionado 0,00
+Exigibilidade ISSQN 1-Exigível Desconto Condicionado 0,00
+Regime Especial de Tributação O-Nenhum Retenções Federais 0,00
+Simples Nacional (X) Sim () Não Outras Retenções 0,00
+Incentivador Fiscal Deduções Previstas em Lei 0,00
+Competência 08/2025 Base de Cálculo 19.200,00
+Município Prestação SAO JOSE DO RIO PRETO - SP Alíquota 3,00
+Munícipio Incidência SAO JOSE DO RIO PRETO - SP ISSQN 0,00
+ISSQN a Reter (D Sim (X) Não Valor Líquido 19.200,00
 
-17-06 -Propagandae publicidade, inclusive promoção de vendas, planejamento de campanhas ou sistemas de publicidade,
-elaboração de desenhos, textos e demais materiais publictános.
+Outras Informações
 
-Valor Total das Deduções (R$) | Base de Cálculo (R$) Valor do ISS (R$) | Crédito p/ Abatimento do IPTU
-
-OUTRAS INFORMAÇÕES
-Esta NFS-e foi emitida com respaldo na Lei 73/2009.
-Documento emitido por ME ou EPP optante pelo Simples Nacional.
-Não gera direito a crédito fiscal de IPI.
-
-Mais informações: nota.curitiba.pr.gov.br
-
-https://isscuritiba.curitiba.pr.gov.br/isssistema/Nfse/EmitirNfse Página 1 de 1
