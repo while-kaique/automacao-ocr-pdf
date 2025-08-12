@@ -1,87 +1,141 @@
 
 --- Página 1 ---
-PREFEITURA MUNICIPAL DE
-N FSe DANFSe v1.0 & CURITIBA
-ervico elet Documento Auxiliar da NFS-e
+paty PREFEITURA MUNICIPAL DE SANTO ANDRÉ | Número da
+SECRETARIA MUNICIPAL DE FINANÇAS, PLANEJAMENTO E TECNOLOGIA DA NFS-e
+NOTA FISCAL ELETRÔNICA DE SERVIÇO - NFS-e 106
+“am mi e”
+Data e Hora da Emissão 07/08/2025 15:19:47 Competência 7/8/2025 Código de Verificação 3TJVK6IBM
 
-Chave de Acesso da NFS-e
-41069022257704222000102000000000001025083592151319
+Número do RPS
 
-Número da NFS-e Competência da NFS-e Data e Hora da emissão da NFS-e
-10 04/08/2025 04/08/2025 10:41:10
+No. da NFS-e substituída
 
-ç a]
-rig
-Número da DPS Série da DPS Data e Hora da emissão da DPS lhiix
-19 900 04/08/2025 10:41:10 A autenticidade desta NFS-e pode ser verificada
+Razão Social/Nome
 
-pela leitura deste código QR ou pela consulta da
-chave de acesso no portal nacional da NFS-e
-EMITENTE DA NFS-e CNPJ/CPF/NIF Inscrição Municipal Telefone
-Prestador do Serviço 57.704.222/0001-02 - 410
+Nome Fantasia
 
-Nome / Nome Empresarial E-mail
-57.704.222 MARIAH MAESTRELLI MARUCCO STIVAL CONTATOMARIAHSTIVALQGMAIL.COM
+YASMIN SCORSE
 
-Endereço Município CEP
-ANGELO MAZZAROTTO, 301, SANTA FELICIDADE Curitiba - PR 82320-170
+USE YASCORSE
 
-Simples Nacional na Data de Competência Regime de Apuração Tributária pelo SN
-Optante - Microempreendedor Individual (MEI) -
+Local da Prestação
 
-TOMADOR DO SERVIÇO CNPJ/CPF/NIF Inscrição Municipal Telefone
-22.165.464/0003-52 - -
+SANTO ANDRE - SP
 
-Nome / Nome Empresarial E-mail
-GO COMERCIO DE ARTIGOS ELETRONICOS E ACESSORIOS LTDA -
+CNPJ/CPF
 
-Endereço Município CEP
-FERNAO DIAS, S/N, KM 947.5 AREA C1 A C6, DOS PIRES Extrema - MG 37642-917
+289559
 
-INTERMEDIÁRIO DO SERVIÇO NÃO IDENTIFICADO NA NFS-e
-SERVIÇO PRESTADO
+Município
 
-Código de Tributação Nacional Código de Tributação Municipal Local da Prestação País da Prestação
-10.08.01 - Agenciamento de - Curitiba - PR -
+39.479.249/0001-67 | Inscrição Municipal
 
-publicidade e propaganda, inclusive o
+SANTO ANDRE - SP
 
-age...
+Endereço e CEP
 
-Descrição do Serviço
-divulgacao e publicidade
+RUA Coronel Fernando Prestes ,535 - Centro CEP: 09020-110
 
-TRIBUTAÇÃO MUNICIPAL
+Razão Social/Nome
 
-Tributação do ISSQN País Resultado da Prestação do Serviço Município de Incidência do ISSQN Regime Especial de Tributação
-Operação Tributável - Curitiba - PR Nenhum
+Complemento
 
-Tipo de Imunidade Suspensão da Exigibilidade do ISSQN Número Processo Suspensão Benefício Municipal
-- Não - -
+Telefone (01)6696-4840 e-mail
 
-Valor do Serviço Desconto Incondicionado Total Deduções/Reduções Cálculo do BM
+GO COMERCIO DE ARTIGOS ELETRONICOS E ACESSORIOS LTDA
 
-R$ 4.000,00 - - -
+ROBSON.DESTACKOGMAIL.COM
 
-BC ISSQN Alíquota Aplicada Retenção do ISSQN ISSQN Apurado
-- - Não Retido -
+CNPJ/CPF
 
-TRIBUTAÇÃO FEDERAL
-IRRF CP CSLL
+22.165.464/0001-90
 
-COFINS Retenção do PIS/COFINS TOTAL TRIBUTAÇÃO FEDERAL
+Inscrição Municipal Município
 
-VALOR TOTAL DA NFS-E
+FORTALEZA - CE
 
-Valor do Serviço Desconto Condicionado Desconto Incondicionado ISSQN Retido
-R$ 4.000,00 R$ R$ -
+Endereço e CEP
 
-IRRF, CP,CSLL - Retidos PIS/COFINS Retidos Valor Líquido da NFS-e
-R$ 0,00 - R$ 4.000,00
+RUA PADRE VALDEVINO ,2528 - DIONISIO TORRES CEP: 60135-414
 
-TOTAIS APROXIMADOS DOS TRIBUTOS
-Federais Estaduais Municipais
+Complemento
 
-INFORMAÇÕES COMPLEMENTARES
-NBS: 114061200
+Valor: 33.500
+
+Dados da conta:
+
+USE YASCORSE
+
+CNPJ 39.479.249.0001-67
+Stone pagamentos - 197
+[Agência 0001
+
+Conta: 9061567-5
+
+PIS(R$)
+
+Valor do Serviço R$
+
+SALA 02
+
+Conteúdo para as redes sociais (Ogocasebr
+Período 2 meses - 16.500 + 17.000
+
+Código da Obra
+
+Temas
+
+Telefone (85)9813-0660 e-mail
+
+33.500,00 Natureza Operação
+
+Valor do Serviço R$
+
+CONTABILIDADEGQGOCASE.COM
+
+Valor ns dos Tributos: o
+
+17.06 / 17.06 / 731909900 - OUTRAS ATIVIDADES DE PUBLICIDADE NÃO ESPECIFICADAS ANTERIORMENTE
+
+TO cms
+re | Jos] | cum
+
+33.500,00
+
+(-) Outras Retenções
+
+0,00 Opção Simples Nacional (x) Alíquota %
+
+(-) Desconto Incondicionado 0,00 1-Tributação no município (-) Deduções Permitidas em Lei 0,00
+
+(-) Desconto Condicionado 0,00 Regime Especial Tributação |(-) Desconto Incondicionado 0,00
+
+(-) Retenções Federais 0,00 0-Nenhum Base de Cálculo 33.500,00
+2,00
+
+(-) ISSQN Retido
+
+1-Sim ISSQN a Reter
+
+0,00
+
+() Sim (X) Não
+
+(=) Valor Líquido R$
+
+Incentivador Cultural
+
+33.500,00
+
+2-Não
+
+(=) Valor do ISSQN R$
+
+0,00
+
+Avisos
+
+1- Uma via desta Nota Fiscal será enviada através do e-mail fornecido pelo Tomador do Serviço.
+2- A autenticidade desta Nota Fiscal poderá ser verificada no site, com a utilização do Código de Verificação.
+3 - Documento emitido por ME ou EPP optante pelo Simples Nacional.Não gera direito a crédito fiscal de ISS e IPI.
 
