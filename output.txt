@@ -1,61 +1,84 @@
 
 --- Página 1 ---
-PREFEITURA DA CIDADE DO RIO DE JANEIRO “0000071
-SECRETARIA MUNICIPAL DE FAZENDA
-NOTA FISCAL DE SERVIÇOS ELETRÔNICA - NFS-e 04/08/2025 13:98:45
-ódigo de Verificação
-. NOTA CARIOCA
+ca MUNICÍPIO DE GUARULHOS
+N FSe DANFSe v1.0 MA (11)2423-8646
+ervico elet Documento Auxiliar da NFS-e [cuarúHos] issqnQguarulhos.sp.gov.br
 
-PRESTADOR DE SERVIÇOS
+Chave de Acesso da NFS-e
+35188002256701118000100000000000002925086758732931
 
-CPF/CNPJ: 42.310.929/0001-67 Inscrição Municipal: 1.347.118-65 Inscrição Estadual: ---
+Número da NFS-e Competência da NFS-e Data e Hora da emissão da NFS-e
+29 07/08/2025 07/08/2025 23:40:55
 
-Nome/Razão Social: FPL INOVA PROMOCOES E DIVULGACOES DE VENDAS LTDA
+Número da DPS Série da DPS Data e Hora da emissão da DPS RR
 
-Nome Fantasia: FLAVIA LOURENCO Tel.: 21991644786
+29 900 07/08/2025 23:40:55 A autenticidade desta NFS-e pode ser verificada
+pela leitura deste código QR ou pela consulta da
+chave de acesso no portal nacional da NFS-e
 
-Endereço: RUA PROF GASTAO BAHIANA 300, APTO 1001 - COPACABANA - CEP: 22071-030
+EMITENTE DA NFS-e CNPJ/CPF/NIF Inscrição Municipal Telefone
 
-Município: RIO DE JANEIRO UF: RJ E-mail: FLAVIAPLOURENCOGGMAIL.COM
-TOMADOR DE SERVIÇOS
+Prestador do Serviço 96.701.118/0001-00 - (11) 9666-5208
 
-CPF/CNPJ: 22.165.464/0001 -90 Inscrição Municipal: ---- Inscrição Estadual: ----
-Nome/Razão Social: GO COMERCIO DE ARTIGOS ELETRÔNICOS E ACESSÓRIOS LTDA
+Nome / Nome Empresarial E-mail
+56.701.118 GABRIELLY DE ALMEIDA MARQUES MAGALHAES AC.GABIMAGALHAES(QOGMAIL.COM
 
-Endereço: RUA PADRE VALDEVINO 2528, SALA 02 - DIONISIO TORRES - CEP: 60135-414 Tel.: 8598130660
-Município: FORTALEZA UF: CE E-mail: CONTABILIDADEGGOCASE.COM
+Endereço Município CEP
+HELIO MANZONI, 46, GOPOUVA Guarulhos - SP 7092070
 
-DISCRIMINAÇÃO DOS SERVIÇOS
+Simples Nacional na Data de Competência Regime de Apuração Tributária pelo SN
+Optante - Microempreendedor Individual (MEI) -
 
-PRESTAÇÃO DE SERVIÇOS
+TOMADOR DO SERVIÇO CNPJ/CPF/NIF Inscrição Municipal Telefone
+22.165.464/0001-90 - -
 
-DADOS BANCÁRIOS
+Nome / Nome Empresarial E-mail
+GO COMERCIO DE ARTIGOS ELETRONICOS E ACESSORIOS LTDA CONTABILIDADEGGOCASE.COM
 
-Banco: NUBANK 0260
+Endereço Município CEP
+CAROLINA SUCUPIRA, 1368, 1 ANDAR SALA A, ALDEOTA Fortaleza - CE 60140-120
 
-Agencia: 0001
+INTERMEDIÁRIO DO SERVIÇO NÃO IDENTIFICADO NA NFS-e
+SERVIÇO PRESTADO
 
-Conta: 68313387-5
+Código de Tributação Nacional Código de Tributação Municipal Local da Prestação País da Prestação
+17.06.01 - Propaganda e publicidade, - Guarulhos - SP -
+inclusive promoção de vendas, p...
 
-Código PIX: 42.310.929/000167 (Chave PIX)
+Descrição do Serviço
+Promoção de Vendas
 
-VALOR DA NOTA = R$ 4.000,00
+TRIBUTAÇÃO MUNICIPAL
 
-Serviço Prestado
-17.06.03 - Promoção de vendas
+Tributação do ISSQN País Resultado da Prestação do Serviço Município de Incidência do ISSQN Regime Especial de Tributação
+Operação Tributável - Guarulhos - SP Nenhum
 
-Deduções (R$) Desconto Incond. (R$) |Base de Cálculo (R$) Alíquota (%) Valor do 55 (R$) Crédito p/ IPTU (R$)
+Tipo de Imunidade Suspensão da Exigibilidade do ISSQN Número Processo Suspensão Benefício Municipal
+- Não - -
 
-0,00 0,00 0,00
-OUTRAS INFORMAÇÕES
+Valor do Serviço Desconto Incondicionado Total Deduções/Reduções Cálculo do BM
+R$ 5.000,00 - - -
 
-- Esta NFS-e foi emitida com respaldo na Lei nº 5.098 de 15/10/2009 e no Decreto nº 32.250 de 11/05/2010
+BC ISSQN Alíquota Aplicada Retenção do ISSQN ISSQN Apurado
+- Não Retido -
 
-- PROCON-RJ: Av. Rio Branco nº 25, 5º andar, tel 151: ww. procon.r).gov.br
+TRIBUTAÇÃO FEDERAL
+IRRF CP CSLL
 
-- ISS devido deve ser recolhido por meio de Documento de Arrecadação do Simples Nacional (DAS).
+COFINS Retenção do PIS/COFINS TOTAL TRIBUTAÇÃO FEDERAL
 
-- Documento emitido por ME ou EPP optante pelo Simples Nacional. Não gera direito a crédito fiscal de IPI.
+VALOR TOTAL DA NFS-E
 
-- Esta NFS-e não gera crédito para abatimento no IPTU.
+Valor do Serviço Desconto Condicionado Desconto Incondicionado ISSQN Retido
+R$ 5.000,00 R$ R$ -
+
+IRRF, CP,CSLL - Retidos PIS/COFINS Retidos Valor Líquido da NFS-e
+R$ 0,00 - R$ 5.000,00
+
+TOTAIS APROXIMADOS DOS TRIBUTOS
+
+Federais Estaduais Municipais
+
+INFORMAÇÕES COMPLEMENTARES
+NBS: 114061100
 
