@@ -1,67 +1,58 @@
 
 --- Página 1 ---
-MUNICÍPIO DE SÃO JOSÉ DO RIO PRETO NFS-e
+PREFEITURA DA CIDADE DO RIO DE JANEIRO “0000112
+SECRETARIA MUNICIPAL DE FAZENDA
+NOTA FISCAL DE SERVIÇOS ELETRÔNICA - NFS-e 04/08/2025 16:25:26
+ódigo de Verificação
+- NOTA CARIOCA -
+PRESTADOR DE SERVIÇOS
 
-291
-SECRETARIA DA FAZENDA Código de Verificação
+CPF/CNPJ: 50.599.292/0001-07 Inscrição Municipal: 1.545.058-4 Inscrição Estadual: ---
+Nome/Razão Social: DANIELE ARAUJO FREIRE LTDA
+Nome Fantasia: DANIELE ARAUJO FREIRE Tel.: 2125683096
+Endereço: RUA PROF GABIZO 252, APT 0202 BLC 002 - MARACANA - CEP: 20271-062
+Município: RIO DE JANEIRO UF: RJ E-mail: daniele. afreireG) gmail.com
 
-NOTA FISCAL DE SERVIÇO ELETRÔNICA - NFS-e VYZ3MCKPF
+TOMADOR DE SERVIÇOS
+CPF/CNPJ: 22.165.464/0001 -90 Inscrição Municipal: ---- Inscrição Estadual: ----
+Nome/Razão Social: GO COMERCIO DE ARTIGOS ELETRÔNICOS E ACESSÓRIOS LTDA
 
-Emissão da NFS-e
-01/08/2025 16:02
-RPS Série RPS Tipo RPS NFS-e Substituída
+Endereço: RUA PADRE VALDEVINO - DIONISIO TORRES - CEP: 60135-414 Tel. --—
+Município: FORTALEZA UF: CE E-mail:
+DISCRIMINAÇÃO DOS SERVIÇOS
 
-Prestador de Serviço
+referente a divulgação de Gocase no mês de julho 2025. Vencimento 31/08
 
-CPF/CNPJ:  42.667.708/0001-40 Inscrição 3833070
-Nome/Razão Social: NATALIA CRISTINA SHINAGAWA INGRACI LTDA
+DADOS BANCÁRIOS PARA PAGAMENTO
 
-Endereço Rua Antonio de Arruda Número: 342
+Banco: 0260
 
-Complemento: Bairro: Residencial Maria Júlia
-CEP: 15063-211 Município: SAO JOSE DO RIO PRETO UF: SP País: Brasil
+Nome: Nu Pagamentos S.A. ; Instituição de Pagamento
+Agência: 0001
 
-E-mail: -meucnpj(Qcontabilizei.com.br Telefone: (41)9686-9828
+Conta: 231262538-6
 
-Tomador de Serviço
+Pix: 50599292000107
 
-CPF/CNPJ: 22.165.464/0003-52 Inscrição Municipal: NIF:
+VALOR DA NOTA = R$ 6.400,00
 
-Nome/Razão Social: Go comercio de Artigos eletronicos e acessorios LTDA
+Serviço Prestado
+17.06.02 - Propaganda e publicidade - serviços concernentes à concepção, redação e produção de propaganda e
 
-Endereço: RODOVIA MG-460 (Esta Munic Horacio Marinho) Número: 350
-Complemento: Bairro: Do Jardim
-CEP: 37640-000 Município: EXTREMA UF: MG País: Brasil
+publicidade, inclusive divulgação de material publicitário
 
-E-mail: leticia. louiseOgocase.com.br Telefone: (85)9968-7988
+Deduções (R$) Desconto Incond. (R$) |Base de Cálculo (R$) Alíquota (%) Valor do 55 (R$) Crédito p/ IPTU (R$)
+0,00 0,00 0,00
 
-Atividade Econômica
-17.06.00 / 17.06.00 - Propaganda E Publicidade, Inclusive Promoção De Vendas, Planejamento De Campanhas Ou Sistemas De Publicidade,
+OUTRAS INFORMAÇÕES
 
-Discriminação do Serviço
-Campanha publicitária com (Qnatingraci JUL/25 + Direitos de Imagem + Canal Whatsapp
+- Esta NFS-e foi emitida com respaldo na Lei nº 5.098 de 15/10/2009 e no Decreto nº 32.250 de 11/05/2010
 
-Dados Bancários:
+- PROCON-RJ: Av. Rio Branco nº 25, 5º andar, tel 151: ww. procon.r).gov.br
 
-Banco: Nu Pagamentos
+- ISS devido deve ser recolhido por meio de Documento de Arrecadação do Simples Nacional (DAS).
 
-PIX: nataliaingraci(O gmail.com
-AG: 0001 C/C: 48819631-0
+- Documento emitido por ME ou EPP optante pelo Simples Nacional. Não gera direito a crédito fiscal de IPI.
 
-Tributos Federais (R$) Valor Aproximado dos Tributos (%)
-PIS COFINS INSS IR CSLL Federal Estadual Municipal Fonte
-0,00 0,00 0,00 0,00 0,00 0,00% 0,00% 0,00%
-Identificação Prestação de Serviços Detalhamento de Valores (R$)
-Código da Obra Valor do Serviço 19.200,00
-Código A.R.T. Desconto Incondicionado 0,00
-Exigibilidade ISSQN 1-Exigível Desconto Condicionado 0,00
-Regime Especial de Tributação O-Nenhum Retenções Federais 0,00
-Simples Nacional (X) Sim () Não Outras Retenções 0,00
-Incentivador Fiscal Deduções Previstas em Lei 0,00
-Competência 08/2025 Base de Cálculo 19.200,00
-Município Prestação SAO JOSE DO RIO PRETO - SP Alíquota 3,00
-Munícipio Incidência SAO JOSE DO RIO PRETO - SP ISSQN 0,00
-ISSQN a Reter (D Sim (X) Não Valor Líquido 19.200,00
-
-Outras Informações
+- Esta NFS-e não gera crédito para abatimento no IPTU.
 
