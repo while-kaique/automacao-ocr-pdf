@@ -1,61 +1,63 @@
 
 --- Página 1 ---
-05/08/2025, 15:38 Usuário: 32.280.314/0001-81 - NF-e - Nota Fiscal Eletrônica de Serviços - São Paulo
+05/08/2025, 13:04 e-nfs.com.br/e-nfs novalima/servlet/aprelnotafiscalxml?BoWOwjo5ôNxtW6sXe6y3MhkKjORFEPFqpJOb4AEvDr+nA=
 
-PREFEITURA DO MUNICÍPIO DE SÃO PAULO 0000234
-SECRETARIA MUNICIPAL DA FAZENDA Data e Hora de Emissão
+PREFEITURA MUNICIPAL DE NOVA LIMA S NFS-€e
 
-R 05/08/2025 10:38:21
-NOTA FISCAL ELETRÔNICA DE SERVIÇOS - NFS-e Código de Verificação
+Secretaria Municipal de Fazenda Na Finca ca Soniçãs ESG
 
-EEVS-EGTD
+NOTA FISCAL DE SERVIÇOS ELETRÔNICA - NFSe Código de verificação Data/Hora da emissão
+DE6672CC7 2025-08-05 - 12:33:09
+A autenticidade desta nota pode ser confirmada
 
-PRESTADOR DE SERVIÇOS
-CPF/CNPJ: 32.280.314/0001-81 Inscrição Municipal: 6.147.069-4
-Nome/Razão Social: L A S DINIZ EVENTOS LTDA.
-Endereço: R RIO GRANDE 434, APT 41 -VILA MARIANA - CEP: 04018-001
-Município: São Paulo UF: SP
+em: https://e-nfs.com.br/e-nfs novalima,
+informando o código de verificação.
 
-TOMADOR DE SERVIÇOS
-Nome/Razão Social: GO COMERCIO DE ARTIGOS ELETRONICOS E ACESSORIOS LTDA
-CPF/CNPJ: 22.165.464/0001-90 Inscrição Municipal: ----
-Endereço: R Padre Valdevino 2475 - Dionisio Torres - CEP: 60135-414
-Município: Fortaleza UF: CE E-mail: contabilidadeG)gocase.com
+Natureza da operação Número da Nota
 
-INTERMEDIÁRIO DE SERVIÇOS
-CPF/CNPJ: === Nome/Razão Social: ---=
+Simples Nacional 65
 
-DISCRIMINAÇÃO DOS SERVIÇOS
-DESCRIÇÃO NA NF:
+LA HEALTH & CARE LTDA
+ALA - DO MORRO-0006, 130,APT 1501 QUADRAO000J LOTE 0001
+VILA DA SERRA
+cep 34006083 - NOVA LIMA - -
+crrycnr) 58.612.992/0001-98 Inscrição Municipal 29658557
+Email REGISTROGQFORDOCTOR.COM.BR Inscrição Estadual
 
-Serviço referente a contratação do (a) CREATOR LUCA SCARPELLI para o job GOCASE
-PARCELA 2 DE 3
+Tomador de Serviço
+GO COMERCIO DE ARTIGOS ELETRONICOS E ACESSORIOS LTDA
+22.165.464/0001-90
+RUA PADRE VALDEVINO, 2528, SALA 02
+DIONISIO TORRES
+60135-414
+NOVA LIMA - MG - BRASIL Inscrição Municipal
+paulazulianOpz317.com Inscrição Estadual
 
-DADOS BANCÁRIOS:
+Discriminação do Serviço /Dados Adicionais
 
-Conta empresarial CNPJ 32260314/0001-81
-Banco Inter - 077
+Campanha com a influenciadora Oluizandradec - parcela 2 DADOS BANCÁRIOS: BANCO: BANCO CORA,
+AGENCIA: 0001, CONTA: 5489947-3
 
-Agência: 0001
+1706-PROPAGANDA E PUBLICIDADE, INCLUSIVE PROMOÇÃO DE VENDAS, .
+PLANEJAMENTO DE CAMPANHAS OU SISTEMAS DE PUBLICIDADE, ELABORAÇÃO
+DE DESENHOS, TEXTOS E DEMAIS MATERIAIS PUBLICITÁRIOS
 
-Conta: 12542751-4
+'alor do Serviço (R$) Qtd. Desconto(R$) Dedução(R$) Base de Cálculo(R$) liquota(%) |Valor do ISS(R$) otal(R$)
+3.500,00 3.500,00 | 2,52 | 8820 | 3.500,00
 
-PIX: 32260314/0001-81
+VALOR TOTAL DA NOTA = R$ 3.500,00
 
-VENCIMENTO - 29/08/25
+Retenções
 
-VALOR TOTAL DO SERVIÇO = R$ 13.600,00
-INSS (R$) | IRRF (R$) | CSLL (R$) | COFINS (R$) | PIS/PASEP (R$)
+INSS(RS) PIS(RS) Cofins(R$) TSLI(RS) IRRF(R$)
 
-Código do Serviço
-02496 - Propaganda e publicidade, promoção de vendas, planejamento de campanhas e materiais publicitários.
-Valor Total das Deduções (R$) Base de Cálculo (R$) Alíquota (9%) Valor do ISS (R$) Crédito (R$)
-0,00 x x x
-Município da Prestação do Serviço Número Inscrição da Obra Walor Aproximado dos Tributos / Fonte
+Outras Informações
 
-OUTRAS INFORMAÇÕES
+- Esta NFSE foi emitida com respaldo da Lei nº 1.911/2005 e do Decreto nº
+10.259/2020.
 
-(1) Esta NFS-e foi emitida com respaldo na Lei nº 14.097/2005; (2) Documento emitido por ME ou EPP optante pelo Simples
-Nacional;
+- Operação não gera valor de ISSQN. Contribuinte Simples Nacional.
 
-https://nfe prefeitura.sp.gov.br/contribuinte/notaprint.aspx?nf=231 &inscricao=6 14706948 email=1 &SMS=0&returnurl=nota .aspx%3finscricao%3d61470694 11
+- Contribuinte SIMPLES NACIONAL aliquota informada: 2,52.
+
+https://e-nfs.com.br/e-nfs novalima/servlet/aprelnotafiscalxml?BoWOwjo5NxtW6sXe6y3MhKjJORFEPFapJOb4AEvDr+nA=
