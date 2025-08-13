@@ -7,10 +7,10 @@ Número / Série RPS
 SECRETARIA MUNICIPAL DA FAZENDA -
 
 Data Competência
-06/08/2025
+04/07/2025
 
 Data de Emissão
-06/08/2025 09:20
+04/07/2025 14:23
 
 NOTA FISCAL DE SERVIÇOS ELETRÔNICA - NFS-e
 
@@ -69,13 +69,13 @@ Serviço Prestado: 170601 - Propaganda e publicidade, inclusive promoção de ve
 publicidade, elaboração de desenhos, textos e demais materiais publicitários.
 Local de Tributação: Canoas / RS
 
-Data do vencimento do ISSQN desta NFS-e: 22/09/2025
+Data do vencimento do ISSQN desta NFS-e: 20/08/2025
 
 AUTENTICIDADE
 A autenticidade desta Nota Fiscal de Serviços Eletrônica - NFS-e pode ser verificada no portal do Município no endereço:
 
-https://nfse.canoas.rs.gov.br/nfse/consultaExterna/435885141200011590000000000032983974414
-Código de Verificação: 68X.0EQ.C77
-Chave de Acesso: 43-58851412000115-90-000-000000032/983974414
+https://nfse.canoas.rs.gov.br/nfse/consultaExterna/435885141200011590000000000028415386966
+Código de Verificação: L5X.P01.78D
+Chave de Acesso: 43-58851412000115-90-000-000000028/415386966
 
 Página 1/1
