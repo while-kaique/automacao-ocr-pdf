@@ -1,96 +1,61 @@
 
 --- Página 1 ---
-VANESSA WONSOVICZ LTDA
+PREFEITURA MUNICIPAL DE VILA VELHA
 
-Rua LUIZ JACQUES MANOZZO, 328 - APTO 702 SALA 1
-CEP: 95201-150 - Bairro: CARAZINHO
+29102-375 - AVENIDA SANTA LEOPOLDINA - COQUEIRAL ITAPARICA - VILA VELHA - ES Competência
 
-Município: Vacaria - RS
+SEE Nota Fiscal de Serviços Eletrônica - NFS-e 08/2025
 
-E-mail: contato()vanessawz.com.br
+|
+Número RPS: Número Nota Fiscal: | Data Emissão
+107| 01/08/2025
 
-Fone: (54) 99904-0394
+NF PROJETOS LTDA
 
-CNPJ/CPF Inscrição Estadual Inscrição Municipal * a b' 07/08/2025 5763589d3
-21.610.614/0001-65 O 138209 E E:
+29101-270 - RUA JOSEPH ZGAIB, 95 APT 701 BLOCO B - PRAIA DA COSTA
+VILA VELHA - ES - CEP: 29101-270
+CNPJICPF:44.229.205/0001-19 Inscr. Estadual/RG:
+Email: CONTATOGMAXPRIMECONTABILIDADE.COM.BR
+Telefone: 20224509 Ccm 258179
+Local do Serviço: 1 - SERVIÇO PRESTADO NO MUNICÍPIO DE VILA VELHA
+Natureza Operação: Prestação de Serviços
+Sub item da lista de serviço: 17.06 - Propaganda e publicidade, inclusive promoção de vendas, planejamento de campanhas ou sistemas de publicidade, elaboração
 
-MUNICIPIO DE VACARIA/RS Dt. de Emissão Tributado no Município
-Secretária de Gestão e Finanças
-Fone: (54) 3232-1176 - https://vacaria.govbr.cloud/nfse.portal 07/08/2025
+Exigibilidade ISS: Exigível Incentivo Fiscal: NÃO Regime: Simples Nacional
 
-TOMADOR DO SERVIÇO Município de Prestação do Serviço
-Vacaria/RS
+Dados do Tomador de Serviço
 
-Data do Serviço Código Verificador
+GO COMERCIO DE ARTIGOS ELETRONICOS E ACESSORIOS LTDA
 
-CEP
-(85) 9813-0660 60135-414
+R PADRE VALDEVINO -
 
-INTERMEDIÁRIO DO SERVIÇO
+DIONISIO TORRES - FORTALEZA - CE - Brasil - CEP: 60.135-414
 
-CNPJ / CPF Inscrição Municipal
-eee bei
+CNPJ/CPF: 22.165.464/0001-90 Inscrição Estadual/RG: Inscrição Municipal: GOCASE
+E-mail:
 
-Fone Cidade
-falta
+End. Cobrança:
 
-DESCRIÇÃO DOS SERVIÇOS VALOR TOTAL ALIQ. VALOR IMPOSTO RETIDO
+Qtd Un Discriminação dos Serviços Valor Unitário Valor Total
 
-CONTA PARA PAGAMENTO: 5.200,00 Não
-Banco 136 - UNICRED - conta PJ
+1 Conta bancária 18.110,09 18.110,09
+Banco: Nubank - 0260
+Agência: 0001
+Conta: 44665309-1
+Chave Pix: 44.229.205/0001-19
 
-Agência 6002
+DOCUMENTO EMITIDO POR ME OU EPP OPTANTE PELO SIMPLES NACIONAL.
 
-Conta corrente 188556-1
+Observação:
+DO osidepeduções| 00 |
+[DO Descincondcionado| om |
+=
 
-CNPJ 21.610.614/0001-65
+Total da Nota RETENÇÕES Total Liquido
 
-Chave PIX: 21.610.614/0001-65
+IRRF PIS COFINS CSLL INSS OUTROS
+18.110,09 0,001 o,00| 000] 0,001 0,001 o,00| 0,00 18.110,09
 
-Vanessa Wonsovicz
+Esta é a chave de validação: XPDM-DYKA
+A validação dessa nota pode ser realizada no endereço: www.vilavelha.es.gov.br
 
-Código do Serviço Código NBS
-17.06 - Propaganda e publicidade, inclusive promoção de vendas, planejamento ado
-
-de campanhas ou sistemas de publicidade, elaboração de desenhos, textos e
-
-demais materiais publicitários.
-
-0,00 0,00 0,00 0,00 0,00 0,00 0,00
-Base Cálculo ISSON Próprio Valor do ISSQN Próprio Base Cálculo ISSQN Retido [Valor do ISSQN Retido Valor Total do ISSQN Valor Dedução/Descontos
-5.200,00 0,00 0,00 0,00 0,00 0,00
-
-alor Total da NFS-e 5.200,00 alor Líquido da NFS-e 5.200,00
-
-Informações Adicionais
-
-NOTA EMITIDA POR ME OU EPP OPTANTE PELO SIMPLES NACIONAL
-NÃO GERA DIREITO A CRÉDITO FISCAL DE IPI
-Lei 12741/2012: Mun: R$0,00; Est: R$0,00; Fed: R$0,00; Total Aprox: R$0,00.
-
-Consulta realizada em 07/08/2025 às 11:24:42.
-Para consultar a autenticidade acesse: https://vacaria.govbr.cloud/nfse.portal
-
-2025000000003835763589d321610614000165
-
-Recebi(emos) de 202500000000383
-
-Número da NFS-e Número de Controle do Município
-VANESSA WONSOVICZ LTDA
-
-Competência
-07/08/2025
-
-os serviços constantes da Nota Fiscal Eletrônica indicada ao lado.
-
-NFS-e
-
-11]
-= 5763589d3
-
-Data Identificação e assinatura do recebedo!
-
-Consulta realizada em 07/08/2025 às 11:24:42.
-Para consultar a autenticidade acesse: https://vacaria.govbr.cloud/nfse.portal
-
-Página 1
