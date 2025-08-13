@@ -1,46 +1,199 @@
 
 --- Página 1 ---
-04/08/2025,09:21 Contabilizei - Contabilidade Online
+NFSe ss:
 
-Número da Nota
-PREFEITURA MUNICIPAL DE BELO HORIZONTE 202500000H000DS
-Data da emissão
-NOTA FISCAL DE SERVIÇOS ELETRÔNICA - NFS-e 04/08/2025 09:21
-Código de
-Verificação
-48978f52
-PRESTADOR DE SERVIÇOS
-Razão Social: LARA MACEDO LEMBRANCE Inscrição Municipal: 16624940019
-LTDA Município/UF: Belo Horizonte - MG
-CNPJ: 60.823.402/0001-18 Telefone: (73)98880-8835
-Endereco: RUA RODRIGUES CALDAS 501 APT E-mail:
-902 Web site:
-Bairro: SANTO AGOSTINHO
-CEP: 30190120
-TOMADOR DE SERVIÇOS
-Nome / Razão Social: GO COMERCIO DE CPF / CNPJ: 22.165.464/0001-90
-ARTIGOS ELETRONICOS E ACESSORIOS LTDA Município/UF: Fortaleza - CE
-Endereco: PADRE VALDEVINO 2528 SALA 02 Telefone: 8598130660
-Bairro: DIONISIO TORRES E-mail:
-CEP: 60135414 CONTABILIDADEGGOCASE.COM
+DANFSe v1.0
 
-DISCRIMINAÇÃO DOS SERVIÇOS
+Documento Auxiliar da NFS-e
 
-SERVIÇOS PRESTADOS DE MÍDIA PARA MARCA GOCASE - Conforme Lei 12.741/2012, 0 percentual
-total de impostos incidentes neste serviço prestado é de aproximadamente 6%
+CIDADE DE
+SÃO PAULO
+FAZENDA.
 
-Valor líquido da Nota Fiscal = R$ 3.650,00
+Prefeitura da Cidade de São Paulo
+Secretaria Municipal da Fazenda
 
-VALOR TOTAL DA NOTA - R$ 3.650,00
+Chave de Acesso da NFS-e
 
-Código da Atividade
+35503082259896315000101000000000000625079784984360
 
-CNAE: 7319-0/03 - Marketing direto
-Item de Serviço: -
+Número da NFS-e
+6
 
-Base de cálculo (R$) Alíquota ISS (%) Valor do ISS (R$)
-3.650,00 73,36
+Número da DPS
+6
 
-https://app.contabilizei.com .br/nfse/*/visualizar/001/17e76804a9934841a7dlecc887303596
+EMITENTE DA NFS-e
+Prestador do Serviço
 
-11
+Nome / Nome Empresarial
+
+Competência da NFS-e
+07/07/2025
+
+Série da DPS
+900
+
+CNPJ/CPF /NIF
+59.896.315/0001-01
+
+59.896.315 KAROLINE SOARES DE OLIVEIRA
+
+Endereço
+
+DENDEZEIRO, 441, JARDIM MATARAZZO
+
+Simples Nacional na Data de Competência
+
+Optante - Microempreendedor Individual (MEI)
+
+Data e Hora da emissão da NFS-e
+07/07/2025 20:57:35
+
+Data e Hora da emissão da DPS
+07/07/2025 20:57:35
+
+Inscrição Municipal
+
+E-mail
+KAROLIVSOARESGQOGMAIL.COM
+Município
+
+São Paulo - SP
+
+Regime de Apuração Tributária pelo SN
+
+A autenticidade desta NFS-e pode ser verificada
+pela leitura deste código QR ou pela consulta da
+chave de acesso no portal nacional da NFS-e
+
+Telefone
+(11) 1198-4708
+
+CEP
+3813130
+
+TOMADOR DO SERVIÇO
+
+Nome / Nome Empresarial
+
+CNPJ/CPF /NIF
+22.165.464/0001-90
+
+GO COMERCIO DE ARTIGOS ELETRONICOS E ACESSORIOS LTDA
+
+Endereço
+
+PADRE VALDEVINO, 2528, SALA 02, DIONISIO TORRES
+INTERMEDIÁRIO DO SERVIÇO NÃO IDENTIFICADO NA NFS-e
+
+Inscrição Municipal
+
+E-mail
+Município
+Fortaleza - CE
+
+Telefone
+
+CEP
+60135-414
+
+SERVIÇO PRESTADO
+
+Código de Tributação Nacional
+17.06.01 - Propaganda e publicidade,
+inclusive promoção de vendas, p...
+
+Descrição do Serviço
+Vendas on-line
+
+Código de Tributação Municipal
+
+Local da Prestação
+São Paulo - SP
+
+País da Prestação
+
+TRIBUTAÇÃO MUNICIPAL
+
+Tributação do ISSQN
+Operação Tributável
+
+Tipo de Imunidade
+
+Valor do Serviço
+R$ 1.673,76
+
+BC ISSQN
+
+País Resultado da Prestação do Serviço
+
+Suspensão da Exigibilidade do ISSQN
+Não
+Desconto Incondicionado
+
+Alíquota Aplicada
+
+Município de Incidência do ISSQN
+São Paulo - SP
+
+Número Processo Suspensão
+
+Total Deduções/Reduções
+
+Retenção do ISSQN
+Não Retido
+
+Regime Especial de Tributação
+Nenhum
+
+Benefício Municipal
+
+Cálculo do BM
+
+ISSQN Apurado
+
+TRIBUTAÇÃO FEDERAL
+IRRF
+
+cr
+
+COFINS
+
+CSLL
+
+Retenção do PIS/COFINS
+
+TOTAL TRIBUTAÇÃO FEDERAL
+
+VALOR TOTAL DA NFS-E
+
+Valor do Serviço
+R$ 1.673,76
+
+IRRF, CP,CSLL - Retidos
+R$ 0,00
+
+Desconto Condicionado
+R$
+
+PIS/COFINS Retidos
+
+Desconto Incondicionado
+R$
+
+ISSQN Retido
+
+Valor Líquido da NFS-e
+R$ 1.673,76
+
+TOTAIS APROXIMADOS DOS TRIBUTOS
+
+Federais
+
+Estaduais
+
+Municipais
+
+INFORMAÇÕES COMPLEMENTARES
+
