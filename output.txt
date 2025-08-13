@@ -1,77 +1,53 @@
 
 --- Página 1 ---
-03/08/2025, 19:51 :: NFS-e - Nota Fiscal de Serviços eletrônica ::
+06/08/2025, 16:26 Usuário: 26.502.466/0001-89 - NF-e - Nota Fiscal Eletrônica de Serviços - São Paulo
 
-NFS-e - NOTA FISCAL DE SERVIÇOS ELETRÔNICA
+[ =x Número da Nota
+PREFEITURA DO MUNICIPIO DE SAO PAULO 00000324
 
-0. Emitida em: Competência: Código de Verificação:
-Nº:2025/20 03/08/2025 às 19:51:28 03/08/2025 12ecda34
-55.327.705 SOPHIA SOARES LIMA
-Ds CPF/CNPJ: 55.327.705/0001-00 Inscrição Municipal: 1564121/001-7
-o. RUA PROFESSOR MIGUEL DE SOUZA, 261, APT 302, Buritis - Cep: 30575-255
-Belo Horizonte MG
-Telefone: Email:
+SECRETARIA MUNICIPAL DA FAZENDA Data e Hora de Emissão
 
-Tomador do(s) Serviço(s)
+R 06/08/2025 16:26:03
+NOTA FISCAL ELETRÔNICA DE SERVIÇOS - NFS-e Código de Verificação
 
-CPF/CNPJ: 22.165.464/0001-90 Inscrição Municipal: Não Informado
-GO COMERCIO DE ARTIGOS ELLETRONICOS E ACESSORIOS LTDA
+GWF9-UARR
 
-PADRE VALDEVINO, 2528, SALA 02, DIONISIO TORRES - Cep: 60135-414
+PRESTADOR DE SERVIÇOS
+CPF/CNPJ: 26.502.466/0001-89 Inscrição Municipal: 7.684.061-1
+Nome/Razão Social: KREATORZ AGENCIAMENTO E PRODUCOES LTDA
+Endereço: R CEL JOSE EUSEBIO 95, CASA 13 - HIGIENOPOLIS - CEP: 01239-030
+Município: São Paulo UF: SP
 
-Fortaleza CE
+TOMADOR DE SERVIÇOS
+Nome/Razão Social: GO COMERCIO DE ARTIGOS ELETRONICOS E ACESSORIOS LTDA
+CPF/CNPJ: 22.165.464/0001-90 Inscrição Municipal: ----
+Endereço: R Padre Valdevino 2475 - Dionisio Torres - CEP: 60135-414
+Município: Fortaleza UF: CE E-mail: contabilidadeG)gocase.com
 
-Telefone: Não Informado Email: Não Informado
-Discriminação do(s) Serviço(s)
+INTERMEDIÁRIO DE SERVIÇOS
+CPF/CNPJ: === Nome/Razão Social: ---=
 
-Banco: Inter
+DISCRIMINAÇÃO DOS SERVIÇOS
+Ação/Campanha serviços de publicidade para a Marca Gocase - Influenciador Stefany
+VALOR:R$ 12.000,00
+Código: KRTZ 519
+Dados Bancários:
+KREATORS AGENCIAMENTO E PRODUÇÕES LTDA
+Agência 0001
+Conta 66129187-8
+Banco 0260 Nu Pagamentos S.A. - Instituição de Pagamento
+Pixlikreatorz.com.br
 
-Agência: 0001
+VALOR TOTAL DO SERVIÇO = R$ 12.000,00
+INSS (R$) | IRRF (R$) | CSLL (R$) | COFINS (R$) | PIS/PASEP (R$)
 
-Conta: 36734677-0
+Código do Serviço
+02496 - Propaganda e publicidade, promoção de vendas, planejamento de campanhas e materiais publicitários.
+Valor Total das Deduções (R$) Base de Cálculo (R$) Alíquota (9%) Valor do ISS (R$) Crédito (R$)
+0,00 12.000,00 5,00% 600,00 0,00
+Município da Prestação do Serviço Número Inscrição da Obra Walor Aproximado dos Tributos / Fonte
 
-PIX: 55.327.705/0001-00
-Vencimento: 25/06/2025
+OUTRAS INFORMAÇÕES
+(1) Esta NFS-e foi emitida com respaldo na Lei nº 14.097/2005; (2) Data de vencimento do ISS desta NFS-e: 10/09/2025;
 
-Valor aproximado do imposto: R$225,00
-
-Código de Tributação do Município (CTISS)
-
-1706-0/01-88 / Propaganda e publicidade, inclusive promoção de vendas, planejamento de campanhas ou sistemas de
-publicidade, elaboração de desenhos, textos e demais materiais publicitários.
-
-Subitem Lista de Serviços LC 116/03 / Descrição:
-
-17.06 / Propaganda e publicidade, inclusive promocao de vendas, planejamento de campanhas ou sistemas de publicidade,
-elaboracao de desenhos, textos e demais materiais publicitarios.
-
-Cod/Município da incidência do ISSQN: Natureza da Operação:
-3106200 / Belo Horizonte Tributação no município
-
-Regime Especial de Tributação: ME ou EPP do Simples Nacional
-
-Valor dos serviços: R$ 3.750,00 | Valor dos serviços: R$ 3.750,00
-(-) Descontos: R$ 0,00 (-) Deduções: R$ 0,00
-(-) Retenções Federais: R$ 0,00 (-) Desconto Incondicionado: R$ 0,00
-(-) ISS Retido na Fonte: R$ 0,00 (=) Base de Cálculo: R$ 3.750,00
-Valor Líquido: R$ 3.750,00 (x) Alíquota:
-
-(=)Valor do ISS: -
-
-Documento emitido por ME ou EPP optante pelo Simples Nacional. Não gera direito a credito fiscal de IPI.
-
-Outras Informações:
-Chave de acesso no Ambiente de Dados Nacional: 31062001255327705000100250000000002025084101543123.
-
-Prefeitura de Belo Horizonte - Secretaria Municipal de Fazenda
-Rua Espírito Santo, 605 - 3º andar - Centro - CEP: 30160-919 - Belo Horizonte MG.
-Dúvidas: SIGESP
-
-TA
-
-e
-Sor
-
-https://bhissdigital pbh.gov.br/nfse/pages/exibicaoNFS-e .jsf
-
-11
+https://nfe.prefeitura.sp.gov.br/contribuinte/notaprint.aspx?nf=324&inscricao=76840611&email=1&SMS=0&returnuri=nota.aspx%3finscricao%3dT7... 111
