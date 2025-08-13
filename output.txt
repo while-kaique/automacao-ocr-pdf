@@ -1,63 +1,38 @@
 
 --- Página 1 ---
-05/08/2025, 13:04 e-nfs.com.br/e-nfs novalima/servlet/aprelnotafiscalxml?BoWOwjo5ôNxtW6sXe6y3MhkKjORFEPFqpJOb4AEvDr+nA=
+LUISA SONCINI RADTKE LTDA DANFPS-E
 
-PREFEITURA MUNICIPAL DE NOVA LIMA S NFS-€e
+Documento Auxiliar da Nota Fiscal de Prestação de Serviços Eletrônica
 
-Secretaria Municipal de Fazenda Na Finca ca Soniçãs ESG
+RUA FULVIO ADUCCI, 590, APT:401 Numero: 83
+ESTREITO - FLORIANÓPOLIS - SC - 88.075-001 Autorização: 5591222
+CNPJ: 57.955.814/0001-05 Emissão: 04/08/2025
+CMC: 824.882-8 Código de Verificação: DOFB-BF89-80A5-3498
+Dados do Tomador
+NOME/RAZÃO SOCIAL CrPs
+GO COMERCIO DE ARTIGOS ELETRONICOS E ACESSORIOS LTDA 9203
+ENDEREÇO BAIRRO/DISTRITO CEP
+Rua Padre Valdevino, 2528 - SALA 02 Dionisio Torres 60.135-414
+MUNICÍPIO UF País CPF/CNPJ/Outros CMC
+Fortaleza CE BRASIL 22.165.464/0001-90
+Dados do(s) serviço(s)
+Cód. Atividade (Descrição CNAE) Descrição do Serviço CST | Alig. Valor Unitário Qtde Valor Total
+7319099 (OUTRAS ATIVIDADES DE PUBLICIDADE NÃO ESPECIFICADAS 1 0,00 R$ 4.169,48 1 R$ 4.169,48
 
-NOTA FISCAL DE SERVIÇOS ELETRÔNICA - NFSe Código de verificação Data/Hora da emissão
-DE6672CC7 2025-08-05 - 12:33:09
-A autenticidade desta nota pode ser confirmada
+ANTERIORMENTE) REFERENTE À PUBLICIDADE REALIZADA
+ATRAVÉS DO INSTAGRAM E TIKTOK.
 
-em: https://e-nfs.com.br/e-nfs novalima,
-informando o código de verificação.
+Cálulo do Imposto
 
-Natureza da operação Número da Nota
+Base de Cálculo de ISSQN Valor do ISSQN Base de Cálculo ISSQN Subst. Valor do ISSQN Subst. Valor Total dos Serviços
 
-Simples Nacional 65
+R$ 0,00 R$ 0,00 R$ 0,00 R$ 0,00 R$ 4.169,48
 
-LA HEALTH & CARE LTDA
-ALA - DO MORRO-0006, 130,APT 1501 QUADRAO000J LOTE 0001
-VILA DA SERRA
-cep 34006083 - NOVA LIMA - -
-crrycnr) 58.612.992/0001-98 Inscrição Municipal 29658557
-Email REGISTROGQFORDOCTOR.COM.BR Inscrição Estadual
+Dados adicionais
 
-Tomador de Serviço
-GO COMERCIO DE ARTIGOS ELETRONICOS E ACESSORIOS LTDA
-22.165.464/0001-90
-RUA PADRE VALDEVINO, 2528, SALA 02
-DIONISIO TORRES
-60135-414
-NOVA LIMA - MG - BRASIL Inscrição Municipal
-paulazulianOpz317.com Inscrição Estadual
+DANFPS-E - DOCUMENTO AUXILIAR DA NOTA FISCAL DE PRESTAÇÃO DE SERVIÇOS ELETRÔNICA A VALIDADE E AUTENTICIDADE DESTE DOCUMENTO AUXILIAR DA NOTA FISCAL DE PRESTAÇÃO DE SERVIÇO ELETRÔNICA
+PODERÃO SER COMPROVADAS MEDIANTE CONSULTA À PÁGINA DA SECRETARIA MUNICIPAL DA FAZENDA - SMF NA
+INTERNET, NO ENDEREÇO portal.pmf.sc.gov.br/sites/notaeletronica, EM VERIFICAR AUTENTICIDADE >> PRODUÇÃO,
+INFORMANDO O CÓDIGO DE VERIFICAÇÃO: DOFBBF8980A53498 E O NÚMERO DE INSCRIÇÃO DO EMITENTE NO CADASTRO
+MUNICIPAL DE CONTRIBUINTES - CMC: 8248828
 
-Discriminação do Serviço /Dados Adicionais
-
-Campanha com a influenciadora Oluizandradec - parcela 2 DADOS BANCÁRIOS: BANCO: BANCO CORA,
-AGENCIA: 0001, CONTA: 5489947-3
-
-1706-PROPAGANDA E PUBLICIDADE, INCLUSIVE PROMOÇÃO DE VENDAS, .
-PLANEJAMENTO DE CAMPANHAS OU SISTEMAS DE PUBLICIDADE, ELABORAÇÃO
-DE DESENHOS, TEXTOS E DEMAIS MATERIAIS PUBLICITÁRIOS
-
-'alor do Serviço (R$) Qtd. Desconto(R$) Dedução(R$) Base de Cálculo(R$) liquota(%) |Valor do ISS(R$) otal(R$)
-3.500,00 3.500,00 | 2,52 | 8820 | 3.500,00
-
-VALOR TOTAL DA NOTA = R$ 3.500,00
-
-Retenções
-
-INSS(RS) PIS(RS) Cofins(R$) TSLI(RS) IRRF(R$)
-
-Outras Informações
-
-- Esta NFSE foi emitida com respaldo da Lei nº 1.911/2005 e do Decreto nº
-10.259/2020.
-
-- Operação não gera valor de ISSQN. Contribuinte Simples Nacional.
-
-- Contribuinte SIMPLES NACIONAL aliquota informada: 2,52.
-
-https://e-nfs.com.br/e-nfs novalima/servlet/aprelnotafiscalxml?BoWOwjo5NxtW6sXe6y3MhKjJORFEPFapJOb4AEvDr+nA=
