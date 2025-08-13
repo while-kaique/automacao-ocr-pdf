@@ -1,53 +1,191 @@
 
 --- Página 1 ---
-06/08/2025, 16:26 Usuário: 26.502.466/0001-89 - NF-e - Nota Fiscal Eletrônica de Serviços - São Paulo
+NFS:
 
-[ =x Número da Nota
-PREFEITURA DO MUNICIPIO DE SAO PAULO 00000324
+DANFSe v1.0
+Documento Auxiliar da NFS-e
 
-SECRETARIA MUNICIPAL DA FAZENDA Data e Hora de Emissão
+Chave de Acesso da NFS-e
 
-R 06/08/2025 16:26:03
-NOTA FISCAL ELETRÔNICA DE SERVIÇOS - NFS-e Código de Verificação
+31543092246451203000103000000000005125085702885637
 
-GWF9-UARR
+Número da NFS-e
+51
 
-PRESTADOR DE SERVIÇOS
-CPF/CNPJ: 26.502.466/0001-89 Inscrição Municipal: 7.684.061-1
-Nome/Razão Social: KREATORZ AGENCIAMENTO E PRODUCOES LTDA
-Endereço: R CEL JOSE EUSEBIO 95, CASA 13 - HIGIENOPOLIS - CEP: 01239-030
-Município: São Paulo UF: SP
+Número da DPS
+62
 
-TOMADOR DE SERVIÇOS
-Nome/Razão Social: GO COMERCIO DE ARTIGOS ELETRONICOS E ACESSORIOS LTDA
-CPF/CNPJ: 22.165.464/0001-90 Inscrição Municipal: ----
-Endereço: R Padre Valdevino 2475 - Dionisio Torres - CEP: 60135-414
-Município: Fortaleza UF: CE E-mail: contabilidadeG)gocase.com
+Competência da NFS-e
+04/08/2025
 
-INTERMEDIÁRIO DE SERVIÇOS
-CPF/CNPJ: === Nome/Razão Social: ---=
+Série da DPS
+900
 
-DISCRIMINAÇÃO DOS SERVIÇOS
-Ação/Campanha serviços de publicidade para a Marca Gocase - Influenciador Stefany
-VALOR:R$ 12.000,00
-Código: KRTZ 519
-Dados Bancários:
-KREATORS AGENCIAMENTO E PRODUÇÕES LTDA
-Agência 0001
-Conta 66129187-8
-Banco 0260 Nu Pagamentos S.A. - Instituição de Pagamento
-Pixlikreatorz.com.br
+Data e Hora da emissão da NFS-e
+04/08/2025 20:51:34
 
-VALOR TOTAL DO SERVIÇO = R$ 12.000,00
-INSS (R$) | IRRF (R$) | CSLL (R$) | COFINS (R$) | PIS/PASEP (R$)
+Data e Hora da emissão da DPS
+04/08/2025 20:51:34
 
-Código do Serviço
-02496 - Propaganda e publicidade, promoção de vendas, planejamento de campanhas e materiais publicitários.
-Valor Total das Deduções (R$) Base de Cálculo (R$) Alíquota (9%) Valor do ISS (R$) Crédito (R$)
-0,00 12.000,00 5,00% 600,00 0,00
-Município da Prestação do Serviço Número Inscrição da Obra Walor Aproximado dos Tributos / Fonte
+A autenticidade desta NFS-e pode ser verificada
+pela leitura deste código QR ou pela consulta da
+chave de acesso no portal nacional da NFS-e
 
-OUTRAS INFORMAÇÕES
-(1) Esta NFS-e foi emitida com respaldo na Lei nº 14.097/2005; (2) Data de vencimento do ISS desta NFS-e: 10/09/2025;
+EMITENTE DA NFS-e
+Prestador do Serviço
 
-https://nfe.prefeitura.sp.gov.br/contribuinte/notaprint.aspx?nf=324&inscricao=76840611&email=1&SMS=0&returnuri=nota.aspx%3finscricao%3dT7... 111
+Nome / Nome Empresarial
+JULIA FARIA STOFEL 01606928651
+
+Endereço
+RUA SAO JOSE, 18, SAO VICENTE
+
+Simples Nacional na Data de Competência
+
+CNPJ/CPF /NIF
+46.451.203/0001-03
+
+Optante - Microempreendedor Individual (MEI)
+
+Inscrição Municipal
+
+E-mail
+JULIAFARIASTOFELGQGMAIL.COM
+Município
+
+Resplendor - MG
+
+Regime de Apuração Tributária pelo SN
+
+Telefone
+(33) 9904-6089
+
+CEP
+35230-000
+
+TOMADOR DO SERVIÇO
+
+Nome / Nome Empresarial
+
+CNPJ/CPF /NIF
+22.165.464/0001-90
+
+GO COMERCIO DE ARTIGOS ELETRONICOS E ACESSORIOS LTDA
+
+Endereço
+
+PADRE VALDEVINO, 2528, SALA 02, DIONISIO TORRES
+
+Inscrição Municipal
+
+E-mail
+Município
+Fortaleza - CE
+
+Telefone
+
+CEP
+60135-414
+
+INTERMEDIÁRIO DO SERVIÇO NÃO IDENTIFICADO NA NFS-e
+
+SERVIÇO PRESTADO
+
+Código de Tributação Nacional
+17.06.01 - Propaganda e publicidade,
+inclusive promoção de vendas, p...
+
+Descrição do Serviço
+Nf JULIA STOFEL
+
+Código de Tributação Municipal
+
+Local da Prestação
+Resplendor - MG
+
+País da Prestação
+
+TRIBUTAÇÃO MUNICIPAL
+
+Tributação do ISSQN
+Operação Tributável
+Tipo de Imunidade
+
+Valor do Serviço
+R$ 2.250,00
+
+BC ISSQN
+
+País Resultado da Prestação do Serviço
+
+Suspensão da Exigibilidade do ISSQN
+Não
+Desconto Incondicionado
+
+Alíquota Aplicada
+
+Município de Incidência do ISSQN
+Resplendor - MG
+
+Número Processo Suspensão
+
+Total Deduções/Reduções
+
+Retenção do ISSQN
+Não Retido
+
+Regime Especial de Tributação
+Nenhum
+
+Benefício Municipal
+
+Cálculo do BM
+
+ISSQN Apurado
+
+TRIBUTAÇÃO FEDERAL
+IRRF
+
+cr
+
+COFINS
+
+CSLL
+
+Retenção do PIS/COFINS
+
+TOTAL TRIBUTAÇÃO FEDERAL
+
+VALOR TOTAL DA NFS-E
+
+Valor do Serviço
+R$ 2.250,00
+
+IRRF, CP,CSLL - Retidos
+R$ 0,00
+
+Desconto Condicionado
+R$
+
+PIS/COFINS Retidos
+
+Desconto Incondicionado
+R$
+
+ISSQN Retido
+
+Valor Líquido da NFS-e
+R$ 2.250,00
+
+TOTAIS APROXIMADOS DOS TRIBUTOS
+
+Federais
+
+Estaduais
+
+Municipais
+
+INFORMAÇÕES COMPLEMENTARES
+
+NBS: 114061900
+
