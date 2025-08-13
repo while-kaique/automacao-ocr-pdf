@@ -1,44 +1,77 @@
 
 --- Página 1 ---
-PREFEITURA DA CIDADE DO RIO DE JANEIRO “0000082
-SECRETARIA MUNICIPAL DE FAZENDA Data e Hora de Emissão
-NOTA FISCAL DE SERVIÇOS ELETRÔNICA - NFS-e 01/08/2025 19:30:56
-Código de Verificação
-- NOTA CARIOCA - VUX8-XCVI
-PRESTADOR DE SERVIÇOS
-CPF/CNPJ: 41.994.593/0001-36 Inscrição Municipal: 1.339.855-0 Inscrição Estadual: ---
-Nome/Razão Social: SAADI PROMOCAO DE VENDAS LTDA
-Nome Fantasia: Tel.: 2198187-2126
-Endereço: RUA ANNA KHOURY 113, CAS 01 LOT 10 PAL 44285 - RECREIO DOS BANDEIRANTES - CEP: 22790-684
-Município: RIO DE JANEIRO UF: RJ E-mail: RSAADINEVESGQHOTMAIL.COM
-TOMADOR DE SERVIÇOS
-CPF/CNPJ: 22.165.464/0001 -90 Inscrição Municipal: ---- Inscrição Estadual: ----
-Nome/Razão Social: GO COMERCIO DE ARTIGOS ELETRÔNICOS E ACESSÓRIOS LTDA
-Endereço: RUA PADRE VALDEVINO 2528, sala 02 - DIONISIO TORRES - CEP: 60135-414 Tel.:
-Município: FORTALEZA UF: CE E-mail:
+03/08/2025, 19:51 :: NFS-e - Nota Fiscal de Serviços eletrônica ::
 
-DISCRIMINAÇÃO DOS SERVIÇOS
+NFS-e - NOTA FISCAL DE SERVIÇOS ELETRÔNICA
 
-Produção de conteúdo com intuito de promoção de vendas.
+0. Emitida em: Competência: Código de Verificação:
+Nº:2025/20 03/08/2025 às 19:51:28 03/08/2025 12ecda34
+55.327.705 SOPHIA SOARES LIMA
+Ds CPF/CNPJ: 55.327.705/0001-00 Inscrição Municipal: 1564121/001-7
+o. RUA PROFESSOR MIGUEL DE SOUZA, 261, APT 302, Buritis - Cep: 30575-255
+Belo Horizonte MG
+Telefone: Email:
 
-VALOR DA NOTA = R$ 3.025,50
+Tomador do(s) Serviço(s)
 
-Serviço Prestado
+CPF/CNPJ: 22.165.464/0001-90 Inscrição Municipal: Não Informado
+GO COMERCIO DE ARTIGOS ELLETRONICOS E ACESSORIOS LTDA
 
-17.06.03 - Promoção de vendas
+PADRE VALDEVINO, 2528, SALA 02, DIONISIO TORRES - Cep: 60135-414
 
-Deduções (R$) Desconto Incond. (R$) |Base de Cálculo (R$) Alíquota (%) Valor do 55 (R$) Crédito p/ IPTU (R$)
+Fortaleza CE
 
-0,00 0,00 0,00
-OUTRAS INFORMAÇÕES
+Telefone: Não Informado Email: Não Informado
+Discriminação do(s) Serviço(s)
 
-- Esta NFS-e foi emitida com respaldo na Lei nº 5.098 de 15/10/2009 e no Decreto nº 32.250 de 11/05/2010
+Banco: Inter
 
-- PROCON-RJ: Av. Rio Branco nº 25, 5º andar, tel 151: ww. procon.r).gov.br
+Agência: 0001
 
-- ISS devido deve ser recolhido por meio de Documento de Arrecadação do Simples Nacional (DAS).
+Conta: 36734677-0
 
-- Documento emitido por ME ou EPP optante pelo Simples Nacional. Não gera direito a crédito fiscal de IPI.
+PIX: 55.327.705/0001-00
+Vencimento: 25/06/2025
 
-- Esta NFS-e não gera crédito para abatimento no IPTU.
+Valor aproximado do imposto: R$225,00
 
+Código de Tributação do Município (CTISS)
+
+1706-0/01-88 / Propaganda e publicidade, inclusive promoção de vendas, planejamento de campanhas ou sistemas de
+publicidade, elaboração de desenhos, textos e demais materiais publicitários.
+
+Subitem Lista de Serviços LC 116/03 / Descrição:
+
+17.06 / Propaganda e publicidade, inclusive promocao de vendas, planejamento de campanhas ou sistemas de publicidade,
+elaboracao de desenhos, textos e demais materiais publicitarios.
+
+Cod/Município da incidência do ISSQN: Natureza da Operação:
+3106200 / Belo Horizonte Tributação no município
+
+Regime Especial de Tributação: ME ou EPP do Simples Nacional
+
+Valor dos serviços: R$ 3.750,00 | Valor dos serviços: R$ 3.750,00
+(-) Descontos: R$ 0,00 (-) Deduções: R$ 0,00
+(-) Retenções Federais: R$ 0,00 (-) Desconto Incondicionado: R$ 0,00
+(-) ISS Retido na Fonte: R$ 0,00 (=) Base de Cálculo: R$ 3.750,00
+Valor Líquido: R$ 3.750,00 (x) Alíquota:
+
+(=)Valor do ISS: -
+
+Documento emitido por ME ou EPP optante pelo Simples Nacional. Não gera direito a credito fiscal de IPI.
+
+Outras Informações:
+Chave de acesso no Ambiente de Dados Nacional: 31062001255327705000100250000000002025084101543123.
+
+Prefeitura de Belo Horizonte - Secretaria Municipal de Fazenda
+Rua Espírito Santo, 605 - 3º andar - Centro - CEP: 30160-919 - Belo Horizonte MG.
+Dúvidas: SIGESP
+
+TA
+
+e
+Sor
+
+https://bhissdigital pbh.gov.br/nfse/pages/exibicaoNFS-e .jsf
+
+11
