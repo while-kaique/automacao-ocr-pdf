@@ -1,192 +1,44 @@
 
 --- Página 1 ---
-NFSe ss:
+PREFEITURA DA CIDADE DO RIO DE JANEIRO “0000082
+SECRETARIA MUNICIPAL DE FAZENDA Data e Hora de Emissão
+NOTA FISCAL DE SERVIÇOS ELETRÔNICA - NFS-e 01/08/2025 19:30:56
+Código de Verificação
+- NOTA CARIOCA - VUX8-XCVI
+PRESTADOR DE SERVIÇOS
+CPF/CNPJ: 41.994.593/0001-36 Inscrição Municipal: 1.339.855-0 Inscrição Estadual: ---
+Nome/Razão Social: SAADI PROMOCAO DE VENDAS LTDA
+Nome Fantasia: Tel.: 2198187-2126
+Endereço: RUA ANNA KHOURY 113, CAS 01 LOT 10 PAL 44285 - RECREIO DOS BANDEIRANTES - CEP: 22790-684
+Município: RIO DE JANEIRO UF: RJ E-mail: RSAADINEVESGQHOTMAIL.COM
+TOMADOR DE SERVIÇOS
+CPF/CNPJ: 22.165.464/0001 -90 Inscrição Municipal: ---- Inscrição Estadual: ----
+Nome/Razão Social: GO COMERCIO DE ARTIGOS ELETRÔNICOS E ACESSÓRIOS LTDA
+Endereço: RUA PADRE VALDEVINO 2528, sala 02 - DIONISIO TORRES - CEP: 60135-414 Tel.:
+Município: FORTALEZA UF: CE E-mail:
 
-DANFSe v1.0
+DISCRIMINAÇÃO DOS SERVIÇOS
 
-Documento Auxiliar da NFS-e
+Produção de conteúdo com intuito de promoção de vendas.
 
-Prefeitura Municipal de Porto
+VALOR DA NOTA = R$ 3.025,50
 
-Alegre/RS
-(51)3289-0156
+Serviço Prestado
 
-ê
+17.06.03 - Promoção de vendas
 
-Chave de Acesso da NFS-e
+Deduções (R$) Desconto Incond. (R$) |Base de Cálculo (R$) Alíquota (%) Valor do 55 (R$) Crédito p/ IPTU (R$)
 
-43149022254837934000101000000000009725081567620316
+0,00 0,00 0,00
+OUTRAS INFORMAÇÕES
 
-Número da NFS-e
-97
+- Esta NFS-e foi emitida com respaldo na Lei nº 5.098 de 15/10/2009 e no Decreto nº 32.250 de 11/05/2010
 
-Número da DPS
-123
+- PROCON-RJ: Av. Rio Branco nº 25, 5º andar, tel 151: ww. procon.r).gov.br
 
-Competência da NFS-e
-07/08/2025
+- ISS devido deve ser recolhido por meio de Documento de Arrecadação do Simples Nacional (DAS).
 
-Série da DPS
-900
+- Documento emitido por ME ou EPP optante pelo Simples Nacional. Não gera direito a crédito fiscal de IPI.
 
-Data e Hora da emissão da NFS-e
-07/08/2025 19:50:52
-
-Data e Hora da emissão da DPS
-07/08/2025 19:50:52
-
-A autenticidade desta NFS-e pode ser verificada
-pela leitura deste código QR ou pela consulta da
-
-chave de acesso no portal nacional da NFS-e
-
-EMITENTE DA NFS-e
-Prestador do Serviço
-
-Nome / Nome Empresarial
-
-CNPJ/CPF /NIF
-54.837.934/0001-01
-
-FAMILIA MATIAS - MARKETING DE INFLUENCIA LTDA
-
-Endereço
-CAUDURO, 97, BOM FIM
-
-Simples Nacional na Data de Competência
-
-Optante - Microempresa ou Empresa de Pequeno Porte (ME/EPP)
-
-Inscrição Municipal Telefone
-- (51) 9292-8087
-
-E-mail
-CINTHIAOLIVEIRASOYAHOO.COM.BR
-
-CEP
-90035-110
-
-Município
-Porto Alegre - RS
-
-Regime de Apuração Tributária pelo SN
-Regime de apuração dos tributos federais e municipal pelo Simples Nacional
-
-TOMADOR DO SERVIÇO
-
-Nome / Nome Empresarial
-
-CNPJ/CPF/NIF
-22.165.464/0001-90
-
-GO COMERCIO DE ARTIGOS ELETRONICOS E ACESSORIOS LTDA
-
-Endereço
-
-PADRE VALDEVINO, 2528, SALA 02, DIONISIO TORRES
-
-Inscrição Municipal Telefone
-
-E-mail
-
-CEP
-60135-414
-
-Município
-Fortaleza - CE
-
-INTERMEDIÁRIO DO SERVIÇO NÃO IDENTIFICADO NA NFS-e
-
-SERVIÇO PRESTADO
-
-Código de Tributação Nacional
-17.06.01 - Propaganda e publicidade,
-inclusive promoção de vendas, p...
-
-Descrição do Serviço
-
-Código de Tributação Municipal
-
-Local da Prestação País da Prestação
-Porto Alegre - RS -
-
-Referente ao trabalho realizado pela influenciadora Nati Matias - (Onatimatias - Informações de Pagamento - Banco: 077 / Agência: 0001 / Conta: 35683382-
-
-8 / Pix 54.837.934/0001-01 (CNPJ)
-
-TRIBUTAÇÃO MUNICIPAL
-
-Tributação do ISSQN
-Operação Tributável
-
-Tipo de Imunidade
-
-Valor do Serviço
-
-R$ 14.000,00
-BC ISSQN
-
-País Resultado da Prestação do Serviço
-
-Suspensão da Exigibilidade do ISSQN
-Não
-Desconto Incondicionado
-
-Alíquota Aplicada
-
-Município de Incidência do ISSQN
-Porto Alegre - RS
-
-Número Processo Suspensão Benefício Municipal
-
-Regime Especial de Tributação
-Nenhum
-
-Total Deduções/Reduções Cálculo do BM
-
-Retenção do ISSQN ISSQN Apurado
-Não Retido -
-
-TRIBUTAÇÃO FEDERAL
-IRRF
-
-CP
-
-COFINS
-
-CSLL
-
-Retenção do PIS/COFINS TOTAL TRIBUTAÇÃO FEDERAL
-
-VALOR TOTAL DA NFS-E
-
-Valor do Serviço
-R$ 14.000,00
-
-IRRF, CP,CSLL - Retidos
-R$ 0,00
-
-Desconto Condicionado
-R$
-
-PIS/COFINS Retidos
-
-Desconto Incondicionado ISSQN Retido
-R$ -
-
-Valor Líquido da NFS-e
-R$ 14.000,00
-
-TOTAIS APROXIMADOS DOS TRIBUTOS
-
-Federais
-0,00 %
-
-Estaduais
-0,00 %
-
-Municipais
-0,00 %
-
-INFORMAÇÕES COMPLEMENTARES
+- Esta NFS-e não gera crédito para abatimento no IPTU.
 
