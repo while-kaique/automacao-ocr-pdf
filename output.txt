@@ -1,57 +1,96 @@
 
 --- Página 1 ---
-PREFEITURA DA CIDADE DO RIO DE JANEIRO “00000 4!
-SECRETARIA MUNICIPAL DE FAZENDA
-NOTA FISCAL DE SERVIÇOS ELETRÔNICA - NFS-e 06/08/2025 18:48:33
-ódigo de Verificação
-- NOTA CARIOCA -
-PRESTADOR DE SERVIÇOS
+VANESSA WONSOVICZ LTDA
 
-CPF/CNPJ: 41.123.659/0001-12 Inscrição Municipal: 1.311.633-4 Inscrição Estadual: ---
-Nome/Razão Social: LIA PEREIRA RENNO 42823158812
-Nome Fantasia: Agência Pull Up Tel.: 21982578608
-Endereço: AVN MAL HENRIQUE LOTT 270, APT 612 - BARRA DA TIJUCA - CEP: 22631-370
-Município: RIO DE JANEIRO UF: RJ E-mail: liarenno 6) gmail.com
-TOMADOR DE SERVIÇOS
+Rua LUIZ JACQUES MANOZZO, 328 - APTO 702 SALA 1
+CEP: 95201-150 - Bairro: CARAZINHO
 
-CPF/CNPJ: 22.165.464/0001 -90 Inscrição Municipal: ---- Inscrição Estadual: ----
-Nome/Razão Social: GO COMERCIO DE ARTIGOS ELETRONICOS E ACESSÓRIOS LTDA
-Endereço: RUA PADRE VALDEVINO 2528, SALA 02 - DIONISIO TORRES - CEP: 60135-414 Tel.: 8598130660
-Município: FORTALEZA UF: CE E-mail: CONTABILIDADEGGOCASE.COM
+Município: Vacaria - RS
 
-DISCRIMINAÇÃO DOS SERVIÇOS
+E-mail: contato()vanessawz.com.br
 
-Publicidade no perfil da influenciadora Suzanna Freitas ((isuzannafreitas).
+Fone: (54) 99904-0394
 
-Dados de pagamento:
+CNPJ/CPF Inscrição Estadual Inscrição Municipal * a b' 07/08/2025 5763589d3
+21.610.614/0001-65 O 138209 E E:
 
-Banco - Nubank
+MUNICIPIO DE VACARIA/RS Dt. de Emissão Tributado no Município
+Secretária de Gestão e Finanças
+Fone: (54) 3232-1176 - https://vacaria.govbr.cloud/nfse.portal 07/08/2025
 
-Agência 0001
+TOMADOR DO SERVIÇO Município de Prestação do Serviço
+Vacaria/RS
 
-Conta 56449989-0
+Data do Serviço Código Verificador
 
-Agência Pull Up / Lia Pereira Rennó
+CEP
+(85) 9813-0660 60135-414
 
-Pix CNPJ da empresa: 41.123.659/0001-12
+INTERMEDIÁRIO DO SERVIÇO
 
-VALOR DA NOTA = R$ 8.500,00
+CNPJ / CPF Inscrição Municipal
+eee bei
 
-Serviço Prestado
-17.06.12 - Serviços especiais ligados à atividade de publicidade e propaganda, não especificados em outros códigos
+Fone Cidade
+falta
 
-Deduções (R$) Desconto Incond. (R$) |Base de Cálculo (R$) Alíquota (%) Valor do 55 (R$) Crédito p/ IPTU (R$)
+DESCRIÇÃO DOS SERVIÇOS VALOR TOTAL ALIQ. VALOR IMPOSTO RETIDO
 
-0,00 0,00 0,00
-OUTRAS INFORMAÇÕES
+CONTA PARA PAGAMENTO: 5.200,00 Não
+Banco 136 - UNICRED - conta PJ
 
-- Esta NFS-e foi emitida com respaldo na Lei nº 5.098 de 15/10/2009 e no Decreto nº 32.250 de 11/05/2010
+Agência 6002
 
-- PROCON-RJ: Av. Rio Branco nº 25, 5º andar, tel 151: ww. procon.r).gov.br
+Conta corrente 188556-1
 
-- ISS devido deve ser recolhido por meio de Documento de Arrecadação do Simples Nacional (DAS).
+CNPJ 21.610.614/0001-65
 
-- Documento emitido por ME ou EPP optante pelo Simples Nacional. Não gera direito a crédito fiscal de IPI.
+Chave PIX: 21.610.614/0001-65
 
-- Esta NFS-e não gera crédito para abatimento no IPTU.
+Vanessa Wonsovicz
 
+Código do Serviço Código NBS
+17.06 - Propaganda e publicidade, inclusive promoção de vendas, planejamento ado
+
+de campanhas ou sistemas de publicidade, elaboração de desenhos, textos e
+
+demais materiais publicitários.
+
+0,00 0,00 0,00 0,00 0,00 0,00 0,00
+Base Cálculo ISSON Próprio Valor do ISSQN Próprio Base Cálculo ISSQN Retido [Valor do ISSQN Retido Valor Total do ISSQN Valor Dedução/Descontos
+5.200,00 0,00 0,00 0,00 0,00 0,00
+
+alor Total da NFS-e 5.200,00 alor Líquido da NFS-e 5.200,00
+
+Informações Adicionais
+
+NOTA EMITIDA POR ME OU EPP OPTANTE PELO SIMPLES NACIONAL
+NÃO GERA DIREITO A CRÉDITO FISCAL DE IPI
+Lei 12741/2012: Mun: R$0,00; Est: R$0,00; Fed: R$0,00; Total Aprox: R$0,00.
+
+Consulta realizada em 07/08/2025 às 11:24:42.
+Para consultar a autenticidade acesse: https://vacaria.govbr.cloud/nfse.portal
+
+2025000000003835763589d321610614000165
+
+Recebi(emos) de 202500000000383
+
+Número da NFS-e Número de Controle do Município
+VANESSA WONSOVICZ LTDA
+
+Competência
+07/08/2025
+
+os serviços constantes da Nota Fiscal Eletrônica indicada ao lado.
+
+NFS-e
+
+11]
+= 5763589d3
+
+Data Identificação e assinatura do recebedo!
+
+Consulta realizada em 07/08/2025 às 11:24:42.
+Para consultar a autenticidade acesse: https://vacaria.govbr.cloud/nfse.portal
+
+Página 1
