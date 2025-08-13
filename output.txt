@@ -1,155 +1,81 @@
 
 --- Página 1 ---
-DANFSe v1.0
-
-NFS:
-
-Documento Auxiliar da NFS-e
+N FSe e DANFSe v1.0
+ervico ele Documento Auxiliar da NFS-e
 
 Chave de Acesso da NFS-e
-33045572249531554000104000000000003825087699358573
+33035002239627538000166000000000005325086249653954
 
-Número da NFS-e Competência da NFS-e
-38 04/08/2025
+Número da NFS-e Competência da NFS-e Data e Hora da emissão da NFS-e
+53 04/08/2025 04/08/2025 10:05:00
 
-Número da DPS Série da DPS
-38 900
+Número da DPS Série da DPS Data e Hora da emissão da DPS lr Fon
+55 900 04/08/2025 10:05:00 A autenticidade desta NFS-e pode ser verificada
 
-Data e Hora da emissão da NFS-e
-04/08/2025 10:07:11
-
-Data e Hora da emissão da DPS
-04/08/2025 10:07:11
-
-A autenticidade desta NFS-e pode ser verificada
 pela leitura deste código QR ou pela consulta da
-
 chave de acesso no portal nacional da NFS-e
 
-CNPJ/CPF /NIF
-49.531.554/0001-04
+EMITENTE DA NFS-e CNPJ /CPF/NIF Inscrição Municipal Telefone
+Prestador do Serviço 39.627.538/0001-66 - (21) 7285-7449
 
-EMITENTE DA NFS-e
-Prestador do Serviço
+Nome / Nome Empresarial E-mail
+LARISSA MONTIJO DE ALMEIDA COELHO 14757507739 LARISSAMONTIJO.C(ODGMAIL.COM
 
-Nome / Nome Empresarial
-49.531.554 LARISSA LOURENCA COSENZA DONATO
+Endereço Município CEP
+PHILOMENO COELHO, 139, JARDIM SANTA RITA Nova Iguaçu - RJ 26050-020
 
-Endereço
-SAO LEOBALDO, 31, SAO CONRADO
+Simples Nacional na Data de Competência Regime de Apuração Tributária pelo SN
+Optante - Microempreendedor Individual (MEI) -
 
-Simples Nacional na Data de Competência
-Optante - Microempreendedor Individual (MEI)
+TOMADOR DO SERVIÇO CNPJ/CPF/NIF Inscrição Municipal Telefone
+22.165.464/0001-90 - -
 
-Inscrição Municipal Telefone
+Nome / Nome Empresarial E-mail
+GO COMERCIO DE ARTIGOS ELETRONICOS E ACESSORIOS LTDA -
 
-- (21) 3322-2028
-E-mail
-
-CONTATO.LALOURENCAGQGMAIL.COM
-
-CEP
-22610-280
-
-Município
-Rio de Janeiro - RJ
-Regime de Apuração Tributária pelo SN
-
-TOMADOR DO SERVIÇO CNPJ/CPF /NIF
-22.165.464/0001-90
-
-Nome / Nome Empresarial
-GO COMERCIO DE ARTIGOS ELETRONICOS E ACESSORIOS LTDA
-
-Endereço
-PADRE VALDEVINO, 2528, SALA 02, DIONISIO TORRES
-
-Inscrição Municipal Telefone
-
-E-mail
-
-CEP
-60135-414
-
-Município
-Fortaleza - CE
+Endereço Município CEP
+R PADRE VALDEVINO, 2528, sala 02, DIONISIO TORRES Fortaleza - CE 60135-414
 
 INTERMEDIÁRIO DO SERVIÇO NÃO IDENTIFICADO NA NFS-e
 
 SERVIÇO PRESTADO
 
-Código de Tributação Nacional Código de Tributação Municipal
-17.06.01 - Propaganda e publicidade, -
+Código de Tributação Nacional Código de Tributação Municipal Local da Prestação País da Prestação
+17.06.01 - Propaganda e publicidade, - Rio de Janeiro - RJ -
 inclusive promoção de vendas, p...
 
-Descrição do Serviço .
-COMISSÃO - PROMOÇÃO DE VENDAS
-INSTAGRAM (OLALOURENCA
-
-BANCO NUBANK - 260
-AG 0001
-CIC 88337384-5
-
-Local da Prestação País da Prestação
-Rio de Janeiro - RJ -
+Descrição do Serviço
+Propaganda e publicidade de produtos.
 
 TRIBUTAÇÃO MUNICIPAL
 
-Tributação do ISSQN País Resultado da Prestação do Serviço
-Operação Tributável -
+Tributação do ISSQN País Resultado da Prestação do Serviço Município de Incidência do ISSQN Regime Especial de Tributação
+Operação Tributável - Nova Iguaçu - RJ Nenhum
 
-Tipo de Imunidade Suspensão da Exigibilidade do ISSQN
+Tipo de Imunidade Suspensão da Exigibilidade do ISSQN Número Processo Suspensão Benefício Municipal
+- Não - -
 
-- Não
+Valor do Serviço Desconto Incondicionado Total Deduções/Reduções Cálculo do BM
+R$ 2.866,64 - - -
 
-Valor do Serviço Desconto Incondicionado
-R$ 1.900,00 -
-
-BC ISSQN Alíquota Aplicada
-
-Município de Incidência do ISSQN
-Rio de Janeiro - RJ
-
-Regime Especial de Tributação
-Nenhum
-
-Número Processo Suspensão Benefício Municipal
-
-Total Deduções/Reduções Cálculo do BM
-
-Retenção do ISSQN ISSQN Apurado
-Não Retido -
+BC ISSQN Alíquota Aplicada Retenção do ISSQN ISSQN Apurado
+- - Não Retido -
 
 TRIBUTAÇÃO FEDERAL
-IRRF CP
+IRRF cr CSLL
 
-COFINS
+COFINS Retenção do PIS/COFINS TOTAL TRIBUTAÇÃO FEDERAL
 
 VALOR TOTAL DA NFS-E
 
-Valor do Serviço Desconto Condicionado
-R$ 1.900,00 R$
+Valor do Serviço Desconto Condicionado Desconto Incondicionado ISSQN Retido
+R$ 2.866,64 R$ R$ -
 
-IRRF, CP,CSLL - Retidos PIS/COFINS Retidos
-R$ 0,00 -
-
-CSLL
-
-Retenção do PIS/COFINS TOTAL TRIBUTAÇÃO FEDERAL
-
-Desconto Incondicionado ISSQN Retido
-R$ -
-
-Valor Líquido da NFS-e
-R$ 1.900,00
+IRRF, CP,CSLL - Retidos PIS/COFINS Retidos Valor Líquido da NFS-e
+R$ 0,00 - R$ 2.866,64
 
 TOTAIS APROXIMADOS DOS TRIBUTOS
-
-Federais
-
-Estaduais
-
-Municipais
+Federais Estaduais Municipais
 
 INFORMAÇÕES COMPLEMENTARES
 
