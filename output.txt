@@ -1,157 +1,77 @@
 
 --- Página 1 ---
-PREFEITURA MUNICIPAL DE TOBIAS BARRETO
+04/08/2025, 11:52 :: NFS-e - Nota Fiscal de Serviços eletrônica ::
 
-(79) 3541-5341
+NFS-e - NOTA FISCAL DE SERVIÇOS ELETRÔNICA
 
-Secretaria Municipal de Finanças
-Coordenadoria de Arrecadação e Fiscalização Tributária - Praça Abelardo Barreto do
-Rosário, 307 - Bairro Vicentino, CEP: 49.300-000, Município de Tobias Barreto - Telefone
+0. Emitida em: Competência: Código de Verificação:
+Nº:2025/40 04/08/2025 às 15:14 04/08/2025 622cf08e
+LETICIA INFLUENCIA E CONTEUDO DIGITAL LTDA
+a CPF/CNPJ: 53.620.364/0001-30 Inscrição Municipal: 1530866/001-1
+FZ RUA FELIPE DOS SANTOS, 760, APT 1602 BLOCO 02, Santo Agostinho - Cep: 30180-165
+Belo Horizonte MG
+Telefone: Email:
 
-NOTA FISCAL DE SERVIÇOS ELETRÔNICA - NFS-e
+Tomador do(s) Serviço(s)
 
-Emissão (Horário de Brasília)
-
-01/08/2025 16:50:49
-
-Reg. Especial Tributação
-
-Período de Competência
-
-08/2025
-
-Exigibilidade do ISS
-
-Microempresário e Empresa de Pequeno Porte Exigível em Tobias
-
-(ME EPP)
-PRESTADOR DE SERVIÇOS
-
-Razão Social
-LETICIA ANDRADE PINHO LTDA
-
-Nome Fantasia
-
-LETICIA ANDRADE
-
-CPF/CNPJ Inscrição Municipal
-51.653.927/0001-61 234808
-Endereço
-
-Barreto
-Email
-Inscrição Estadual Simples Nacional Incentivador Cultural
-isento Sim Não
-
-Município de Prestação do
-
-Serviço
-
-Tobias Barreto - SE
-
-E PERCO
-E
-
-LETYSANDRADSGOGMAIL.COM
-
-Av. Gov. João Alves Filho, 416, SALA 01, Centro - CEP: 49300-000 - Tobias Barreto - SE
-
-TOMADOR DE SERVIÇOS
-
-Nomey/Razão Social
-
+CPF/CNPJ: 22.165.464/0001-90 Inscrição Municipal: Não Informado
 GO COMERCIO DE ARTIGOS ELETRONICOS E ACESSORIOS LTDA
 
-CPF/CNPJ Inscrição Municipal
+R PADRE VALDEVINO, 2528, SALA 02, DIONISIO TORRES - Cep: 60135-414
 
-22.165.464/0001-90
+Fortaleza CE
+Telefone: Não Informado Email: Não Informado
 
-Endereço
+Discriminação do(s) Serviço(s)
+PROMOÇÃO DE VENDAS
 
-Inscrição Estadual Fone/Fax
+DADOS BANCÁRIOS:
 
-(85) 9813-0660
+Eleticiaaguiarfit
 
-E-mail
+Agência: 0001
 
-Rua Padre Valdevino, 2528, Sala 02 - Dionisio Torres - CEP: 60135-414 - Fortaleza - CE
+Conta: 425243133-2
 
-SERVIÇO PRESTADO
+Banco: 0260
 
-Fone/Fax
+CNPJ: 53620364000130
 
-(79) 9822-5155
+PIX: 53620364000130
 
-contabilidadeOgocase.com
+Nu Pagamentos S.A - Instituição de Pagamento.
+VALOR APROXIMADO DOS TRIBUTOS R$ 855,56 (17,55%). FONTE: IBPT.
 
-1706 - Propaganda e publicidade, inclusive promoção de vendas, planejamento de campanhas ou sistemas de publicidade, elaboração de desenhos, textos e
+Código de Tributação do Município (CTISS)
+1706-0/01-88 / Propaganda e publicidade, inclusive promoção de vendas, planejamento de campanhas ou sistemas de
 
-demais materiais publicitários. CNAE: 7319002
+publicidade, elaboração de desenhos, textos e demais materiais publicitários.
 
-DESCRIÇÃO DOS SERVIÇOS
-PUBLICIDADE DE VENDAS DE PRODUTOS
+Subitem Lista de Serviços LC 116/03 / Descrição:
+17.06 / Propaganda e publicidade, inclusive promocao de vendas, planejamento de campanhas ou sistemas de publicidade,
 
-DADOS PAGAMENTO
-CONTA PESSOA JURÍDICA
-BANCO INTER S/A
-AGÊNCIA: 0001
+elaboracao de desenhos, textos e demais materiais publicitarios.
 
-CONTA CORRENTE: 30588073-0
+Cod/Município da incidência do ISSQN: Natureza da Operação:
+3106200 / Belo Horizonte Tributação no município
 
-CHAVE PIX: 51.653.927/0001-61
+Regime Especial de Tributação: ME ou EPP do Simples Nacional
 
-RETENÇÕES FEDERAIS
+Valor dos serviços: R$ 4.875,00 Valor dos serviços: R$ 4.875,00
+(-) Descontos: R$ 0,00 (-) Deduções: R$ 0,00
+(-) Retenções Federais: R$ 0,00 (-) Desconto Incondicionado: R$ 0,00
+(-) ISS Retido na Fonte: R$ 0,00 (=) Base de Cálculo: R$ 4.875,00
+Valor Líquido: R$ 4.875,00 (x) Alíquota: .
 
-PIS (R$) COFINS (R$)
-0,00 0,00
-VALORES
-Valor dos Serviços (R$) Deduções (R$)
-9.000,00 0,00
-ISS (R$) ISS Retido (R$)
-KH kk
+(=)Valor do ISS: -
 
-OUTRAS INFORMAÇÕES
+Documento emitido por ME ou EPP optante pelo Simples Nacional. Não gera direito a credito fiscal de IPI.
 
-Esta NFS-e é autodeclaratória.
-Optante do Simples Nacional.
+Outras Informações:
+Chave de acesso no Ambiente de Dados Nacional: 31062001253620364000130250000000004025082999790431.
 
-INSS (R$) IR (R$)
-0,00 0,00
+Prefeitura de Belo Horizonte - Secretaria Municipal de Fazenda
+Rua Espírito Santo, 605 - 3º andar - Centro - CEP: 30160-919 - Belo Horizonte MG.
+Dúvidas: SIGESP
 
-Desconto Incondicionado (R$)
-0,00
-Desconto Condicionado (R$)
-
-0,00
-
-Trib. aprox. R$ 1.210,50 Federal e R$ 450,00 Municipal. Fonte: IBPT [81AAFF]
-
-Visualizado em: 01/08/2025 16:50:50
-
-Para validação desta NFSe acesse: http://tobiasbarretose.webiss.com.br/externo/nfse/validar
-Esta NFS-e foi emitida com respaldo no Decreto nº 1147 de 13 de junho de 2017.
-
-https://tobiasbarretose.webiss.com.br/issan/nfse/visualizar/347139
-
-CSLL (R$)
-0,00
-
-Base de Cálculo (R$)
-XXX
-
-Valor Líquido (R$)
-9.000,00
-
-Outras Retenções (R$)
-0,00
-
-Alíquota (%)
-2,0000
-Valor Total da Nota (R$)
-
-01/08/2025, 16:50
-Página 1 de 2
-
---- Página 2 ---
-https://tobiasbarretose.webiss.com.br/issgn/nfse/visualizar/347139 01/08/2025, 16:50
-Página 2 de 2
+https://bhissdigital.pbh.gov.br/nfse/pages/exibicaoNFS-e.jsf
