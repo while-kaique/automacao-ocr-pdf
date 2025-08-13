@@ -1,191 +1,57 @@
 
 --- Página 1 ---
-NFS:
+PREFEITURA DA CIDADE DO RIO DE JANEIRO “00000 4!
+SECRETARIA MUNICIPAL DE FAZENDA
+NOTA FISCAL DE SERVIÇOS ELETRÔNICA - NFS-e 06/08/2025 18:48:33
+ódigo de Verificação
+- NOTA CARIOCA -
+PRESTADOR DE SERVIÇOS
 
-DANFSe v1.0
-Documento Auxiliar da NFS-e
+CPF/CNPJ: 41.123.659/0001-12 Inscrição Municipal: 1.311.633-4 Inscrição Estadual: ---
+Nome/Razão Social: LIA PEREIRA RENNO 42823158812
+Nome Fantasia: Agência Pull Up Tel.: 21982578608
+Endereço: AVN MAL HENRIQUE LOTT 270, APT 612 - BARRA DA TIJUCA - CEP: 22631-370
+Município: RIO DE JANEIRO UF: RJ E-mail: liarenno 6) gmail.com
+TOMADOR DE SERVIÇOS
 
-Chave de Acesso da NFS-e
+CPF/CNPJ: 22.165.464/0001 -90 Inscrição Municipal: ---- Inscrição Estadual: ----
+Nome/Razão Social: GO COMERCIO DE ARTIGOS ELETRONICOS E ACESSÓRIOS LTDA
+Endereço: RUA PADRE VALDEVINO 2528, SALA 02 - DIONISIO TORRES - CEP: 60135-414 Tel.: 8598130660
+Município: FORTALEZA UF: CE E-mail: CONTABILIDADEGGOCASE.COM
 
-31543092246451203000103000000000005125085702885637
+DISCRIMINAÇÃO DOS SERVIÇOS
 
-Número da NFS-e
-51
+Publicidade no perfil da influenciadora Suzanna Freitas ((isuzannafreitas).
 
-Número da DPS
-62
+Dados de pagamento:
 
-Competência da NFS-e
-04/08/2025
+Banco - Nubank
 
-Série da DPS
-900
+Agência 0001
 
-Data e Hora da emissão da NFS-e
-04/08/2025 20:51:34
+Conta 56449989-0
 
-Data e Hora da emissão da DPS
-04/08/2025 20:51:34
+Agência Pull Up / Lia Pereira Rennó
 
-A autenticidade desta NFS-e pode ser verificada
-pela leitura deste código QR ou pela consulta da
-chave de acesso no portal nacional da NFS-e
+Pix CNPJ da empresa: 41.123.659/0001-12
 
-EMITENTE DA NFS-e
-Prestador do Serviço
+VALOR DA NOTA = R$ 8.500,00
 
-Nome / Nome Empresarial
-JULIA FARIA STOFEL 01606928651
+Serviço Prestado
+17.06.12 - Serviços especiais ligados à atividade de publicidade e propaganda, não especificados em outros códigos
 
-Endereço
-RUA SAO JOSE, 18, SAO VICENTE
+Deduções (R$) Desconto Incond. (R$) |Base de Cálculo (R$) Alíquota (%) Valor do 55 (R$) Crédito p/ IPTU (R$)
 
-Simples Nacional na Data de Competência
+0,00 0,00 0,00
+OUTRAS INFORMAÇÕES
 
-CNPJ/CPF /NIF
-46.451.203/0001-03
+- Esta NFS-e foi emitida com respaldo na Lei nº 5.098 de 15/10/2009 e no Decreto nº 32.250 de 11/05/2010
 
-Optante - Microempreendedor Individual (MEI)
+- PROCON-RJ: Av. Rio Branco nº 25, 5º andar, tel 151: ww. procon.r).gov.br
 
-Inscrição Municipal
+- ISS devido deve ser recolhido por meio de Documento de Arrecadação do Simples Nacional (DAS).
 
-E-mail
-JULIAFARIASTOFELGQGMAIL.COM
-Município
+- Documento emitido por ME ou EPP optante pelo Simples Nacional. Não gera direito a crédito fiscal de IPI.
 
-Resplendor - MG
-
-Regime de Apuração Tributária pelo SN
-
-Telefone
-(33) 9904-6089
-
-CEP
-35230-000
-
-TOMADOR DO SERVIÇO
-
-Nome / Nome Empresarial
-
-CNPJ/CPF /NIF
-22.165.464/0001-90
-
-GO COMERCIO DE ARTIGOS ELETRONICOS E ACESSORIOS LTDA
-
-Endereço
-
-PADRE VALDEVINO, 2528, SALA 02, DIONISIO TORRES
-
-Inscrição Municipal
-
-E-mail
-Município
-Fortaleza - CE
-
-Telefone
-
-CEP
-60135-414
-
-INTERMEDIÁRIO DO SERVIÇO NÃO IDENTIFICADO NA NFS-e
-
-SERVIÇO PRESTADO
-
-Código de Tributação Nacional
-17.06.01 - Propaganda e publicidade,
-inclusive promoção de vendas, p...
-
-Descrição do Serviço
-Nf JULIA STOFEL
-
-Código de Tributação Municipal
-
-Local da Prestação
-Resplendor - MG
-
-País da Prestação
-
-TRIBUTAÇÃO MUNICIPAL
-
-Tributação do ISSQN
-Operação Tributável
-Tipo de Imunidade
-
-Valor do Serviço
-R$ 2.250,00
-
-BC ISSQN
-
-País Resultado da Prestação do Serviço
-
-Suspensão da Exigibilidade do ISSQN
-Não
-Desconto Incondicionado
-
-Alíquota Aplicada
-
-Município de Incidência do ISSQN
-Resplendor - MG
-
-Número Processo Suspensão
-
-Total Deduções/Reduções
-
-Retenção do ISSQN
-Não Retido
-
-Regime Especial de Tributação
-Nenhum
-
-Benefício Municipal
-
-Cálculo do BM
-
-ISSQN Apurado
-
-TRIBUTAÇÃO FEDERAL
-IRRF
-
-cr
-
-COFINS
-
-CSLL
-
-Retenção do PIS/COFINS
-
-TOTAL TRIBUTAÇÃO FEDERAL
-
-VALOR TOTAL DA NFS-E
-
-Valor do Serviço
-R$ 2.250,00
-
-IRRF, CP,CSLL - Retidos
-R$ 0,00
-
-Desconto Condicionado
-R$
-
-PIS/COFINS Retidos
-
-Desconto Incondicionado
-R$
-
-ISSQN Retido
-
-Valor Líquido da NFS-e
-R$ 2.250,00
-
-TOTAIS APROXIMADOS DOS TRIBUTOS
-
-Federais
-
-Estaduais
-
-Municipais
-
-INFORMAÇÕES COMPLEMENTARES
-
-NBS: 114061900
+- Esta NFS-e não gera crédito para abatimento no IPTU.
 
