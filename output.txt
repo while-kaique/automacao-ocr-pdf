@@ -1,199 +1,88 @@
 
 --- Página 1 ---
-NFSe ss:
+PRISCILA BRENNER LTDA
 
-DANFSe v1.0
+CNPJ: 23.024.242/0001-10 Número da NFS-e Situação
 
-Documento Auxiliar da NFS-e
+VICENTE DA FONTOURA -, 304 89 Emitida
 
-CIDADE DE
-SÃO PAULO
-FAZENDA.
+CEP: 93.410-655 - Bairro: BOA VISTA
 
-Prefeitura da Cidade de São Paulo
-Secretaria Municipal da Fazenda
+Município: NOVO HAMBURGO - RIO GRANDE DO SUL
 
-Chave de Acesso da NFS-e
+Insc. Municipal: 1016161 - Insc. Estadual: 086/053131-7 Tipo
 
-35503082259896315000101000000000000625079784984360
+Email: ASSESSORIAQPRISCILABRENNER.COM Preenchido
 
-Número da NFS-e
-6
+Telefone: (51) 3593-5818 - Celular: (51) 98050-6441 Autenticidade
 
-Número da DPS
-6
+Nota Fiscal de Serviço Eletrônica - Série NFS-e 2
 
-EMITENTE DA NFS-e
-Prestador do Serviço
+Identificador
 
-Nome / Nome Empresarial
-
-Competência da NFS-e
-07/07/2025
-
-Série da DPS
-900
-
-CNPJ/CPF /NIF
-59.896.315/0001-01
-
-59.896.315 KAROLINE SOARES DE OLIVEIRA
-
-Endereço
-
-DENDEZEIRO, 441, JARDIM MATARAZZO
-
-Simples Nacional na Data de Competência
-
-Optante - Microempreendedor Individual (MEI)
-
-Data e Hora da emissão da NFS-e
-07/07/2025 20:57:35
-
-Data e Hora da emissão da DPS
-07/07/2025 20:57:35
-
-Inscrição Municipal
-
-E-mail
-KAROLIVSOARESGQOGMAIL.COM
-Município
-
-São Paulo - SP
-
-Regime de Apuração Tributária pelo SN
-
-A autenticidade desta NFS-e pode ser verificada
-pela leitura deste código QR ou pela consulta da
-chave de acesso no portal nacional da NFS-e
-
-Telefone
-(11) 1198-4708
-
-CEP
-3813130
-
+8771010825174134030230242422025087394611
+gêks ESTADO DE RIO GRANDE DO SUL
+PREFEITURA MUNICIPAL DE NOVO HAMBURGO
+SECRETARIA MUNICIPAL DA FAZENDA
+01/08/2025 01/08/2025 17:41
 TOMADOR DO SERVIÇO
 
-Nome / Nome Empresarial
+Nome Fantasia
+GO CASE
 
-CNPJ/CPF /NIF
-22.165.464/0001-90
+Nomey/Razão Social CPF/CNPJ Inscrição Municipal
+GO COMERCIO DE ARTIGOS ELETRONICOS E ACESSORIOS LTDA 22.165.464/0001-90
 
-GO COMERCIO DE ARTIGOS ELETRONICOS E ACESSORIOS LTDA
+Endereço Número Complemento
 
-Endereço
+PADRE VALDEVINO 2528 NÃO INFORMADO
 
-PADRE VALDEVINO, 2528, SALA 02, DIONISIO TORRES
-INTERMEDIÁRIO DO SERVIÇO NÃO IDENTIFICADO NA NFS-e
+Bairro CEP Cidade - Estado
 
-Inscrição Municipal
+DIONISIO TORRES 60135414 Fortaleza - CE
 
-E-mail
-Município
-Fortaleza - CE
+DESCRIÇÃO DOS SERVIÇOS PRESTADOS
 
-Telefone
+Serviço ! Local Prestação | Alíquota : Valor Serviço ! Desc. Incondic. | ValorDedução Valor ISS
+0,
 
-CEP
-60135-414
+Descrição do Serviço:
+Produção de vídeos e fotografias.
 
-SERVIÇO PRESTADO
+Valor Total Desc. Incondicional Dedução Base de Cálculo ISSQN
+3.500,00 0,00 0,00 3.500,00 70,35
+ISSRF IR INSS CSLL COFINS
+0,00 0,00 0,00 0,00 0,00
+PIS Outras Retenções Total Trib. Federais Desc. Condicional Valor Líquido
+0,00 0,00 0,00 0,00 3.500,00
 
-Código de Tributação Nacional
-17.06.01 - Propaganda e publicidade,
-inclusive promoção de vendas, p...
+Atividade do Município Cód. Nacional Atividade Econômica
 
-Descrição do Serviço
-Vendas on-line
+5849 - ATIVIDADES DE PRODUCAO DE FOTOGRAFIAS,EXCETO AEREA E 7420001 - Atividades de produção de fotografias, exceto aérea e submarina
+SUBMARINA
 
-Código de Tributação Municipal
+Descrição dos subitens da Lista de Serviço em acordo com a Lei Complementar 116/03
 
-Local da Prestação
-São Paulo - SP
+1303 Fotografia e cinematografia, inclusive a revelaçao, ampliaçao, copia, reproduçao, trucagem e congeneres
+Local de Prestação do Serviço
 
-País da Prestação
+8771 Novo Hamburgo
+Local de Incidência do ISS
+8771 Novo Hamburgo
 
-TRIBUTAÇÃO MUNICIPAL
+Outras Informações
+(1303) Serviço tributado no município do prestador
 
-Tributação do ISSQN
-Operação Tributável
+Contribuinte enquadrado como Simples Nacional - Homologado de ISS ou ISS em regime estimado/fixo
+Autorização para emissão de Nota Fiscal de Serviço Eletrônica: 8029/2023 de 01/03/2023 00:00:00
 
-Tipo de Imunidade
+A veracidade das informações declaradas na NFS-e podem ser consultadas no site:
+https://novohamburgo.atende.net/autoatendimento/servicos/consulta-de-autenticidade-de-nota-fiscal-eletronica-nfs-e
 
-Valor do Serviço
-R$ 1.673,76
+A data de vencimento do ISS quando o mesmo for devido no município do Prestador: 19/09/2025
 
-BC ISSQN
+Valor aproximado dos tributos: Federais R$470,75 (13,45%), Estaduais R$0,00 (0,00%), Municipais R$158,20 (4,52%), com base na Lei 12.741/2012 e no
+Decreto 8.264/2014 - FONTE IBPT
 
-País Resultado da Prestação do Serviço
-
-Suspensão da Exigibilidade do ISSQN
-Não
-Desconto Incondicionado
-
-Alíquota Aplicada
-
-Município de Incidência do ISSQN
-São Paulo - SP
-
-Número Processo Suspensão
-
-Total Deduções/Reduções
-
-Retenção do ISSQN
-Não Retido
-
-Regime Especial de Tributação
-Nenhum
-
-Benefício Municipal
-
-Cálculo do BM
-
-ISSQN Apurado
-
-TRIBUTAÇÃO FEDERAL
-IRRF
-
-cr
-
-COFINS
-
-CSLL
-
-Retenção do PIS/COFINS
-
-TOTAL TRIBUTAÇÃO FEDERAL
-
-VALOR TOTAL DA NFS-E
-
-Valor do Serviço
-R$ 1.673,76
-
-IRRF, CP,CSLL - Retidos
-R$ 0,00
-
-Desconto Condicionado
-R$
-
-PIS/COFINS Retidos
-
-Desconto Incondicionado
-R$
-
-ISSQN Retido
-
-Valor Líquido da NFS-e
-R$ 1.673,76
-
-TOTAIS APROXIMADOS DOS TRIBUTOS
-
-Federais
-
-Estaduais
-
-Municipais
-
-INFORMAÇÕES COMPLEMENTARES
+Observações: Dados Bancários; Bradesco: 237 Ag:2172-5 C:2129-6 CNPJ/Pix: 23.024.242/0001-10 Priscila Brenner Eireli
 
