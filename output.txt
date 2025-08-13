@@ -1,77 +1,155 @@
 
 --- Página 1 ---
-Número da Nota:
+DANFSe v1.0
 
-PREFEITURA MUNICIPAL DO SALVADOR 00000135
+NFS:
 
-SECRETARIA MUNICIPAL DA FAZENDA Data e Hora de Emissão:
-04/08/2025 21:05:38
-NOTA FISCAL DE SERVIÇOS ELETRÔNICA - Nota Salvador Dao cação:
+Documento Auxiliar da NFS-e
 
-PRESTADOR DE SERVIÇOS
+Chave de Acesso da NFS-e
+33045572249531554000104000000000003825087699358573
 
-CPF/CNPJ: Inscrição Municipal:
-54.247.519/0001-06 00.184.782/001-42
-Nome/Razão Social:
+Número da NFS-e Competência da NFS-e
+38 04/08/2025
 
-KAROLINE PREVITERA MARKETING LTDA
+Número da DPS Série da DPS
+38 900
 
-Endereço:
-Ave Anita Garibaldi 001133, EDIF:CENTRO ODONTOMÉDICO ITAMA - ONDINA - Salvador - CEP: 40170-130 - BA
+Data e Hora da emissão da NFS-e
+04/08/2025 10:07:11
 
-E-mail:
-karolinelprevitera(d gmail.com
+Data e Hora da emissão da DPS
+04/08/2025 10:07:11
 
-TOMADOR DE SERVIÇOS
+A autenticidade desta NFS-e pode ser verificada
+pela leitura deste código QR ou pela consulta da
 
-Nome/Razão Social:
+chave de acesso no portal nacional da NFS-e
 
-GO COMERCIO DE ARTIGOS ELETRÔNICOS E ACESSORIOS LTDA
+CNPJ/CPF /NIF
+49.531.554/0001-04
 
-CPF/CNPJ: Inscrição Municipal:
-22.165.464/0001-90 em
+EMITENTE DA NFS-e
+Prestador do Serviço
 
-Endereço:
+Nome / Nome Empresarial
+49.531.554 LARISSA LOURENCA COSENZA DONATO
 
-RUA CAROLINA SUCUPIRA 1368, 1 ANDAR SALA A ALDEOTA - Fortaleza - CEP: 60140-120/CE
-E-mail:
+Endereço
+SAO LEOBALDO, 31, SAO CONRADO
 
-CONTABILIDADEGGOCASE.COM
+Simples Nacional na Data de Competência
+Optante - Microempreendedor Individual (MEI)
 
-DISCRIMINAÇÃO DOS SERVIÇOS
+Inscrição Municipal Telefone
 
-Promoção de vendas independente
+- (21) 3322-2028
+E-mail
 
-Karoline Lima Previtera de Azevedo
+CONTATO.LALOURENCAGQGMAIL.COM
 
-Razão social: Karoline Previtera marketing LTDA
-CNPJ: 54 247 519/ 0001-06
+CEP
+22610-280
 
-Banco Bradesco
+Município
+Rio de Janeiro - RJ
+Regime de Apuração Tributária pelo SN
 
-Conta corrente: 73917-0
+TOMADOR DO SERVIÇO CNPJ/CPF /NIF
+22.165.464/0001-90
 
-Agencia: 7185
+Nome / Nome Empresarial
+GO COMERCIO DE ARTIGOS ELETRONICOS E ACESSORIOS LTDA
 
-Chave pix (CNPJ)
-54247519000106
+Endereço
+PADRE VALDEVINO, 2528, SALA 02, DIONISIO TORRES
 
-VALOR TOTAL DA NOTA = R$3.375,00
+Inscrição Municipal Telefone
 
-Item da Lista de Serviços
-01706 - Propaganda e publicidade, inclusive promoção de vendas, planejamento de campanhas ou sistemas de publicidade, elaboraçã..
+E-mail
 
-Valor Total das Deduções (R$): Base de Cálculo (R$): «| Plquota (9%): Valor do 55 (R% Crédito Nota Salvador (R$):
-0,00 0,00
+CEP
+60135-414
 
-OUTRAS INFORMAÇÕES
-Valor INSS (R$): Valor PIS (R$): Valor COFINS (R$) | Valor IR (R$): Valor CSLL (R$): Outras Retenções (R$)| Valor Líquido (R$):
-0,00 0,00 0,00 0,00 0,00
-- Esta Nota Salvador foi emitida com respaldo na Lei 7.186/2006.
+Município
+Fortaleza - CE
 
-- Documento emitido por ME ou EPP optante pelo Simples Nacional.
-- COMPETÊNCIA; 08/2025 (mês/ano)
+INTERMEDIÁRIO DO SERVIÇO NÃO IDENTIFICADO NA NFS-e
 
-- Código de Tributação do Município: 1706-0/01 - Propaganda e publicidade, inclusive promoção de vendas, planejamento de campanhas ou sistemk
-de publicidade, elaboração de desenhos, textos e demais materiais publicitários.
+SERVIÇO PRESTADO
+
+Código de Tributação Nacional Código de Tributação Municipal
+17.06.01 - Propaganda e publicidade, -
+inclusive promoção de vendas, p...
+
+Descrição do Serviço .
+COMISSÃO - PROMOÇÃO DE VENDAS
+INSTAGRAM (OLALOURENCA
+
+BANCO NUBANK - 260
+AG 0001
+CIC 88337384-5
+
+Local da Prestação País da Prestação
+Rio de Janeiro - RJ -
+
+TRIBUTAÇÃO MUNICIPAL
+
+Tributação do ISSQN País Resultado da Prestação do Serviço
+Operação Tributável -
+
+Tipo de Imunidade Suspensão da Exigibilidade do ISSQN
+
+- Não
+
+Valor do Serviço Desconto Incondicionado
+R$ 1.900,00 -
+
+BC ISSQN Alíquota Aplicada
+
+Município de Incidência do ISSQN
+Rio de Janeiro - RJ
+
+Regime Especial de Tributação
+Nenhum
+
+Número Processo Suspensão Benefício Municipal
+
+Total Deduções/Reduções Cálculo do BM
+
+Retenção do ISSQN ISSQN Apurado
+Não Retido -
+
+TRIBUTAÇÃO FEDERAL
+IRRF CP
+
+COFINS
+
+VALOR TOTAL DA NFS-E
+
+Valor do Serviço Desconto Condicionado
+R$ 1.900,00 R$
+
+IRRF, CP,CSLL - Retidos PIS/COFINS Retidos
+R$ 0,00 -
+
+CSLL
+
+Retenção do PIS/COFINS TOTAL TRIBUTAÇÃO FEDERAL
+
+Desconto Incondicionado ISSQN Retido
+R$ -
+
+Valor Líquido da NFS-e
+R$ 1.900,00
+
+TOTAIS APROXIMADOS DOS TRIBUTOS
+
+Federais
+
+Estaduais
+
+Municipais
+
+INFORMAÇÕES COMPLEMENTARES
 
