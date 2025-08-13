@@ -2,71 +2,60 @@
 --- Página 1 ---
 DANFSe v1.0
 
-NFSe ss:
+NFS:
 
 Documento Auxiliar da NFS-e
 
-ê
-
-Prefeitura Municipal de Porto
-
-Alegre/RS
-(51)3289-0156
-
 Chave de Acesso da NFS-e
-43149022245244931000173000000000004925085877967349
+33045572240953973000160000000000002125082020046587
 
 Número da NFS-e Competência da NFS-e
-49 05/08/2025
+21 30/07/2025
 
 Número da DPS Série da DPS
-55 900
+37 900
 
 Data e Hora da emissão da NFS-e
-05/08/2025 11:32:21
+02/08/2025 12:36:53
 
 Data e Hora da emissão da DPS
-05/08/2025 11:32:21
+02/08/2025 12:36:53
 
 A autenticidade desta NFS-e pode ser verificada
 pela leitura deste código QR ou pela consulta da
 chave de acesso no portal nacional da NFS-e
 
 CNPJ/CPF /NIF
-45.244.931/0001-73
+40.953.973/0001-60
 
 EMITENTE DA NFS-e
 Prestador do Serviço
 
 Nome / Nome Empresarial
-JORDANA VUCETIC INFLUENCIADORA DIGITAL, PALESTRAS E
-CURSOS LTDA
+JULIA CASTRO SISQUIM 18409220792
 
 Endereço
-RIACHUELO, 785, CENTRO HISTORICO
+SANTO AMBROSIO DE SENA, 240, PITANGUEIRAS
 
 Simples Nacional na Data de Competência
-Optante - Microempresa ou Empresa de Pequeno Porte (ME/EPP)
+Optante - Microempreendedor Individual (MEI)
 
 Inscrição Municipal
 
 E-mail
 
-CONTATO JORDANAVUCETIC.COM
-
 Município
-Porto Alegre - RS
+
+Rio de Janeiro - RJ
+
 Regime de Apuração Tributária pelo SN
 
 Telefone
-(51) 9552-0877
 
 CEP
-90010-270
+21930-300
 
-Regime de apuração dos tributos federais e municipal pelo Simples Nacional
-
-TOMADOR DO SERVIÇO CNPJ /CPF/NIF
+TOMADOR DO SERVIÇO CNPJ/CPF /NIF
 22.165.464/0001-90
 
 Nome / Nome Empresarial
@@ -95,12 +84,22 @@ Código de Tributação Nacional Código de Tributação Municipal
 inclusive promoção de vendas, p...
 
 Descrição do Serviço
-Escopo de Agosto fechado entre GoCase e Jordana Vucetic.
 
+Referente aos serviços de publicidade prestados por Júlia Ceschin.
 Dados de pagamento:
 
-Banco: Nubank / Agência: 0001/ Conta CNPJ: 21740172-3
-Pix:contato(Djordanavucetic.com
+agência: 0001
+
+cc: 80893275-7
+
+banco: 0260
+
+chave pix: julia.cceschin(Dgmail.com
+
+Local da Prestação
+Rio de Janeiro - RJ
+
+País da Prestação
 
 TRIBUTAÇÃO MUNICIPAL
 
@@ -112,17 +111,13 @@ Tipo de Imunidade Suspensão da Exigibilidade do ISSQN
 - Não
 
 Valor do Serviço Desconto Incondicionado
-R$ 34.000,00 -
 
-BC ISSQN
+R$ 2.000,00 -
 
-Alíquota Aplicada
-
-Local da Prestação
-Porto Alegre - RS
+BC ISSQN Alíquota Aplicada
 
 Município de Incidência do ISSQN
-Porto Alegre - RS
+Rio de Janeiro - RJ
 
 Número Processo Suspensão
 
@@ -130,8 +125,6 @@ Total Deduções/Reduções
 
 Retenção do ISSQN
 Não Retido
-
-País da Prestação
 
 Regime Especial de Tributação
 Nenhum
@@ -156,7 +149,7 @@ TOTAL TRIBUTAÇÃO FEDERAL
 VALOR TOTAL DA NFS-E
 
 Valor do Serviço Desconto Condicionado
-R$ 34.000,00 R$
+R$ 2.000,00 R$
 
 IRRF, CP,CSLL - Retidos PIS/COFINS Retidos
 R$ 0,00 -
@@ -167,9 +160,10 @@ R$
 ISSQN Retido
 
 Valor Líquido da NFS-e
-R$ 34.000,00
+R$ 2.000,00
 
 TOTAIS APROXIMADOS DOS TRIBUTOS
+
 Federais
 
 Estaduais
