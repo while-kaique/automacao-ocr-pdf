@@ -1,35 +1,43 @@
 
 --- Página 1 ---
-NFSe sz:
+NFSe ss:
 
 DANFSe v1.0
 
 Documento Auxiliar da NFS-e
 
+Prefeitura Municipal de Porto
+
+Alegre/RS
+(51)3289-0156
+
+ê
+
 Chave de Acesso da NFS-e
 
-33045572231516957000119000000000001325087535168990
+43149022254837934000101000000000009725081567620316
 
 Número da NFS-e
-13
+97
 
 Número da DPS
-13
+123
 
 Competência da NFS-e
-14/07/2025
+07/08/2025
 
 Série da DPS
 900
 
 Data e Hora da emissão da NFS-e
-04/08/2025 09:40:25
+07/08/2025 19:50:52
 
 Data e Hora da emissão da DPS
-04/08/2025 09:40:25
+07/08/2025 19:50:52
 
 A autenticidade desta NFS-e pode ser verificada
 pela leitura deste código QR ou pela consulta da
+
 chave de acesso no portal nacional da NFS-e
 
 EMITENTE DA NFS-e
@@ -38,56 +46,54 @@ Prestador do Serviço
 Nome / Nome Empresarial
 
 CNPJ/CPF /NIF
-31.516.957/0001-19
+54.837.934/0001-01
 
-31.516.957 GUSTAVO CUNHA DE OLIVEIRA
+FAMILIA MATIAS - MARKETING DE INFLUENCIA LTDA
 
 Endereço
-
-BARÃO DE SAO FRANCISCO, 245, ANDARAI
+CAUDURO, 97, BOM FIM
 
 Simples Nacional na Data de Competência
 
-Optante - Microempreendedor Individual (MEI)
+Optante - Microempresa ou Empresa de Pequeno Porte (ME/EPP)
 
-Inscrição Municipal
+Inscrição Municipal Telefone
+- (51) 9292-8087
 
 E-mail
-
-Município
-
-Rio de Janeiro - RJ
-
-Regime de Apuração Tributária pelo SN
-
-Telefone
+CINTHIAOLIVEIRASOYAHOO.COM.BR
 
 CEP
-20560-031
+90035-110
+
+Município
+Porto Alegre - RS
+
+Regime de Apuração Tributária pelo SN
+Regime de apuração dos tributos federais e municipal pelo Simples Nacional
 
 TOMADOR DO SERVIÇO
 
 Nome / Nome Empresarial
 
-CNPJ/CPF /NIF
-22.165.464/0003-52
+CNPJ/CPF/NIF
+22.165.464/0001-90
 
 GO COMERCIO DE ARTIGOS ELETRONICOS E ACESSORIOS LTDA
 
 Endereço
 
-FERNAO DIAS, S/N, KM 947.5 AREA Ci A C6, DOS PIRES
+PADRE VALDEVINO, 2528, SALA 02, DIONISIO TORRES
 
-Inscrição Municipal
+Inscrição Municipal Telefone
 
 E-mail
-Município
-Extrema - MG
-
-Telefone
 
 CEP
-37642-917
+60135-414
+
+Município
+Fortaleza - CE
 
 INTERMEDIÁRIO DO SERVIÇO NÃO IDENTIFICADO NA NFS-e
 
@@ -101,83 +107,61 @@ Descrição do Serviço
 
 Código de Tributação Municipal
 
-Local da Prestação
-Rio de Janeiro - RJ
+Local da Prestação País da Prestação
+Porto Alegre - RS -
 
-País da Prestação
+Referente ao trabalho realizado pela influenciadora Nati Matias - (Onatimatias - Informações de Pagamento - Banco: 077 / Agência: 0001 / Conta: 35683382-
 
-PRODUCAO DE CONTEUDO PARA AS REDES SOCIAIS PARA OS PERFIS (Osofia.muxagata e (Dgabimuxagata Banco: 290 Agência: 0001 Número da
-conta: 39881536-5 Tipo: Conta de pagamento CNPJ: 31.516.957/0001-19 Nome: GUSTAVO CUNHA DE OLIVEIRA 11976881706
+8 / Pix 54.837.934/0001-01 (CNPJ)
 
 TRIBUTAÇÃO MUNICIPAL
 
 Tributação do ISSQN
-Imunidade
+Operação Tributável
 
 Tipo de Imunidade
 
-Fonogramas e videofonogramas
-musicais produzidos no Brasil
-contendo obras musicais ou
-literomusicais de autores brasileiros
-e/ou obras em geral interpretadas por
-artistas brasileiros bem como os
-suportes materiais ou arquivos
-digitais que os contenham, salvo na
-etapa de replicação industrial de
-mídias ópticas de leitura a laser.
-(CF88, Art 150, VI, "e”)
-
 Valor do Serviço
-R$ 10.300,00
 
+R$ 14.000,00
 BC ISSQN
 
 País Resultado da Prestação do Serviço
 
 Suspensão da Exigibilidade do ISSQN
 Não
-
 Desconto Incondicionado
 
 Alíquota Aplicada
 
 Município de Incidência do ISSQN
-Nenhum
+Porto Alegre - RS
 
-Número Processo Suspensão
-
-Total Deduções/Reduções
-
-Retenção do ISSQN
-Não Retido
+Número Processo Suspensão Benefício Municipal
 
 Regime Especial de Tributação
 Nenhum
 
-Benefício Municipal
+Total Deduções/Reduções Cálculo do BM
 
-Cálculo do BM
-
-ISSQN Apurado
+Retenção do ISSQN ISSQN Apurado
+Não Retido -
 
 TRIBUTAÇÃO FEDERAL
 IRRF
 
-cr
+CP
 
 COFINS
 
 CSLL
 
-Retenção do PIS/COFINS
-
-TOTAL TRIBUTAÇÃO FEDERAL
+Retenção do PIS/COFINS TOTAL TRIBUTAÇÃO FEDERAL
 
 VALOR TOTAL DA NFS-E
 
 Valor do Serviço
-R$ 10.300,00
+R$ 14.000,00
 
 IRRF, CP,CSLL - Retidos
 R$ 0,00
@@ -187,21 +171,22 @@ R$
 
 PIS/COFINS Retidos
 
-Desconto Incondicionado
-R$
-
-ISSQN Retido
+Desconto Incondicionado ISSQN Retido
+R$ -
 
 Valor Líquido da NFS-e
-R$ 10.300,00
+R$ 14.000,00
 
 TOTAIS APROXIMADOS DOS TRIBUTOS
 
 Federais
+0,00 %
 
 Estaduais
+0,00 %
 
 Municipais
+0,00 %
 
 INFORMAÇÕES COMPLEMENTARES
 
