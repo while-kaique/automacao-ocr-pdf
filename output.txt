@@ -1,61 +1,46 @@
 
 --- Página 1 ---
-PREFEITURA MUNICIPAL DE VILA VELHA
+04/08/2025,09:21 Contabilizei - Contabilidade Online
 
-29102-375 - AVENIDA SANTA LEOPOLDINA - COQUEIRAL ITAPARICA - VILA VELHA - ES Competência
+Número da Nota
+PREFEITURA MUNICIPAL DE BELO HORIZONTE 202500000H000DS
+Data da emissão
+NOTA FISCAL DE SERVIÇOS ELETRÔNICA - NFS-e 04/08/2025 09:21
+Código de
+Verificação
+48978f52
+PRESTADOR DE SERVIÇOS
+Razão Social: LARA MACEDO LEMBRANCE Inscrição Municipal: 16624940019
+LTDA Município/UF: Belo Horizonte - MG
+CNPJ: 60.823.402/0001-18 Telefone: (73)98880-8835
+Endereco: RUA RODRIGUES CALDAS 501 APT E-mail:
+902 Web site:
+Bairro: SANTO AGOSTINHO
+CEP: 30190120
+TOMADOR DE SERVIÇOS
+Nome / Razão Social: GO COMERCIO DE CPF / CNPJ: 22.165.464/0001-90
+ARTIGOS ELETRONICOS E ACESSORIOS LTDA Município/UF: Fortaleza - CE
+Endereco: PADRE VALDEVINO 2528 SALA 02 Telefone: 8598130660
+Bairro: DIONISIO TORRES E-mail:
+CEP: 60135414 CONTABILIDADEGGOCASE.COM
 
-SEE Nota Fiscal de Serviços Eletrônica - NFS-e 08/2025
+DISCRIMINAÇÃO DOS SERVIÇOS
 
-|
-Número RPS: Número Nota Fiscal: | Data Emissão
-107| 01/08/2025
+SERVIÇOS PRESTADOS DE MÍDIA PARA MARCA GOCASE - Conforme Lei 12.741/2012, 0 percentual
+total de impostos incidentes neste serviço prestado é de aproximadamente 6%
 
-NF PROJETOS LTDA
+Valor líquido da Nota Fiscal = R$ 3.650,00
 
-29101-270 - RUA JOSEPH ZGAIB, 95 APT 701 BLOCO B - PRAIA DA COSTA
-VILA VELHA - ES - CEP: 29101-270
-CNPJICPF:44.229.205/0001-19 Inscr. Estadual/RG:
-Email: CONTATOGMAXPRIMECONTABILIDADE.COM.BR
-Telefone: 20224509 Ccm 258179
-Local do Serviço: 1 - SERVIÇO PRESTADO NO MUNICÍPIO DE VILA VELHA
-Natureza Operação: Prestação de Serviços
-Sub item da lista de serviço: 17.06 - Propaganda e publicidade, inclusive promoção de vendas, planejamento de campanhas ou sistemas de publicidade, elaboração
+VALOR TOTAL DA NOTA - R$ 3.650,00
 
-Exigibilidade ISS: Exigível Incentivo Fiscal: NÃO Regime: Simples Nacional
+Código da Atividade
 
-Dados do Tomador de Serviço
+CNAE: 7319-0/03 - Marketing direto
+Item de Serviço: -
 
-GO COMERCIO DE ARTIGOS ELETRONICOS E ACESSORIOS LTDA
+Base de cálculo (R$) Alíquota ISS (%) Valor do ISS (R$)
+3.650,00 73,36
 
-R PADRE VALDEVINO -
+https://app.contabilizei.com .br/nfse/*/visualizar/001/17e76804a9934841a7dlecc887303596
 
-DIONISIO TORRES - FORTALEZA - CE - Brasil - CEP: 60.135-414
-
-CNPJ/CPF: 22.165.464/0001-90 Inscrição Estadual/RG: Inscrição Municipal: GOCASE
-E-mail:
-
-End. Cobrança:
-
-Qtd Un Discriminação dos Serviços Valor Unitário Valor Total
-
-1 Conta bancária 18.110,09 18.110,09
-Banco: Nubank - 0260
-Agência: 0001
-Conta: 44665309-1
-Chave Pix: 44.229.205/0001-19
-
-DOCUMENTO EMITIDO POR ME OU EPP OPTANTE PELO SIMPLES NACIONAL.
-
-Observação:
-DO osidepeduções| 00 |
-[DO Descincondcionado| om |
-=
-
-Total da Nota RETENÇÕES Total Liquido
-
-IRRF PIS COFINS CSLL INSS OUTROS
-18.110,09 0,001 o,00| 000] 0,001 0,001 o,00| 0,00 18.110,09
-
-Esta é a chave de validação: XPDM-DYKA
-A validação dessa nota pode ser realizada no endereço: www.vilavelha.es.gov.br
-
+11
