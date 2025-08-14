@@ -1,63 +1,71 @@
 
 --- Página 1 ---
-Número da Nota
+04/08/2025, 10:54 Prefeitura de Goiânia - Nota Fiscal de Serviços (NFS-e)
 
-PREFEITURA DO MUNICÍPIO DE SÃO PAULO |" oogs12
-SECRETARIA MUNICIPAL DA FAZENDA Data e Hora de Emissão
-04/08/2025 15:58:15
+Prefeitura de Goiânia Número da Nota 570
+Secretaria Municipal de Finanças
 
-NOTA FISCAL ELETRÔNICA DE SERVIÇOS - NFS-e Código de Verificação
-RPS Nº 551 Série NFSE, emitido em 04/08/2025 SZ1F-NGBP
+Nota Fiscal de Serviços Eletrônica - NFS Data Emissão 04/08/2025
+ota Fiscal de Serviços Eletronica - -e 1: . =
+AIDF 249602/2021 Código Verificação 4KAZ-6TY9
 
-PRESTADOR DE SERVIÇOS
+PRESTADOR DOS SERVIÇOS
 
-CPF/CNPJ: 27.179.660/0001-38 Inscrição Municipal: 5.670.072-5
-Nome/Razão Social: SOLLER LTDA
+CPF/CNPJ 43.792.312/0001-98 Inscrição Municipal 5508584
+Nome/Razão Social 'GEMEAS DA FER PRODUCOES LTDA
 
-Endereço: AY NOVE DE JULHO 4254 - JARDIM PAULISTA - CEP: 01406-100
+Endereço AL DR SEBASTIAO FLEURY N.201 QD.252 LT.212223
 
-UF: SP
+Bairro SET MARISTA
 
-Município: São Paulo
+Município GOIÂNIA-GO CEP 74180060 Telefone (62) 96484001
 
-TOMADOR DE SERVIÇOS
-Nome/Razão Social: GO COMERCIO DE ARTIGOS ELETRÔNICOS E ACESSÓRIOS LTDA
+TOMADOR DOS SERVIÇOS
+Nome/Razão Social GO COMERCIO DE ARTIGOS ELETRONICOS E ACESS. LTDA.
 
-CPF/CNPJ: 22.165.464/0001 -90 Inscrição Municipal: ----
+CPF/CNPJ 22.165.464/0001-90
 
-Endereço: R Padre Valdevino 2475 - Dionisio Torres - CEP: 60135-414
+Endereço R PADRE VALDEVINO N. 2528
+Bairro DIONISIO TORRES
 
-Município: Fortaleza UF: CE E-mail: contabilidadeG)gocase.com
-INTERMEDIÁRIO DE SERVIÇOS
-
-CPF/CNPJ: -—— Nome/Razão Social: ---—-
+Município FORTALEZA - CE CEP 60135414
 
 DISCRIMINAÇÃO DOS SERVIÇOS
 PRESTACAO DE SERVICO INFLUENCIADORA FERNANDA CINTRA + GO CASE
 
-Banco Itau
+Banco PJ: BANCO DO BRASIL S.A (001)
+Agencia: 3648-X
 
-Ag: 0186
+Conta: 43.457-4
 
-C/C: 980974-3
+Pix: 43.792.312/0001-98
 
-PIX: financeirolísollerassessoria.com.br
-R$ 5.000,00
+R$ 20.000,00
 
 VENCIMENTO: 29/08/2025
 
-VALOR TOTAL DO SERVIÇO = R$ 5.000,00
-INSS (R$) IRRF (R$) CSLL (R$) COFINS (R$) PIS/PASEP (R$)
+INFORMAÇÕES ADICIONAIS
 
-Código do Serviço
-02496 - Propaganda e publicidade, promoção de vendas, planejamento de campanhas e materiais publicitários.
+Atividade 591110200
+Producao de filmes para publicidade
 
-Valor Total das Deduções (R$) Base de Cálculo (R$) Alíquota (%) Valor do I55 (R$) Crédito (R$)
-0,00 ; z ; 0,00
-Município da Prestação do Serviço Número Inscrição da Obra Valor Aproximado dos Tributos / Fonte
+Retenções PIS COFINS INSS IR CSLL
+Federais R$ 0,00 R$ 0,00 R$ 0,00 R$ 0,00 R$ 0,00
 
-OUTRAS INFORMAÇÕES
+Demonstrativo Cálculo do Imposto
+Valor dos Serviços 20.000,00 | Valor dos Serviços R$ 20.000,00
+(-) Desconto Incondicionado 0,00 |(-) Desconto Incondicionado R$ 0,00
+(-) Retenções Federais 0,00 | (=) Valor da Nota R$ 20.000,00
+(-) ISSQN Retido pelo Tomador 0,00 | (-) Deduções R$ 20.000,00
+(=) Valor Líquido 20.000,00 | (=) Base de Cálculo R$ 0,00
+Serviço prestado em Imposto devido em (x) Aliquota % 5,00
+GOIANIA-GO GOIÂNIA-GO (=) Valor do Imposto (ISSQN) R$ 0,00
+Valor dos Serviços Desconto Valor da Nota
+R$ 20.000,00 R$ 0,00 R$ 20.000,00
 
-(1) Esta NFS-e foi emitida com respaldo na Lei nº 14.097/2005; (2) Documento emitido por ME ou EPP optante pelo Simples
-Nacional; (3) Esta NFS-e substitui o RPS Nº 551 Série NFSE, emitido em 04/08/2025;
+Informações Importantes: Usuário: 1
 
+- Não incidência de ISS.
+- À autenticidade desta Nota Fiscal pode ser verificada na página da Prefeitura em www.goiania.go.gov.br.
+
+https://www6.goiania.go.gov.br/sistemas/snfse/asp/snfse00200w0.asp?nota=570 1/1
