@@ -1,154 +1,56 @@
 
 --- Página 1 ---
-PREFEITURA MUNICIPAL DE GUARANI
-SECRETARIA MUNICIPAL DE FAZENDA
+PREFEITURA DO MUNICÍPIO DE SÃO PAULO 0000068
+SECRETARIA MUNICIPAL DA FAZENDA Data e Hora de Emissão
 
-SETOR TRIBUTÁRIO
-PRAÇA ANTÔNIO CARLOS, 10 - CENTRO
-GUARANI - MG - 36.160-000 - Tel.: (32)3575-1523
+01/08/2025 18:06:42
 
-Nº da Nota
-25/2025
+NOTA FISCAL ELETRÔNICA DE SERVIÇOS - NFS-e Código de Verificação
 
-Nº Integral: 202500000000025
-
-Código Verificação
-AB4CFYWXDP
-
-Município de Prestação:
-
-Natureza da Operação:
-
-Data da Nota Fiscal:
-
-Razão Social:
-
-Nome Fantasia:
-
-Regime Especial:
-Simples Nac/MEI/Outros:
-
-Endereço:
-
-Nome:
-Nome Fantasia:
-E-mail:
-
-Endereço:
-
-Código de Serviço:
-CNAE:
-Intermediário:
-
-Construção Civil - Obra:
-
-NOTA FISCAL DE SERVIÇOS ELETRÔNICA - NFS-e
-
-GUARANI - MG Período de Competência: 8/2025
-
-TRIBUTAÇÃO NO MUNICÍPIO Reg. Especial Tributação: ME (Micro Empresa) ou EPP
-
-01/08/2025 Nº da RPS:
-
+20250901uU32879031000150 VRQJ-ICLZ
 PRESTADOR DE SERVIÇOS
-BIA BEN PRODUCOES LTDA
-BIA BEN
-ME (Micro Empresa) ou EPP (Empresa de Pequeno
-Simples Nacional Fone/Fax
 
-RUA CORONEL LADEIRA, 46 - SALA G - CENTRO - 36.160-000 - GUARANI - MG
+CPF/CNPJ: 32.879.031/0001-50 Inscrição Municipal: 6.209.043-7
+
+ome/Razão Social: 32.879.031 ALESSANDRA SAYURI GONCALVES MIYASHIRO
+
+Endereço: AY AUGUSTO ANTUNES 729, SALA 03 - LIMOEIRO - CEP: 08051-370
+unicípio: São Paulo UF: SP
 
 TOMADOR DE SERVIÇOS
 
-GO COMERCIO DE ARTIGOS ELETRONICOS E ACESSORIOS LTDA
-Inscrição Municipal:
-Fone/Fax:
+ome/Razão Social: GO COMERCIO DE ARTIGOS ELETRÔNICOS E ACESSÓRIOS LTDA
+CPF/CNPJ: 22.165.464/0003-52 Inscrição Municipal: ----
 
-(85)9813-0660 Inscrição Estadual:
+Endereço: RV MG-460 (EST MUNIC HORACIO MARINHO) 350, GALPAOO1 - JARDIM - CEP: 37640-000
+unicípio: Extrema UF: MG E-mail: contabilfDosldigital.com.br
 
-R PADRE VALDEVINO, 2528 - SALA 02 - DIONISIO TORRES - 60.135-414 - FORTALEZA - CE
-
-DADOS COMPLEMENTARES
-
-CNPJ:
-
-Inscrição Municipal:
-
-45.255.507/0001-24
-96001687
-
-Inscrição Estadual:
-
-: (82)3575-1209
-
-CPF/CNPJ: 22.165.464/0001-90
-
-17.06 - PROPAGANDA E PUBLICIDADE, INCLUSIVE PROMOÇÃO DE VENDAS, PLANEJAMENTO DE CAMPANHAS OU SISTEMAS DE PUB...
-
-7319-0/03 - MARKETING DIRETO
-0
-
-Inscrição Municipal:
-ART:
-
+INTERMEDIÁRIO DE SERVIÇOS
+CPF/CNPJ: -—— Nome/Razão Social: ---—
 DISCRIMINAÇÃO DOS SERVIÇOS
 
-SERVICO INTERVENIENTE DE PUBLICIDADE COM INFLUENCER
+Agenciamento em Campanha publicitária com (natingraci JUL/25 + Direitos de Imagem + Canal
+Whatsapp
 
-VALOR: R$ 45.000,00
+Dados Bancários:
+Banco: Inter Ag 0001 C/C: 8222970-8
+PIX assessoria.w7creator(igmail.com
 
-VENCIMENTO: 29/08/2025
+VALOR TOTAL DO SERVIÇO = R$ 4.800,00
+INSS (R$) IRRF (R$) CSLL (R$) COFINS (R$) PIS/PASEP (R$)
 
-- DADOS BANCÁRIOS:
-BANCO: 336 - BANCO C6 S.A
+Código do Serviço
+02496 - Propaganda e publicidade, promoção de vendas, planejamento de campanhas e materiais publicitários.
+Valor Total das Deduções (R$) Base de Cálculo (R$) Alíquota (%) Valor do ISS (R$) Crédito (R$)
+0,00 z z
+Município da Prestação do Serviço Número Inscrição da Obra Valor Aproximado dos Tributos ! Fonte
 
-AG. 0001
-Cc. 18020301-0
+x
 
-PIX: 45.255.507/0001-24
+OUTRAS INFORMAÇÕES
 
-VALOR TOTAL DE SERVIÇOS = R$ 45.000,00
+(1) Esta NFS-e foi emitida com respaldo na Lei nº 14.097/2005; (2) Documento emitido por ME ou EPP optante pelo Simples
+Nacional;
 
-PIS (R$)
-0,00
-
-COFINS (R$)
-0,00
-
-INSS (R$) IR (R$) CSLL (R$)
-0,00 0,00 0,00
-
-SEST SENAT (R$)
-0,00
-
-Outras Retenções (R$)
-0,00
-
-Deduções (R$) Desc. Incond + Cond(R$)
-
-0,00
-
-ISS Retido (R$)
-0,00
-
-Base de Cálculo (R$)
-45.000,00
-
-Alíquota (%)
-2,00
-
-Valor do ISS (R$)
-
-0,00 900,00
-
-ISS Devido (R$)
-
-Valor Líquido (R$)
-
-0,00 45.000,00
-
-Verificação de Autenticidade:
-
-http://guaranimg.nfse-futurize.com.br/consultanfe.php Página: 1/1
-
-FUTURIZE - Tecnologia em Sistemas da Informação
+https://nfe.prefeitura.sp.gov.br/contribuinte/notaprint.aspx?...il=1&SMS=0&returnuri=nota.aspx%3finscricao%3d62090437 01/08/2025, 18:06
+Página 1 de 1
