@@ -1,66 +1,83 @@
 
 --- Página 1 ---
-Número da Nota
+MUNICÍPIO DE PRESIDENTE
+N FSe DANFSe v1.0 =. PRUDENTE
+erviço elet Documento Auxiliar da NFS-e ; (18)3902-4414
 
-- 000000000663
-PREFEITURA DO MUNICIPIO DE LONDRINA Cód. de Verificação
-6MOL-ADTA
-SECRETARIA MUNICIPAL DE FAZENDA Data de Emissão
-. 04/08/2025
-NOTA FISCAL DE SERVIÇOS ELETRÔNICA - NFS-e Data de Cancelamento
+Chave de Acesso da NFS-e
+35414062258239035000168000000000001425081804212837
 
-Data/hora de geração deste espelho: 04/08/25 14:29:37 -
+Número da NFS-e Competência da NFS-e Data e Hora da emissão da NFS-e
+14 04/08/2025 04/08/2025 11:12:36
 
-PRESTADOR DE SERVIÇOS
+Número da DPS Série da DPS Data e Hora da emissão da DPS E Es.
 
-Nome/Razão Social: MAXIMO E PERINE LTDA
-CNPJ/CPF: 27.520.858/0001-33 Inscrição Municipal (CMC): 2337142
-Endereço: AVENIDA TIRADENTES, 501 SALA 303 - TORRE 1
-JARDIM SHANGRI-LA A CEP 86070545
-Município: LONDRINA UF: Paraná
+14 900 04/08/2025 11:12:36 A autenticidade desta NFS-e pode ser verificada
+pela leitura deste código QR ou pela consulta da
+chave de acesso no portal nacional da NFS-e
 
-TOMADOR DE SERVIÇOS
+EMITENTE DA NFS-e CNPJ/CPF/NIF Inscrição Municipal Telefone
 
-Nome/Razão Social: GO COMERCIO DE ARTIGOS ELETRONICOS E ACESSORIOS LTDA
-CNPJ/CPF: 22.165.464/0001-90
-Endereço: RUA PADRE VALDEVINO, 2528 SALA 02
-DIONISIO TORRES CEP 60135414
-Município: FORTALEZA UF: Ceará
+Prestador do Serviço 58.239.035/0001-68 - (1 8) 2104-2679
 
-DISCRIMINAÇÃO DOS SERVIÇOS PRESTADOS
+Nome / Nome Empresarial E-mail
+58.239.035 ANA CLARA NEGRI SANTOS CONTABILSINDPPOGMAIL.COM
 
-NF referente a entrega de Dlondrinando:
-2 Reels + repost no TikTok;
+Endereço Município CEP
+PAULO RIBEIRO, 284, RESIDENCIAL VISTA DO VALE Presidente Prudente - SP 19063-841
 
-2 Combos de Stories.
+Simples Nacional na Data de Competência Regime de Apuração Tributária pelo SN
+Optante - Microempreendedor Individual (MEI) -
 
-Valor: R$ 19.000,00
+TOMADOR DO SERVIÇO CNPJ/CPF/NIF Inscrição Municipal Telefone
+22.165.464/0001-90 - -
 
-Venc: 29/08/2025
-Dados para pagamento:
-Banco Itaú
+Nome / Nome Empresarial E-mail
+GO COMERCIO DE ARTIGOS ELETRONICOS E ACESSORIOS LTDA -
 
-Ag 1555
+Endereço Município CEP
+CAROLINA SUCUPIRA, 1368, 1 ANDAR SALA A, ALDEOTA Fortaleza - CE 60140-120
 
-Cc: 50185-5
+INTERMEDIÁRIO DO SERVIÇO NÃO IDENTIFICADO NA NFS-e
+SERVIÇO PRESTADO
 
-Pix: 27.520.858/0001-33
+Código de Tributação Nacional Código de Tributação Municipal Local da Prestação País da Prestação
+01.03.01 - Processamento de dados, - Presidente Prudente - SP -
+textos, imagens, vídeos, páginas ...
 
-Retenção ISS: R$ 0,00 Retenção PIS: R$ 0,00 Retenção COFINS: R$ 0,00
-Retenção IR: R$ 0,00 Retenção CSLL: R$ 0,00 Retenção INSS: R$ 0,00
+Descrição do Serviço
+PROCESSAMENTO DE IMAGEM
 
-VALOR TOTAL DA NOTA = R$ 19.000,00
+TRIBUTAÇÃO MUNICIPAL
 
-Código e Descrição do Serviço
-1706 - PROPAGANDA E PUBLICIDADE, INCLUSIVE PROMOÇÃO DE VENDAS, PLANEJAMENTO DE CAMPANHAS OU SISTEMAS DE P...
+Tributação do ISSQN País Resultado da Prestação do Serviço Município de Incidência do ISSQN Regime Especial de Tributação
+Operação Tributável - Presidente Prudente - SP Nenhum
 
-Deduções de base de cálculo (R$) | Base de Cálculo ISS (R$) Alíquota (%) Valor do ISS (R$)
-- 19.000,00 Inutilizado conf. art. 59 par. 4º Resolução 140/2018 CGSN
-OUTRAS INFORMAÇÕES
+Tipo de Imunidade Suspensão da Exigibilidade do ISSQN Número Processo Suspensão Benefício Municipal
+- Não - -
 
-- Valor líquido: R$ 19.000,00. Competência: 04/08/2025
-- Esta NFS-e foi emitida com respaldo no Decreto nº 786, de 04/07/2012. Consulta de autenticidade: http://iss.londrina.pr.gov.br
-- Documento emitido por ME ou EPP optante pelo Simples Nacional. Não gera direito a Crédito Fiscal de IPI.
+Valor do Serviço Desconto Incondicionado Total Deduções/Reduções Cálculo do BM
+R$ 1.905,95 - - -
 
-- ISS devido deve ser recolhido pelo Prestador por meio do DAS.
+BC ISSQN Alíquota Aplicada Retenção do ISSQN ISSQN Apurado
+- Não Retido -
+
+TRIBUTAÇÃO FEDERAL
+IRRF CP CSLL
+
+COFINS Retenção do PIS/COFINS TOTAL TRIBUTAÇÃO FEDERAL
+
+VALOR TOTAL DA NFS-E
+
+Valor do Serviço Desconto Condicionado Desconto Incondicionado ISSQN Retido
+R$ 1.905,95 R$ R$ -
+
+IRRF, CP,CSLL - Retidos PIS/COFINS Retidos Valor Líquido da NFS-e
+R$ 0,00 - R$ 1.905,95
+
+TOTAIS APROXIMADOS DOS TRIBUTOS
+
+Federais Estaduais Municipais
+
+INFORMAÇÕES COMPLEMENTARES
 
