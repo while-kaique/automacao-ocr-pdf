@@ -1,55 +1,53 @@
 
 --- Página 1 ---
 4 A Número da Nota
-PREFEITURA DO MUNICIPIO DE SÃO PAULO 00000073
+PREFEITURA DO MUNICIPIO DE SÃO PAULO 00000003
 
 SECRETARIA MUNICIPAL DA FAZENDA Data e Hora de Emissão
 
-A 01/08/2025 18:15:32
+A 01/08/2025 18:23:57
 NOTA FISCAL ELETRÔNICA DE SERVIÇOS - NFS-e Código de Verificação
 
-20250801U32879031000150 UXAV-ESXI
+20250801uU56340211000153 DLJA-CSBC
 PRESTADOR DE SERVIÇOS
 
-CPF/CNPJ: 32.879.031/0001-50 Inscrição Municipal: 6.209.043-7
+CPF/CNPJ: 58.340.211/0001-53 Inscrição Municipal: 1.608.975-8
 
-ome/Razão Social: 32.879.031 ALESSANDRA SAYURI GONCALVES MIYASHIRO
+ome/Razão Social: 58.340.211 ISABELLA MIYASHIRO YOSHIZAKI
 
-Endereço: AY AUGUSTO ANTUNES 729, SALA 03 - LIMOEIRO - CEP: 08051-370
-
+Endereço: AY AUGUSTO ANTUNES 00729, SALA 3 - LIMÓOEIRO - CEP: 08051-370
 unicípio: São Paulo UF: SP
 
 TOMADOR DE SERVIÇOS
 
 ome/Razão Social: GO COMERCIO DE ARTIGOS ELETRÔNICOS E ACESSÓRIOS LTDA
-CPF/CNPJ: 22.165.464/0003-52 Inscrição Municipal: ----
+CPF/CNPJ: 22.165.464/0001-90 Inscrição Municipal: ----
 
-Endereço: RV MG-460 (EST MUNIC HORACIO MARINHO) 350, GALPAOO1 - JARDIM - CEP: 37640-000
-unicípio: Extrema UF: MG E-mail: contabilfDosldigital.com.br
+Endereço: R Padre Valdevino 2475 - Dionisio Torres - CEP: 60135-414
+unicípio: Fortaleza UF: CE E-mail: contabilidadeG)gocase.com
 
 INTERMEDIÁRIO DE SERVIÇOS
 CPF/CNPJ: -—— Nome/Razão Social: ---—
 
 DISCRIMINAÇÃO DOS SERVIÇOS
-Campanha publicitária com (bellamiiyva em JULHO/25
+Campanha publicitária GOCASE com ((bellamiiyva em JULHO/25
+DADOS BANCÁRIOS:
+INTER -—- 077 Agência: 0001 Conta: 42100592-0
+PIX: 58340211000153 (CNPJ)
 
-Dados Bancários:
-Banco: Inter Ag 0001 C/C: 8222970-8
-PIX assessoria.w7creator(igmail.com
-
-VALOR TOTAL DO SERVIÇO = R$ 1.200,00
+VALOR TOTAL DO SERVIÇO = R$ 4.800,00
 INSS (R$) IRRF (R$) CSLL (R$) COFINS (R$) PIS/PASEP (R$)
 
 Código do Serviço
 02496 - Propaganda e publicidade, promoção de vendas, planejamento de campanhas e materiais publicitários.
 Valor Total das Deduções (R$) Base de Cálculo (R$) Alíquota (%) Valor do ISS (R$) Crédito (R$)
-0,00 z z z 0,00
+0,00 4.800,00 5,00% 240,00 0,00
 Município da Prestação do Serviço Número Inscrição da Obra Valor Aproximado dos Tributos ! Fonte
 
 OUTRAS INFORMAÇÕES
 
-(1) Esta NFS-e foi emitida com respaldo na Lei nº 14.097/2005; (2) Documento emitido por ME ou EPP optante pelo Simples
-Nacional;
+(1) Esta NFS-e foi emitida com respaldo na Lei nº 14.097/2005; (2) Estabelecimento impedido de recolher o ICMS/ISS pelo
+Simples Nacional, nos termos do & 1º do art. 20 da Lei Complementar nº 123, de 2006.;
 
-https://nfe.prefeitura.sp.gov.br/contribuinte/notaprint.aspx?...il=1&SMS=0&returnuri=nota.aspx%3finscricao%3d62090437 01/08/2025, 18:15
+https://nfe.prefeitura.sp.gov.br/contribuinte/notaprint.aspx?...il=1&SMS=0&returnurl=nota.aspx%3finscricao%3d16089758 01/08/2025, 18:24
 Página 1 de 1
