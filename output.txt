@@ -1,56 +1,67 @@
 
 --- Página 1 ---
-PREFEITURA DO MUNICÍPIO DE SÃO PAULO 0000068
-SECRETARIA MUNICIPAL DA FAZENDA Data e Hora de Emissão
+MUNICÍPIO DE SÃO JOSÉ DO RIO PRETO NFS-e
 
-01/08/2025 18:06:42
+291
+SECRETARIA DA FAZENDA Código de Verificação
 
-NOTA FISCAL ELETRÔNICA DE SERVIÇOS - NFS-e Código de Verificação
+NOTA FISCAL DE SERVIÇO ELETRÔNICA - NFS-e VYZ3MCKPF
 
-20250901uU32879031000150 VRQJ-ICLZ
-PRESTADOR DE SERVIÇOS
+Emissão da NFS-e
+01/08/2025 16:02
+RPS Série RPS Tipo RPS NFS-e Substituída
 
-CPF/CNPJ: 32.879.031/0001-50 Inscrição Municipal: 6.209.043-7
+Prestador de Serviço
 
-ome/Razão Social: 32.879.031 ALESSANDRA SAYURI GONCALVES MIYASHIRO
+CPF/CNPJ:  42.667.708/0001-40 Inscrição 3833070
+Nome/Razão Social: NATALIA CRISTINA SHINAGAWA INGRACI LTDA
 
-Endereço: AY AUGUSTO ANTUNES 729, SALA 03 - LIMOEIRO - CEP: 08051-370
-unicípio: São Paulo UF: SP
+Endereço Rua Antonio de Arruda Número: 342
 
-TOMADOR DE SERVIÇOS
+Complemento: Bairro: Residencial Maria Júlia
+CEP: 15063-211 Município: SAO JOSE DO RIO PRETO UF: SP País: Brasil
 
-ome/Razão Social: GO COMERCIO DE ARTIGOS ELETRÔNICOS E ACESSÓRIOS LTDA
-CPF/CNPJ: 22.165.464/0003-52 Inscrição Municipal: ----
+E-mail: -meucnpj(Qcontabilizei.com.br Telefone: (41)9686-9828
 
-Endereço: RV MG-460 (EST MUNIC HORACIO MARINHO) 350, GALPAOO1 - JARDIM - CEP: 37640-000
-unicípio: Extrema UF: MG E-mail: contabilfDosldigital.com.br
+Tomador de Serviço
 
-INTERMEDIÁRIO DE SERVIÇOS
-CPF/CNPJ: -—— Nome/Razão Social: ---—
-DISCRIMINAÇÃO DOS SERVIÇOS
+CPF/CNPJ: 22.165.464/0003-52 Inscrição Municipal: NIF:
 
-Agenciamento em Campanha publicitária com (natingraci JUL/25 + Direitos de Imagem + Canal
-Whatsapp
+Nome/Razão Social: Go comercio de Artigos eletronicos e acessorios LTDA
+
+Endereço: RODOVIA MG-460 (Esta Munic Horacio Marinho) Número: 350
+Complemento: Bairro: Do Jardim
+CEP: 37640-000 Município: EXTREMA UF: MG País: Brasil
+
+E-mail: leticia. louiseOgocase.com.br Telefone: (85)9968-7988
+
+Atividade Econômica
+17.06.00 / 17.06.00 - Propaganda E Publicidade, Inclusive Promoção De Vendas, Planejamento De Campanhas Ou Sistemas De Publicidade,
+
+Discriminação do Serviço
+Campanha publicitária com (Qnatingraci JUL/25 + Direitos de Imagem + Canal Whatsapp
 
 Dados Bancários:
-Banco: Inter Ag 0001 C/C: 8222970-8
-PIX assessoria.w7creator(igmail.com
 
-VALOR TOTAL DO SERVIÇO = R$ 4.800,00
-INSS (R$) IRRF (R$) CSLL (R$) COFINS (R$) PIS/PASEP (R$)
+Banco: Nu Pagamentos
 
-Código do Serviço
-02496 - Propaganda e publicidade, promoção de vendas, planejamento de campanhas e materiais publicitários.
-Valor Total das Deduções (R$) Base de Cálculo (R$) Alíquota (%) Valor do ISS (R$) Crédito (R$)
-0,00 z z
-Município da Prestação do Serviço Número Inscrição da Obra Valor Aproximado dos Tributos ! Fonte
+PIX: nataliaingraci(O gmail.com
+AG: 0001 C/C: 48819631-0
 
-x
+Tributos Federais (R$) Valor Aproximado dos Tributos (%)
+PIS COFINS INSS IR CSLL Federal Estadual Municipal Fonte
+0,00 0,00 0,00 0,00 0,00 0,00% 0,00% 0,00%
+Identificação Prestação de Serviços Detalhamento de Valores (R$)
+Código da Obra Valor do Serviço 19.200,00
+Código A.R.T. Desconto Incondicionado 0,00
+Exigibilidade ISSQN 1-Exigível Desconto Condicionado 0,00
+Regime Especial de Tributação O-Nenhum Retenções Federais 0,00
+Simples Nacional (X) Sim () Não Outras Retenções 0,00
+Incentivador Fiscal Deduções Previstas em Lei 0,00
+Competência 08/2025 Base de Cálculo 19.200,00
+Município Prestação SAO JOSE DO RIO PRETO - SP Alíquota 3,00
+Munícipio Incidência SAO JOSE DO RIO PRETO - SP ISSQN 0,00
+ISSQN a Reter (D Sim (X) Não Valor Líquido 19.200,00
 
-OUTRAS INFORMAÇÕES
+Outras Informações
 
-(1) Esta NFS-e foi emitida com respaldo na Lei nº 14.097/2005; (2) Documento emitido por ME ou EPP optante pelo Simples
-Nacional;
-
-https://nfe.prefeitura.sp.gov.br/contribuinte/notaprint.aspx?...il=1&SMS=0&returnuri=nota.aspx%3finscricao%3d62090437 01/08/2025, 18:06
-Página 1 de 1
