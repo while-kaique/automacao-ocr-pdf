@@ -1,14 +1,14 @@
 
 --- Página 1 ---
-05/08/2025, 10:53 Usuário: 34.942.132/0001-54 - NF-e - Nota Fiscal Eletrônica de Serviços - São Paulo
+11/08/2025, 10:42 Usuário: 34.942.132/0001-54 - NF-e - Nota Fiscal Eletrônica de Serviços - São Paulo
 
 [ =x Número da Nota
-PREFEITURA DO MUNICIPIO DE SAO PAULO 00000104
+PREFEITURA DO MUNICIPIO DE SAO PAULO 00000105
 
 SECRETARIA MUNICIPAL DA FAZENDA Data e Hora de Emissão
-A 05/08/2025 10:53:11
+A 11/08/2025 10:42:20
 NOTA FISCAL ELETRÔNICA DE SERVIÇOS - NFS-e Código de Verificação
-YUMK-ZxHY
+SPMB-EM3T
 
 PRESTADOR DE SERVIÇOS
 CPF/CNPJ: 34.942.132/0001-54 Inscrição Municipal: 6.403.130-6
@@ -47,7 +47,7 @@ BANCO 0260
 
 PIX: 34.942.132/0001-54
 
-VALOR TOTAL DO SERVIÇO = R$ 11.175,00
+VALOR TOTAL DO SERVIÇO = R$ 15.675,00
 INSS (R$) | IRRF (R$) | CSLL (R$) | COFINS (R$) | PIS/PASEP (R$)
 
 Código do Serviço
@@ -62,4 +62,4 @@ OUTRAS INFORMAÇÕES
 (1) Esta NFS-e foi emitida com respaldo na Lei nº 14.097/2005; (2) Documento emitido por ME ou EPP optante pelo Simples
 Nacional;
 
-https://nfe prefeitura.sp.gov.br/contribuinte/notaprint.aspx ?nf=104&inscricao=6403 13068 email=1 &SMS=0&returnurl=nota .aspx9%3finscricao%3d6403 1306 11
+https://nfe prefeitura.sp.gov.br/contribuinte/notaprint.aspx ?nf=105 &inscricao=6403 13068 email=1 &SMS=0&returnurl=nota .aspx%3finscricao%3d6403 1306 11
