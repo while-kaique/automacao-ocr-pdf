@@ -1,14 +1,14 @@
 
 --- Página 1 ---
-Usuário: 43.106.573/0001-07 - NF-e - Nota Fiscal Eletrônica de Serviços - São Paulo 11/08/2025, 10:51
+Usuário: 43.106.573/0001-07 - NF-e - Nota Fiscal Eletrônica de Serviços - São Paulo 05/08/2025, 17:31
 
-PREFEITURA DO MUNICÍPIO DE SÃO PAULO “00000411
+PREFEITURA DO MUNICÍPIO DE SÃO PAULO 0000407
 SECRETARIA MUNICIPAL DA FAZENDA Data e Hora de Emissão
 
-A 11/08/2025 10:51:13
+A 05/08/2025 17:30:51
 NOTA FISCAL ELETRÔNICA DE SERVIÇOS - NFS-e Código de Verificação
 
-VPMN-GB1G
+SMYH-MJ24
 
 PRESTADOR DE SERVIÇOS
 CPF/CNPJ: 43.106.573/0001-07 Inscrição Municipal: 7.032.827-7
@@ -44,14 +44,14 @@ cc 29611-2
 Titular: Marie Rava Marketing LTDA
 CNPJ: 43.106.573/0001-07 (PIX)
 
-VALOR TOTAL DO SERVIÇO = R$ 5.225,00
+VALOR TOTAL DO SERVIÇO = R$ 3.725,00
 
 Código do Serviço
 02496 - Propaganda e publicidade, promoção de vendas, planejamento de campanhas e materiais publicitários.
 Valor Total das Deduções (R$) | Base de Cálculo (R$) Alíquota (%) Valor do ISS (R$) Crédito (R$)
 0,00 x * *
 Município da Prestação do Serviço Número Inscrição da Obra Valor Aproximado dos Tributos ! Fonte
-- - R$ 702,76 (13,45%) / IBPT
+- - R$ 501,01 (13,45%) / IBPT
 OUTRAS INFORMAÇÕES
 
 (1) Esta NFS-e foi emitida com respaldo na Lei nº 14.097/2005; (2) Documento emitido por ME ou EPP optante pelo Simples
