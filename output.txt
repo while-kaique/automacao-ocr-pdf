@@ -1,67 +1,60 @@
 
 --- Página 1 ---
-MUNICÍPIO DE SÃO JOSÉ DO RIO PRETO NFS-e
+04/08/2025, 21:07 Usuário: 26.799.068/0001-76 - NF-e - Nota Fiscal Eletrônica de Serviços - São Paulo
 
-291
-SECRETARIA DA FAZENDA Código de Verificação
+[ o Número da Nota
+PREFEITURA DO MUNICIPIO DE SAO PAULO 00000368
 
-NOTA FISCAL DE SERVIÇO ELETRÔNICA - NFS-e VYZ3MCKPF
+SECRETARIA MUNICIPAL DA FAZENDA Data e Hora de Emissão
+ã 04/08/2025 21:07:03
+NOTA FISCAL ELETRÔNICA DE SERVIÇOS - NFS-e Código de Verificação
 
-Emissão da NFS-e
-01/08/2025 16:02
-RPS Série RPS Tipo RPS NFS-e Substituída
+VIYN-KQVD
 
-Prestador de Serviço
+PRESTADOR DE SERVIÇOS
+CPF/CNPJ: 26.799.068/0001-76 Inscrição Municipal: 5.620.693-3
+Nome/Razão Social: CORAGE AGENCIAMENTO E ASSESSORIA LTDA.
+Endereço: R SANTO AMARO 361, APT 905 - BELA VISTA - CEP: 01315-001
+Município: São Paulo UF: SP
 
-CPF/CNPJ:  42.667.708/0001-40 Inscrição 3833070
-Nome/Razão Social: NATALIA CRISTINA SHINAGAWA INGRACI LTDA
+TOMADOR DE SERVIÇOS
+Nome/Razão Social: GO COMERCIO DE ARTIGOS ELETRONICOS E ACESSÓRIOS LTDA
+CPF/CNPJ: 22.165.464/0001-90 Inscrição Municipal: ----
+Endereço: R Padre Valdevino 2475 - Dionisio Torres - CEP: 60135-414
+Município: Fortaleza UF: CE E-mail: contabilidadeG)gocase.com
 
-Endereço Rua Antonio de Arruda Número: 342
+INTERMEDIÁRIO DE SERVIÇOS
+CPF/CNPJ: --=— Nome/Razão Social: ----
 
-Complemento: Bairro: Residencial Maria Júlia
-CEP: 15063-211 Município: SAO JOSE DO RIO PRETO UF: SP País: Brasil
+DISCRIMINAÇÃO DOS SERVIÇOS
+INTERMEDIO DA INFLUENCIADORA DANI FREIRE
 
-E-mail: -meucnpj(Qcontabilizei.com.br Telefone: (41)9686-9828
+Campanha: Gocase
+valor total da NF: R$ 1.600,00
+vencimento: 29/08/2025
 
-Tomador de Serviço
+Dados para pagamento:
+Banco Nubank
 
-CPF/CNPJ: 22.165.464/0003-52 Inscrição Municipal: NIF:
+chave Pix: 26799068000176
+ou
 
-Nome/Razão Social: Go comercio de Artigos eletronicos e acessorios LTDA
+Banco Nubank
 
-Endereço: RODOVIA MG-460 (Esta Munic Horacio Marinho) Número: 350
-Complemento: Bairro: Do Jardim
-CEP: 37640-000 Município: EXTREMA UF: MG País: Brasil
+Agência 0001
 
-E-mail: leticia. louiseOgocase.com.br Telefone: (85)9968-7988
+Conta Corrente 347022343
 
-Atividade Econômica
-17.06.00 / 17.06.00 - Propaganda E Publicidade, Inclusive Promoção De Vendas, Planejamento De Campanhas Ou Sistemas De Publicidade,
+VALOR TOTAL DO SERVIÇO = R$ 1.600,00
+INSS (R$) IRRF (R$) CSLL (R$) COFINS (R$) PIS/PASEP (R$)
 
-Discriminação do Serviço
-Campanha publicitária com (Qnatingraci JUL/25 + Direitos de Imagem + Canal Whatsapp
+Código do Serviço
+06394 - Agenciamento de publicidade e propaganda, inclusive agenciamento de veiculação.
+Valor Total das Deduções (R$) Base de Cálculo (R$) Alíquota (9%) Valor do ISS (R$) Crédito (R$)
+0,00 1.600,00 5,00% 80,00 0,00
+Município da Prestação do Serviço Número Inscrição da Obra Valor Aproximado dos Tributos ! Fonte
 
-Dados Bancários:
+OUTRAS INFORMAÇÕES
+(1) Esta NFS-e foi emitida com respaldo na Lei nº 14.097/2005; (2) Data de vencimento do ISS desta NFS-e: 10/09/2025;
 
-Banco: Nu Pagamentos
-
-PIX: nataliaingraci(O gmail.com
-AG: 0001 C/C: 48819631-0
-
-Tributos Federais (R$) Valor Aproximado dos Tributos (%)
-PIS COFINS INSS IR CSLL Federal Estadual Municipal Fonte
-0,00 0,00 0,00 0,00 0,00 0,00% 0,00% 0,00%
-Identificação Prestação de Serviços Detalhamento de Valores (R$)
-Código da Obra Valor do Serviço 19.200,00
-Código A.R.T. Desconto Incondicionado 0,00
-Exigibilidade ISSQN 1-Exigível Desconto Condicionado 0,00
-Regime Especial de Tributação O-Nenhum Retenções Federais 0,00
-Simples Nacional (X) Sim () Não Outras Retenções 0,00
-Incentivador Fiscal Deduções Previstas em Lei 0,00
-Competência 08/2025 Base de Cálculo 19.200,00
-Município Prestação SAO JOSE DO RIO PRETO - SP Alíquota 3,00
-Munícipio Incidência SAO JOSE DO RIO PRETO - SP ISSQN 0,00
-ISSQN a Reter (D Sim (X) Não Valor Líquido 19.200,00
-
-Outras Informações
-
+https://nfe.prefeitura.sp.gov.br/contribuinte/notaprint.aspx?nf=368&inscricao=56206933&email=1&SMS=0&returnuri=nota.aspxY%3finscricao%3d5... 1/1
