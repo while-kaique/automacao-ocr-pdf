@@ -1,83 +1,58 @@
 
 --- Página 1 ---
-MUNICÍPIO DE PRESIDENTE
-N FSe DANFSe v1.0 =. PRUDENTE
-erviço elet Documento Auxiliar da NFS-e ; (18)3902-4414
+04/08/2025, 17:53 ISS-Curitiba - Sistema de Administração de ISS
+Número da Nota
 
-Chave de Acesso da NFS-e
-35414062258239035000168000000000001425081804212837
+PREFEITURA MUNICIPAL DE CURITIBA =
 
-Número da NFS-e Competência da NFS-e Data e Hora da emissão da NFS-e
-14 04/08/2025 04/08/2025 11:12:36
+SECRETARIA MUNICIPAL DE FINANÇAS Data e Hora de Emissão
+04/08/2025 17:53:33
 
-Número da DPS Série da DPS Data e Hora da emissão da DPS E Es.
+Código de Verificação
+S8XB8DOD
 
-14 900 04/08/2025 11:12:36 A autenticidade desta NFS-e pode ser verificada
-pela leitura deste código QR ou pela consulta da
-chave de acesso no portal nacional da NFS-e
+NOTA FISCAL DE SERVIÇOS ELETRÔNICA - NFS-e
 
-EMITENTE DA NFS-e CNPJ/CPF/NIF Inscrição Municipal Telefone
+PRESTADOR DE SERVIÇOS
+Razão Social: MANUELA CIT LTDA
+CPF / CNPJ:  49.411.401/0001-23 Inscrição Municipal: 1201 1072777-2
+Endereço: R. JOSÉ LOUREIRO, 000464 - BAIRRO: CENTRO - CEP: Tel.: 41 - 991651652
+80010000
+Município: CURITIBA UF: PR Email: citmanuelaG gmail.com
+TOMADOR DE SERVIÇOS
+Nome/Razão Social: (GO COMERCIO DEARTIGOS ELETRONICOS EACESSORIOS LTDA
+CPF / CNPJ: 22.165.464/0003-52 IMU: Outro Doc.:
+Endereço: ROD MG-460 (EST MUNIC HORACIO MARINHO) , 350 - COMPLEMENTO: GALPAOO01 - BAIRRO: DO
+JARDIM - CEP: 37640000
+Município: EXTREMA UF: MG Email: administrativoZgocase.com.br
 
-Prestador do Serviço 58.239.035/0001-68 - (1 8) 2104-2679
+DISCRIMINAÇÃO DOS SERVIÇOS
 
-Nome / Nome Empresarial E-mail
-58.239.035 ANA CLARA NEGRI SANTOS CONTABILSINDPPOGMAIL.COM
+PUBLICIDADE MANUELA CIT
+BANCO: 0336 -CESA
 
-Endereço Município CEP
-PAULO RIBEIRO, 284, RESIDENCIAL VISTA DO VALE Presidente Prudente - SP 19063-841
+AG: 0001
 
-Simples Nacional na Data de Competência Regime de Apuração Tributária pelo SN
-Optante - Microempreendedor Individual (MEI) -
+CIC: 24935919-7
 
-TOMADOR DO SERVIÇO CNPJ/CPF/NIF Inscrição Municipal Telefone
-22.165.464/0001-90 - -
+CHAVE PIX: 49.411.401/0001-23
+MANUELA CIT LTDA
 
-Nome / Nome Empresarial E-mail
-GO COMERCIO DE ARTIGOS ELETRONICOS E ACESSORIOS LTDA -
+R$64.000,00 mês corrente + R$26.660,00 (03/03 de 80.000,00 refa MAR e ABR) = R$90.670,00
 
-Endereço Município CEP
-CAROLINA SUCUPIRA, 1368, 1 ANDAR SALA A, ALDEOTA Fortaleza - CE 60140-120
+Valor Líquido da Nota Fiscal = R$ 90.670,00
 
-INTERMEDIÁRIO DO SERVIÇO NÃO IDENTIFICADO NA NFS-e
-SERVIÇO PRESTADO
+VALOR TOTAL DA NOTA -R$90.670,00
 
-Código de Tributação Nacional Código de Tributação Municipal Local da Prestação País da Prestação
-01.03.01 - Processamento de dados, - Presidente Prudente - SP -
-textos, imagens, vídeos, páginas ...
+Código da Atividade
 
-Descrição do Serviço
-PROCESSAMENTO DE IMAGEM
+12-01 -Espetáculos teatrais.
 
-TRIBUTAÇÃO MUNICIPAL
+Valor Total das Deduções (R$) Base de Cálculo (R$) Valor do ISS (R$) Crédito p/ Abatimento do IPTU
 
-Tributação do ISSQN País Resultado da Prestação do Serviço Município de Incidência do ISSQN Regime Especial de Tributação
-Operação Tributável - Presidente Prudente - SP Nenhum
+OUTRAS INFORMAÇÕES
+Esta NFS-e foi emitida com respaldo na Lei 73/2009.
 
-Tipo de Imunidade Suspensão da Exigibilidade do ISSQN Número Processo Suspensão Benefício Municipal
-- Não - -
+Mais informações: nota.curitiba.pr.gov.br
 
-Valor do Serviço Desconto Incondicionado Total Deduções/Reduções Cálculo do BM
-R$ 1.905,95 - - -
-
-BC ISSQN Alíquota Aplicada Retenção do ISSQN ISSQN Apurado
-- Não Retido -
-
-TRIBUTAÇÃO FEDERAL
-IRRF CP CSLL
-
-COFINS Retenção do PIS/COFINS TOTAL TRIBUTAÇÃO FEDERAL
-
-VALOR TOTAL DA NFS-E
-
-Valor do Serviço Desconto Condicionado Desconto Incondicionado ISSQN Retido
-R$ 1.905,95 R$ R$ -
-
-IRRF, CP,CSLL - Retidos PIS/COFINS Retidos Valor Líquido da NFS-e
-R$ 0,00 - R$ 1.905,95
-
-TOTAIS APROXIMADOS DOS TRIBUTOS
-
-Federais Estaduais Municipais
-
-INFORMAÇÕES COMPLEMENTARES
-
+https://isscuritiba.curitiba.pr.gov.br/iss/Principal/frmFramesPgPrincipal.aspx?sParam=MENSAGEM&sLogin=1
