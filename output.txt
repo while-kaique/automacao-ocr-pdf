@@ -1,60 +1,65 @@
 
 --- Página 1 ---
-Usuário: 43.106.573/0001-07 - NF-e - Nota Fiscal Eletrônica de Serviços - São Paulo 11/08/2025, 10:51
+05/08/2025, 10:53 Usuário: 34.942.132/0001-54 - NF-e - Nota Fiscal Eletrônica de Serviços - São Paulo
 
-PREFEITURA DO MUNICÍPIO DE SÃO PAULO “00000411
+[ =x Número da Nota
+PREFEITURA DO MUNICIPIO DE SAO PAULO 00000104
+
 SECRETARIA MUNICIPAL DA FAZENDA Data e Hora de Emissão
-
-A 11/08/2025 10:51:13
+A 05/08/2025 10:53:11
 NOTA FISCAL ELETRÔNICA DE SERVIÇOS - NFS-e Código de Verificação
-
-VPMN-GB1G
+YUMK-ZxHY
 
 PRESTADOR DE SERVIÇOS
-CPF/CNPJ: 43.106.573/0001-07 Inscrição Municipal: 7.032.827-7
-Nome/Razão Social: MARIE RAYA MARKETING LTDA
-Endereço: R CEL CARLOS OLIVA 104, APT 62 - TATUAPE - CEP: 03067-010
+CPF/CNPJ: 34.942.132/0001-54 Inscrição Municipal: 6.403.130-6
+
+Nome/Razão Social: AUDREY BERNINI
+Endereço: R HILARIO MACHADO 50 - JARDIM VIRGINIA BIANCA - CEP: 02355-050
+
 Município: São Paulo UF: SP
 
 TOMADOR DE SERVIÇOS
 
 Nome/Razão Social: GO COMERCIO DE ARTIGOS ELETRONICOS E ACESSORIOS LTDA
-CPF/CNPJ: 22.165.464/0001 -90 Inscrição Municipal: ----
-
+CPF/CNPJ: 22.165.464/0001-90 Inscrição Municipal: ----
 Endereço: R Padre Valdevino 2475 - Dionisio Torres - CEP: 60135-414
 Município: Fortaleza UF: CE E-mail: contabilidadeG)gocase.com
 
 INTERMEDIÁRIO DE SERVIÇOS
-CPF/CNPJ: = Nome/Razão Social: ----
+CPF/CNPJ: === Nome/Razão Social: ---=
 
 DISCRIMINAÇÃO DOS SERVIÇOS
 
-Assessoria de publicidade em mídias sociais com (ffaudreybernini.
-NF referente ao mês 10 de 12 (Julho).
+Publicidade em mídias sociais com (faudreybernini.
+NF referente ao mês 10 de 12 (julho).
+
 vencimento: 29/08/2025
 
-DADOS PARA PAGAMENTO:
+AUDREY BERNINI
 
-BANCO BRADESCO (conta jurídica)
+NUBANK (CONTA PJ)
 
-AG 0503
+AG 0001
 
-cc 29611-2
+cc 76320344-7
 
-Titular: Marie Rava Marketing LTDA
-CNPJ: 43.106.573/0001-07 (PIX)
+BANCO 0260
 
-VALOR TOTAL DO SERVIÇO = R$ 5.225,00
+PIX: 34.942.132/0001-54
+
+VALOR TOTAL DO SERVIÇO = R$ 11.175,00
+INSS (R$) | IRRF (R$) | CSLL (R$) | COFINS (R$) | PIS/PASEP (R$)
 
 Código do Serviço
 02496 - Propaganda e publicidade, promoção de vendas, planejamento de campanhas e materiais publicitários.
-Valor Total das Deduções (R$) | Base de Cálculo (R$) Alíquota (%) Valor do ISS (R$) Crédito (R$)
-0,00 x * *
-Município da Prestação do Serviço Número Inscrição da Obra Valor Aproximado dos Tributos ! Fonte
-- - R$ 702,76 (13,45%) / IBPT
+Valor Total das Deduções (R$) Base de Cálculo (R$) Alíquota (9%) Valor do ISS (R$) Crédito (R$)
+0,00 x x x
+Município da Prestação do Serviço Número Inscrição da Obra Walor Aproximado dos Tributos / Fonte
+15,50%
+
 OUTRAS INFORMAÇÕES
 
 (1) Esta NFS-e foi emitida com respaldo na Lei nº 14.097/2005; (2) Documento emitido por ME ou EPP optante pelo Simples
 Nacional;
 
-https://nfe.prefeitura.sp.gov.br/contribuinte/notaprint.aspx?nf=...0328277&email=1&SMS=0&returnurl=nota.aspx%3finscricao%3d70328277 Página 1 de 1
+https://nfe prefeitura.sp.gov.br/contribuinte/notaprint.aspx ?nf=104&inscricao=6403 13068 email=1 &SMS=0&returnurl=nota .aspx9%3finscricao%3d6403 1306 11
