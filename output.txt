@@ -8,7 +8,7 @@ SEE Nota Fiscal de Serviços Eletrônica - NFS-e 08/2025
 
 |
 Número RPS: Número Nota Fiscal: | Data Emissão
-153) 04/08/2025
+152) 04/08/2025
 
 AGENCIA IZZY DIGITAL LTDA
 
@@ -35,7 +35,7 @@ End. Cobrança:
 
 Qtd Un Discriminação dos Serviços Valor Unitário Valor Total
 
-1 Assessoria da Sophia Soares para o Trabalho com a Gocase 1.250,00 1.250,00
+1 Assessoria da Julia Stofel para o Trabalho com a Gocase 750,00 750,00
 
 Dados de Pagamento:
 
@@ -60,8 +60,8 @@ Total da Nota RETENÇÕES Total Liquido
 ii |P's |corns | CSLL | INSS OUTROS
 0,00 0,00 0,00 0,00 0,00
 
-000] 000 1.250,00
-Esta é a chave de validação: AZQO-QCXO
+0 oo] 0,00 750,00
+Esta é a chave de validação: ZICT-VXVG
 
 A validação dessa nota pode ser realizada no endereço: www.vilavelha.es.gov.br
 
