@@ -1,67 +1,201 @@
 
 --- Página 1 ---
-PREFEITURA MUNICIPAL DE VILA VELHA
+NFS:
 
-29102-375 - AVENIDA SANTA LEOPOLDINA - COQUEIRAL ITAPARICA - VILA VELHA - ES Competência
+DANFSe v1.0
 
-SEE Nota Fiscal de Serviços Eletrônica - NFS-e 08/2025
+Documento Auxiliar da NFS-e
 
-|
-Número RPS: Número Nota Fiscal: | Data Emissão
-152) 04/08/2025
+Chave de Acesso da NFS-e
 
-AGENCIA IZZY DIGITAL LTDA
+33045572259301410000115000000000001725080006413967
 
-29103-810 - RUA CORONEL OTTO NETTO, 270 - JOCKEY DE ITAPARICA
-VILA VELHA - ES - CEP: 29103-810
-CNPJICPF:47.509.834/0001-90 Inscr. Estadual/RG:
-Email: YASMIMAZEVEDO2018OGMAIL.COM
+Número da NFS-e
+17
 
-Telefone: 27998244839 CCcM 215170
-Local do Serviço: 1 - SERVIÇO PRESTADO NO MUNICÍPIO DE VILA VELHA NBS: 114061900
-Natureza Operação: Prestação de Serviços
-Sub item da lista de serviço: 17.06 - Propaganda e publicidade, inclusive promoção de vendas, planejamento de campanhas ou sistemas de publicidade, elaboração
+Número da DPS
+17
 
-Exigibilidade ISS: Exigível Incentivo Fiscal: NÃO Regime: Simples Nacional
+Competência da NFS-e
+06/08/2025
 
-Dados do Tomador de Serviço
+Série da DPS
+900
+
+Data e Hora da emissão da NFS-e
+06/08/2025 15:40:40
+
+Data e Hora da emissão da DPS
+06/08/2025 15:40:40
+
+A autenticidade desta NFS-e pode ser verificada
+pela leitura deste código QR ou pela consulta da
+chave de acesso no portal nacional da NFS-e
+
+EMITENTE DA NFS-e
+Prestador do Serviço
+
+Nome / Nome Empresarial
+
+CNPJ/CPF /NIF
+59.301.410/0001-15
+
+59.301.410 MILENA SCUDERI SALMOIRAGHI
+
+Endereço
+
+AFONSO ARINOS DE MELO FRANCO, 239, BARRA DA TIJUCA
+
+Simples Nacional na Data de Competência
+
+Optante - Microempreendedor Individual (MEI)
+
+Inscrição Municipal
+
+E-mail
+MILENASCUDERIGQHOTMAIL.COM
+Município
+
+Rio de Janeiro - RJ
+
+Regime de Apuração Tributária pelo SN
+
+Telefone
+(21) 9346-0942
+
+CEP
+22631-455
+
+TOMADOR DO SERVIÇO
+
+Nome / Nome Empresarial
+
+CNPJ/CPF /NIF
+22.165.464/0001-90
+
 GO COMERCIO DE ARTIGOS ELETRONICOS E ACESSORIOS LTDA
-Rua Padre Valdevino, 2528, Sala 02 -, 2528
-Dionisio Torres - Fortaleza - CE - - CEP: 60135414
-CNPJ/CPF: 22.165.464/0001-90 Inscrição Estadual/RG: Inscrição Municipal:
 
-E-mail: contabilidade(Ogocase.com
-End. Cobrança:
+Endereço
 
-Qtd Un Discriminação dos Serviços Valor Unitário Valor Total
+CAROLINA SUCUPIRA, 1368, 1 ANDAR SALA A, ALDEOTA
 
-1 Assessoria da Julia Stofel para o Trabalho com a Gocase 750,00 750,00
+Inscrição Municipal
 
-Dados de Pagamento:
+E-mail
+contabilidade(Dgocase.com
+Município
 
-CNPJ: 47.509.834/0001-90
-Banco Sicoob: 756
-Agência/Cooperativa: 3008
-Conta(PJ): 277.048-2
+Fortaleza - CE
 
-Tipo: Conta corrente
+Telefone
+(85) 9813-0660
 
-PIX CNPJ: 47.509.834/0001-90
+CEP
+60140-120
 
-DOCUMENTO EMITIDO POR ME OU EPP OPTANTE PELO SIMPLES NACIONAL.
+INTERMEDIÁRIO DO SERVIÇO NÃO IDENTIFICADO NA NFS-e
 
-Observação:
-DO osisdepeduções| 00 |
-[DO Descincondcionado| om |
-=
+SERVIÇO PRESTADO
 
-Total da Nota RETENÇÕES Total Liquido
+Código de Tributação Nacional
+17.06.01 - Propaganda e publicidade,
+inclusive promoção de vendas, p...
 
-ii |P's |corns | CSLL | INSS OUTROS
-0,00 0,00 0,00 0,00 0,00
+Descrição do Serviço
 
-0 oo] 0,00 750,00
-Esta é a chave de validação: ZICT-VXVG
+Código de Tributação Municipal
 
-A validação dessa nota pode ser realizada no endereço: www.vilavelha.es.gov.br
+NOTA FISCAL REFERENTE AO MÊS DE JULHO
+INFLUENCIADORA SUZANNA FREITAS
+
+DADOS BANCÁRIO: BANCO ITAÚ, AG 3239; C/C: 22673-5; CPF: 131.092.367-10
+PIX (CPF): 131.092.367-10 - MILENA SCUDERI SALMOIRAGHI
+
+TRIBUTAÇÃO MUNICIPAL
+
+Tributação do ISSQN
+Operação Tributável
+
+Tipo de Imunidade
+
+Valor do Serviço
+R$ 2.500,00
+
+BC ISSQN
+
+País Resultado da Prestação do Serviço
+
+Suspensão da Exigibilidade do ISSQN
+Não
+Desconto Incondicionado
+
+Alíquota Aplicada
+
+Local da Prestação
+Rio de Janeiro - RJ
+
+Município de Incidência do ISSQN
+Rio de Janeiro - RJ
+
+Número Processo Suspensão
+
+Total Deduções/Reduções
+
+Retenção do ISSQN
+Não Retido
+
+País da Prestação
+
+Regime Especial de Tributação
+Nenhum
+
+Benefício Municipal
+
+Cálculo do BM
+
+ISSQN Apurado
+
+TRIBUTAÇÃO FEDERAL
+IRRF
+
+CP
+
+COFINS
+
+CSLL
+
+Retenção do PIS/COFINS
+
+TOTAL TRIBUTAÇÃO FEDERAL
+
+VALOR TOTAL DA NFS-E
+
+Valor do Serviço
+R$ 2.500,00
+
+IRRF, CP,CSLL - Retidos
+R$ 0,00
+
+Desconto Condicionado
+R$
+
+PIS/COFINS Retidos
+
+Desconto Incondicionado
+R$
+
+ISSQN Retido
+
+Valor Líquido da NFS-e
+R$ 2.500,00
+
+TOTAIS APROXIMADOS DOS TRIBUTOS
+
+Federais
+
+Estaduais
+
+Municipais
+
+INFORMAÇÕES COMPLEMENTARES
 
