@@ -1,164 +1,84 @@
 
 --- Página 1 ---
-MUNICÍPIO DE ITAJAÍ
-SECRETARIA MUNICIPAL DA FAZENDA
-(47)3241-7400
-plantaofiscalDitajai.sc.gov.br
+NFS-e COMPOSTA POR 1 PÁGINA(S) Página 1 de 1
 
-DANFSe v1.0
-Documento Auxiliar da NFS-e
+Número da NFS-e
+83
+Código de Verificação de Autenticidade
+OUSF5Z1TS
+Data e Hora de Emissão da NFS-e
+01/08/2025 às 19:17:56
 
-NFSe ss:
+Chave de Acesso
 
-Chave de Acesso da NFS-e
-42082032254080962000127000000000005725085141736464
+PM DE ESMERALDAS
 
-Número da NFS-e Competência da NFS-e
-57 06/08/2025
+Secretaria de Fazenda
 
-Número da DPS Série da DPS
-57 900
+NOTA FISCAL DE SERVIÇOS ELETRÔNICA - NFS-e
 
-Data e Hora da emissão da NFS-e
-06/08/2025 17:29:39
+Informações Fiscais
 
-Data e Hora da emissão da DPS
-06/08/2025 17:29:39
+Exigibilidade do ISS Número do Processo Município de Incidência do ISS Local da Prestação 320943JCECINQ939LC8CUY J22UF3ROHM
+Exigível ESMERALDAS-MG ESMERALDAS - MG
+Número do RPS Série do RPS Tipo do RPS Data do RPS Competência
+01/08/2025 Para certificação da autenticidade acesse
+http:/Infe.esmeraldas.mg.gov.br:8080/isswe
+Optante Simples Nacional Incentivo Fiscal Regime Especial Tributação Tipo ISS b, menu consultas e informe os dados
+1-Sim 2 - Não Microempresário e Empresa de Pequeno Porte (ME EPP) 03 - Sobre Faturamento desta NFS-e.
 
-A autenticidade desta NFS-e pode ser verificada
-pela leitura deste código QR ou pela consulta da
+PRESTADOR DE SERVIÇOS
 
-chave de acesso no portal nacional da NFS-e
+CPF/CNPJ RG/Inscrição Estadual Inscrição Municipal Cadastro Nome/Razão Social
 
-Telefone
-(47) 9218-6322
+35.541.646/0001-60 34103 000211232 YARA CECILIA COIMBRA ALVES
 
-EMITENTE DA NFS-e
-Prestador do Serviço
+Logradouro Complemento Bairro
 
-CNPJ/CPF/NIF Inscrição Municipal
-54.080.962/0001-27 -
+RUA MONTEIRO LOBATO, 269 CASA1 SAO PEDRO
 
-E-mail
-FONSECA.LIDIAOYAHOO.COM.BR
-Município
+CEP Cidade Telefone E-mail
 
-EMILIO DA CRUZ COUTINHO, 70, FAZENDA Itajaí - SC
+32809-364 ESMERALDAS-MG contatoDagenciatripe.com.br
 
-Simples Nacional na Data de Competência Regime de Apuração Tributária pelo SN
-Optante - Microempreendedor Individual (MEI) -
+TOMADOR DE SERVIÇOS
 
-TOMADOR DO SERVIÇO CNPJ/CPF/NIF Inscrição Municipal Telefone
-22.165.464/0001-90 - -
+CPF/CNPJ/Documento RG/Inscrição Estadual Inscrição Municipal Nome/Razão Social
 
-Nome / Nome Empresarial E-mail
-GO COMERCIO DE ARTIGOS ELETRONICOS E ACESSORIOS LTDA -
+22.165.464/0001-90 GO COMERCIO DE ARTIGOS ELETRONICOS E ACESSORIOS LTDA
+Logradouro Complemento Bairro
 
-Endereço Município CEP
-CAROLINA SUCUPIRA, 1368, 1 ANDAR SALA A, ALDEOTA Fortaleza - CE 60140-120
+Rua Padre Valdevino, 2528 sala 02 Dionisio Torres
 
-INTERMEDIÁRIO DO SERVIÇO NÃO IDENTIFICADO NA NFS-e
-SERVIÇO PRESTADO
+CEP/Cod.Postal Cidade/País Cod. IBGE Telefone E-mail
 
-Nome / Nome Empresarial
-54.080.962 LIDIA BEZERRA DA FONSECA
+60135-414 FORTALEZA - CE 2304400
 
-Endereço CEP
-
-88302-260
-
-Código de Tributação Nacional
-17.06.01 - Propaganda e publicidade,
-
-Código de Tributação Municipal
-
-inclusive promoção de vendas, p...
-
-Descrição do Serviço
-
-ASSESSORIA DA INFLUENCER (OVANESSAWZ
-DADOS PARA PAGAMENTO:
-
+Discriminação dos Serviços
+Qtde. Un. Medida Descrição Vlr. Unitário Total
+1,00 UN Conta bancária: 3.000,00 R$ 3.000,00
+Banco: 336 - Banco C6 S.A.
 Agência: 0001
+Conta corrente: 31198409-6
+Pix: 35.541.646/0001-60
 
-Conta: 34513184-3
+Imposto Sobre Serviços de Qualquer Natureza - ISS Construção Civil
 
-54.080.962 LIDIA BEZERRA DA FONSECA
+LC 116/2003: 17.06 Alíquota Atividade Município Código CNAE Código da Obra Código ART
+Propaganda e publicidade, inclusive promocao de vendas, planejamento de campanhas ou 2,01% 0000170000006 7319002
 
-PIX: 54.080.962/0001-27
+Valor Total dos Serviços Desconto Incondicionado Deduções Base Cálculo Base de Cálculo Total do ISS ISS Retido Desconto Condicionado
+R$ 3.000,00 R$ 0,00 R$ 0,00 R$ 3.000,00 R$ 60,30 2 - Não R$ 0,00
 
-TRIBUTAÇÃO MUNICIPAL
+Retenções de Impostos
 
-Tributação do ISSQN País Resultado da Prestação do Serviço
-Operação Tributável -
+PIS COFINS INSS IRRF CSLL Outras Retenções
+R$ 0,00 R$ 0,00 R$ 0,00 R$ 0,00 R$ 0,00 R$ 0,00
+Valor Líquido da NFS-e: R$ 3.000,00 Val. Aprox. Tributos: Federal (13,45%) R$403,50 Estadual (0,00%) R$0,00 Municipal (2,98%) R$89,40 - Fonte: IBPT
 
-Tipo de Imunidade Suspensão da Exigibilidade do ISSQN
+Informações Complementares
 
-- Não
+RECEBI(EMOS) DE YARA CECILIA COIMBRA ALVES O SERVIÇO CONSTANTE DA NFS-e DE NÚMERO 83 E CÓDIGO DE VERIFICAÇÃO OUSF5Z1TS.
 
-Valor do Serviço Desconto Incondicionado
-R$ 1.300,00 -
-
-BC ISSQN
-
-Alíquota Aplicada
-
-Local da Prestação
-Itajaí - SC
-
-Município de Incidência do ISSQN
-Itajaí - SC
-Número Processo Suspensão
-
-Total Deduções/Reduções
-
-Retenção do ISSQN
-Não Retido
-
-País da Prestação
-
-Regime Especial de Tributação
-Nenhum
-
-Benefício Municipal
-
-Cálculo do BM
-
-ISSQN Apurado
-
-TRIBUTAÇÃO FEDERAL
-IRRF CP
-
-COFINS
-
-CSLL
-
-Retenção do PIS/COFINS
-
-TOTAL TRIBUTAÇÃO FEDERAL
-
-VALOR TOTAL DA NFS-E
-
-Valor do Serviço Desconto Condicionado
-R$ 1.300,00 R$
-
-IRRF, CP,CSLL - Retidos PIS/COFINS Retidos
-R$ 0,00 -
-
-Desconto Incondicionado
-R$
-
-ISSQN Retido
-
-Valor Líquido da NFS-e
-R$ 1.300,00
-
-TOTAIS APROXIMADOS DOS TRIBUTOS
-Federais
-
-Estaduais
-
-Municipais
-
-INFORMAÇÕES COMPLEMENTARES
+Data CPFIRG Assinatura
 
