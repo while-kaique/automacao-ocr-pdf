@@ -1,84 +1,99 @@
 
 --- Página 1 ---
-NFS-e COMPOSTA POR 1 PÁGINA(S) Página 1 de 1
+04/08/2025, 17:31 NFS-E
 
-Número da NFS-e
-83
-Código de Verificação de Autenticidade
-OUSF5Z1TS
-Data e Hora de Emissão da NFS-e
-01/08/2025 às 19:17:56
+NOTA FISCAL .
+0000237 DE Pe a 1 PE
+Pr
+É NÚMERO RPS E E = mah
+PREFEITURA DE PETRÓPOLIS ME Ps qa A
+SECRETARIA DE FAZENDA =
+DATA DE EMISSÃO NOTA Ear
+04/08/2025 17:31:51
+DATA DO FATO GERADOR
+04/08/2025
+NOME FANTASIA PRESTADOR
 
-Chave de Acesso
-
-PM DE ESMERALDAS
-
-Secretaria de Fazenda
-
-NOTA FISCAL DE SERVIÇOS ELETRÔNICA - NFS-e
-
-Informações Fiscais
-
-Exigibilidade do ISS Número do Processo Município de Incidência do ISS Local da Prestação 320943JCECINQ939LC8CUY J22UF3ROHM
-Exigível ESMERALDAS-MG ESMERALDAS - MG
-Número do RPS Série do RPS Tipo do RPS Data do RPS Competência
-01/08/2025 Para certificação da autenticidade acesse
-http:/Infe.esmeraldas.mg.gov.br:8080/isswe
-Optante Simples Nacional Incentivo Fiscal Regime Especial Tributação Tipo ISS b, menu consultas e informe os dados
-1-Sim 2 - Não Microempresário e Empresa de Pequeno Porte (ME EPP) 03 - Sobre Faturamento desta NFS-e.
+NEXTGEN AGENCY
 
 PRESTADOR DE SERVIÇOS
 
-CPF/CNPJ RG/Inscrição Estadual Inscrição Municipal Cadastro Nome/Razão Social
+RAZÃO SOCIAL PRESTADOR
 
-35.541.646/0001-60 34103 000211232 YARA CECILIA COIMBRA ALVES
+NEXTGEN AGENCY LTDA
 
-Logradouro Complemento Bairro
+ENDEREÇO
 
-RUA MONTEIRO LOBATO, 269 CASA1 SAO PEDRO
+RUA SÃO SEBASTIÃO, Nº 90, SAO SEBASTIAO, PETROPOLIS RJ, 25645045
 
-CEP Cidade Telefone E-mail
-
-32809-364 ESMERALDAS-MG contatoDagenciatripe.com.br
+Nº CPF/CNPJ SIMPLES NACIONAL INSC. MUNICIPAL | INSC. ESTADUAL | TELEFONE
+56.910.869/0001-28 NÃO 2011140528
 
 TOMADOR DE SERVIÇOS
+GO COMERCIO DE ARTIGOS ELETRONICOS E ACESSORIOS LT
 
-CPF/CNPJ/Documento RG/Inscrição Estadual Inscrição Municipal Nome/Razão Social
+NOME DO TOMADOR
+ENDEREÇO
+RUA PADRE VALDEVINO, Nº 2528, DIONISIO TORRES , CEP 60135414, FORTALEZA - CE
 
-22.165.464/0001-90 GO COMERCIO DE ARTIGOS ELETRONICOS E ACESSORIOS LTDA
-Logradouro Complemento Bairro
+Nº CPF/CNPJ INSC. MUNICIPAL INSC. ESTADUAL | TELEFONE
+22.165.464/0001-90
 
-Rua Padre Valdevino, 2528 sala 02 Dionisio Torres
+DISCRIMINAÇÃO DOS SERVIÇOS
 
-CEP/Cod.Postal Cidade/País Cod. IBGE Telefone E-mail
+UNID QUANT.| DESCRIÇÃO DO SERVIÇO VALOR UNIT.
 
-60135-414 FORTALEZA - CE 2304400
+Serviço interveniente de publicidade com influencer 16.000,00
+Venc: 29/08/25
+Banco: SICOOB 0756 - Ag.: 3260 - C/c: 149.950-5
+CHAVE PIX (CNPJ): 56.910.869/0001-28
+TOTAL GERAL
 
-Discriminação dos Serviços
-Qtde. Un. Medida Descrição Vlr. Unitário Total
-1,00 UN Conta bancária: 3.000,00 R$ 3.000,00
-Banco: 336 - Banco C6 S.A.
-Agência: 0001
-Conta corrente: 31198409-6
-Pix: 35.541.646/0001-60
+OBSERVAÇÕES
+16.000,00
 
-Imposto Sobre Serviços de Qualquer Natureza - ISS Construção Civil
+RR RREO VALOR LÍQUIDO
+RETIDO INSS PIS/PASEP COFINS IR CSLL ALÍQUOTA ISS BASE DE CALCULO TOTAL ISS
+0,00 0,00 0,00 0,00 0,00 2,0000 % 16.000,00 320,00 16.000,00
+DESCRIÇÃO DA ATIVIDADE DA PRESTAÇÃO
 
-LC 116/2003: 17.06 Alíquota Atividade Município Código CNAE Código da Obra Código ART
-Propaganda e publicidade, inclusive promocao de vendas, planejamento de campanhas ou 2,01% 0000170000006 7319002
+1706 - PROPAGANDA E PUBLICIDADE, INCLUSIVE PROMOÇÃO DE VENDAS, PLANEJAMENTO DE CAMPANHAS OU SISTEMAS DE PUBLICIDADE,
+ELABORAÇÃO DE DESENHOS, TEXTOS E DEMAIS MATERIAIS PUBLICITÁRIOS
 
-Valor Total dos Serviços Desconto Incondicionado Deduções Base Cálculo Base de Cálculo Total do ISS ISS Retido Desconto Condicionado
-R$ 3.000,00 R$ 0,00 R$ 0,00 R$ 3.000,00 R$ 60,30 2 - Não R$ 0,00
+COMPLEMENTO
 
-Retenções de Impostos
+E-MAIL
+MARCIACLOSOUZAGQGMAIL.COM
 
-PIS COFINS INSS IRRF CSLL Outras Retenções
-R$ 0,00 R$ 0,00 R$ 0,00 R$ 0,00 R$ 0,00 R$ 0,00
-Valor Líquido da NFS-e: R$ 3.000,00 Val. Aprox. Tributos: Federal (13,45%) R$403,50 Estadual (0,00%) R$0,00 Municipal (2,98%) R$89,40 - Fonte: IBPT
+COMPLEMENTO
 
-Informações Complementares
+E-MAIL
 
-RECEBI(EMOS) DE YARA CECILIA COIMBRA ALVES O SERVIÇO CONSTANTE DA NFS-e DE NÚMERO 83 E CÓDIGO DE VERIFICAÇÃO OUSF5Z1TS.
+VALOR TOTAL
 
-Data CPFIRG Assinatura
+16.000,00
 
+DESCONTOS / DEDUÇÕES
+DESC. CONDICIONADO DESC. INCONDICIONADO DEDUÇÕES (Materiais e Outros) OUTRAS DEDUÇÕES
+R$ 0,00 R$ 0,00 R$ 0,00 R$ 0,00
+
+OUTRAS INFORMAÇÕES
+NATUREZA DA OPERAÇÃO RECOLHIMENTO LOCAL DA PRESTAÇÃO DO SERVIÇO VALOR APROXIMADO DOS TRIBUTOS (IBPT)
+Tributado no Município ISS A RECOLHER PELO PRESTADOR PETRÓPOLIS - RJ R$ 2.840,00 (17.75%)
+ESTE DOCUMENTO PODE SER VALIDADO NO SITE www.prefeituramoderna.com.br
+
+CÓDIGO DE VALIDAÇÃO - 32acd89a846b75e09accd01d30cbb01b
+ASSINATURA DIGITAL ANTIGA - 6c1c03e4dea42de 1cf95bb6ae39814fc
+
+Recebi(emos) de NEXTGEN AGENCY LTDA o(s) serviço(s) indicado(s) à nota fiscal
+eletrônica de serviço de número 0000237. NÚMERO NOTA FISCAL
+
+0000237
+
+/ /
+
+Data do Recebimento Identificação e assinatura do recebedor
+
+BAUHAUS SISTEMAS O
+
+https://petropolis-rj.prefeituramoderna.com.br/meuiss new/nfe/print nota.php?nrnota=0000237&idnota=28050587 11
